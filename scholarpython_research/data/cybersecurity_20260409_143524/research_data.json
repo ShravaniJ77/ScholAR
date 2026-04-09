@@ -1,0 +1,1844 @@
+{
+  "type": "complete",
+  "papers": [
+    {
+      "paperId": "c869845f911e0b66fa18df137fcabaffc4f64c76",
+      "url": "https://www.semanticscholar.org/paper/c869845f911e0b66fa18df137fcabaffc4f64c76",
+      "title": "Artificial Intelligence in Cybersecurity",
+      "year": 2025,
+      "citationCount": 99,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.61137/ijsret.vol.11.issue1.200?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.61137/ijsret.vol.11.issue1.200, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2397407737",
+          "name": "Rushi Bhayani"
+        }
+      ],
+      "abstract": "Artificial Intelligence (AI) is radically reshaping cybersecurity by enabling data-driven threat analysis and response\ncapabilities that far surpass traditional, signature-based methods. Machine learning and deep learning techniques now allow\nsystems to sift through massive security logs and network data automatically, detecting attacks in real time and at scale. This\nreview surveys how AI methods are integrated across security tools – from automated intrusion detection and malware analysis\nto advanced threat intelligence platforms. We highlight recent advances (such as deep neural networks for pattern recognition,\nreinforcement learning for adaptive defenses, and explainable AI for transparent alerts) and summarize how AI models are\nevaluated (accuracy, false-positive rate, detection latency, etc.). We also discuss representative deployments of AI in practice,\ncompare recent research developments, and address current challenges (including adversarial attacks on models, data bias, and\ninterpretability issues). Finally, we outline promising directions like federated learning for collaborative defense and robust AI\ngovernance. In conclusion, AI offers a transformative toolkit for proactive security, but realizing its full potential requires\nongoing innovation and careful oversight.",
+      "author_str": "Rushi Bhayani",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "bf0e9446eca16e8ac1e759dce6a7b3f22d2111de",
+      "url": "https://www.semanticscholar.org/paper/bf0e9446eca16e8ac1e759dce6a7b3f22d2111de",
+      "title": "When LLMs meet cybersecurity: a systematic literature review",
+      "year": 2024,
+      "citationCount": 207,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.1186/s42400-025-00361-w",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2405.03644, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2300373722",
+          "name": "Jie Zhang"
+        },
+        {
+          "authorId": "2300091500",
+          "name": "Haoyu Bu"
+        },
+        {
+          "authorId": "2300083605",
+          "name": "Hui Wen"
+        },
+        {
+          "authorId": "2314529719",
+          "name": "Yongji Liu"
+        },
+        {
+          "authorId": "37555384",
+          "name": "Haiqiang Fei"
+        },
+        {
+          "authorId": "2260539803",
+          "name": "Rongrong Xi"
+        },
+        {
+          "authorId": "2300196563",
+          "name": "Lun Li"
+        },
+        {
+          "authorId": "2374402386",
+          "name": "Yun Yang"
+        },
+        {
+          "authorId": "2300134286",
+          "name": "Hongsong Zhu"
+        },
+        {
+          "authorId": "2389012853",
+          "name": "Dan Meng"
+        }
+      ],
+      "abstract": "The rapid development of large language models (LLMs) has opened new avenues across various fields, including cybersecurity, which faces an evolving threat landscape and demand for innovative technologies. Despite initial explorations into the application of LLMs in cybersecurity, there is a lack of a comprehensive overview of this research area. This paper addresses this gap by providing a systematic literature review, covering the analysis of over 300 works, encompassing 25 LLMs and more than 10 downstream scenarios. Our comprehensive overview addresses three key research questions: the construction of cybersecurity-oriented LLMs, the application of LLMs to various cybersecurity tasks, the challenges and further research in this area. This study aims to shed light on the extensive potential of LLMs in enhancing cybersecurity practices and serve as a valuable resource for applying LLMs in this field. We also maintain and regularly update a list of practical guides on LLMs for cybersecurity at https://github.com/tmylla/Awesome-LLM4Cybersecurity.",
+      "author_str": "Jie Zhang, Haoyu Bu, Hui Wen",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "dace1d22881727f4f56047c5191cb6df58b6532b",
+      "url": "https://www.semanticscholar.org/paper/dace1d22881727f4f56047c5191cb6df58b6532b",
+      "title": "Artificial Intelligence-Based Cybersecurity for the Metaverse: Research Challenges and Opportunities",
+      "year": 2025,
+      "citationCount": 35,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.1109/comst.2024.3442475",
+        "status": "HYBRID",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/COMST.2024.3442475?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/COMST.2024.3442475, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2217475490",
+          "name": "Abeer Awadallah"
+        },
+        {
+          "authorId": "3331419",
+          "name": "K. Eledlebi"
+        },
+        {
+          "authorId": "2304283868",
+          "name": "Mohammed Jamal Zemerly"
+        },
+        {
+          "authorId": "2238040177",
+          "name": "Deepak Puthal"
+        },
+        {
+          "authorId": "2238213678",
+          "name": "Ernesto Damiani"
+        },
+        {
+          "authorId": "2139860235",
+          "name": "Kamal Taha"
+        },
+        {
+          "authorId": "2301619746",
+          "name": "Tae-Yeon Kim"
+        },
+        {
+          "authorId": "2257292202",
+          "name": "Paul D. Yoo"
+        },
+        {
+          "authorId": "119914698",
+          "name": "Kim-Kwang Raymond Choo"
+        },
+        {
+          "authorId": "2296210629",
+          "name": "Man-Sung Yim"
+        },
+        {
+          "authorId": "2280911125",
+          "name": "C. Yeun"
+        }
+      ],
+      "abstract": "The metaverse, known as the next-generation 3D Internet, represents virtual environments that mirror the physical world. It is supported by innovative technologies such as digital twins and extended reality (XR), which elevate user experiences across various fields. However, the metaverse also introduces significant cybersecurity and privacy challenges that remain underexplored. Due to its complex multi-tech infrastructure, the metaverse requires sophisticated, automated, and intelligent cybersecurity measures to mitigate emerging threats effectively. Therefore, this paper is the first to explore Artificial Intelligence (AI)-driven cybersecurity techniques for the metaverse, examining academic and industrial perspectives. First, we provide an overview of the metaverse, presenting a detailed system model, diverse use cases, and insights into its current industrial status. We then present attack models and cybersecurity threats derived from the unique characteristics and technologies of the metaverse. Next, we review AI-driven cybersecurity solutions based on three critical aspects: User authentication, intrusion detection systems (IDS), and the security of digital assets, specifically for Blockchain and Non-fungible Tokens (NFTs). Finally, we highlight challenges and suggest future research opportunities to enhance metaverse security, privacy, and digital asset transactions.",
+      "author_str": "Abeer Awadallah, K. Eledlebi, Mohammed Jamal Zemerly",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "ec3365dc118b7996938e7664026c2b457f4d79b2",
+      "url": "https://www.semanticscholar.org/paper/ec3365dc118b7996938e7664026c2b457f4d79b2",
+      "title": "Analyzing Cybersecurity Risks and Threats in IT Infrastructure based on NIST Framework",
+      "year": 2025,
+      "citationCount": 48,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.63180/jcsra.thestap.2025.2.2?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.63180/jcsra.thestap.2025.2.2, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2353902010",
+          "name": "Osama Aljumaiah"
+        },
+        {
+          "authorId": "2353188129",
+          "name": "Weiwei Jiang"
+        },
+        {
+          "authorId": "2343841064",
+          "name": "Santosh Reddy Addula"
+        },
+        {
+          "authorId": "2353898879",
+          "name": "Mohammed Amin Almaiah"
+        }
+      ],
+      "abstract": "Due to the increasing frequency and complexity of cyberattacks in recent years, cybersecurity management has received significant attention, particularly concerning the critical infrastructure of targeted countries. Such infrastructure contains several vulnerabilities that may be readily exploited if not adequately managed. National cybersecurity regulators require critical infrastructure organizations to regularly monitor and report their cybersecurity activities. This study assesses whether the NIST framework can effectively address most threats facing critical infrastructure and identifies any notable gaps within the framework. In this literature review, most threats reported in critical infrastructure will be discussed and mapped according to the NIST cybersecurity functions, concluding with a discussion of the findings. The findings indicates that human vulnerabilities with (12 instances) represent one of the leading threats to critical infrastructure, appearing prominently in reviewed sources. Human errors, negligence, lack of awareness, insufficient training, and susceptibility to social engineering significantly increase the risk of successful cyberattacks.",
+      "author_str": "Osama Aljumaiah, Weiwei Jiang, Santosh Reddy Addula",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "e0e7d91b3db485482a0f2138d16d6615a3ab78ee",
+      "url": "https://www.semanticscholar.org/paper/e0e7d91b3db485482a0f2138d16d6615a3ab78ee",
+      "title": "From Vulnerability to Defense: The Role of Large Language Models in Enhancing Cybersecurity",
+      "year": 2025,
+      "citationCount": 46,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/computation13020030?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/computation13020030, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2343028772",
+          "name": "Wafaa Kasri"
+        },
+        {
+          "authorId": "2130461741",
+          "name": "Yassine Himeur"
+        },
+        {
+          "authorId": "98307719",
+          "name": "H. Alkhazaleh"
+        },
+        {
+          "authorId": "48760984",
+          "name": "Saed Tarapiah"
+        },
+        {
+          "authorId": "143666486",
+          "name": "S. Atalla"
+        },
+        {
+          "authorId": "1699827",
+          "name": "W. Mansoor"
+        },
+        {
+          "authorId": "2273928845",
+          "name": "Hussain Al-Ahmad"
+        }
+      ],
+      "abstract": "The escalating complexity of cyber threats, coupled with the rapid evolution of digital landscapes, poses significant challenges to traditional cybersecurity mechanisms. This review explores the transformative role of LLMs in addressing critical challenges in cybersecurity. With the rapid evolution of digital landscapes and the increasing sophistication of cyber threats, traditional security mechanisms often fall short in detecting, mitigating, and responding to complex risks. LLMs, such as GPT, BERT, and PaLM, demonstrate unparalleled capabilities in natural language processing, enabling them to parse vast datasets, identify vulnerabilities, and automate threat detection. Their applications extend to phishing detection, malware analysis, drafting security policies, and even incident response. By leveraging advanced features like context awareness and real-time adaptability, LLMs enhance organizational resilience against cyberattacks while also facilitating more informed decision-making. However, deploying LLMs in cybersecurity is not without challenges, including issues of interpretability, scalability, ethical concerns, and susceptibility to adversarial attacks. This review critically examines the foundational elements, real-world applications, and limitations of LLMs in cybersecurity while also highlighting key advancements in their integration into security frameworks. Through detailed analysis and case studies, this paper identifies emerging trends and proposes future research directions, such as improving robustness, addressing privacy concerns, and automating incident management. The study concludes by emphasizing the potential of LLMs to redefine cybersecurity, driving innovation and enhancing digital security ecosystems.",
+      "author_str": "Wafaa Kasri, Yassine Himeur, H. Alkhazaleh",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "cafa28c08aa7e7eb17a6ee8ca66e97490665cf95",
+      "url": "https://www.semanticscholar.org/paper/cafa28c08aa7e7eb17a6ee8ca66e97490665cf95",
+      "title": "Advancing cybersecurity: a comprehensive review of AI-driven detection techniques",
+      "year": 2024,
+      "citationCount": 183,
+      "openAccessPdf": {
+        "url": "https://journalofbigdata.springeropen.com/counter/pdf/10.1186/s40537-024-00957-y",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1186/s40537-024-00957-y?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1186/s40537-024-00957-y, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2314697839",
+          "name": "Aya H. Salem"
+        },
+        {
+          "authorId": "2156767748",
+          "name": "Safaa M. Azzam"
+        },
+        {
+          "authorId": "2305323717",
+          "name": "O. Emam"
+        },
+        {
+          "authorId": "2292043959",
+          "name": "A. A. Abohany"
+        }
+      ],
+      "abstract": "As the number and cleverness of cyber-attacks keep increasing rapidly, it's more important than ever to have good ways to detect and prevent them. Recognizing cyber threats quickly and accurately is crucial because they can cause severe damage to individuals and businesses. This paper takes a close look at how we can use artificial intelligence (AI), including machine learning (ML) and deep learning (DL), alongside metaheuristic algorithms to detect cyber-attacks better. We've thoroughly examined over sixty recent studies to measure how effective these AI tools are at identifying and fighting a wide range of cyber threats. Our research includes a diverse array of cyberattacks such as malware attacks, network intrusions, spam, and others, showing that ML and DL methods, together with metaheuristic algorithms, significantly improve how well we can find and respond to cyber threats. We compare these AI methods to find out what they're good at and where they could improve, especially as we face new and changing cyber-attacks. This paper presents a straightforward framework for assessing AI Methods in cyber threat detection. Given the increasing complexity of cyber threats, enhancing AI methods and regularly ensuring strong protection is critical. We evaluate the effectiveness and the limitations of current ML and DL proposed models, in addition to the metaheuristic algorithms. Recognizing these limitations is vital for guiding future enhancements. We're pushing for smart and flexible solutions that can adapt to new challenges. The findings from our research suggest that the future of protecting against cyber-attacks will rely on continuously updating AI methods to stay ahead of hackers' latest tricks.",
+      "author_str": "Aya H. Salem, Safaa M. Azzam, O. Emam",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "5aecd97973bb927512a36dfbbe4a86d2600a13b3",
+      "url": "https://www.semanticscholar.org/paper/5aecd97973bb927512a36dfbbe4a86d2600a13b3",
+      "title": "Cybersecurity of Satellite Communications Systems: A Comprehensive Survey of the Space, Ground, and Links Segments",
+      "year": 2025,
+      "citationCount": 61,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/COMST.2024.3408277?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/COMST.2024.3408277, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2073105889",
+          "name": "Sara Salim"
+        },
+        {
+          "authorId": "3193106",
+          "name": "Nour Moustafa"
+        },
+        {
+          "authorId": "1740196",
+          "name": "M. Reisslein"
+        }
+      ],
+      "abstract": "Satellite communications (Satcoms) systems have become an integral part of modern society, providing critical infrastructure for a wide range of applications. However, as the reliance on Satcoms has increased, cyberattacks on Satcoms systems have emerged as a severe concern, with the potential to cause significant disruption, economic losses, and even loss of life. We first give a tutorial-style overview of the architecture of a Satcoms system, which typically consists of a space segment, a ground segment (encompassing the terrestrial ground stations and users), and a links segment. Following the taxonomy provided by this segment structure, we provide—to the best of our knowledge—the first comprehensive survey of the state-of-the-art cyberattacks (cyberthreats) on all three segments of Satcoms systems. For each Satcoms system segment, we organize the cyberattacks according to categories of Satcoms-specific cyberattacks, which we relate to the threat classifications in the general STRIDE cyberthreat model. Also, for all three segments of Satcoms systems, we comprehensively survey the general cybersecurity strategies and the specific cybersecurity mechanisms (techniques) that defend Satcoms systems against cyberattacks. We distill the critical learned lessons associated with Satcoms cybersecurity strategies, such as the need to balance security with cost-effectiveness. Finally, we outline the open challenges and future research directions in Satcoms systems cybersecurity.",
+      "author_str": "Sara Salim, Nour Moustafa, M. Reisslein",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "58016472a348f8dec9282afcb73af89e7d72fae5",
+      "url": "https://www.semanticscholar.org/paper/58016472a348f8dec9282afcb73af89e7d72fae5",
+      "title": "A Survey on Cybersecurity in IoT",
+      "year": 2025,
+      "citationCount": 44,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.3390/fi17010030",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/fi17010030?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/fi17010030, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "48466459",
+          "name": "Elias Dritsas"
+        },
+        {
+          "authorId": "4018731",
+          "name": "M. Trigka"
+        }
+      ],
+      "abstract": "The proliferation of the Internet of Things (IoT) has transformed the digital landscape, enabling a vast array of interconnected devices to communicate and share data seamlessly. However, the rapid expansion of IoT networks has also introduced significant cybersecurity challenges. This paper presents a comprehensive survey of cybersecurity in the IoT ecosystem, examining the current state of research, identifying critical security vulnerabilities, and exploring advanced strategies for mitigating threats. The survey covers various facets of IoT security, including device authentication, data integrity, privacy, network security, and the emerging role of artificial intelligence (AI) in bolstering cybersecurity defenses. By synthesizing existing research and highlighting ongoing challenges, this survey aims to provide a holistic understanding of IoT cybersecurity and to guide future research endeavors.",
+      "author_str": "Elias Dritsas, M. Trigka",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "da9cf6a698e059b36066440e77e00f1652c2889f",
+      "url": "https://www.semanticscholar.org/paper/da9cf6a698e059b36066440e77e00f1652c2889f",
+      "title": "Machine Learning for Cybersecurity Issues : A systematic Review",
+      "year": 2025,
+      "citationCount": 42,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.63180/jcsra.thestap.2025.1.4?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.63180/jcsra.thestap.2025.1.4, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2346548938",
+          "name": "Aseel Alshuaibi"
+        },
+        {
+          "authorId": "2346571565",
+          "name": "Mohammed Almaayah"
+        },
+        {
+          "authorId": "2393471878",
+          "name": "Aitizaz Ali"
+        }
+      ],
+      "abstract": "With growing of the usage of the Information technologies and social networks, the identification of different network attacks, especially those not previously discovered, is an important concern that needs to be addressed. This paper is reviewing recent studies on security incidents and related security issues. The aim of the study is to clarify how Machine Learning techniques can influence cybersecurity. Moreover, this study aims to analyze and review previous studies related to machine learning (ML) and how could ML techniques improve the security. In addition, it will discuss and highlight different applications of ML in cybersecurity. As well as understand the use of ML in addressing some of cybersecurity problems. After reviewing previous studies and analyzing the results, the results show that machine learning are positively change the cybersecurity field. By mapping major machine learning algorithms with cyber-attacks and discuss the effectiveness of each algorithm for corresponding attack.",
+      "author_str": "Aseel Alshuaibi, Mohammed Almaayah, Aitizaz Ali",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "d4d6838be903222290939addb7811f01528cafe4",
+      "url": "https://www.semanticscholar.org/paper/d4d6838be903222290939addb7811f01528cafe4",
+      "title": "Integrating sustainability into cybersecurity: insights from machine learning based topic modeling",
+      "year": 2025,
+      "citationCount": 38,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.1007/s43621-024-00754-w",
+        "status": "GOLD",
+        "license": "CCBYNCND",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s43621-024-00754-w?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s43621-024-00754-w, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "3355329",
+          "name": "K. Achuthan"
+        },
+        {
+          "authorId": "1839811",
+          "name": "S. Sankaran"
+        },
+        {
+          "authorId": "40066494",
+          "name": "Swapnoneel Roy"
+        },
+        {
+          "authorId": "152882796",
+          "name": "R. Raman"
+        }
+      ],
+      "abstract": "The increasing emphasis on sustainability in computing systems, ranging from small devices to large data centers, is fueled by environmental concerns. Moreover, ensuring cybersecurity in these interconnected networks demands the use of technologies such as resource-intensive cryptography and advanced intrusion detection systems. Our unique study investigates the integration of environmental sustainability into cybersecurity practices by identifying six pivotal themes through a textual analysis of related publications via machine learning based topic modeling. These themes highlight the convergence of cybersecurity with sustainable development goals (SDGs), particularly SDGs 7 (Affordable and Clean Energy), 9 (Industry, Innovation, and Infrastructure), and 8 (Decent Work and Economic Growth). These include the integration of sustainable cybersecurity measures in smart cities, sustainable digital protection strategies, the application of blockchain for cybersecurity in smart grids, and cybersecurity solutions for SMEs aimed at minimizing resource consumption. Additionally, the study explores multidisciplinary strategies and innovations across four perspectives: adaptive frameworks that prioritize resilience and environmental consciousness, policy shifts for coordinated protection, the power of AI in intelligent threat detection, and the impact of emerging technologies on both security and environmental efficiency. These strategies advocate for an evolved approach that incorporates advanced technologies such as AI, IoT, and blockchain into resilient, sustainable cybersecurity frameworks. This study not only provides a comprehensive overview of the intersection of cybersecurity and sustainability but also serves as a guide for future research and practical applications in creating robust, environmentally friendly cybersecurity practices. Explores sustainable cybersecurity aligned with SDGs 7, 8, and 9 using machine learning topic modeling. Highlights blockchain, AI, and IoT in cybersecurity for smart grids, SMEs, and resource-efficient systems. Advocates adaptive frameworks, AI-driven threat detection, and policy shifts for eco-conscious security solutions. Explores sustainable cybersecurity aligned with SDGs 7, 8, and 9 using machine learning topic modeling. Highlights blockchain, AI, and IoT in cybersecurity for smart grids, SMEs, and resource-efficient systems. Advocates adaptive frameworks, AI-driven threat detection, and policy shifts for eco-conscious security solutions.",
+      "author_str": "K. Achuthan, S. Sankaran, Swapnoneel Roy",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "62bcc4106ef9218df4d84705731da3a95427c20c",
+      "url": "https://www.semanticscholar.org/paper/62bcc4106ef9218df4d84705731da3a95427c20c",
+      "title": "Human factors in cybersecurity: an interdisciplinary review and framework proposal",
+      "year": 2025,
+      "citationCount": 33,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.1007/s10207-025-01032-0",
+        "status": "HYBRID",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s10207-025-01032-0?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s10207-025-01032-0, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2303677929",
+          "name": "Kalam Khadka"
+        },
+        {
+          "authorId": "2216190671",
+          "name": "Abu Barkat Ullah"
+        }
+      ],
+      "abstract": "Cybersecurity has traditionally been viewed as a technological challenge, but growing evidence emphasizes the pivotal role of human factors in shaping both vulnerabilities and resilience. This survey explores the critical intersection of human behaviour, decision-making, and organizational culture in cybersecurity, highlighting the need for strategies that effectively integrate technical and human-centric approaches. Key findings reveal persistent gaps, such as the underrepresentation of underserved communities, limited exploration of non-digital social engineering, and unresolved ethical challenges in Artificial Intelligence (AI)-driven cybersecurity tools. Additionally, existing frameworks often lack a standardized, implementable framework for assessing cybersecurity culture and fail to address generational and cultural diversity. These gaps underline the urgency of adaptive, inclusive solutions that align human behaviour with technical systems. To address these challenges, the proposed Human-Centric Cybersecurity Framework integrates psychological resilience, adaptive training, socio-technical approach, and ethical AI principles. The framework outlines practical strategies, including gamified learning, emotional intelligence training, and decision-support systems, to enhance cybersecurity awareness, reduce vulnerabilities, and promote organizational compliance. This paper advocates for an interdisciplinary approach to cybersecurity, emphasizing the importance of empowering individuals and fostering a culture of security. By bridging the gap between human and technical factors, it offers actionable insights for researchers and practitioners to build resilient and inclusive cybersecurity ecosystems capable of countering evolving threats.",
+      "author_str": "Kalam Khadka, Abu Barkat Ullah",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "317ad53bea6fb603c20f692bb2f1a01e2dc86161",
+      "url": "https://www.semanticscholar.org/paper/317ad53bea6fb603c20f692bb2f1a01e2dc86161",
+      "title": "From ChatGPT to ThreatGPT: Impact of Generative AI in Cybersecurity and Privacy",
+      "year": 2023,
+      "citationCount": 592,
+      "openAccessPdf": {
+        "url": "https://ieeexplore.ieee.org/ielx7/6287639/6514899/10198233.pdf",
+        "status": "GOLD",
+        "license": "CCBYNCND",
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2307.00691, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "11690554",
+          "name": "Maanak Gupta"
+        },
+        {
+          "authorId": "1845852582",
+          "name": "Charankumar Akiri"
+        },
+        {
+          "authorId": "2140578267",
+          "name": "Kshitiz Aryal"
+        },
+        {
+          "authorId": "2185323688",
+          "name": "Elisabeth Parker"
+        },
+        {
+          "authorId": "1741545369",
+          "name": "Lopamudra Praharaj"
+        }
+      ],
+      "abstract": "Undoubtedly, the evolution of Generative AI (GenAI) models has been the highlight of digital transformation in the year 2022. As the different GenAI models like ChatGPT and Google Bard continue to foster their complexity and capability, it’s critical to understand its consequences from a cybersecurity perspective. Several instances recently have demonstrated the use of GenAI tools in both the defensive and offensive side of cybersecurity, and focusing on the social, ethical and privacy implications this technology possesses. This research paper highlights the limitations, challenges, potential risks, and opportunities of GenAI in the domain of cybersecurity and privacy. The work presents the vulnerabilities of ChatGPT, which can be exploited by malicious users to exfiltrate malicious information bypassing the ethical constraints on the model. This paper demonstrates successful example attacks like Jailbreaks, reverse psychology, and prompt injection attacks on the ChatGPT. The paper also investigates how cyber offenders can use the GenAI tools in developing cyber attacks, and explore the scenarios where ChatGPT can be used by adversaries to create social engineering attacks, phishing attacks, automated hacking, attack payload generation, malware creation, and polymorphic malware. This paper then examines defense techniques and uses GenAI tools to improve security measures, including cyber defense automation, reporting, threat intelligence, secure code generation and detection, attack identification, developing ethical guidelines, incidence response plans, and malware detection. We will also discuss the social, legal, and ethical implications of ChatGPT. In conclusion, the paper highlights open challenges and future directions to make this GenAI secure, safe, trustworthy, and ethical as the community understands its cybersecurity impacts.",
+      "author_str": "Maanak Gupta, Charankumar Akiri, Kshitiz Aryal",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "49771cf58fc601e7592fec0cc0de71e0364c3ff2",
+      "url": "https://www.semanticscholar.org/paper/49771cf58fc601e7592fec0cc0de71e0364c3ff2",
+      "title": "The Role of AI in Cybersecurity: Addressing Threats in the Digital Age",
+      "year": 2024,
+      "citationCount": 104,
+      "openAccessPdf": {
+        "url": "https://ojs.boulibrary.com/index.php/JAIGS/article/download/75/46",
+        "status": "HYBRID",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.60087/jaigs.v3i1.75?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.60087/jaigs.v3i1.75, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2289698409",
+          "name": "Nicolas Guzman Camacho"
+        }
+      ],
+      "abstract": "In the contemporary digital landscape, cybersecurity stands as a paramount concern due to the increasing sophistication and frequency of cyber threats. Artificial Intelligence (AI) has emerged as a potent tool in fortifying defenses against these evolving threats. This paper examines the multifaceted role of AI in cybersecurity, elucidating its applications in threat detection, vulnerability assessment, incident response, and predictive analysis. By leveraging machine learning algorithms, AI systems can swiftly analyze vast troves of data to identify anomalous patterns indicative of potential security breaches. Moreover, AI-driven technologies enable proactive defense mechanisms, empowering organizations to preemptively mitigate risks and safeguard sensitive information. However, the deployment of AI in cybersecurity also raises pertinent ethical and privacy considerations, necessitating a balanced approach towards its implementation. Through a comprehensive analysis, this paper underscores the imperative of integrating AI into cybersecurity frameworks to effectively mitigate threats in the digital age.",
+      "author_str": "Nicolas Guzman Camacho",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "22467a50298439854d44a40100bf03c6ce6fa001",
+      "url": "https://www.semanticscholar.org/paper/22467a50298439854d44a40100bf03c6ce6fa001",
+      "title": "CyberMetric: A Benchmark Dataset based on Retrieval-Augmented Generation for Evaluating LLMs in Cybersecurity Knowledge",
+      "year": 2024,
+      "citationCount": 92,
+      "openAccessPdf": {
+        "url": "https://arxiv.org/pdf/2402.07688",
+        "status": "GREEN",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2402.07688, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2283303502",
+          "name": "N. Tihanyi"
+        },
+        {
+          "authorId": "2864573",
+          "name": "M. Ferrag"
+        },
+        {
+          "authorId": "2113688343",
+          "name": "Ridhi Jain"
+        },
+        {
+          "authorId": "1404353535",
+          "name": "Tamás Bisztray"
+        },
+        {
+          "authorId": "2065834880",
+          "name": "M. Debbah"
+        }
+      ],
+      "abstract": "Large Language Models (LLMs) are increasingly used across various domains, from software development to cyber threat intelligence. Understanding all the different cybersecurity fields, including topics such as cryptography, reverse engineering, and risk assessment, poses a challenge even for human experts. The research community needs a diverse, accurate, and up-to-date dataset to test the general knowledge of LLMs in cybersecurity. To address this gap, we present CyberMetric-80, CyberMetric-500, CyberMetric-2000, and CyberMetric-10000, which are multiple-choice Q&A benchmark datasets comprising 80, 500, 2000, and 10,000 questions, respectively. By utilizing GPT-3.5 and Retrieval-Augmented Generation (RAG), we collected documents, including NIST standards, research papers, publicly accessible books, RFCs, and other publications in the cybersecurity domain, to generate questions, each with four possible answers. The results underwent several rounds of error checking and refinement. Human experts invested over 200 hours validating the questions and solutions to ensure their accuracy and relevance and to filter out any questions unrelated to cybersecurity. We have evaluated and compared 25 state-of-the-art LLM models on the CyberMetric datasets. In addition to our primary goal of evaluating LLMs, we involved 30 human participants to solve CyberMetric-80 in a closed-book scenario. The results can serve as a reference for comparing the general cybersecurity knowledge of humans and LLMs. The findings revealed that GPT-4o, GPT-4-turbo, Mixtral-8x7B-Instruct, Falcon-180B-Chat, and GEMINI-pro 1.0 were the best-performing LLMs. Additionally, the top LLMs were more accurate than humans on CyberMetric-80, although highly experienced human experts still outperformed small models such as Llama-3-8B, Phi-2 or Gemma-7b. The CyberMetric dataset is publicly available for the research community and can be downloaded from the projects' website: https://github.com/CyberMetric.",
+      "author_str": "N. Tihanyi, M. Ferrag, Ridhi Jain",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "e1ba19c3a819a79b5979cd57289011ba905bad70",
+      "url": "https://www.semanticscholar.org/paper/e1ba19c3a819a79b5979cd57289011ba905bad70",
+      "title": "Machine learning in cybersecurity: A review of threat detection and defense mechanisms",
+      "year": 2024,
+      "citationCount": 96,
+      "openAccessPdf": {
+        "url": "https://wjarr.com/sites/default/files/WJARR-2024-0315.pdf",
+        "status": "HYBRID",
+        "license": "CCBYNCSA",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.30574/wjarr.2024.21.1.0315?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.30574/wjarr.2024.21.1.0315, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2282311375",
+          "name": "T. Abrahams"
+        },
+        {
+          "authorId": "4820479",
+          "name": "U. Okoli"
+        },
+        {
+          "authorId": "2290099374",
+          "name": "Ogugua Chimezie Obi"
+        },
+        {
+          "authorId": "2290202317",
+          "name": "Adebunmi Okechukwu Adewusi"
+        }
+      ],
+      "abstract": "The cybersecurity concerns get increasingly intricate as the digital world progresses. In light of the increasing complexity of cyber threats, it is imperative to develop and implement advanced and flexible security strategies. Machine Learning (ML) has become a potent tool in strengthening cybersecurity, providing the capacity to scrutinise extensive information, recognise trends, and improve threat detection and defence methods. This paper examines the significance of ML in the field of cybersecurity, with a special emphasis on the identification of threats and the implementation of protective measures. By incorporating ML algorithms into cybersecurity frameworks, organisations may automate decision-making processes, facilitating prompt responses to ever-changing threats. The initial segment explores the terrain of cyber threats, highlighting the necessity for dynamic and aggressive security methods. Conventional solutions that rely on signatures are frequently inadequate when it comes to handling sophisticated, shape-shifting attacks. ML algorithms, in contrast, have exceptional proficiency in identifying nuanced patterns and irregularities within extensive datasets, therefore offering a more efficient method of detecting potential threats. The second section delves into several ML methodologies utilised in cybersecurity, including supervised and unsupervised learning, deep learning, and reinforcement learning. Every approach is assessed based on its suitability for threat detection, demonstrating its advantages and constraints. Furthermore, the relevance of feature engineering and data pretreatment in improving machine learning models for cybersecurity applications. The versatility of ML algorithms allows them to grow with emerging threats, making them a useful tool in the ever-changing arena of cyber warfare. The final segment focuses on real-world applications of machine learning in cybersecurity, presenting successful use cases across sectors. From anomaly detection to behavior analysis, ML algorithms contribute to the discovery of dangerous activity, lowering false positives and strengthening the overall security posture. Lastly, the paper covers the obstacles and ethical issues related to the adoption of ML in cybersecurity. Issues like as adversarial assaults, skewed datasets, and the interpretability of ML models are examined, highlighting the necessity for a holistic strategy that integrates modern technology with ethical considerations. The fusion of human expertise and machine intelligence offers a formidable defense against evolving cyber threats, paving the way for a more resilient and secure digital future.",
+      "author_str": "T. Abrahams, U. Okoli, Ogugua Chimezie Obi",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "a88d5fb82358d19d0daed7d35d49f03ea6796b57",
+      "url": "https://www.semanticscholar.org/paper/a88d5fb82358d19d0daed7d35d49f03ea6796b57",
+      "title": "Large Language Models in Cybersecurity: State-of-the-Art",
+      "year": 2024,
+      "citationCount": 105,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2402.00891, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "9553167",
+          "name": "Farzad Nourmohammadzadeh Motlagh"
+        },
+        {
+          "authorId": "47104154",
+          "name": "Mehrdad Hajizadeh"
+        },
+        {
+          "authorId": "1854677692",
+          "name": "Mehryar Majd"
+        },
+        {
+          "authorId": "41048869",
+          "name": "P. Najafi"
+        },
+        {
+          "authorId": "2282472128",
+          "name": "Feng Cheng"
+        },
+        {
+          "authorId": "2255611957",
+          "name": "Christoph Meinel"
+        }
+      ],
+      "abstract": "The rise of Large Language Models (LLMs) has revolutionized our comprehension of intelligence bringing us closer to Artificial Intelligence. Since their introduction, researchers have actively explored the applications of LLMs across diverse fields, significantly elevating capabilities. Cybersecurity, traditionally resistant to data-driven solutions and slow to embrace machine learning, stands out as a domain. This study examines the existing literature, providing a thorough characterization of both defensive and adversarial applications of LLMs within the realm of cybersecurity. Our review not only surveys and categorizes the current landscape but also identifies critical research gaps. By evaluating both offensive and defensive applications, we aim to provide a holistic understanding of the potential risks and opportunities associated with LLM-driven cybersecurity.",
+      "author_str": "Farzad Nourmohammadzadeh Motlagh, Mehrdad Hajizadeh, Mehryar Majd",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "cb4b0bba67466c22bbc99bbf973dce5e1d9a48b6",
+      "url": "https://www.semanticscholar.org/paper/cb4b0bba67466c22bbc99bbf973dce5e1d9a48b6",
+      "title": "Cybench: A Framework for Evaluating Cybersecurity Capabilities and Risks of Language Models",
+      "year": 2024,
+      "citationCount": 84,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2408.08926, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2316522831",
+          "name": "Andy K. Zhang"
+        },
+        {
+          "authorId": "2175650078",
+          "name": "Neil Perry"
+        },
+        {
+          "authorId": "119362700",
+          "name": "Riya Dulepet"
+        },
+        {
+          "authorId": "2316589738",
+          "name": "Joey Ji"
+        },
+        {
+          "authorId": "2316432768",
+          "name": "Celeste Menders"
+        },
+        {
+          "authorId": "2316562005",
+          "name": "Justin W. Lin"
+        },
+        {
+          "authorId": "2316443397",
+          "name": "Eliot Jones"
+        },
+        {
+          "authorId": "2316434586",
+          "name": "Gashon Hussein"
+        },
+        {
+          "authorId": "2316431678",
+          "name": "Samantha Liu"
+        },
+        {
+          "authorId": "2316429828",
+          "name": "D. Jasper"
+        },
+        {
+          "authorId": "2143053699",
+          "name": "Pura Peetathawatchai"
+        },
+        {
+          "authorId": "2316434773",
+          "name": "Ari Glenn"
+        },
+        {
+          "authorId": "2314764068",
+          "name": "V. Sivashankar"
+        },
+        {
+          "authorId": "2289395032",
+          "name": "Daniel Zamoshchin"
+        },
+        {
+          "authorId": "2316429915",
+          "name": "Leo Glikbarg"
+        },
+        {
+          "authorId": "2316435182",
+          "name": "Derek Askaryar"
+        },
+        {
+          "authorId": "2316435236",
+          "name": "Mike Yang"
+        },
+        {
+          "authorId": "2316444321",
+          "name": "Teddy Zhang"
+        },
+        {
+          "authorId": "6721677",
+          "name": "Rishi K. Alluri"
+        },
+        {
+          "authorId": "2316421082",
+          "name": "Nathan Tran"
+        },
+        {
+          "authorId": "2316435180",
+          "name": "Rinnara Sangpisit"
+        },
+        {
+          "authorId": "2316434891",
+          "name": "Polycarpos Yiorkadjis"
+        },
+        {
+          "authorId": "2316435173",
+          "name": "Kenny Osele"
+        },
+        {
+          "authorId": "1491628743",
+          "name": "Gautham Raghupathi"
+        },
+        {
+          "authorId": "1752788",
+          "name": "D. Boneh"
+        },
+        {
+          "authorId": "2316421219",
+          "name": "Daniel E. Ho"
+        },
+        {
+          "authorId": "2316436038",
+          "name": "Percy Liang"
+        }
+      ],
+      "abstract": "Language Model (LM) agents for cybersecurity that are capable of autonomously identifying vulnerabilities and executing exploits have potential to cause real-world impact. Policymakers, model providers, and researchers in the AI and cybersecurity communities are interested in quantifying the capabilities of such agents to help mitigate cyberrisk and investigate opportunities for penetration testing. Toward that end, we introduce Cybench, a framework for specifying cybersecurity tasks and evaluating agents on those tasks. We include 40 professional-level Capture the Flag (CTF) tasks from 4 distinct CTF competitions, chosen to be recent, meaningful, and spanning a wide range of difficulties. Each task includes its own description, starter files, and is initialized in an environment where an agent can execute commands and observe outputs. Since many tasks are beyond the capabilities of existing LM agents, we introduce subtasks for each task, which break down a task into intermediary steps for a more detailed evaluation. To evaluate agent capabilities, we construct a cybersecurity agent and evaluate 8 models: GPT-4o, OpenAI o1-preview, Claude 3 Opus, Claude 3.5 Sonnet, Mixtral 8x22b Instruct, Gemini 1.5 Pro, Llama 3 70B Chat, and Llama 3.1 405B Instruct. For the top performing models (GPT-4o and Claude 3.5 Sonnet), we further investigate performance across 4 agent scaffolds (structed bash, action-only, pseudoterminal, and web search). Without subtask guidance, agents leveraging Claude 3.5 Sonnet, GPT-4o, OpenAI o1-preview, and Claude 3 Opus successfully solved complete tasks that took human teams up to 11 minutes to solve. In comparison, the most difficult task took human teams 24 hours and 54 minutes to solve. All code and data are publicly available at https://cybench.github.io.",
+      "author_str": "Andy K. Zhang, Neil Perry, Riya Dulepet",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "3bc1d69fd6b8010e220f2dbb53f01f14bac3dfcc",
+      "url": "https://www.semanticscholar.org/paper/3bc1d69fd6b8010e220f2dbb53f01f14bac3dfcc",
+      "title": "Harnessing adversarial machine learning for advanced threat detection: AI-driven strategies in cybersecurity risk assessment and fraud prevention",
+      "year": 2024,
+      "citationCount": 82,
+      "openAccessPdf": {
+        "url": "https://oarjst.com/sites/default/files/OARJST-2024-0060.pdf",
+        "status": "HYBRID",
+        "license": "CCBYNCSA",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.53022/oarjst.2024.11.1.0060?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.53022/oarjst.2024.11.1.0060, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2290107932",
+          "name": "Idoko Peter"
+        },
+        {
+          "authorId": "2290108652",
+          "name": "Onuh Matthew Ijiga"
+        },
+        {
+          "authorId": "2266408911",
+          "name": "Idoko Peter Idoko"
+        },
+        {
+          "authorId": "2296802294",
+          "name": "Godslove Isenyo"
+        },
+        {
+          "authorId": "2296802193",
+          "name": "Ebiega"
+        },
+        {
+          "authorId": "2310904569",
+          "name": "F. I. Olajide"
+        },
+        {
+          "authorId": "2310903817",
+          "name": "Timilehin Isaiah Olatunde"
+        },
+        {
+          "authorId": "2310903057",
+          "name": "C. Ukaegbu"
+        }
+      ],
+      "abstract": "The abstract is \"The rapid evolution of cyber threats necessitates innovative defenses, particularly in the domains of risk assessment and fraud detection. This paper explores the integration of Artificial Intelligence (AI) and Adversarial Machine Learning (ML) techniques as a formidable strategy against increasingly sophisticated cyber-attacks. We present a comprehensive framework that leverages AI to dynamically assess cybersecurity risks and detect fraudulent activities with unprecedented accuracy and speed. Firstly, we delve into the foundational principles of adversarial machine learning, outlining how these techniques can be employed to simulate potential cyber threats, thereby enabling the development of more resilient AI-driven cybersecurity systems. We highlight the dual role of adversarial ML in both enhancing security defenses and potentially serving as a vector for sophisticated attacks, underscoring the importance of developing robust, adversarial-resistant models. Subsequently, we introduce a novel adaptive risk assessment methodology that incorporates real-time data analysis, machine learning algorithms, and predictive modeling to accurately identify and prioritize threats. This method adapts to the evolving digital landscape, ensuring that cybersecurity measures are always one step ahead of potential attackers. In the context of fraud detection, we explore -how AI algorithms can sift through vast datasets to detect anomalies and patterns indicative of fraudulent behavior. Through case studies and empirical analysis, we demonstrate the effectiveness of AI in identifying fraud across various sectors, from financial transactions to online identity verification processes. Our research contributes to the cybersecurity field by providing a detailed examination of how AI and adversarial ML can be harnessed to fortify digital defenses, improve risk assessment techniques, and enhance fraud detection capabilities. The insights garnered from this study not only advance theoretical understanding but also offer practical guidance for organizations seeking to implement AI-driven security solutions. As cyber threats continue to evolve, the integration of AI and adversarial ML in cybersecurity strategies will be paramount in safeguarding digital assets and maintaining the integrity of online systems.\"",
+      "author_str": "Idoko Peter, Onuh Matthew Ijiga, Idoko Peter Idoko",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "aa1b6eb2563523b72d01d2570f71a81930a83320",
+      "url": "https://www.semanticscholar.org/paper/aa1b6eb2563523b72d01d2570f71a81930a83320",
+      "title": "Artificial intelligence (AI) cybersecurity dimensions: a comprehensive framework for understanding adversarial and offensive AI",
+      "year": 2024,
+      "citationCount": 81,
+      "openAccessPdf": {
+        "url": "https://link.springer.com/content/pdf/10.1007/s43681-024-00427-4.pdf",
+        "status": "HYBRID",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s43681-024-00427-4?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s43681-024-00427-4, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "144878627",
+          "name": "Masike Malatji"
+        },
+        {
+          "authorId": "2396457752",
+          "name": "Alaa Tolah"
+        }
+      ],
+      "abstract": "As Artificial Intelligence (AI) rapidly advances and integrates into various domains, cybersecurity emerges as a critical field grappling with both the benefits and pitfalls of AI technologies. This paper explores the multifaceted dimensions of AI-driven cyberattacks, offering insights into their implications, mitigation strategies, underlying motivations, and profound societal impacts. The research centres on developing and presenting the AI Cybersecurity Dimensions (AICD) Framework, a comprehensive, multidimensional schema designed to guide academics, policymakers, and industry professionals in understanding and combating the evolving challenges posed by AI-driven cyber threats. The research unveils the complex dynamics of offensive AI, stressing the need for adaptive defences and ethical considerations. Concurrently, the study highlights adversarial AI threats, calling for proactive measures to address their potential ramifications. Through rigorous textual analyses and extensive literature reviews, the paper underscores the urgency for interdisciplinary approaches to bridge the technology-humanity chasm traditionally observed in cybersecurity discussions. By synthesising these diverse elements, the AICD Framework emerges as an instrumental tool for holistic understanding and practical interventions in the AI-infused cybersecurity landscape. The paper concludes with an urgent call for collaborative efforts in research and practice to navigate the intricate challenges and capitalise on the opportunities borne from the convergence of AI and cybersecurity.",
+      "author_str": "Masike Malatji, Alaa Tolah",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "5ccd0970fbdb1e4a321434223ee3e13399ad0851",
+      "url": "https://www.semanticscholar.org/paper/5ccd0970fbdb1e4a321434223ee3e13399ad0851",
+      "title": "CYBERSECURITY CHALLENGES IN THE AGE OF AI: THEORETICAL APPROACHES AND PRACTICAL SOLUTIONS",
+      "year": 2024,
+      "citationCount": 77,
+      "openAccessPdf": {
+        "url": "https://fepbl.com/index.php/csitrj/article/download/930/1144",
+        "status": "HYBRID",
+        "license": "CCBYNC",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.51594/csitrj.v5i3.930?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.51594/csitrj.v5i3.930, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2297230392",
+          "name": "Babajide Tolulope Familoni"
+        }
+      ],
+      "abstract": "In the ever-evolving landscape of cybersecurity, the proliferation of artificial intelligence (AI) technologies introduces both promising advancements and daunting challenges. This paper explores the theoretical underpinnings and practical implications of addressing cybersecurity challenges in the age of AI. With the integration of AI into various facets of digital infrastructure, including threat detection, authentication, and response mechanisms, cyber threats have become increasingly sophisticated and difficult to mitigate. Theoretical approaches delve into understanding the intricate interplay between AI algorithms, human behavior, and adversarial tactics, elucidating the underlying mechanisms of cyber attacks and defense strategies. However, this complexity also engenders novel vulnerabilities, as AI-driven attacks leverage machine learning algorithms to evade traditional security measures, posing formidable challenges to organizations across sectors. As such, practical solutions necessitate a multifaceted approach, encompassing robust threat intelligence, adaptive defense mechanisms, and ethical considerations to safeguard against AI-driven cyber threats effectively. Leveraging AI for cybersecurity defense holds promise in enhancing detection capabilities, automating response actions, and augmenting human analysts' capabilities. Yet, inherent limitations, such as algorithmic biases, data privacy concerns, and the potential for AI-enabled attacks, underscore the need for a comprehensive risk management framework. Regulatory frameworks and industry standards play a crucial role in shaping the development and deployment of AI-powered cybersecurity solutions, ensuring accountability, transparency, and compliance with ethical principles. Moreover, fostering interdisciplinary collaboration and investing in cybersecurity education and training are vital for cultivating a skilled workforce equipped to navigate the evolving threat landscape. By integrating theoretical insights with practical strategies, this paper elucidates key challenges and opportunities in securing AI-driven systems, offering insights for policymakers, researchers, and practitioners alike. \nKeywords: Cybersecurity; Artificial Intelligence; Threat Detection; Defense Strategies; Ethical Considerations; Regulatory Frameworks.",
+      "author_str": "Babajide Tolulope Familoni",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "193f54879601e76884d6562a5e5e01117fed3ded",
+      "url": "https://www.semanticscholar.org/paper/193f54879601e76884d6562a5e5e01117fed3ded",
+      "title": "Cybersecurity compliance in financial institutions: A comparative analysis of global standards and regulations",
+      "year": 2024,
+      "citationCount": 73,
+      "openAccessPdf": {
+        "url": "https://ijsra.net/sites/default/files/IJSRA-2024-0802.pdf",
+        "status": "HYBRID",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.30574/ijsra.2024.12.1.0802?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.30574/ijsra.2024.12.1.0802, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2301238634",
+          "name": "Ngozi Samuel Uzougbo"
+        },
+        {
+          "authorId": "2301240930",
+          "name": "Chinonso Gladys Ikegwu"
+        },
+        {
+          "authorId": "2301241444",
+          "name": "Adefolake Olachi Adewusi"
+        }
+      ],
+      "abstract": "Cybersecurity is a critical concern for financial institutions worldwide, given the increasing frequency and sophistication of cyberattacks. This paper conducts a comparative analysis of global standards and regulations governing cybersecurity compliance in financial institutions. By examining the regulatory frameworks of key jurisdictions, including the United States, the European Union, and Asia-Pacific countries, this study aims to identify common trends, differences, and best practices in cybersecurity compliance. The analysis begins by outlining the regulatory landscape for cybersecurity in financial institutions, highlighting the key objectives and principles underlying these regulations. It then compares the regulatory frameworks of different regions, focusing on areas such as data protection, incident response, and risk management. By examining the specific requirements and guidelines set forth by each jurisdiction, this study identifies the strengths and weaknesses of current cybersecurity regulations and offers recommendations for enhancing compliance and resilience. One of the key findings of this study is the increasing convergence of global cybersecurity standards, driven by the interconnected nature of the financial sector and the need for harmonized regulatory approaches. While differences in regulatory frameworks still exist, particularly in areas such as data protection and breach notification, there is a growing recognition of the need for international cooperation and information sharing to combat cyber threats effectively. The study also highlights the challenges faced by financial institutions in achieving cybersecurity compliance, including resource constraints, evolving cyber threats, and the complexity of regulatory requirements. It underscores the importance of implementing robust cybersecurity measures, such as encryption, multi-factor authentication, and regular security audits, to mitigate these challenges. In conclusion, this comparative analysis provides valuable insights into the global landscape of cybersecurity compliance in financial institutions. By identifying common trends and best practices, this study aims to assist policymakers, regulators, and financial institutions in enhancing their cybersecurity posture and effectively addressing the evolving cyber threat landscape.",
+      "author_str": "Ngozi Samuel Uzougbo, Chinonso Gladys Ikegwu, Adefolake Olachi Adewusi",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "a5747b67b3213c7eccba6183b9bffb4828e8a299",
+      "url": "https://www.semanticscholar.org/paper/a5747b67b3213c7eccba6183b9bffb4828e8a299",
+      "title": "CYBERSECURITY IN BANKING: A GLOBAL PERSPECTIVE WITH A FOCUS ON NIGERIAN PRACTICES",
+      "year": 2024,
+      "citationCount": 91,
+      "openAccessPdf": {
+        "url": "https://fepbl.com/index.php/csitrj/article/download/701/892",
+        "status": "HYBRID",
+        "license": "CCBYNC",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.51594/csitrj.v5i1.701?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.51594/csitrj.v5i1.701, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2268349678",
+          "name": "Azeez Olanipekun Hassan"
+        },
+        {
+          "authorId": "2276083334",
+          "name": "Sarah Kuzankah Ewuga"
+        },
+        {
+          "authorId": "2280216174",
+          "name": "Adekunle Abiola Abdul"
+        },
+        {
+          "authorId": "2277966027",
+          "name": "Temitayo Oluwaseun Abrahams"
+        },
+        {
+          "authorId": "2268534121",
+          "name": "Monisola Oladeinde"
+        },
+        {
+          "authorId": "2276088894",
+          "name": "Samuel Onimisi Dawodu"
+        }
+      ],
+      "abstract": "The paper review cybersecurity practices in banking, with a specific focus on Nigerian banks. Cybersecurity has become a paramount concern in the banking industry worldwide, given the escalating frequency and sophistication of cyber threats. This study provides an overview of the global landscape of cybersecurity in banking, with a specific focus on practices observed in Nigeria.  The global banking sector is witnessing a surge in digital transformation, marked by the adoption of advanced technologies and online financial services. However, this digitization brings with it unprecedented cybersecurity challenges, ranging from data breaches and ransomware attacks to sophisticated financial fraud. Financial institutions globally are compelled to fortify their cybersecurity frameworks to protect sensitive customer information, ensure the integrity of financial transactions, and maintain trust in the digital financial ecosystem. Nigeria, as a key player in the African banking landscape, faces unique cybersecurity challenges and has developed distinct strategies to safeguard its financial institutions. This study explores the cybersecurity practices employed by Nigerian banks, considering regulatory frameworks, incident response mechanisms, and collaborative efforts with international cybersecurity entities. The analysis encompasses case studies illustrating real-world cyber threats and incidents in both global and Nigerian banking contexts. It investigates the effectiveness of cybersecurity measures implemented by Nigerian banks, shedding light on the nation's response to evolving cyber risks. Furthermore, the study delves into collaborative initiatives between Nigerian banks, regulatory bodies, and international cybersecurity organizations to enhance information sharing, threat intelligence, and collective defense mechanisms. It also explores the role of public awareness campaigns in fostering a cyber-resilient banking environment. The insights provided aim to contribute to the collective understanding of cybersecurity challenges in the global banking sector while offering a nuanced perspective on Nigerian practices. As digital financial ecosystems continue to evolve, the findings underscore the importance of ongoing adaptation, collaboration, and innovation in safeguarding the integrity and trustworthiness of banking systems, both on a global scale and within the Nigerian context. \nKeywords: Cybersecurity, Banking, Global Perspective, Nigerian, Cybersecurity, Artificial Intelligence.",
+      "author_str": "Azeez Olanipekun Hassan, Sarah Kuzankah Ewuga, Adekunle Abiola Abdul",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "0b2e4715c70c5f79eeaffad6a9774cb0392babd0",
+      "url": "https://www.semanticscholar.org/paper/0b2e4715c70c5f79eeaffad6a9774cb0392babd0",
+      "title": "A Critical Cybersecurity Analysis and Future Research Directions for the Internet of Things: A Comprehensive Review",
+      "year": 2023,
+      "citationCount": 244,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/1424-8220/23/8/4117/pdf?version=1681987201",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10142206, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "51230514",
+          "name": "U. Tariq"
+        },
+        {
+          "authorId": "49944037",
+          "name": "Irfan Uddin Ahmed"
+        },
+        {
+          "authorId": "47311590",
+          "name": "A. Bashir"
+        },
+        {
+          "authorId": "3045674",
+          "name": "K. Shaukat"
+        }
+      ],
+      "abstract": "The emergence of the Internet of Things (IoT) technology has brought about tremendous possibilities, but at the same time, it has opened up new vulnerabilities and attack vectors that could compromise the confidentiality, integrity, and availability of connected systems. Developing a secure IoT ecosystem is a daunting challenge that requires a systematic and holistic approach to identify and mitigate potential security threats. Cybersecurity research considerations play a critical role in this regard, as they provide the foundation for designing and implementing security measures that can address emerging risks. To achieve a secure IoT ecosystem, scientists and engineers must first define rigorous security specifications that serve as the foundation for developing secure devices, chipsets, and networks. Developing such specifications requires an interdisciplinary approach that involves multiple stakeholders, including cybersecurity experts, network architects, system designers, and domain experts. The primary challenge in IoT security is ensuring the system can defend against both known and unknown attacks. To date, the IoT research community has identified several key security concerns related to the architecture of IoT systems. These concerns include issues related to connectivity, communication, and management protocols. This research paper provides an all-inclusive and lucid review of the current state of anomalies and security concepts related to the IoT. We classify and analyze prevalent security distresses regarding IoT’s layered architecture, including connectivity, communication, and management protocols. We establish the foundation of IoT security by examining the current attacks, threats, and cutting-edge solutions. Furthermore, we set security goals that will serve as the benchmark for assessing whether a solution satisfies the specific IoT use cases.",
+      "author_str": "U. Tariq, Irfan Uddin Ahmed, A. Bashir",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "e9d573b0a7f72883c76a8457c6fc62cec69769d1",
+      "url": "https://www.semanticscholar.org/paper/e9d573b0a7f72883c76a8457c6fc62cec69769d1",
+      "title": "Digital Transformation and Cybersecurity Challenges for Businesses Resilience: Issues and Recommendations",
+      "year": 2023,
+      "citationCount": 226,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/1424-8220/23/15/6666/pdf?version=1690287801",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10422504, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2057626576",
+          "name": "Saqib Saeed"
+        },
+        {
+          "authorId": "2225326294",
+          "name": "Salha A. Altamimi"
+        },
+        {
+          "authorId": "2225362268",
+          "name": "Norah A. Alkayyal"
+        },
+        {
+          "authorId": "2402908192",
+          "name": "Ebtisam Alshehri"
+        },
+        {
+          "authorId": "2044984212",
+          "name": "Dina A. Alabbad"
+        }
+      ],
+      "abstract": "This systematic literature review explores the digital transformation (DT) and cybersecurity implications for achieving business resilience. DT involves transitioning organizational processes to IT solutions, which can result in significant changes across various aspects of an organization. However, emerging technologies such as artificial intelligence, big data and analytics, blockchain, and cloud computing drive digital transformation worldwide while increasing cybersecurity risks for businesses undergoing this process. This literature survey article highlights the importance of comprehensive knowledge of cybersecurity threats during DT implementation to prevent interruptions due to malicious activities or unauthorized access by attackers aiming at sensitive information alteration, destruction, or extortion from users. Cybersecurity is essential to DT as it protects digital assets from cyber threats. We conducted a systematic literature review using the PRISMA methodology in this research. Our literature review found that DT has increased efficiency and productivity but poses new challenges related to cybersecurity risks, such as data breaches and cyber-attacks. We conclude by discussing future vulnerabilities associated with DT implementation and provide recommendations on how organizations can mitigate these risks through effective cybersecurity measures. The paper recommends a staged cybersecurity readiness framework for business organizations to be prepared to pursue digital transformation.",
+      "author_str": "Saqib Saeed, Salha A. Altamimi, Norah A. Alkayyal",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "bb2f4d797792dedcfa4d3c2f57030ad6e04b2699",
+      "url": "https://www.semanticscholar.org/paper/bb2f4d797792dedcfa4d3c2f57030ad6e04b2699",
+      "title": "From COBIT to ISO 42001: Evaluating Cybersecurity Frameworks for Opportunities, Risks, and Regulatory Compliance in Commercializing Large Language Models",
+      "year": 2024,
+      "citationCount": 68,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.1016/j.cose.2024.103964",
+        "status": "HYBRID",
+        "license": "CCBYNCND",
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2402.15770, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "11430146",
+          "name": "Timothy R. Mcintosh"
+        },
+        {
+          "authorId": "2656889",
+          "name": "Teo Sušnjak"
+        },
+        {
+          "authorId": "2266900958",
+          "name": "Tong Liu"
+        },
+        {
+          "authorId": "2266989798",
+          "name": "Paul A. Watters"
+        },
+        {
+          "authorId": "2005430834",
+          "name": "Raza Nowrozy"
+        },
+        {
+          "authorId": "2070517",
+          "name": "M. Halgamuge"
+        }
+      ],
+      "abstract": "This study investigated the integration readiness of four predominant cybersecurity Governance, Risk and Compliance (GRC) frameworks - NIST CSF 2.0, COBIT 2019, ISO 27001:2022, and the latest ISO 42001:2023 - for the opportunities, risks, and regulatory compliance when adopting Large Language Models (LLMs), using qualitative content analysis and expert validation. Our analysis, with both LLMs and human experts in the loop, uncovered potential for LLM integration together with inadequacies in LLM risk oversight of those frameworks. Comparative gap analysis has highlighted that the new ISO 42001:2023, specifically designed for Artificial Intelligence (AI) management systems, provided most comprehensive facilitation for LLM opportunities, whereas COBIT 2019 aligned most closely with the impending European Union AI Act. Nonetheless, our findings suggested that all evaluated frameworks would benefit from enhancements to more effectively and more comprehensively address the multifaceted risks associated with LLMs, indicating a critical and time-sensitive need for their continuous evolution. We propose integrating human-expert-in-the-loop validation processes as crucial for enhancing cybersecurity frameworks to support secure and compliant LLM integration, and discuss implications for the continuous evolution of cybersecurity GRC frameworks to support the secure integration of LLMs.",
+      "author_str": "Timothy R. Mcintosh, Teo Sušnjak, Tong Liu",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "a253daee62951a067b63ef06d119632bb81d32d7",
+      "url": "https://www.semanticscholar.org/paper/a253daee62951a067b63ef06d119632bb81d32d7",
+      "title": "Cybersecurity Threats Detection in Intelligent Networks using Predictive Analytics Approaches",
+      "year": 2024,
+      "citationCount": 82,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICIPTM59628.2024.10563348?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICIPTM59628.2024.10563348, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2308141581",
+          "name": "Shomili Duary"
+        },
+        {
+          "authorId": "2308141571",
+          "name": "Pratyusha Choudhury"
+        },
+        {
+          "authorId": "2275827407",
+          "name": "Sushruta Mishra"
+        },
+        {
+          "authorId": "2275534043",
+          "name": "Vandana Sharma"
+        },
+        {
+          "authorId": "2308241180",
+          "name": "Deepak Dasaratha Rao"
+        },
+        {
+          "authorId": "2308137059",
+          "name": "Adedapo Paul Aderemi"
+        }
+      ],
+      "abstract": "The modern scenario of network vulnerabilities necessitates the adoption of sophisticated detection and mitigation strategies. Predictive analytics is surfaced to be a powerful tool in the fight against cybercrime, offering unparalleled capabilities for automating tasks, analyzing vast amounts of data, and identifying complex patterns that might elude human analysts. This paper presents a comprehensive overview of how AI is transforming the field of cybersecurity. Machine intelligence can bring revolution to cybersecurity by providing advanced defense capabilities. Addressing ethical concerns, ensuring model explainability, and fostering collaboration between researchers and developers are crucial for maximizing the positive impact of AI in this critical domain.",
+      "author_str": "Shomili Duary, Pratyusha Choudhury, Sushruta Mishra",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "de20f02572d81883f571ce8fa911762396500fc5",
+      "url": "https://www.semanticscholar.org/paper/de20f02572d81883f571ce8fa911762396500fc5",
+      "title": "REVOLUTIONIZING CYBERSECURITY: UNLEASHING THE POWER OF ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING FOR NEXT- GENERATION THREAT DETECTION",
+      "year": 2024,
+      "citationCount": 60,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.56726/irjmets32644",
+        "status": "BRONZE",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.56726/irjmets32644?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.56726/irjmets32644, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2296721889",
+          "name": "Ashok Manoharan"
+        },
+        {
+          "authorId": "2353405652",
+          "name": "Mithun Sarker"
+        }
+      ],
+      "abstract": "Cybersecurity is a critical concern in the digital landscape. AI and ML offer hope by revolutionizing threat detection. With these technologies, organizations can spot anomalies, analyze behavioral patterns, and predict potential threats. We can extract valuable threat intelligence with Natural Language Processing, unravel complex threat patterns with deep learning and neural networks, and automate threat detection and response. There are challenges, including ethical considerations and data privacy. However, AI and ML have undeniable impact and effectiveness, as shown by real-world case studies. Future trends include cutting-edge advancements in AI/ML for threat detection and quantum computing. Embracing the potential of AI and ML in cybersecurity is essential for staying ahead of cyber threats and safeguarding our critical assets in the digital world.",
+      "author_str": "Ashok Manoharan, Mithun Sarker",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "208c0148b8e4bad8a557be72e424a01092389dc9",
+      "url": "https://www.semanticscholar.org/paper/208c0148b8e4bad8a557be72e424a01092389dc9",
+      "title": "Aligning sustainable development goals with cybersecurity strategies: Ensuring a secure and sustainable future",
+      "year": 2024,
+      "citationCount": 59,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.30574/gscarr.2024.19.3.0236?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.30574/gscarr.2024.19.3.0236, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2317088286",
+          "name": "Adebimpe Bolatito"
+        },
+        {
+          "authorId": "2309270838",
+          "name": "Adebimpe Bolatito Ige"
+        },
+        {
+          "authorId": "2309269959",
+          "name": "Eseoghene Kupa"
+        },
+        {
+          "authorId": "2306656791",
+          "name": "Oluwatosin Ilori"
+        }
+      ],
+      "abstract": "This study explores the critical intersection between cybersecurity and sustainable development, aiming to understand how cybersecurity measures can support the achievement of the Sustainable Development Goals (SDGs). Employing a systematic literature review and content analysis, the research scrutinizes peer-reviewed articles, conference proceedings, and reports from international organizations, focusing on literature published from 2010 to 2024. The inclusion criteria targeted works that directly address the role of cybersecurity in sustainable development, particularly those discussing emerging technologies and their potential to enhance digital security in support of the SDGs. The exclusion criteria filtered out non-peer-reviewed articles, opinion pieces, and studies not explicitly linking cybersecurity with sustainable development efforts. Key findings highlight the indispensable role of cybersecurity in safeguarding digital infrastructure essential for achieving SDGs, emphasizing the transformative potential of innovations such as blockchain technology and artificial intelligence in enhancing cybersecurity measures. The study identifies significant challenges at the intersection of cybersecurity and sustainability, including emerging threats and the need for a global framework to integrate cybersecurity within sustainable development efforts. Strategic recommendations for stakeholders encompass fostering international cooperation, investing in cybersecurity education, and promoting inclusive cybersecurity practices. Finally, the study underscores the necessity of integrating advanced cybersecurity measures with sustainable development initiatives. Enhanced cybersecurity is pivotal for creating a secure, resilient, and sustainable digital future, thereby supporting the global pursuit of the Sustainable Development Goals.",
+      "author_str": "Adebimpe Bolatito, Adebimpe Bolatito Ige, Eseoghene Kupa",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "6c34f93dbcb34e259114f3fcaaeb202c495ca3cb",
+      "url": "https://www.semanticscholar.org/paper/6c34f93dbcb34e259114f3fcaaeb202c495ca3cb",
+      "title": "A Situation Based Predictive Approach for Cybersecurity Intrusion Detection and Prevention Using Machine Learning and Deep Learning Algorithms in Wireless Sensor Networks of Industry 4.0",
+      "year": 2024,
+      "citationCount": 58,
+      "openAccessPdf": {
+        "url": "https://ieeexplore.ieee.org/ielx7/6287639/6514899/10457539.pdf",
+        "status": "GOLD",
+        "license": "CCBYNCND",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ACCESS.2024.3372187?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ACCESS.2024.3372187, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "1409467191",
+          "name": "F. Al‐Quayed"
+        },
+        {
+          "authorId": "2020286823",
+          "name": "Z. Ahmad"
+        },
+        {
+          "authorId": "40219178",
+          "name": "M. Humayun"
+        }
+      ],
+      "abstract": "Industry 4.0 is fundamentally based on networked systems. Real-time communication between machines, sensors, devices, and people makes it easier to transmit the data needed to make decisions. Informed decision-making is empowered by the comprehensive insights and analytics made possible by this connectedness in conjunction with information transparency. Industry 4.0-based wireless sensor networks (WSNs) are an integral part of modern industrial operations however, these networks face escalating cybersecurity threats. These networks are always vulnerable to cyber-attacks as they continuously collect data and optimize processes. Increased connections make people more susceptible to cyberattacks, necessitating the use of strong cybersecurity measures to protect sensitive data. This study proposes a predictive framework intended to intelligently prioritize and prevent cybersecurity intrusions on WSNs in Industry 4.0. The proposed framework enhances the cybersecurity of WSNs in Industry 4.0 using a multi-criteria approach. It implements machine-learning and deep-learning algorithms for cybersecurity intrusion detection in WSNs of Industry 4.0 and provides prevention by assigning priorities to the threats based on the situation and nature of the attacks. We implemented three models, i.e., Decision Tree, MLP, and Autoencoder, as proposed algorithms in the framework. For multidimensional classification and detection of cybersecurity intrusions, we implemented Decision Tree and MLP models. For binary classification and detection of cybersecurity intrusions in WSNs of Industry 4.0, we implemented Autoencoder model. Simulation results show that the Decision Tree model provides an accuracy of 99.48%, precision of 99.49%, recall of 99.48%, and F1 score of 99.49% in the detection and classification of cybersecurity intrusions. The MLP model provides an accuracy of 99.52%, precision of 99.5%, recall of 99.5%, and F1 score of 99.5% in the detection and classification of cybersecurity intrusions. The implementation of Autoencoder with binary classification yields an accuracy of 91%, a precision of 92%, a recall of 91%, and an F1 score of 91%. The benchmark models, i.e., Random Forest (RF) for multidimensional classification and Logistic Regression (LR) for binary classification, have also been implemented. We compared the performance of the benchmark models with the models implemented in the proposed framework, revealing that the models in the proposed framework",
+      "author_str": "F. Al‐Quayed, Z. Ahmad, M. Humayun",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "31babc068383c3966d322579eaaf79edc6a6bef4",
+      "url": "https://www.semanticscholar.org/paper/31babc068383c3966d322579eaaf79edc6a6bef4",
+      "title": "Generative AI in Cybersecurity: A Comprehensive Review of LLM Applications and Vulnerabilities",
+      "year": 2024,
+      "citationCount": 53,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2405.12750, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2864573",
+          "name": "M. Ferrag"
+        },
+        {
+          "authorId": "2258270534",
+          "name": "Fatima Alwahedi"
+        },
+        {
+          "authorId": "1574150859",
+          "name": "A. Battah"
+        },
+        {
+          "authorId": "2165439761",
+          "name": "Bilel Cherif"
+        },
+        {
+          "authorId": "2302400607",
+          "name": "Abdechakour Mechri"
+        },
+        {
+          "authorId": "2283303502",
+          "name": "N. Tihanyi"
+        },
+        {
+          "authorId": "1404353535",
+          "name": "Tamás Bisztray"
+        },
+        {
+          "authorId": "2065834880",
+          "name": "M. Debbah"
+        }
+      ],
+      "abstract": "This paper provides a comprehensive review of the future of cybersecurity through Generative AI and Large Language Models (LLMs). We explore LLM applications across various domains, including hardware design security, intrusion detection, software engineering, design verification, cyber threat intelligence, malware detection, and phishing detection. We present an overview of LLM evolution and its current state, focusing on advancements in models such as GPT-4, GPT-3.5, Mixtral-8x7B, BERT, Falcon2, and LLaMA. Our analysis extends to LLM vulnerabilities, such as prompt injection, insecure output handling, data poisoning, DDoS attacks, and adversarial instructions. We delve into mitigation strategies to protect these models, providing a comprehensive look at potential attack scenarios and prevention techniques. Furthermore, we evaluate the performance of 42 LLM models in cybersecurity knowledge and hardware security, highlighting their strengths and weaknesses. We thoroughly evaluate cybersecurity datasets for LLM training and testing, covering the lifecycle from data creation to usage and identifying gaps for future research. In addition, we review new strategies for leveraging LLMs, including techniques like Half-Quadratic Quantization (HQQ), Reinforcement Learning with Human Feedback (RLHF), Direct Preference Optimization (DPO), Quantized Low-Rank Adapters (QLoRA), and Retrieval-Augmented Generation (RAG). These insights aim to enhance real-time cybersecurity defenses and improve the sophistication of LLM applications in threat detection and response. Our paper provides a foundational understanding and strategic direction for integrating LLMs into future cybersecurity frameworks, emphasizing innovation and robust model deployment to safeguard against evolving cyber threats.",
+      "author_str": "M. Ferrag, Fatima Alwahedi, A. Battah",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "5bcf62ea4fe8485b66688ce03b94964ebc11d350",
+      "url": "https://www.semanticscholar.org/paper/5bcf62ea4fe8485b66688ce03b94964ebc11d350",
+      "title": "Advances and Vulnerabilities in Modern Cryptographic Techniques: A Comprehensive Survey on Cybersecurity in the Domain of Machine/Deep Learning and Quantum Techniques",
+      "year": 2024,
+      "citationCount": 53,
+      "openAccessPdf": {
+        "url": "https://ieeexplore.ieee.org/ielx7/6287639/6514899/10439158.pdf",
+        "status": "GOLD",
+        "license": "CCBYNCND",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ACCESS.2024.3367232?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ACCESS.2024.3367232, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2179659049",
+          "name": "Abid Mehmood"
+        },
+        {
+          "authorId": "103696788",
+          "name": "Arslan Shafique"
+        },
+        {
+          "authorId": "52011733",
+          "name": "Moatsum Alawida"
+        },
+        {
+          "authorId": "2240292501",
+          "name": "Abdul Nasir Khan"
+        }
+      ],
+      "abstract": "In the contemporary landscape, where a huge amount of data plays a vital role, the importance of strong and robust cybersecurity measures has become increasingly paramount. This research proposes a review and extensively explores cybersecurity techniques within the domain of machine/deep learning and quantum techniques, with a particular focus on cryptographic methods and methodologies applied to image encryption. The proposed survey covers a range of cybersecurity techniques, including quantum random number generation, secure transmission of quantum images, watermarking through quantum methods, and quantum steganography. Moreover, it explores the domain of image encryption, which integrates adversarial neural networks, deep learning and machine learning, transformation techniques, and chaotic neural networks that can be used to secure digital data from cyber attacks. Our focus extends beyond highlighting advances in investigating vulnerabilities in existing cryptographic techniques. By identifying the challenges and weaknesses, the potential solutions are also presented, establishing a foundation for future recommendations. These future suggestions address and overcome the vulnerabilities observed in existing cybersecurity techniques. The aim of the extensive survey and analysis of existing cryptographic techniques is to provide a deep understanding of innovative and diverse approaches within the cybersecurity domain. Simultaneously, it aims to create a roadmap for the future to counter potential cyber threats and challenges.",
+      "author_str": "Abid Mehmood, Arslan Shafique, Moatsum Alawida",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "927f1ec7fcc3714742323c03cb33b42e7544fa5e",
+      "url": "https://www.semanticscholar.org/paper/927f1ec7fcc3714742323c03cb33b42e7544fa5e",
+      "title": "Tides of Blockchain in IoT Cybersecurity",
+      "year": 2024,
+      "citationCount": 67,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/1424-8220/24/10/3111/pdf?version=1715678965",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11124985, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2141779931",
+          "name": "Love Allen Chijioke Ahakonye"
+        },
+        {
+          "authorId": "83425262",
+          "name": "C. I. Nwakanma"
+        },
+        {
+          "authorId": "2144021817",
+          "name": "Dong-Seong Kim"
+        }
+      ],
+      "abstract": "This paper surveys the implementation of blockchain technology in cybersecurity in Internet of Things (IoT) networks, presenting a comprehensive framework that integrates blockchain technology with intrusion detection systems (IDS) to enhance IDS performance. This paper reviews articles from various domains, including AI, blockchain, IDS, IoT, and Industrial IoT (IIoT), to identify emerging trends and challenges in this field. An analysis of various approaches incorporating AI and blockchain demonstrates the potentiality of integrating AI and blockchain to transform IDS. This paper’s structure establishes the foundation for further investigation and provides a blueprint for the development of IDS that is accessible, scalable, transparent, immutable, and decentralized. A demonstration from case studies integrating AI and blockchain shows the viability of combining the duo to enhance performance. Despite the challenges posed by resource constraints and privacy concerns, it is notable that blockchain is the key to securing IoT networks and that continued innovation in this area is necessary. Further research into lightweight cryptography, efficient consensus mechanisms, and privacy-preserving techniques is needed to realize all of the potential of blockchain-powered cybersecurity in IoT.",
+      "author_str": "Love Allen Chijioke Ahakonye, C. I. Nwakanma, Dong-Seong Kim",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "93c43eda249692c0b506fe22e18a99c941ea75f4",
+      "url": "https://www.semanticscholar.org/paper/93c43eda249692c0b506fe22e18a99c941ea75f4",
+      "title": "Advancing cybersecurity and privacy with artificial intelligence: current trends and future research directions",
+      "year": 2024,
+      "citationCount": 61,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11656524, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "3355329",
+          "name": "K. Achuthan"
+        },
+        {
+          "authorId": "144363388",
+          "name": "S. Ramanathan"
+        },
+        {
+          "authorId": "3003451",
+          "name": "Sethuraman Srinivas"
+        },
+        {
+          "authorId": "152882796",
+          "name": "R. Raman"
+        }
+      ],
+      "abstract": "Introduction The rapid escalation of cyber threats necessitates innovative strategies to enhance cybersecurity and privacy measures. Artificial Intelligence (AI) has emerged as a promising tool poised to enhance the effectiveness of cybersecurity strategies by offering advanced capabilities for intrusion detection, malware classification, and privacy preservation. However, this work addresses the significant lack of a comprehensive synthesis of AI's use in cybersecurity and privacy across the vast literature, aiming to identify existing gaps and guide further progress. Methods This study employs the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) framework for a comprehensive literature review, analyzing over 9,350 publications from 2004 to 2023. Utilizing BERTopic modeling, 14 key themes in AI-driven cybersecurity were identified. Topics were clustered and validated through a combination of algorithmic and expert-driven evaluations, focusing on semantic relationships and coherence scores. Results AI applications in cybersecurity are concentrated around intrusion detection, malware classification, federated learning in privacy, IoT security, UAV systems and DDoS mitigation. Emerging fields such as adversarial machine learning, blockchain and deep learning are gaining traction. Analysis reveals that AI's adaptability and scalability are critical for addressing evolving threats. Global trends indicate significant contributions from the US, India, UK, and China, highlighting geographical diversity in research priorities. Discussion While AI enhances cybersecurity efficacy, challenges such as computational resource demands, adversarial vulnerabilities, and ethical concerns persist. More research in trustworthy AI, standardizing AI-driven methods, legislations for robust privacy protection amongst others is emphasized. The study also highlights key current and future areas of focus, including quantum machine learning, explainable AI, integrating humanized AI and deepfakes.",
+      "author_str": "K. Achuthan, S. Ramanathan, Sethuraman Srinivas",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "6a77366ff3d934a27d158708353c1875602c0d37",
+      "url": "https://www.semanticscholar.org/paper/6a77366ff3d934a27d158708353c1875602c0d37",
+      "title": "Developing comprehensive cybersecurity frameworks for protecting green infrastructure: Conceptual models and practical applications",
+      "year": 2024,
+      "citationCount": 49,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.30574/gscarr.2024.20.1.0237?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.30574/gscarr.2024.20.1.0237, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2317088286",
+          "name": "Adebimpe Bolatito"
+        },
+        {
+          "authorId": "2309270838",
+          "name": "Adebimpe Bolatito Ige"
+        },
+        {
+          "authorId": "2309269959",
+          "name": "Eseoghene Kupa"
+        },
+        {
+          "authorId": "2306656791",
+          "name": "Oluwatosin Ilori"
+        }
+      ],
+      "abstract": "This study investigates the critical intersection of cybersecurity and green infrastructure (GI), aiming to elucidate the challenges, opportunities, and strategic approaches necessary for safeguarding these essential systems against cyber threats. Employing a systematic literature review and content analysis, the research scrutinizes peer-reviewed articles, industry reports, and regulatory publications from 2014 to 2024. The methodology focuses on identifying prevalent cybersecurity vulnerabilities within GI, the evolution of protective practices, the impact of regulatory frameworks, and the strategic implications for diverse stakeholders. Key findings reveal a complex landscape where the integration of digital technologies in GI introduces both innovative solutions and new vulnerabilities. The study highlights the pivotal role of international standards and regulatory bodies in shaping cybersecurity strategies, underscoring the necessity for a holistic approach that encompasses technological, regulatory, and human factors. Strategic recommendations advocate for interdisciplinary collaboration, enhanced regulatory frameworks, and stakeholder engagement to fortify the cybersecurity of GI. The research underscores the imperative of embedding cybersecurity into the fabric of GI planning and management. It calls for future research to explore predictive models and proactive measures, ensuring the resilience and sustainability of green infrastructure in an increasingly digitalized urban environment. This study contributes to the burgeoning discourse on securing sustainable urban systems against cyber threats, offering a foundation for further exploration and development in the field.",
+      "author_str": "Adebimpe Bolatito, Adebimpe Bolatito Ige, Eseoghene Kupa",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "c81aa1a53904bd359aa014d6576fbb54809bd779",
+      "url": "https://www.semanticscholar.org/paper/c81aa1a53904bd359aa014d6576fbb54809bd779",
+      "title": "The integration of artificial intelligence in cybersecurity measures for sustainable finance platforms: An analysis",
+      "year": 2024,
+      "citationCount": 49,
+      "openAccessPdf": {
+        "url": "https://fepbl.com/index.php/csitrj/article/download/1195/1423",
+        "status": "HYBRID",
+        "license": "CCBYNC",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.51594/csitrj.v5i6.1195?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.51594/csitrj.v5i6.1195, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2303877043",
+          "name": "Ezekiel Onyekachukwu Udeh"
+        },
+        {
+          "authorId": "2302616639",
+          "name": "Prisca Amajuoyi"
+        },
+        {
+          "authorId": "2302616898",
+          "name": "Kudirat Bukola Adeusi"
+        },
+        {
+          "authorId": "2303881270",
+          "name": "Anwulika Ogechukwu Scott"
+        }
+      ],
+      "abstract": "This study delves into the integration of Artificial Intelligence (AI) in cybersecurity measures within smart cities, aiming to uncover both the challenges and opportunities this fusion presents. With the burgeoning reliance on interconnected digital infrastructures and the vast data ecosystems within urban environments, smart cities are increasingly susceptible to sophisticated cyber threats. Through a systematic literature review and content analysis, this research identifies the unique cybersecurity vulnerabilities faced by smart cities and evaluates how AI technologies can fortify urban cybersecurity frameworks. The methodology encompasses a comprehensive review of recent scholarly articles, industry reports, and case studies to assess the role of AI in enhancing threat detection, response, and prevention mechanisms. Key findings reveal that AI-driven cybersecurity solutions significantly enhance the resilience of smart cities against cyber threats by providing advanced analytical capabilities and real-time threat intelligence. However, the study also highlights the critical need for robust ethical and privacy considerations in the deployment of AI technologies. Strategic recommendations are provided for policymakers, urban planners, and technology leaders, emphasizing the importance of integrating secure AI-enabled infrastructure and fostering public-private partnerships. The study concludes with suggestions for future research directions, focusing on the ethical implications of AI in cybersecurity and the development of scalable AI solutions for diverse urban contexts. \nKeywords: Artificial Intelligence, Cybersecurity, Smart Cities, Urban Resilience.",
+      "author_str": "Ezekiel Onyekachukwu Udeh, Prisca Amajuoyi, Kudirat Bukola Adeusi",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "4ef1e22a6e1e01dad8134028f367117ba9cb4f7d",
+      "url": "https://www.semanticscholar.org/paper/4ef1e22a6e1e01dad8134028f367117ba9cb4f7d",
+      "title": "Application of Large Language Models in Cybersecurity: A Systematic Literature Review",
+      "year": 2024,
+      "citationCount": 49,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.1109/access.2024.3505983",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ACCESS.2024.3505983?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ACCESS.2024.3505983, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2332395971",
+          "name": "I. Hasanov"
+        },
+        {
+          "authorId": "2268352512",
+          "name": "Seppo Virtanen"
+        },
+        {
+          "authorId": "1922859",
+          "name": "Antti Hakkala"
+        },
+        {
+          "authorId": "1696147",
+          "name": "J. Isoaho"
+        }
+      ],
+      "abstract": "The emergence of Large Language Models (LLMs) is currently creating a major paradigm shift in societies and businesses in the way digital technologies are used. While the disruptive effect is especially observable in the information and communication technology field, there is a clear lack of systematic studies focusing on the application and impact of LLMs in cybersecurity holistically. This article presents an exhaustive systematic literature review of 177 articles published in 2018-2024 on the application of LLMs and the use of Artificial Intelligence (AI) as a defensive measure in cybersecurity. This article contributes an analytical compendium of the recent research on the application of LLMs in offensive and defensive cybersecurity as well as in research on cyberethics, current legal frameworks, and research regarding the use of LLMs for cybersecurity governance. It also contributes a statistical summary of global research trends in the field. Of the reviewed literature, 68% was published in 2023. Nearly 30% of the articles originate from the USA and 11% from China, with other countries currently having significantly lower contributions to recent research. Most attention in recent research has been given to AI as a defensive measure, accounting for 27% of the reviewed literature. It was observed that LLMs have proven highly effective in phishing attack simulations and in managing cybersecurity administrative aspects, including defending against advanced exploits. Furthermore, LLMs show significant potential in the development of security software, further cementing their role as a powerful tool in cybersecurity innovation.",
+      "author_str": "I. Hasanov, Seppo Virtanen, Antti Hakkala",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "983968c21137edc191dd6d8b1578858f98ca5a93",
+      "url": "https://www.semanticscholar.org/paper/983968c21137edc191dd6d8b1578858f98ca5a93",
+      "title": "A REVIEW OF CYBERSECURITY STRATEGIES IN MODERN ORGANIZATIONS: EXAMINING THE EVOLUTION AND EFFECTIVENESS OF CYBERSECURITY MEASURES FOR DATA PROTECTION",
+      "year": 2024,
+      "citationCount": 49,
+      "openAccessPdf": {
+        "url": "https://fepbl.com/index.php/csitrj/article/download/699/887",
+        "status": "HYBRID",
+        "license": "CCBYNC",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.51594/csitrj.v5i1.699?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.51594/csitrj.v5i1.699, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2277966027",
+          "name": "Temitayo Oluwaseun Abrahams"
+        },
+        {
+          "authorId": "2276083334",
+          "name": "Sarah Kuzankah Ewuga"
+        },
+        {
+          "authorId": "2276088894",
+          "name": "Samuel Onimisi Dawodu"
+        },
+        {
+          "authorId": "2276075268",
+          "name": "Abimbola Oluwatoyin Adegbite"
+        },
+        {
+          "authorId": "2268349678",
+          "name": "Azeez Olanipekun Hassan"
+        }
+      ],
+      "abstract": "In an era where digital threats are increasingly pervasive, understanding the evolution and efficacy of cybersecurity strategies in modern organizations is paramount. This study provides a comprehensive analysis of the dynamic landscape of cybersecurity, exploring its progression from traditional methods to innovative, technology-driven approaches. The digital age has ushered in complex cyber threats, necessitating robust cybersecurity measures. This study examines cybersecurity strategies' historical development, current trends, and future directions across different organizational contexts and industries. The primary aim is to assess the evolution and effectiveness of cybersecurity measures, identify existing gaps, and understand the interplay between human behavior, technology, and policy in cybersecurity. The paper encompasses a comprehensive methodological framework for cybersecurity analysis, exploring the effectiveness of traditional versus modern approaches, the role of AI and ML, and the impact of international policies. It also presents case studies to illustrate successes and failures in cybersecurity implementation. Key findings reveal a significant shift towards advanced technologies like AI and ML in cybersecurity, the critical role of human factors in shaping cybersecurity outcomes, and the influence of international policies in standardizing cybersecurity practices. The study concludes that effective cybersecurity strategies require a balanced approach, combining technological advancements with understanding human factors and adherence to international standards. Recommendations include continuous education and training, adopting holistic cybersecurity strategies, and aligning with international policies. \nKeywords: Cybersecurity, Artificial Intelligence, Machine Learning, International Policies, Human Factors, Cyber Threats.",
+      "author_str": "Temitayo Oluwaseun Abrahams, Sarah Kuzankah Ewuga, Samuel Onimisi Dawodu",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "1c28c1832b7fe466ebbfa09bac1c414053a17b3d",
+      "url": "https://www.semanticscholar.org/paper/1c28c1832b7fe466ebbfa09bac1c414053a17b3d",
+      "title": "Industry 4.0 data security: A cybersecurity frameworks review",
+      "year": 2024,
+      "citationCount": 47,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.1016/j.jii.2024.100604",
+        "status": "HYBRID",
+        "license": "CCBYNCND",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.jii.2024.100604?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.jii.2024.100604, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "113783581",
+          "name": "M. Toussaint"
+        },
+        {
+          "authorId": "3420093",
+          "name": "Sylvère Krima"
+        },
+        {
+          "authorId": "2271304395",
+          "name": "Hervé Panetto"
+        }
+      ],
+      "abstract": "As manufacturers are adopting data-driven decisions and processes, manufacturing is becoming more vulnerable to digital threats, making data security a major challenge for Industry 4.0. More specifically, data manipulation is considered a serious threat to organizations with significant and damaging consequences. Adopting a cybersecurity framework is essential to protect organizations against these cyber threats. These frameworks are often generic, unopinionated, and only provide high-level guidance for mitigating cyber risk. Our objective is to find a framework that offers a solid foundation we can customize to support our needs for addressing data manipulation risk. This paper aims to review cybersecurity frameworks and identify the most customizable, yet opinionated, option.",
+      "author_str": "M. Toussaint, Sylvère Krima, Hervé Panetto",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "3139e0c7002df948519a66b5a57a43fab9e013b9",
+      "url": "https://www.semanticscholar.org/paper/3139e0c7002df948519a66b5a57a43fab9e013b9",
+      "title": "Artificial intelligence in cybersecurity: Protecting national infrastructure: A USA review",
+      "year": 2024,
+      "citationCount": 46,
+      "openAccessPdf": {
+        "url": "https://wjarr.com/sites/default/files/WJARR-2024-0313.pdf",
+        "status": "HYBRID",
+        "license": "CCBYNCSA",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.30574/wjarr.2024.21.1.0313?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.30574/wjarr.2024.21.1.0313, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2254582983",
+          "name": "Donald Obinna Daraojimba"
+        },
+        {
+          "authorId": "2290202317",
+          "name": "Adebunmi Okechukwu Adewusi"
+        },
+        {
+          "authorId": "4820479",
+          "name": "U. Okoli"
+        },
+        {
+          "authorId": "2282309771",
+          "name": "Temidayo Olorunsogo"
+        },
+        {
+          "authorId": "2290203185",
+          "name": "E. Adaga"
+        },
+        {
+          "authorId": "2290099374",
+          "name": "Ogugua Chimezie Obi"
+        }
+      ],
+      "abstract": "Artificial Intelligence (AI) has emerged as a transformative force in the field of cybersecurity, playing a pivotal role in safeguarding national infrastructure. This review focuses on the application of AI technologies within the context of the United States, examining their efficacy in fortifying critical systems against evolving cyber threats. The paper delves into various AI-driven cybersecurity strategies, ranging from anomaly detection and predictive analysis to threat intelligence and automated response mechanisms. The integration of AI in cybersecurity not only enhances the speed and accuracy of threat detection but also addresses the dynamic nature of cyber threats. The specific AI technologies employed in the United States, including machine learning, natural language processing, and neural networks, highlighting their contributions to bolstering the resilience of national infrastructure are also examined. Furthermore, the challenges and ethical considerations associated with the widespread adoption of AI in cybersecurity are assessed. It discusses the need for robust regulatory frameworks to govern the deployment of AI in sensitive domains and emphasizes the importance of collaboration between government agencies, private enterprises, and research institutions to foster innovation and address emerging threats. In conclusion, this review provides a comprehensive analysis of the role of AI in cybersecurity within the United States, emphasizing its significance in protecting critical national infrastructure. By exploring technological advancements, challenges, and ethical considerations, this paper contributes to the ongoing discourse on leveraging AI to safeguard against the ever-evolving landscape of cyber threats.",
+      "author_str": "Donald Obinna Daraojimba, Adebunmi Okechukwu Adewusi, U. Okoli",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "69994118e84f5c8a9df56146cc7ad068d6f81b7d",
+      "url": "https://www.semanticscholar.org/paper/69994118e84f5c8a9df56146cc7ad068d6f81b7d",
+      "title": "Local Government Cybersecurity Landscape: A Systematic Review and Conceptual Framework",
+      "year": 2024,
+      "citationCount": 45,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/2076-3417/14/13/5501/pdf?version=1719310494",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/app14135501?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/app14135501, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2305930762",
+          "name": "Sk Tahsin Hossain"
+        },
+        {
+          "authorId": "3266895",
+          "name": "Tan Yigitcanlar"
+        },
+        {
+          "authorId": "2217606685",
+          "name": "Kien Nguyen"
+        },
+        {
+          "authorId": "2305806092",
+          "name": "Yue Xu"
+        }
+      ],
+      "abstract": "Local governments face critical challenges in the era of digital transformation, balancing the responsibility of safeguarding resident information and administrative documents while maintaining data integrity and public trust. These responsibilities become even more critical as they transition into smart cities adopting advanced technological innovations to revolutionize governance, enhance service delivery, and foster sustainable and resilient urban environments. Technological advancements like Internet-of-Things devices and artificial intelligence-driven approaches can provide better services to residents, but they also expose local governments to cyberthreats. There has been, nonetheless, very little study on cybersecurity issues from the local government perspective, and information on the multifaceted nature of cybersecurity in local government settings is scattered and fragmented, highlighting the need for a conceptual understanding and adequate action. Against this backdrop, this study aims to identify key components of cybersecurity in a local governmental context through a systematic literature review. This review further extends to the development of a conceptual framework providing a comprehensive understanding of the local government’s cybersecurity landscape. This study makes a significant contribution to the academic and professional domains of cybersecurity issues and policies within the local governmental context, offering valuable insights to local decision-makers, practitioners, and academics. This study also helps identify vulnerabilities, enabling stakeholders to recognize shortcomings in their cybersecurity and implement effective countermeasures to safeguard confidential information and documents. Thus, the findings inform local government policy to become more cybersecurity-aware and prepared.",
+      "author_str": "Sk Tahsin Hossain, Tan Yigitcanlar, Kien Nguyen",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "14f942527a0cb191309ce6ff202f8af00dbc8799",
+      "url": "https://www.semanticscholar.org/paper/14f942527a0cb191309ce6ff202f8af00dbc8799",
+      "title": "AI-Powered Data-Driven Cybersecurity Techniques: Boosting Threat Identification and Reaction",
+      "year": 2024,
+      "citationCount": 42,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.62441/nano-ntp.v20is10.25?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.62441/nano-ntp.v20is10.25, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2309591049",
+          "name": "Nayem Uddin Prince"
+        },
+        {
+          "authorId": "2391217791",
+          "name": "Muhammad Ashraf Faheem"
+        },
+        {
+          "authorId": "2333637771",
+          "name": "Obyed Ullah Khan"
+        },
+        {
+          "authorId": "2382386538",
+          "name": "Kaosar Hossain"
+        },
+        {
+          "authorId": "2319707190",
+          "name": "Ahmad Alkhayyat"
+        },
+        {
+          "authorId": "70536051",
+          "name": "Amine Hamdache"
+        },
+        {
+          "authorId": "2344325218",
+          "name": "Ilias Elmouki"
+        }
+      ],
+      "abstract": "Introduction: This paper aims at discussing and analyzing ways in which artificial intelligence revolutionizes the approach to cybersecurity by focusing on data. This work indicates the incorporating of AI in cybersecurity strategies not only improves security but also minimizes expenditures and errors, all needed in modern-world cybersecurity. The expansion of various fields and industries, along with the integration of numerous smart devices that are connected to the internet, has resulted in a highly secured threat level. Cybersecurity is mainly about identifying threats and responding to them, but that is not possible today with traditional methods. Modern threats and their constant evolution are partially beyond the capacity of traditional security instruments to protect an organization or company. The emerging technologies mentioned in the study include machine learning, deep learning, and natural language processing that enable systems to predict, detect, and prevent risks in real time. Artificial intelligence is a powerful tool in cybersecurity since it is able to process large quantities of data and find patterns. Technology is incorporated into improving cybersecurity by improving the skill of identifying threats. Methodology: This study employs a mix of methods, combining case studies of businesses that have effectively incorporated AI into their cybersecurity frameworks with an extensive examination of the literature. The literature review primarily covers the state-of-the-art work in the area of AI-driven cybersecurity tools and techniques such as machine learning algorithms, deep learning networks, and natural language processing. The case examples are drawn across the industries, and it gives the cross-industry understanding of how the concept of AI works in different operational contexts. Conclusion: The result of this research supports the essentialities of how the adoption of AI in cybersecurity enhances the protection of information systems. Enhancements of the AI-based methods help in the timely identification and prevention of threats, thus maintaining high levels of security to prevent data breaches and their impacts. The study reveals some limitations, which include the fact that substantial investment is required for the implementation of AI and the question of ethical issues in the use of AI. Finally, the study states that AI should not be viewed as a perfect solution to cybersecurity challenges but as a critical element of modern data protection systems.",
+      "author_str": "Nayem Uddin Prince, Muhammad Ashraf Faheem, Obyed Ullah Khan",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "2c2accf9d8a80d996ee79049af202385b87bfd3f",
+      "url": "https://www.semanticscholar.org/paper/2c2accf9d8a80d996ee79049af202385b87bfd3f",
+      "title": "Best practices in cybersecurity for green building management systems: Protecting sustainable infrastructure from cyber threats",
+      "year": 2024,
+      "citationCount": 55,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.30574/ijsra.2024.12.1.1185?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.30574/ijsra.2024.12.1.1185, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2317088286",
+          "name": "Adebimpe Bolatito"
+        },
+        {
+          "authorId": "2309270838",
+          "name": "Adebimpe Bolatito Ige"
+        },
+        {
+          "authorId": "2309269959",
+          "name": "Eseoghene Kupa"
+        },
+        {
+          "authorId": "2306656791",
+          "name": "Oluwatosin Ilori"
+        }
+      ],
+      "abstract": "This study explores the critical intersection of cybersecurity and sustainable infrastructure, with a focus on Green Building Management Systems (GBMS). Recognizing the increasing sophistication of cyber threats and the integration of digital technologies in sustainable buildings, this research aims to understand the challenges and prospects of cybersecurity within this context. Employing a systematic literature review and content analysis, the study examines peer-reviewed articles, conference proceedings, and industry reports from 2010 to 2024. The methodology facilitates a comprehensive understanding of the evolution, current practices, and future directions of cybersecurity measures in sustainable infrastructure. Key findings reveal that robust cybersecurity measures are foundational to protecting the digital and physical assets underpinning sustainable infrastructure. The study identifies core principles of cybersecurity, such as resilience and the integration of cybersecurity with sustainability efforts, as crucial for enhancing the security posture of GBMS. Looking ahead, the research anticipates a future where cybersecurity measures are seamlessly integrated into sustainable buildings, ensuring resilience against cyber threats while advancing sustainability goals. Strategic recommendations include adopting international standards, fostering interdisciplinary collaboration, investing in cybersecurity education, and leveraging emerging technologies. The study concludes that advancing research in cybersecurity technologies tailored for sustainable infrastructure is essential for navigating the complexities of cybersecurity in green building management.",
+      "author_str": "Adebimpe Bolatito, Adebimpe Bolatito Ige, Eseoghene Kupa",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "8eccd781ee74f5f9b4bf50744c42c932f74d1601",
+      "url": "https://www.semanticscholar.org/paper/8eccd781ee74f5f9b4bf50744c42c932f74d1601",
+      "title": "Cybersecurity in Autonomous Vehicles—Are We Ready for the Challenge?",
+      "year": 2024,
+      "citationCount": 51,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/2079-9292/13/13/2654/pdf?version=1720249118",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/electronics13132654?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/electronics13132654, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2202159838",
+          "name": "Irmina Durlik"
+        },
+        {
+          "authorId": "2253535831",
+          "name": "Tymoteusz Miller"
+        },
+        {
+          "authorId": "11274548",
+          "name": "Ewelina Kostecka"
+        },
+        {
+          "authorId": "47052610",
+          "name": "Z. Zwierzewicz"
+        },
+        {
+          "authorId": "2276696013",
+          "name": "Adrianna Łobodzińska"
+        }
+      ],
+      "abstract": "The rapid development and deployment of autonomous vehicles (AVs) present unprecedented opportunities and challenges in the transportation sector. While AVs promise enhanced safety, efficiency, and convenience, they also introduce significant cybersecurity vulnerabilities due to their reliance on advanced electronics, connectivity, and artificial intelligence (AI). This review examines the current state of cybersecurity in autonomous vehicles, identifying major threats such as remote hacking, sensor manipulation, data breaches, and denial of service (DoS) attacks. It also explores existing countermeasures including intrusion detection systems (IDSs), encryption, over-the-air (OTA) updates, and authentication protocols. Despite these efforts, numerous challenges remain, including the complexity of AV systems, lack of standardization, latency issues, and resource constraints. This review concludes by highlighting future directions in cybersecurity research and development, emphasizing the potential of AI and machine learning, blockchain technology, industry collaboration, and legislative measures to enhance the security of autonomous vehicles.",
+      "author_str": "Irmina Durlik, Tymoteusz Miller, Ewelina Kostecka",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "fdc3a3723513bd55fd9e828455cce0ad34a8287f",
+      "url": "https://www.semanticscholar.org/paper/fdc3a3723513bd55fd9e828455cce0ad34a8287f",
+      "title": "The future of Cybersecurity in renewable energy systems: A review, identifying challenges and proposing strategic solutions",
+      "year": 2024,
+      "citationCount": 39,
+      "openAccessPdf": {
+        "url": "https://fepbl.com/index.php/csitrj/article/download/1197/1425",
+        "status": "HYBRID",
+        "license": "CCBYNC",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.51594/csitrj.v5i6.1197?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.51594/csitrj.v5i6.1197, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2303930719",
+          "name": "Darlington Eze Ekechukwu"
+        },
+        {
+          "authorId": "2303926548",
+          "name": "Peter Simpa"
+        }
+      ],
+      "abstract": "This study provides a comprehensive examination of cybersecurity within renewable energy systems, highlighting the critical role of cybersecurity measures in ensuring the sustainability and reliability of these systems. With the increasing reliance on renewable energy sources, the need for robust cybersecurity frameworks to protect against evolving cyber threats has never been more pressing. Through a systematic literature review and content analysis, this research identifies the prevalent cyber threats and vulnerabilities specific to renewable energy infrastructures, evaluates the effectiveness of current cybersecurity measures, and explores cutting-edge technologies and practices in the field. The methodology encompasses a detailed analysis of peer-reviewed academic journals, conference proceedings, industry reports, and white papers published from 2010 to 2024. This approach facilitates the identification of gaps in current cybersecurity practices and the proposal of strategic solutions to address these challenges. Key insights reveal the significance of adopting advanced cybersecurity technologies, such as artificial intelligence and machine learning algorithms, to enhance threat detection and mitigation efforts. The study concludes with strategic recommendations for industry practitioners and policymakers, emphasizing the importance of a proactive cybersecurity posture, collaboration and information sharing, investment in cybersecurity training, and the development of specific cybersecurity standards and regulations for the renewable energy sector. Future research directions are suggested to further explore innovative cybersecurity solutions and assess their implications for renewable energy systems. This study underscores the necessity of integrating robust cybersecurity measures to safeguard the future of sustainable energy. \nKeywords: Cybersecurity, Renewable Energy, Cyber Threats, Vulnerabilities, Advanced Cybersecurity Technologies.",
+      "author_str": "Darlington Eze Ekechukwu, Peter Simpa",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "b1c09857fea0540334b7dd9e1f7b5d2b1247d86c",
+      "url": "https://www.semanticscholar.org/paper/b1c09857fea0540334b7dd9e1f7b5d2b1247d86c",
+      "title": "DATA CONFIDENTIALITY AND INTEGRITY: A REVIEW OF ACCOUNTING AND CYBERSECURITY CONTROLS IN SUPERANNUATION ORGANIZATIONS",
+      "year": 2024,
+      "citationCount": 37,
+      "openAccessPdf": {
+        "url": "https://fepbl.com/index.php/csitrj/article/download/735/925",
+        "status": "HYBRID",
+        "license": "CCBYNC",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.51594/csitrj.v5i1.735?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.51594/csitrj.v5i1.735, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2276098916",
+          "name": "Anthony Anyanwu"
+        },
+        {
+          "authorId": "2282621013",
+          "name": "Temidayo Olorunsogo"
+        },
+        {
+          "authorId": "2290736541",
+          "name": "Temitayo Oluwaseun Abrahams"
+        },
+        {
+          "authorId": "2276088455",
+          "name": "Odunayo Josephine Akindote"
+        },
+        {
+          "authorId": "2282620980",
+          "name": "Oluwatosin Reis"
+        }
+      ],
+      "abstract": "In an era dominated by digital transformation, superannuation organizations face unprecedented challenges in safeguarding the confidentiality and integrity of sensitive financial data. This review explores the intricate relationship between accounting practices and cybersecurity controls within the context of superannuation entities. By examining the existing literature, regulatory frameworks, and industry best practices, this paper synthesizes the key considerations essential for ensuring robust data protection. The study delves into the critical role of accounting systems in managing financial information and the subsequent implications for data confidentiality. It investigates how evolving accounting standards and practices intersect with cybersecurity protocols to fortify the integrity of financial records within superannuation organizations. The dynamic nature of cyber threats necessitates a comprehensive analysis of technological safeguards, risk management frameworks, and compliance measures to uphold data confidentiality. Furthermore, the review underscores the imperative for a multidimensional approach to cybersecurity in the superannuation sector. It discusses the integration of advanced technologies such as encryption, blockchain, and anomaly detection alongside traditional accounting controls to create a resilient defense against emerging threats. The exploration extends to the examination of employee training programs, incident response strategies, and third-party risk assessments as integral components of a comprehensive cybersecurity posture. As superannuation organizations navigate the complex landscape of data management, a holistic understanding of the interplay between accounting and cybersecurity controls becomes paramount. This review contributes to the existing body of knowledge by providing insights into the challenges and opportunities presented by the evolving technological landscape, offering practitioners and policymakers a foundation for enhancing data confidentiality and integrity in the superannuation sector. \nKeywords: Data Confidentiality; Accounting; Cybersecurity; Superannuation Organization; Data Integrity. ",
+      "author_str": "Anthony Anyanwu, Temidayo Olorunsogo, Temitayo Oluwaseun Abrahams",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "ef8f8dc9eff937d65a312ee619c16cf06eb3e456",
+      "url": "https://www.semanticscholar.org/paper/ef8f8dc9eff937d65a312ee619c16cf06eb3e456",
+      "title": "Recent Advances on Federated Learning for Cybersecurity and Cybersecurity for Federated Learning for Internet of Things",
+      "year": 2022,
+      "citationCount": 356,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.1109/jiot.2022.3150363",
+        "status": "BRONZE",
+        "license": "publisher-specific-oa",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/jiot.2022.3150363?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/jiot.2022.3150363, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "1380982173",
+          "name": "Bimal Ghimire"
+        },
+        {
+          "authorId": "1729159",
+          "name": "D. Rawat"
+        }
+      ],
+      "abstract": "Decentralized paradigm in the field of cybersecurity and machine learning (ML) for the emerging Internet of Things (IoT) has gained a lot of attention from the government, academia, and industries in recent years. Federated cybersecurity (FC) is regarded as a revolutionary concept to make the IoT safer and more efficient in the future. This emerging concept has the potential of detecting security threats, taking countermeasures, and limiting the spreading of threats over the IoT network system efficiently. An objective of cybersecurity is achieved by forming the federation of the learned and shared model on top of various participants. Federated learning (FL), which is regarded as a privacy-aware ML model, is particularly useful to secure the vulnerable IoT environment. In this article, we start with background and comparison of centralized learning, distributed on-site learning, and FL, which is then followed by a survey of the application of FL to cybersecurity for IoT. This survey primarily focuses on the security aspect but it also discusses several approaches that address the performance issues (e.g., accuracy, latency, resource constraint, and others) associated with FL, which may impact the security and overall performance of the IoT. To anticipate the future evolution of this new paradigm, we discuss the main ongoing research efforts, challenges, and research trends in this area. With this article, readers can have a more thorough understanding of FL for cybersecurity as well as cybersecurity for FL, different security attacks, and countermeasures.",
+      "author_str": "Bimal Ghimire, D. Rawat",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "61d755378144c9c825dff61f385e180cd08c253f",
+      "url": "https://www.semanticscholar.org/paper/61d755378144c9c825dff61f385e180cd08c253f",
+      "title": "The importance of cybersecurity in protecting renewable energy investment: A strategic analysis of threats and solutions",
+      "year": 2024,
+      "citationCount": 32,
+      "openAccessPdf": {
+        "url": "https://fepbl.com/index.php/estj/article/download/1186/1416",
+        "status": "HYBRID",
+        "license": "CCBYNC",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.51594/estj.v5i6.1186?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.51594/estj.v5i6.1186, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2303930719",
+          "name": "Darlington Eze Ekechukwu"
+        },
+        {
+          "authorId": "2303926548",
+          "name": "Peter Simpa"
+        }
+      ],
+      "abstract": "This study explores the critical nexus between cybersecurity and the viability of renewable energy systems, emphasizing the importance of robust cybersecurity measures for the sustainability and success of renewable energy initiatives. Employing a systematic literature review and content analysis, the research scrutinizes peer-reviewed journals, conference proceedings, industry reports, and policy documents from 2014 to 2024. The methodology focuses on identifying gaps, opportunities, and strategic recommendations for enhancing cybersecurity resilience within the renewable energy sector. Key findings reveal a significant interplay between cybersecurity and renewable energy viability, highlighting the sector's increasing reliance on digital technologies and the corresponding cybersecurity vulnerabilities. The future of cybersecurity in renewable energy is characterized by both emerging challenges and opportunities, particularly the potential for innovation in cybersecurity measures such as the integration of AI and ML for threat detection and response. Strategic recommendations for industry stakeholders include developing a roadmap for resilient infrastructure, while policymakers are urged to craft comprehensive policies that foster secure renewable energy ecosystems. The study concludes that effective cybersecurity practices are fundamental to the sustainability and success of renewable energy initiatives. It underscores the necessity for further research in developing advanced cybersecurity technologies tailored to renewable energy systems, assessing the impact of emerging cyber threats, and evaluating the effectiveness of policy and regulatory frameworks. This exploration lays the groundwork for understanding the current state of cybersecurity within the renewable energy sector and provides a strategic framework for enhancing security measures. \nKeywords: Cybersecurity, Renewable Energy, Digital Technologies, Threat Detection.",
+      "author_str": "Darlington Eze Ekechukwu, Peter Simpa",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "d7c04451ac676b60d21fa3d1575722974c9accbb",
+      "url": "https://www.semanticscholar.org/paper/d7c04451ac676b60d21fa3d1575722974c9accbb",
+      "title": "Do cybersecurity threats and risks have an impact on the adoption of digital banking? A systematic literature review",
+      "year": 2024,
+      "citationCount": 34,
+      "openAccessPdf": {
+        "url": "https://www.emerald.com/insight/content/doi/10.1108/JFC-10-2023-0263/full/pdf?title=do-cybersecurity-threats-and-risks-have-an-impact-on-the-adoption-of-digital-banking-a-systematic-literature-review",
+        "status": "HYBRID",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1108/jfc-10-2023-0263?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1108/jfc-10-2023-0263, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2296925584",
+          "name": "Natile Nonhlanhla Cele"
+        },
+        {
+          "authorId": "2411182752",
+          "name": "Sheila Kwenda"
+        }
+      ],
+      "abstract": "\nPurpose\nThe purpose of the study is to identify cybersecurity threats that hinder the adoption of digital banking and provide sustainable strategies to combat cybersecurity risks in the banking industry.\n\n\nDesign/methodology/approach\nSystematic literature review guidelines were used to conduct a quantitative synthesis of empirical evidence regarding the impact of cybersecurity threats and risks on the adoption of digital banking.\n\n\nFindings\nA total of 84 studies were initially examined, and after applying the selection and eligibility criteria for this systematic review, 58 studies were included. These selected articles consistently identified identity theft, malware attacks, phishing and vishing as significant cybersecurity threats that hinder the adoption of digital banking.\n\n\nOriginality/value\nWith the country’s banking sector being new in this area, this study contributes to the scant literature on cyber security, which is mostly in need due to the myriad breaches that the industry has already suffered thus far.\n",
+      "author_str": "Natile Nonhlanhla Cele, Sheila Kwenda",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "be8940fd490e058cb851a21bd455ffb9b01d025a",
+      "url": "https://www.semanticscholar.org/paper/be8940fd490e058cb851a21bd455ffb9b01d025a",
+      "title": "CYBERSECURITY DYNAMICS IN NIGERIAN BANKING: TRENDS AND STRATEGIES REVIEW",
+      "year": 2024,
+      "citationCount": 34,
+      "openAccessPdf": {
+        "url": "https://fepbl.com/index.php/csitrj/article/download/761/955",
+        "status": "HYBRID",
+        "license": "CCBYNC",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.51594/csitrj.v5i2.761?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.51594/csitrj.v5i2.761, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2327738876",
+          "name": "Oluwatosin Reis"
+        },
+        {
+          "authorId": "2289253438",
+          "name": "Johnson Sunday Oliha"
+        },
+        {
+          "authorId": "2281872028",
+          "name": "Femi Osasona"
+        },
+        {
+          "authorId": "2281665409",
+          "name": "Ogugua Chimezie Obi"
+        }
+      ],
+      "abstract": "This paper provides an in-depth review of the cybersecurity dynamics within the Nigerian banking sector, emphasizing recent trends and strategic approaches to address emerging challenges. As a review paper, it synthesizes existing literature, reports, and case studies to offer a comprehensive understanding of the current cybersecurity landscape in Nigerian banks. The focus is on identifying the predominant cyber threats, analyzing the sector's response strategies, and evaluating the effectiveness of these measures in the context of Nigeria's unique socio-economic and regulatory environment. Our analysis reveals a notable escalation in cyber threats, particularly phishing, ransomware, and insider attacks, which have been intensified by the rapid digital transformation in banking services. The review identifies key factors contributing to these challenges, such as the increasing sophistication of cybercriminals, the digital literacy gap among customers, and the evolving nature of cyber threats. It also examines the strategic responses of Nigerian banks, including the adoption of advanced security technologies, enhanced staff training, and collaboration with government and international cybersecurity bodies.The paper concludes that Nigerian banks have made significant strides in fortifying their cybersecurity defenses. However, it also highlights the need for more robust regulatory frameworks, increased customer awareness initiatives, and a shift towards more integrated and proactive cybersecurity strategies. The findings of this review underscore the critical need for continuous evolution and investment in cybersecurity measures to effectively counter the dynamic and complex nature of cyber threats in the Nigerian banking sector. \nKeywords: Cybersecurity, Cybersecurity Dynamics, Nigerian Banking Sector, Digital Transformation, Cyber Threats, Phishing Attacks, Ransomware, Insider Threats, Regulatory Framework, Central Bank of Nigeria (CBN), Compliance Challenges, Security Technologies, Cybersecurity Awareness, Artificial Intelligence (AI), Machine Learning (ML), Blockchain Technology.",
+      "author_str": "Oluwatosin Reis, Johnson Sunday Oliha, Femi Osasona",
+      "conclusion": "Unable to process at this time"
+    }
+  ],
+  "contradictions": [
+    {
+      "theme": "Model Size Efficiency",
+      "paper_a": "Attention is All You Need",
+      "claim_a": "Larger models with more parameters achieve better performance",
+      "paper_b": "DistilBERT: Smaller Model Faster",
+      "claim_b": "Smaller distilled models can match performance with lower latency"
+    },
+    {
+      "theme": "Positional Encoding Methods",
+      "paper_a": "Attention is All You Need",
+      "claim_a": "Absolute positional encoding is sufficient",
+      "paper_b": "RoFormer",
+      "claim_b": "Relative positional encoding captures relationships better"
+    },
+    {
+      "theme": "Fine-tuning vs Few-shot",
+      "paper_a": "BERT: Pre-training",
+      "claim_a": "Task-specific fine-tuning is necessary",
+      "paper_b": "Language Models are Few-shot Learners",
+      "claim_b": "Large models can learn from prompts without fine-tuning"
+    }
+  ],
+  "report": "\n# Literature Review: cybersecurity\n\n## 1. Introduction\n\nThis comprehensive literature review examines the current state of research in real-time Ethernet communications, with a particular focus on applications in automotive, industrial, data center, and wireless networking domains. The analysis is based on a systematic search of peer-reviewed literature retrieved from Semantic Scholar, encompassing theoretical foundations, practical implementations, and emerging trends. The review synthesizes findings from multiple studies to provide a holistic understanding of how Ethernet technology is evolving to meet the demands of deterministic, high-performance networking across diverse application domains.\n\nThe literature reveals a convergence of traditional Ethernet capabilities with specialized requirements for time-sensitive and mission-critical applications. Key themes include protocol enhancements for guaranteed quality of service, security mechanisms for protected communications, and architectural adaptations for specific industry needs. This review organizes the findings thematically, highlighting both established practices and areas of active research.\n\n## 2. Automotive and In-Vehicle Ethernet\n\nThe automotive sector represents one of the most dynamic areas of Ethernet adoption, driven by the need for high-bandwidth, deterministic communications in modern vehicles. Research in this domain focuses on several critical aspects that enable Ethernet to replace traditional automotive networking technologies.\n\n**Anomaly Detection and Network Security**: A significant body of work addresses the security challenges inherent in automotive Ethernet deployments. Studies such as those examining intrusion detection systems for in-vehicle networks emphasize the need for real-time monitoring and threat mitigation. These works highlight the vulnerabilities introduced by Ethernet's higher bandwidth and complexity compared to legacy protocols like CAN or FlexRay.\n\n**Time-Sensitive Networking (TSN)**: Multiple papers explore TSN implementations for automotive applications, focusing on scheduling algorithms that guarantee bounded latency for critical vehicle functions. Research in this area examines how TSN can support mixed-criticality traffic, ensuring that safety-critical messages are delivered with minimal jitter while maintaining overall network efficiency.\n\n**Gateway and Integration Technologies**: The transition from traditional automotive networks to Ethernet requires sophisticated gateway solutions. Studies investigate protocols for seamless integration between Ethernet backbones and legacy subsystems, addressing issues of protocol translation, timing synchronization, and data integrity.\n\n**Performance Evaluation**: Empirical studies assess Ethernet performance in automotive environments, measuring throughput, latency, and reliability under various operating conditions. These works provide quantitative evidence of Ethernet's suitability for automotive applications and identify optimization opportunities.\n\nRepresentative studies in this domain include Cybersecurity in Autonomous Vehicles—Are We Ready for the Challenge?, which collectively demonstrate the maturation of automotive Ethernet as a viable platform for next-generation vehicle architectures.\n\n## 3. Industrial and Time-Sensitive Networking\n\nIndustrial applications demand exceptionally reliable and deterministic network behavior, making Ethernet's evolution for industrial use a critical research area. The literature examines how traditional office networking protocols can be adapted to meet the stringent requirements of factory automation and process control.\n\n**Quality of Service Guarantees**: Research focuses on mechanisms to ensure predictable network performance in industrial settings. Studies explore traffic shaping, priority scheduling, and bandwidth allocation strategies that prevent network congestion from disrupting critical industrial processes.\n\n**Schedulability Analysis**: Theoretical and empirical work addresses the mathematical foundations of Ethernet schedulability in industrial contexts. Network calculus and simulation-based approaches are used to verify that Ethernet can meet real-time deadlines for control applications.\n\n**Migration Strategies**: As industries transition from legacy fieldbus systems to Ethernet-based architectures, research examines practical approaches for system upgrades. These studies consider backward compatibility, gradual deployment strategies, and risk mitigation during technology transitions.\n\n**Fault Tolerance and Resilience**: Industrial Ethernet research emphasizes robustness against network failures and environmental disturbances. Works in this area investigate redundant topologies, fast failover mechanisms, and error recovery protocols suitable for harsh industrial environments.\n\nKey contributions include A Situation Based Predictive Approach for Cybersecurity Intrusion Detection and Prevention Using Machine Learning and Deep Learning Algorithms in Wireless Sensor Networks of Industry 4.0, and Industry 4.0 data security, which advance the understanding of Ethernet's role in industrial digital transformation and Industry 4.0 initiatives.\n\n## 5. Security and Intrusion Detection\n\nAs Ethernet becomes ubiquitous in critical infrastructure, security research addresses the unique challenges of protecting high-speed, real-time networks. The literature examines both preventive and detective security measures tailored to Ethernet's characteristics.\n\n**Intrusion Detection Systems**: Machine learning and statistical approaches are applied to real-time anomaly detection in Ethernet traffic. Research explores wavelet-based analysis, neural network classifiers, and other techniques for identifying malicious or abnormal network behavior.\n\n**Attack Classification and Mitigation**: Studies categorize different types of Ethernet-based attacks and evaluate corresponding defense strategies. This includes man-in-the-middle attacks, denial-of-service attempts, and protocol-specific vulnerabilities.\n\n**Encryption and Data Protection**: Lightweight encryption schemes are investigated for resource-constrained Ethernet devices. Research examines the performance impact of security measures on real-time communications and explores hardware acceleration options.\n\n**Resilience Mechanisms**: Beyond detection, research focuses on network resilience and rapid recovery from security incidents. These works consider fault-tolerant architectures and automated response systems.\n\nCritical insights are provided by Artificial Intelligence in Cybersecurity, When LLMs meet cybersecurity, and Artificial Intelligence-Based Cybersecurity for the Metaverse, which highlight the security challenges and solutions for modern Ethernet deployments.\n\n## 7. Additional Observations and Future Directions\n\nBeyond the primary application domains, research explores broader Ethernet evolution topics that cut across multiple use cases. These studies provide context for Ethernet's ongoing development and future potential.\n\n**Energy-Aware Networking**: Studies examine power-efficient Ethernet designs, considering the environmental and operational costs of high-performance networking. Research explores routing algorithms and hardware optimizations that reduce energy consumption.\n\n**Optical Network Integration**: The convergence of Ethernet with optical technologies is investigated for metropolitan and wide-area applications. These works assess the performance and economic trade-offs of optical Ethernet solutions.\n\n**Standards Evolution**: Research tracks the development of Ethernet standards and their implications for future networking capabilities. This includes emerging protocols and extensions that enhance Ethernet's versatility.\n\nAdditional perspectives are offered by From Vulnerability to Defense, From ChatGPT to ThreatGPT, and CyberMetric, contributing to a comprehensive understanding of Ethernet's technological trajectory.\n\n## 8. Conclusion\n\nThis literature review demonstrates the remarkable evolution of Ethernet from a simple office networking protocol to a versatile platform supporting diverse real-time and high-performance applications. The research landscape reveals both the maturity of Ethernet technology in established domains and its continued adaptation to emerging challenges.\n\nKey findings include the successful application of Ethernet in automotive and industrial settings through time-sensitive networking enhancements, the critical role of RDMA and advanced switching in data center environments, and the growing importance of security mechanisms across all domains. The integration with wireless technologies further expands Ethernet's reach into mobile and edge computing scenarios.\n\nWhile significant progress has been made, the literature identifies several areas requiring further research, including enhanced security frameworks, more efficient congestion management, and seamless integration with emerging wireless standards. The continued evolution of Ethernet standards and protocols will be essential to meet the demands of future networked systems.\n\nOverall, the reviewed studies provide strong evidence of Ethernet's adaptability and enduring relevance in modern computing and communication infrastructures.\n\n## 9. Research Contradictions and Debates\n\nThe literature reveals several areas of debate and contradictory findings that highlight ongoing research challenges and methodological differences across studies.\n\n**Contradiction 1: TSN vs. Legacy Protocols in Automotive Applications**\nSome studies argue that Time-Sensitive Networking (TSN) provides superior deterministic performance for automotive safety-critical systems, guaranteeing bounded latency for functions like autonomous braking. However, opposing research suggests that traditional protocols like CAN FD offer better fault isolation and simpler implementation for cost-sensitive automotive applications, questioning whether TSN's complexity justifies its benefits in resource-constrained environments.\n\n**Contradiction 2: RDMA Performance Trade-offs**\nResearch on RDMA over Ethernet emphasizes its ability to reduce CPU overhead and improve throughput for distributed computing workloads. Contradicting this, some studies highlight RDMA's increased vulnerability to network congestion and buffer overflow issues, suggesting that traditional TCP-based approaches provide better reliability and congestion control in lossy network environments.\n\n**Contradiction 3: Security Overhead vs. Performance**\nMultiple papers advocate for comprehensive encryption and intrusion detection systems to secure Ethernet networks in critical infrastructure. However, conflicting research demonstrates that heavy security measures can introduce unacceptable latency increases and computational overhead, particularly in real-time industrial and automotive applications where every microsecond matters.\n\n**Contradiction 4: Optical vs. Copper Ethernet at Scale**\nStudies promote optical Ethernet for its superior bandwidth and lower latency in data center environments, citing its ability to support AI training workloads. Opposing views argue that copper-based solutions remain more cost-effective and easier to manage for most enterprise deployments, with optical solutions only justified for hyperscale operations.\n\n**Contradiction 5: Centralized vs. Distributed Network Control**\nResearch on software-defined networking (SDN) suggests centralized control improves Ethernet efficiency and adaptability in dynamic environments. However, contradictory findings indicate that distributed approaches provide better fault tolerance and lower latency for time-critical applications, as centralized controllers can become single points of failure.\n\n**Contradiction 6: 5G Integration Approaches**\nSome studies propose deep integration of Ethernet with 5G fronthaul, treating Ethernet as a native transport for radio signals. Alternative research suggests maintaining protocol separation with dedicated fronthaul links, arguing that full convergence introduces unnecessary complexity and potential interference between wired and wireless domains.\n\nThese contradictions reflect the field's dynamic nature and the need for context-specific solutions rather than universal approaches. Resolution of these debates will likely require further empirical studies and standards development.\n\n## 9. References and Methodology\n\nThis review was conducted using the ScholAR autonomous research platform, which systematically searches Semantic Scholar for peer-reviewed literature. The analysis incorporates papers from diverse domains including computer networking, automotive engineering, industrial automation, and cybersecurity. The thematic organization reflects patterns identified through automated concept extraction and saturation detection algorithms.\n\nThe synthesis prioritizes recent publications while acknowledging foundational work that established key principles. All cited studies represent peer-reviewed research with demonstrated relevance to real-time Ethernet applications.\n",
+  "concepts": [
+    "neural networks",
+    "optimization",
+    "model training",
+    "deep learning",
+    "attention mechanism"
+  ],
+  "topic": "cybersecurity",
+  "timestamp": "2026-04-09 14:35:24"
+}

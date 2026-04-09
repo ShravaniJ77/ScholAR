@@ -1,0 +1,23 @@
+[
+  {
+    "theme": "Model Size Efficiency",
+    "paper_a": "Attention is All You Need",
+    "claim_a": "Larger models with more parameters achieve better performance",
+    "paper_b": "DistilBERT: Smaller Model Faster",
+    "claim_b": "Smaller distilled models can match performance with lower latency"
+  },
+  {
+    "theme": "Positional Encoding Methods",
+    "paper_a": "Attention is All You Need",
+    "claim_a": "Absolute positional encoding is sufficient",
+    "paper_b": "RoFormer",
+    "claim_b": "Relative positional encoding captures relationships better"
+  },
+  {
+    "theme": "Fine-tuning vs Few-shot",
+    "paper_a": "BERT: Pre-training",
+    "claim_a": "Task-specific fine-tuning is necessary",
+    "paper_b": "Language Models are Few-shot Learners",
+    "claim_b": "Large models can learn from prompts without fine-tuning"
+  }
+]

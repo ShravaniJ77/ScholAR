@@ -1,0 +1,2488 @@
+{
+  "type": "complete",
+  "papers": [
+    {
+      "paperId": "530a059cb48477ad1e3d4f8f4b153274c8997332",
+      "url": "https://www.semanticscholar.org/paper/530a059cb48477ad1e3d4f8f4b153274c8997332",
+      "title": "Explainable Artificial Intelligence (XAI): Concepts, Taxonomies, Opportunities and Challenges toward Responsible AI",
+      "year": 2019,
+      "citationCount": 8148,
+      "openAccessPdf": {
+        "url": "https://bird.bcamath.org/bitstream/20.500.11824/1166/1/24.%20main.pdf",
+        "status": "GREEN",
+        "license": "CCBYNCSA",
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1910.10045, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "1379511816",
+          "name": "Alejandro Barredo Arrieta"
+        },
+        {
+          "authorId": "2058921025",
+          "name": "Natalia Díaz Rodríguez"
+        },
+        {
+          "authorId": "9221552",
+          "name": "J. Ser"
+        },
+        {
+          "authorId": "1379511786",
+          "name": "Adrien Bennetot"
+        },
+        {
+          "authorId": "3030006",
+          "name": "S. Tabik"
+        },
+        {
+          "authorId": "50449165",
+          "name": "A. Barbado"
+        },
+        {
+          "authorId": "39558258",
+          "name": "S. García"
+        },
+        {
+          "authorId": "1402195255",
+          "name": "S. Gil-Lopez"
+        },
+        {
+          "authorId": "145337392",
+          "name": "D. Molina"
+        },
+        {
+          "authorId": "2445552",
+          "name": "Richard Benjamins"
+        },
+        {
+          "authorId": "2091924780",
+          "name": "Raja Chatila"
+        },
+        {
+          "authorId": "2098723448",
+          "name": "Francisco Herrera"
+        }
+      ],
+      "abstract": "In the last years, Artificial Intelligence (AI) has achieved a notable momentum that may deliver the best of expectations over many application sectors across the field. For this to occur, the entire community stands in front of the barrier of explainability, an inherent problem of AI techniques brought by sub-symbolism (e.g. ensembles or Deep Neural Networks) that were not present in the last hype of AI. Paradigms underlying this problem fall within the so-called eXplainable AI (XAI) field, which is acknowledged as a crucial feature for the practical deployment of AI models. This overview examines the existing literature in the field of XAI, including a prospect toward what is yet to be reached. We summarize previous efforts to define explainability in Machine Learning, establishing a novel definition that covers prior conceptual propositions with a major focus on the audience for which explainability is sought. We then propose and discuss about a taxonomy of recent contributions related to the explainability of different Machine Learning models, including those aimed at Deep Learning methods for which a second taxonomy is built. This literature analysis serves as the background for a series of challenges faced by XAI, such as the crossroads between data fusion and explainability. Our prospects lead toward the concept of Responsible Artificial Intelligence, namely, a methodology for the large-scale implementation of AI methods in real organizations with fairness, model explainability and accountability at its core. Our ultimate goal is to provide newcomers to XAI with a reference material in order to stimulate future research advances, but also to encourage experts and professionals from other disciplines to embrace the benefits of AI in their activity sectors, without any prior bias for its lack of interpretability.",
+      "author_str": "Alejandro Barredo Arrieta, Natalia Díaz Rodríguez, J. Ser",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "b95baf93d1cfb406b50aa370ce5ba18788b5891d",
+      "url": "https://www.semanticscholar.org/paper/b95baf93d1cfb406b50aa370ce5ba18788b5891d",
+      "title": "Cosmos World Foundation Model Platform for Physical AI",
+      "year": 2025,
+      "citationCount": 521,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2501.03575, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2338889954",
+          "name": "Nvidia Niket Agarwal"
+        },
+        {
+          "authorId": "1405851901",
+          "name": "Arslan Ali"
+        },
+        {
+          "authorId": "2330191272",
+          "name": "Maciej Bala"
+        },
+        {
+          "authorId": "2310337201",
+          "name": "Yogesh Balaji"
+        },
+        {
+          "authorId": "2338890412",
+          "name": "Erik Barker"
+        },
+        {
+          "authorId": "2330193931",
+          "name": "Tiffany Cai"
+        },
+        {
+          "authorId": "40424000",
+          "name": "Prithvijit Chattopadhyay"
+        },
+        {
+          "authorId": "2221031822",
+          "name": "Yongxin Chen"
+        },
+        {
+          "authorId": "2299115514",
+          "name": "Yin Cui"
+        },
+        {
+          "authorId": "2263775555",
+          "name": "Yifan Ding"
+        },
+        {
+          "authorId": "2338890333",
+          "name": "Daniel Dworakowski"
+        },
+        {
+          "authorId": "2328007579",
+          "name": "JiaoJiao Fan"
+        },
+        {
+          "authorId": "1779415",
+          "name": "Michele Fenzi"
+        },
+        {
+          "authorId": "2260336030",
+          "name": "Francesco Ferroni"
+        },
+        {
+          "authorId": "2261282058",
+          "name": "Sanja Fidler"
+        },
+        {
+          "authorId": "2257169746",
+          "name": "Dieter Fox"
+        },
+        {
+          "authorId": "2338889811",
+          "name": "Songwei Ge"
+        },
+        {
+          "authorId": "2299104362",
+          "name": "Yunhao Ge"
+        },
+        {
+          "authorId": "2338980231",
+          "name": "Jinwei Gu"
+        },
+        {
+          "authorId": "3454904",
+          "name": "Siddharth Gururani"
+        },
+        {
+          "authorId": "2338890507",
+          "name": "Ethan He"
+        },
+        {
+          "authorId": "2244137145",
+          "name": "Jiahui Huang"
+        },
+        {
+          "authorId": "2298965422",
+          "name": "J. Huffman"
+        },
+        {
+          "authorId": "2313203519",
+          "name": "Pooya Jannaty"
+        },
+        {
+          "authorId": "2313473772",
+          "name": "Jingyi Jin"
+        },
+        {
+          "authorId": "2262213592",
+          "name": "S. Kim"
+        },
+        {
+          "authorId": "2338890422",
+          "name": "Gergely Kl'ar"
+        },
+        {
+          "authorId": "2330190570",
+          "name": "Grace Lam"
+        },
+        {
+          "authorId": "2338890616",
+          "name": "Shiyi Lan"
+        },
+        {
+          "authorId": "1388407684",
+          "name": "L. Leal-Taixé"
+        },
+        {
+          "authorId": "2364873725",
+          "name": "Anqi Li"
+        },
+        {
+          "authorId": "2313218585",
+          "name": "Zhaoshuo Li"
+        },
+        {
+          "authorId": "2313497801",
+          "name": "Chen-Hsuan Lin"
+        },
+        {
+          "authorId": "2300141490",
+          "name": "Tsung-Yi Lin"
+        },
+        {
+          "authorId": "18900686",
+          "name": "Huan Ling"
+        },
+        {
+          "authorId": "2299018949",
+          "name": "Ming-Yu Liu"
+        },
+        {
+          "authorId": "2323079661",
+          "name": "Xian Liu"
+        },
+        {
+          "authorId": "2330185830",
+          "name": "Alice Luo"
+        },
+        {
+          "authorId": "2313310048",
+          "name": "Qianli Ma"
+        },
+        {
+          "authorId": "2313167739",
+          "name": "Hanzi Mao"
+        },
+        {
+          "authorId": "2261042152",
+          "name": "Kaichun Mo"
+        },
+        {
+          "authorId": "3040583",
+          "name": "A. Mousavian"
+        },
+        {
+          "authorId": "40648435",
+          "name": "Seungjun Nah"
+        },
+        {
+          "authorId": "2338889490",
+          "name": "Sriharsha Niverty"
+        },
+        {
+          "authorId": "2338890044",
+          "name": "David Page"
+        },
+        {
+          "authorId": "2328977814",
+          "name": "Despoina Paschalidou"
+        },
+        {
+          "authorId": "2338890341",
+          "name": "Zeeshan Patel"
+        },
+        {
+          "authorId": "2338890844",
+          "name": "Lindsey Pavao"
+        },
+        {
+          "authorId": "2338890557",
+          "name": "Morteza Ramezanali"
+        },
+        {
+          "authorId": "3291967",
+          "name": "F. Reda"
+        },
+        {
+          "authorId": "2201343711",
+          "name": "Xiao-Shuai Ren"
+        },
+        {
+          "authorId": "2306951791",
+          "name": "Vasanth Rao Naik Sabavat"
+        },
+        {
+          "authorId": "2286298438",
+          "name": "Ed Schmerling"
+        },
+        {
+          "authorId": "2330236588",
+          "name": "Stella Shi"
+        },
+        {
+          "authorId": "2338889798",
+          "name": "Bartosz Stefaniak"
+        },
+        {
+          "authorId": "2338977747",
+          "name": "Shitao Tang"
+        },
+        {
+          "authorId": "26917145",
+          "name": "Lyne P. Tchapmi"
+        },
+        {
+          "authorId": "2338890568",
+          "name": "Przemek Tredak"
+        },
+        {
+          "authorId": "2321873035",
+          "name": "Wei-Cheng Tseng"
+        },
+        {
+          "authorId": "145853825",
+          "name": "J. Varghese"
+        },
+        {
+          "authorId": "2339536289",
+          "name": "Hao Wang"
+        },
+        {
+          "authorId": "2338962955",
+          "name": "Haoxiang Wang"
+        },
+        {
+          "authorId": "2298494612",
+          "name": "Hengyi Wang"
+        },
+        {
+          "authorId": "2322488670",
+          "name": "Tingwei Wang"
+        },
+        {
+          "authorId": "2330307301",
+          "name": "Fangyin Wei"
+        },
+        {
+          "authorId": "2336255140",
+          "name": "Xinyue Wei"
+        },
+        {
+          "authorId": "2167473942",
+          "name": "Jay Zhangjie Wu"
+        },
+        {
+          "authorId": "2301402981",
+          "name": "Jiashu Xu"
+        },
+        {
+          "authorId": "2336525939",
+          "name": "Wei Yang"
+        },
+        {
+          "authorId": "1485124622",
+          "name": "Lin Yen-Chen"
+        },
+        {
+          "authorId": "2152293554",
+          "name": "Xiaohui Zeng"
+        },
+        {
+          "authorId": "2313482950",
+          "name": "Yuan Zeng"
+        },
+        {
+          "authorId": "2339986899",
+          "name": "Jing Zhang"
+        },
+        {
+          "authorId": "2288856236",
+          "name": "Qinsheng Zhang"
+        },
+        {
+          "authorId": "2339352559",
+          "name": "Yuxuan Zhang"
+        },
+        {
+          "authorId": "2258609525",
+          "name": "Qingqing Zhao"
+        },
+        {
+          "authorId": "2338890689",
+          "name": "Artur Zolkowski"
+        }
+      ],
+      "abstract": "Physical AI needs to be trained digitally first. It needs a digital twin of itself, the policy model, and a digital twin of the world, the world model. In this paper, we present the Cosmos World Foundation Model Platform to help developers build customized world models for their Physical AI setups. We position a world foundation model as a general-purpose world model that can be fine-tuned into customized world models for downstream applications. Our platform covers a video curation pipeline, pre-trained world foundation models, examples of post-training of pre-trained world foundation models, and video tokenizers. To help Physical AI builders solve the most critical problems of our society, we make Cosmos open-source and our models open-weight with permissive licenses available via https://github.com/nvidia-cosmos/cosmos-predict1.",
+      "author_str": "Nvidia Niket Agarwal, Arslan Ali, Maciej Bala",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "6b0570e66cdf79704461e1f8a07dc761ac10d6b6",
+      "url": "https://www.semanticscholar.org/paper/6b0570e66cdf79704461e1f8a07dc761ac10d6b6",
+      "title": "TRIPOD+AI statement: updated guidance for reporting clinical prediction models that use regression or machine learning methods",
+      "year": 2024,
+      "citationCount": 1665,
+      "openAccessPdf": {
+        "url": "https://www.bmj.com/content/bmj/385/bmj-2023-078378.full.pdf",
+        "status": "HYBRID",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11019967, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2257322189",
+          "name": "Gary S. Collins"
+        },
+        {
+          "authorId": "2091875914",
+          "name": "K. Moons"
+        },
+        {
+          "authorId": "1388252731",
+          "name": "P. Dhiman"
+        },
+        {
+          "authorId": "2257447747",
+          "name": "R. Riley"
+        },
+        {
+          "authorId": "2257584442",
+          "name": "A. L. Beam"
+        },
+        {
+          "authorId": "2244445872",
+          "name": "Ben Van Calster"
+        },
+        {
+          "authorId": "2279872952",
+          "name": "Marzyeh Ghassemi"
+        },
+        {
+          "authorId": "2219972750",
+          "name": "Xiaoxuan Liu"
+        },
+        {
+          "authorId": "2248418248",
+          "name": "Johannes B Reitsma"
+        },
+        {
+          "authorId": "52122002",
+          "name": "M. van Smeden"
+        },
+        {
+          "authorId": "1751504",
+          "name": "A. Boulesteix"
+        },
+        {
+          "authorId": "2183918933",
+          "name": "J. Camaradou"
+        },
+        {
+          "authorId": "2237763287",
+          "name": "L. Celi"
+        },
+        {
+          "authorId": "48144767",
+          "name": "S. Denaxas"
+        },
+        {
+          "authorId": "2063943517",
+          "name": "A. Denniston"
+        },
+        {
+          "authorId": "2285836371",
+          "name": "Ben Glocker"
+        },
+        {
+          "authorId": "2296959913",
+          "name": "Robert M Golub"
+        },
+        {
+          "authorId": "2290161098",
+          "name": "Hugh Harvey"
+        },
+        {
+          "authorId": "2291829694",
+          "name": "G. Heinze"
+        },
+        {
+          "authorId": "2296960060",
+          "name": "Michael M. Hoffman"
+        },
+        {
+          "authorId": "2194601968",
+          "name": "A. Kengne"
+        },
+        {
+          "authorId": "2296959853",
+          "name": "Emily Lam"
+        },
+        {
+          "authorId": "2114130748",
+          "name": "Naomi Lee"
+        },
+        {
+          "authorId": "2245014029",
+          "name": "Elizabeth W Loder"
+        },
+        {
+          "authorId": "2243190191",
+          "name": "Lena Maier-Hein"
+        },
+        {
+          "authorId": "2055982546",
+          "name": "B. Mateen"
+        },
+        {
+          "authorId": "46223842",
+          "name": "Melissa Mccradden"
+        },
+        {
+          "authorId": "2280109042",
+          "name": "Lauren Oakden-Rayner"
+        },
+        {
+          "authorId": "79837060",
+          "name": "Johan Ordish"
+        },
+        {
+          "authorId": "2296959884",
+          "name": "Richard Parnell"
+        },
+        {
+          "authorId": "2296960385",
+          "name": "S. Rose"
+        },
+        {
+          "authorId": "2240157236",
+          "name": "Karandeep Singh"
+        },
+        {
+          "authorId": "46662915",
+          "name": "L. Wynants"
+        },
+        {
+          "authorId": "1393547851",
+          "name": "P. Logullo"
+        }
+      ],
+      "abstract": "The TRIPOD (Transparent Reporting of a multivariable prediction model for Individual Prognosis Or Diagnosis) statement was published in 2015 to provide the minimum reporting recommendations for studies developing or evaluating the performance of a prediction model. Methodological advances in the field of prediction have since included the widespread use of artificial intelligence (AI) powered by machine learning methods to develop prediction models. An update to the TRIPOD statement is thus needed. TRIPOD+AI provides harmonised guidance for reporting prediction model studies, irrespective of whether regression modelling or machine learning methods have been used. The new checklist supersedes the TRIPOD 2015 checklist, which should no longer be used. This article describes the development of TRIPOD+AI and presents the expanded 27 item checklist with more detailed explanation of each reporting recommendation, and the TRIPOD+AI for Abstracts checklist. TRIPOD+AI aims to promote the complete, accurate, and transparent reporting of studies that develop a prediction model or evaluate its performance. Complete reporting will facilitate study appraisal, model evaluation, and model implementation.",
+      "author_str": "Gary S. Collins, K. Moons, P. Dhiman",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "3936fd3c6187f606c6e4e2e20b196dbc41cc4654",
+      "url": "https://www.semanticscholar.org/paper/3936fd3c6187f606c6e4e2e20b196dbc41cc4654",
+      "title": "Constitutional AI: Harmlessness from AI Feedback",
+      "year": 2022,
+      "citationCount": 2706,
+      "openAccessPdf": {
+        "url": "http://arxiv.org/pdf/2212.08073",
+        "status": "GREEN",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2212.08073, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "1486307451",
+          "name": "Yuntao Bai"
+        },
+        {
+          "authorId": "148070327",
+          "name": "Saurav Kadavath"
+        },
+        {
+          "authorId": "2158813858",
+          "name": "Sandipan Kundu"
+        },
+        {
+          "authorId": "119609682",
+          "name": "Amanda Askell"
+        },
+        {
+          "authorId": "1583434563",
+          "name": "John Kernion"
+        },
+        {
+          "authorId": "2149890773",
+          "name": "Andy Jones"
+        },
+        {
+          "authorId": "2111074159",
+          "name": "A. Chen"
+        },
+        {
+          "authorId": "46684455",
+          "name": "Anna Goldie"
+        },
+        {
+          "authorId": "1861312",
+          "name": "Azalia Mirhoseini"
+        },
+        {
+          "authorId": "2190108315",
+          "name": "C. McKinnon"
+        },
+        {
+          "authorId": "2183729976",
+          "name": "Carol Chen"
+        },
+        {
+          "authorId": "2061321863",
+          "name": "Catherine Olsson"
+        },
+        {
+          "authorId": "2287268442",
+          "name": "Chris Olah"
+        },
+        {
+          "authorId": "39182747",
+          "name": "Danny Hernandez"
+        },
+        {
+          "authorId": "1943097969",
+          "name": "Dawn Drain"
+        },
+        {
+          "authorId": "2081806483",
+          "name": "Deep Ganguli"
+        },
+        {
+          "authorId": "2108506462",
+          "name": "Dustin Li"
+        },
+        {
+          "authorId": "2175781319",
+          "name": "Eli Tran-Johnson"
+        },
+        {
+          "authorId": "47635264",
+          "name": "E. Perez"
+        },
+        {
+          "authorId": "2067765208",
+          "name": "Jamie Kerr"
+        },
+        {
+          "authorId": "2190111475",
+          "name": "J. Mueller"
+        },
+        {
+          "authorId": "70988670",
+          "name": "Jeffrey Ladish"
+        },
+        {
+          "authorId": "2068044809",
+          "name": "J. Landau"
+        },
+        {
+          "authorId": "1978097132",
+          "name": "Kamal Ndousse"
+        },
+        {
+          "authorId": "2105347564",
+          "name": "Kamilė Lukošiūtė"
+        },
+        {
+          "authorId": "2154608229",
+          "name": "Liane Lovitt"
+        },
+        {
+          "authorId": "2054578129",
+          "name": "M. Sellitto"
+        },
+        {
+          "authorId": "2866708",
+          "name": "Nelson Elhage"
+        },
+        {
+          "authorId": "2833768",
+          "name": "Nicholas Schiefer"
+        },
+        {
+          "authorId": "2190107517",
+          "name": "Noem'i Mercado"
+        },
+        {
+          "authorId": "2142833890",
+          "name": "Nova Dassarma"
+        },
+        {
+          "authorId": "3112577",
+          "name": "R. Lasenby"
+        },
+        {
+          "authorId": "48810415",
+          "name": "Robin Larson"
+        },
+        {
+          "authorId": "1380664820",
+          "name": "Sam Ringer"
+        },
+        {
+          "authorId": "2154610174",
+          "name": "Scott Johnston"
+        },
+        {
+          "authorId": "49604482",
+          "name": "Shauna Kravec"
+        },
+        {
+          "authorId": "2154609053",
+          "name": "S. E. Showk"
+        },
+        {
+          "authorId": "30176974",
+          "name": "Stanislav Fort"
+        },
+        {
+          "authorId": "46239941",
+          "name": "Tamera Lanham"
+        },
+        {
+          "authorId": "1419532638",
+          "name": "Timothy Telleen-Lawton"
+        },
+        {
+          "authorId": "2154608209",
+          "name": "Tom Conerly"
+        },
+        {
+          "authorId": "103143311",
+          "name": "T. Henighan"
+        },
+        {
+          "authorId": "2162194147",
+          "name": "Tristan Hume"
+        },
+        {
+          "authorId": "1799822",
+          "name": "Sam Bowman"
+        },
+        {
+          "authorId": "1573482302",
+          "name": "Zac Hatfield-Dodds"
+        },
+        {
+          "authorId": "2056658938",
+          "name": "Benjamin Mann"
+        },
+        {
+          "authorId": "2698777",
+          "name": "Dario Amodei"
+        },
+        {
+          "authorId": "2117706920",
+          "name": "Nicholas Joseph"
+        },
+        {
+          "authorId": "52238703",
+          "name": "Sam McCandlish"
+        },
+        {
+          "authorId": "31035595",
+          "name": "Tom B. Brown"
+        },
+        {
+          "authorId": "2053807409",
+          "name": "Jared Kaplan"
+        }
+      ],
+      "abstract": "As AI systems become more capable, we would like to enlist their help to supervise other AIs. We experiment with methods for training a harmless AI assistant through self-improvement, without any human labels identifying harmful outputs. The only human oversight is provided through a list of rules or principles, and so we refer to the method as 'Constitutional AI'. The process involves both a supervised learning and a reinforcement learning phase. In the supervised phase we sample from an initial model, then generate self-critiques and revisions, and then finetune the original model on revised responses. In the RL phase, we sample from the finetuned model, use a model to evaluate which of the two samples is better, and then train a preference model from this dataset of AI preferences. We then train with RL using the preference model as the reward signal, i.e. we use 'RL from AI Feedback' (RLAIF). As a result we are able to train a harmless but non-evasive AI assistant that engages with harmful queries by explaining its objections to them. Both the SL and RL methods can leverage chain-of-thought style reasoning to improve the human-judged performance and transparency of AI decision making. These methods make it possible to control AI behavior more precisely and with far fewer human labels.",
+      "author_str": "Yuntao Bai, Saurav Kadavath, Sandipan Kundu",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "7b6a8c6d44e0f77bf930484e438d77b7465a69fb",
+      "url": "https://www.semanticscholar.org/paper/7b6a8c6d44e0f77bf930484e438d77b7465a69fb",
+      "title": "Education in the Era of Generative Artificial Intelligence (AI): Understanding the Potential Benefits of ChatGPT in Promoting Teaching and Learning",
+      "year": 2023,
+      "citationCount": 2221,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.2139/ssrn.4337484?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.2139/ssrn.4337484, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "1411783122",
+          "name": "David Baidoo-Anu"
+        },
+        {
+          "authorId": "2203232571",
+          "name": "Leticia Owusu Ansah"
+        }
+      ],
+      "abstract": "Since its maiden release into the public domain on November 30, 2022, ChatGPT garnered more than one million subscribers within a week. The generative AI tool ⎼ChatGPT took the world by surprise with it sophisticated capacity to carry out remarkably complex tasks. The extraordinary abilities of ChatGPT to perform complex tasks within the field of education has caused mixed feelings among educators, as this advancement in AI seems to revolutionize existing educational praxis. This is an exploratory study that synthesizes recent extant literature to offer some potential benefits and drawbacks of ChatGPT in promoting teaching and learning. Benefits of ChatGPT include but are not limited to promotion of personalized and interactive learning, generating prompts for formative assessment activities that provide ongoing feedback to inform teaching and learning etc. The paper also highlights some inherent limitations in the ChatGPT such as generating wrong information, biases in data training, which may augment existing biases, privacy issues etc. The study offers recommendations on how ChatGPT could be leveraged to maximize teaching and learning. Policy makers, researchers, educators and technology experts could work together and start conversations on how these evolving generative AI tools could be used safely and constructively to improve education and support students’ learning.",
+      "author_str": "David Baidoo-Anu, Leticia Owusu Ansah",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "49b66b980c91f989637b089c2e8284af443aaa25",
+      "url": "https://www.semanticscholar.org/paper/49b66b980c91f989637b089c2e8284af443aaa25",
+      "title": "Students’ voices on generative AI: perceptions, benefits, and challenges in higher education",
+      "year": 2023,
+      "citationCount": 1523,
+      "openAccessPdf": {
+        "url": "https://educationaltechnologyjournal.springeropen.com/counter/pdf/10.1186/s41239-023-00411-8",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2305.00290, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "40588014",
+          "name": "C. Chan"
+        },
+        {
+          "authorId": "2110231364",
+          "name": "Wenjie Hu"
+        }
+      ],
+      "abstract": "This study explores university students’ perceptions of generative AI (GenAI) technologies, such as ChatGPT, in higher education, focusing on familiarity, their willingness to engage, potential benefits and challenges, and effective integration. A survey of 399 undergraduate and postgraduate students from various disciplines in Hong Kong revealed a generally positive attitude towards GenAI in teaching and learning. Students recognized the potential for personalized learning support, writing and brainstorming assistance, and research and analysis capabilities. However, concerns about accuracy, privacy, ethical issues, and the impact on personal development, career prospects, and societal values were also expressed. According to John Biggs’ 3P model, student perceptions significantly influence learning approaches and outcomes. By understanding students’ perceptions, educators and policymakers can tailor GenAI technologies to address needs and concerns while promoting effective learning outcomes. Insights from this study can inform policy development around the integration of GenAI technologies into higher education. By understanding students’ perceptions and addressing their concerns, policymakers can create well-informed guidelines and strategies for the responsible and effective implementation of GenAI tools, ultimately enhancing teaching and learning experiences in higher education. This study focuses on the integration of generative AI (GenAI) technologies, like ChatGPT, into higher education settings. University students’ perceptions of generative AI technologies in higher education were explored, including familiarity, potential benefits, and challenges. A survey of 399 undergraduate and postgraduate students from various disciplines in Hong Kong revealed a generally positive attitude towards GenAI in teaching and learning. Insights from this study can inform policy development around the integration of GenAI technologies into higher education, helping to create well-informed guidelines and strategies for responsible and effective implementation. This study focuses on the integration of generative AI (GenAI) technologies, like ChatGPT, into higher education settings. University students’ perceptions of generative AI technologies in higher education were explored, including familiarity, potential benefits, and challenges. A survey of 399 undergraduate and postgraduate students from various disciplines in Hong Kong revealed a generally positive attitude towards GenAI in teaching and learning. Insights from this study can inform policy development around the integration of GenAI technologies into higher education, helping to create well-informed guidelines and strategies for responsible and effective implementation.",
+      "author_str": "C. Chan, Wenjie Hu",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "d1120d67b700e4dfe8b39eb1e48fbdea4e1a0c43",
+      "url": "https://www.semanticscholar.org/paper/d1120d67b700e4dfe8b39eb1e48fbdea4e1a0c43",
+      "title": "HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face",
+      "year": 2023,
+      "citationCount": 1375,
+      "openAccessPdf": {
+        "url": "http://arxiv.org/pdf/2303.17580",
+        "status": "GREEN",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2303.17580, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "1471660296",
+          "name": "Yongliang Shen"
+        },
+        {
+          "authorId": "50982078",
+          "name": "Kaitao Song"
+        },
+        {
+          "authorId": "48391466",
+          "name": "Xu Tan"
+        },
+        {
+          "authorId": "2330364101",
+          "name": "Dongsheng Li"
+        },
+        {
+          "authorId": "1776903",
+          "name": "Weiming Lu"
+        },
+        {
+          "authorId": "2056432541",
+          "name": "Y. Zhuang"
+        }
+      ],
+      "abstract": "Solving complicated AI tasks with different domains and modalities is a key step toward artificial general intelligence. While there are numerous AI models available for various domains and modalities, they cannot handle complicated AI tasks autonomously. Considering large language models (LLMs) have exhibited exceptional abilities in language understanding, generation, interaction, and reasoning, we advocate that LLMs could act as a controller to manage existing AI models to solve complicated AI tasks, with language serving as a generic interface to empower this. Based on this philosophy, we present HuggingGPT, an LLM-powered agent that leverages LLMs (e.g., ChatGPT) to connect various AI models in machine learning communities (e.g., Hugging Face) to solve AI tasks. Specifically, we use ChatGPT to conduct task planning when receiving a user request, select models according to their function descriptions available in Hugging Face, execute each subtask with the selected AI model, and summarize the response according to the execution results. By leveraging the strong language capability of ChatGPT and abundant AI models in Hugging Face, HuggingGPT can tackle a wide range of sophisticated AI tasks spanning different modalities and domains and achieve impressive results in language, vision, speech, and other challenging tasks, which paves a new way towards the realization of artificial general intelligence.",
+      "author_str": "Yongliang Shen, Kaitao Song, Xu Tan",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "cce6e863d5408244284d97f5a13e8c9ab103ad01",
+      "url": "https://www.semanticscholar.org/paper/cce6e863d5408244284d97f5a13e8c9ab103ad01",
+      "title": "AI Tools in Society: Impacts on Cognitive Offloading and the Future of Critical Thinking",
+      "year": 2025,
+      "citationCount": 521,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/soc15010006?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/soc15010006, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2238511627",
+          "name": "Michael Gerlich"
+        }
+      ],
+      "abstract": "The proliferation of artificial intelligence (AI) tools has transformed numerous aspects of daily life, yet its impact on critical thinking remains underexplored. This study investigates the relationship between AI tool usage and critical thinking skills, focusing on cognitive offloading as a mediating factor. Utilising a mixed-method approach, we conducted surveys and in-depth interviews with 666 participants across diverse age groups and educational backgrounds. Quantitative data were analysed using ANOVA and correlation analysis, while qualitative insights were obtained through thematic analysis of interview transcripts. The findings revealed a significant negative correlation between frequent AI tool usage and critical thinking abilities, mediated by increased cognitive offloading. Younger participants exhibited higher dependence on AI tools and lower critical thinking scores compared to older participants. Furthermore, higher educational attainment was associated with better critical thinking skills, regardless of AI usage. These results highlight the potential cognitive costs of AI tool reliance, emphasising the need for educational strategies that promote critical engagement with AI technologies. This study contributes to the growing discourse on AI’s cognitive implications, offering practical recommendations for mitigating its adverse effects on critical thinking. The findings underscore the importance of fostering critical thinking in an AI-driven world, making this research essential reading for educators, policymakers, and technologists.",
+      "author_str": "Michael Gerlich",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "09d8841eeb362a2c04f055f70f16d634093c83bc",
+      "url": "https://www.semanticscholar.org/paper/09d8841eeb362a2c04f055f70f16d634093c83bc",
+      "title": "Agentic AI: Autonomous Intelligence for Complex Goals—A Comprehensive Survey",
+      "year": 2025,
+      "citationCount": 422,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.1109/access.2025.3532853",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ACCESS.2025.3532853?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ACCESS.2025.3532853, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2064564791",
+          "name": "D. Acharya"
+        },
+        {
+          "authorId": "2327269983",
+          "name": "Karthigeyan Kuppan"
+        },
+        {
+          "authorId": "2329573117",
+          "name": "Divya Bhaskaracharya"
+        }
+      ],
+      "abstract": "Agentic AI, an emerging paradigm in artificial intelligence, refers to autonomous systems designed to pursue complex goals with minimal human intervention. Unlike traditional AI, which depends on structured instructions and close oversight, Agentic AI demonstrates adaptability, advanced decision-making capabilities and self-sufficiency, enabling it to operate dynamically in evolving environments. This survey thoroughly explores the foundational concepts, unique characteristics, and core methodologies driving the development of Agentic AI. We examine its current and potential applications across various fields, including healthcare, finance, and adaptive software systems, emphasizing the advantages of deploying agentic systems in real-world scenarios. The paper also addresses the ethical challenges posed by Agentic AI, proposing solutions for goal alignment, resource constraints, and environmental adaptability. We outline a framework for safely and effectively integrating Agentic AI into society, highlighting the need for further research on ethical considerations to ensure beneficial societal impacts. This survey serves as a comprehensive introduction to Agentic AI, guiding researchers, developers, and policymakers in engaging with its transformative potential responsibly and creatively.",
+      "author_str": "D. Acharya, Karthigeyan Kuppan, Divya Bhaskaracharya",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "986e813f4c4f36786c3642cb9c8718586e47bdcf",
+      "url": "https://www.semanticscholar.org/paper/986e813f4c4f36786c3642cb9c8718586e47bdcf",
+      "title": "AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenges",
+      "year": 2025,
+      "citationCount": 279,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2505.10468, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2240132532",
+          "name": "Ranjan Sapkota"
+        },
+        {
+          "authorId": "2090274411",
+          "name": "Konstantinos I. Roumeliotis"
+        },
+        {
+          "authorId": "2301347633",
+          "name": "Manoj Karkee"
+        }
+      ],
+      "abstract": "This review critically distinguishes between AI Agents and Agentic AI, offering a structured, conceptual taxonomy, application mapping, and analysis of opportunities and challenges to clarify their divergent design philosophies and capabilities. We begin by outlining the search strategy and foundational definitions, characterizing AI Agents as modular systems driven and enabled by LLMs and LIMs for taskspecific automation. Generative AI is positioned as a precursor providing the foundation, with AI agents advancing through tool integration, prompt engineering, and reasoning enhancements. We then characterize Agentic AI systems, which, in contrast to AI Agents, represent a paradigm shift marked by multi-agent collaboration, dynamic task decomposition, persistent memory, and coordinated autonomy. Through a chronological evaluation of architectural evolution, operational mechanisms, interaction styles, and autonomy levels, we present a comparative analysis across both AI agents and agentic AI paradigms. Application domains enabled by AI Agents such as customer support, scheduling, and data summarization are then contrasted with Agentic AI deployments in research automation, robotic coordination, and medical decision support. We further examine unique challenges in each paradigm including hallucination, brittleness, emergent behavior, and coordination failure, and propose targeted solutions such as ReAct loops, retrieval-augmented generation (RAG), automation coordination layers, and causal modeling. This work aims to provide a roadmap for developing robust, scalable, and explainable AI-driven systems.  ",
+      "author_str": "Ranjan Sapkota, Konstantinos I. Roumeliotis, Manoj Karkee",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "380dcd9a2dd61dabbc26c2b9b902420924721beb",
+      "url": "https://www.semanticscholar.org/paper/380dcd9a2dd61dabbc26c2b9b902420924721beb",
+      "title": "AI governance: a systematic literature review",
+      "year": 2025,
+      "citationCount": 118,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.1007/s43681-024-00653-w",
+        "status": "HYBRID",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s43681-024-00653-w?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s43681-024-00653-w, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2280136906",
+          "name": "Amna Batool"
+        },
+        {
+          "authorId": "1740931",
+          "name": "Didar Zowghi"
+        },
+        {
+          "authorId": "2514873",
+          "name": "Muneera Bano"
+        }
+      ],
+      "abstract": "As artificial intelligence (AI) transforms a wide range of sectors and drives innovation, it also introduces different types of risks that should be identified, assessed, and mitigated. Various AI governance frameworks have been released recently by governments, organizations, and companies to mitigate risks associated with AI. However, it can be challenging for AI stakeholders to have a clear picture of the available AI governance frameworks, tools, or models and analyze the most suitable one for their AI system. To fill the gap, we present the literature to answer key questions: WHO is accountable for AI systems’ governance, WHAT elements are being governed, WHEN governance occurs within the AI development life cycle, and HOW it is implemented through frameworks, tools, policies, or models. Adopting the systematic literature review (SLR) methodology, this study meticulously searched, selected, and analyzed 28 articles, offering a foundation for understanding different facets of AI governance. The analysis is further enhanced by categorizing artifacts of AI governance under team-level governance, organization-level governance, industry-level governance, national-level governance, and international-level governance. The findings of this study on existing AI governance solutions can assist research communities in proposing comprehensive AI governance practices.",
+      "author_str": "Amna Batool, Didar Zowghi, Muneera Bano",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "6a132499ca1dc0d23cfe7d5db841b819df63b51b",
+      "url": "https://www.semanticscholar.org/paper/6a132499ca1dc0d23cfe7d5db841b819df63b51b",
+      "title": "Artificial Intelligence (AI): Multidisciplinary perspectives on emerging challenges, opportunities, and agenda for research, practice and policy",
+      "year": 2019,
+      "citationCount": 3203,
+      "openAccessPdf": {
+        "url": "http://pure.tudelft.nl/ws/portalfiles/portal/85676082/1_s2.0_S026840121930917X_main.pdf",
+        "status": "GREEN",
+        "license": "other-oa",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/J.IJINFOMGT.2019.08.002?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/J.IJINFOMGT.2019.08.002, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "1724490",
+          "name": "Yogesh Kumar Dwivedi"
+        },
+        {
+          "authorId": "2066599148",
+          "name": "Laurie Hughes"
+        },
+        {
+          "authorId": "3446873",
+          "name": "Elvira Ismagilova"
+        },
+        {
+          "authorId": "91018104",
+          "name": "G. Aarts"
+        },
+        {
+          "authorId": "2235927",
+          "name": "Crispin R. Coombs"
+        },
+        {
+          "authorId": "2285182",
+          "name": "Tom Crick"
+        },
+        {
+          "authorId": "144521858",
+          "name": "Y. Duan"
+        },
+        {
+          "authorId": "1410968693",
+          "name": "R. Dwivedi"
+        },
+        {
+          "authorId": "143698898",
+          "name": "J. Edwards"
+        },
+        {
+          "authorId": "121714298",
+          "name": "Aled Eirug"
+        },
+        {
+          "authorId": "26898704",
+          "name": "Vassilis Galanos"
+        },
+        {
+          "authorId": "2937059",
+          "name": "P. Ilavarasan"
+        },
+        {
+          "authorId": "50817520",
+          "name": "M. Janssen"
+        },
+        {
+          "authorId": "2168272578",
+          "name": "Paul Jones"
+        },
+        {
+          "authorId": "2733956",
+          "name": "A. Kar"
+        },
+        {
+          "authorId": "41074539",
+          "name": "Hatice Kizgin"
+        },
+        {
+          "authorId": "1418648774",
+          "name": "Bianca Kronemann"
+        },
+        {
+          "authorId": "1696747",
+          "name": "Banita Lal"
+        },
+        {
+          "authorId": "3094343",
+          "name": "B. Lucini"
+        },
+        {
+          "authorId": "2575165",
+          "name": "R. Medaglia"
+        },
+        {
+          "authorId": "1404797274",
+          "name": "K. L. Meunier-FitzHugh"
+        },
+        {
+          "authorId": "1415234363",
+          "name": "L. Meunier-FitzHugh"
+        },
+        {
+          "authorId": "47033159",
+          "name": "S. Misra"
+        },
+        {
+          "authorId": "52563419",
+          "name": "E. Mogaji"
+        },
+        {
+          "authorId": "2038468629",
+          "name": "S. Sharma"
+        },
+        {
+          "authorId": "153278840",
+          "name": "J. Singh"
+        },
+        {
+          "authorId": "35098701",
+          "name": "Vishnupriya Raghavan"
+        },
+        {
+          "authorId": "2775338",
+          "name": "R. Raman"
+        },
+        {
+          "authorId": "1688149",
+          "name": "Nripendra P. Rana"
+        },
+        {
+          "authorId": "2032434",
+          "name": "Spyridon Samothrakis"
+        },
+        {
+          "authorId": "66781543",
+          "name": "Jak Spencer"
+        },
+        {
+          "authorId": "2191954",
+          "name": "K. Tamilmani"
+        },
+        {
+          "authorId": "102927759",
+          "name": "Annie Tubadji"
+        },
+        {
+          "authorId": "144340154",
+          "name": "P. Walton"
+        },
+        {
+          "authorId": "2116399602",
+          "name": "Michael D. Williams"
+        }
+      ],
+      "abstract": "As far back as the industrial revolution, significant development in technical innovation has succeeded in transforming numerous manual tasks and processes that had been in existence for decades where humans had reached the limits of physical capacity. Artificial Intelligence (AI) offers this same transformative potential for the augmentation and potential replacement of human tasks and activities within a wide range of industrial, intellectual and social applications. The pace of change for this new AI technological age is staggering, with new breakthroughs in algorithmic machine learning and autonomous decision-making, engendering new opportunities for continued innovation. The impact of AI could be significant, with industries ranging from: finance, healthcare, manufacturing, retail, supply chain, logistics and utilities, all potentially disrupted by the onset of AI technologies. The study brings together the collective insight from a number of leading expert contributors to highlight the significant opportunities, realistic assessment of impact, challenges and potential research agenda posed by the rapid emergence of AI within a number of domains: business and management, government, public sector, and science and technology. This research offers significant and timely insight to AI technology and its impact on the future of industry and society in general, whilst recognising the societal and industrial influence on pace and direction of AI development.",
+      "author_str": "Yogesh Kumar Dwivedi, Laurie Hughes, Elvira Ismagilova",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "33161a5a9b5dcb635b5a97475e6a6209a69ada7d",
+      "url": "https://www.semanticscholar.org/paper/33161a5a9b5dcb635b5a97475e6a6209a69ada7d",
+      "title": "The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery",
+      "year": 2024,
+      "citationCount": 637,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2408.06292, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2315946369",
+          "name": "Chris Lu"
+        },
+        {
+          "authorId": "2110752472",
+          "name": "Cong Lu"
+        },
+        {
+          "authorId": "2266838849",
+          "name": "R. Lange"
+        },
+        {
+          "authorId": "2275156099",
+          "name": "Jakob Foerster"
+        },
+        {
+          "authorId": "2303255568",
+          "name": "Jeff Clune"
+        },
+        {
+          "authorId": "2315921540",
+          "name": "David Ha"
+        }
+      ],
+      "abstract": "One of the grand challenges of artificial general intelligence is developing agents capable of conducting scientific research and discovering new knowledge. While frontier models have already been used as aides to human scientists, e.g. for brainstorming ideas, writing code, or prediction tasks, they still conduct only a small part of the scientific process. This paper presents the first comprehensive framework for fully automatic scientific discovery, enabling frontier large language models to perform research independently and communicate their findings. We introduce The AI Scientist, which generates novel research ideas, writes code, executes experiments, visualizes results, describes its findings by writing a full scientific paper, and then runs a simulated review process for evaluation. In principle, this process can be repeated to iteratively develop ideas in an open-ended fashion, acting like the human scientific community. We demonstrate its versatility by applying it to three distinct subfields of machine learning: diffusion modeling, transformer-based language modeling, and learning dynamics. Each idea is implemented and developed into a full paper at a cost of less than $15 per paper. To evaluate the generated papers, we design and validate an automated reviewer, which we show achieves near-human performance in evaluating paper scores. The AI Scientist can produce papers that exceed the acceptance threshold at a top machine learning conference as judged by our automated reviewer. This approach signifies the beginning of a new era in scientific discovery in machine learning: bringing the transformative benefits of AI agents to the entire research process of AI itself, and taking us closer to a world where endless affordable creativity and innovation can be unleashed on the world's most challenging problems. Our code is open-sourced at https://github.com/SakanaAI/AI-Scientist",
+      "author_str": "Chris Lu, Cong Lu, R. Lange",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "c0b454e0a6aa51ff3ba56778787d0c43932ef6ba",
+      "url": "https://www.semanticscholar.org/paper/c0b454e0a6aa51ff3ba56778787d0c43932ef6ba",
+      "title": "Yi: Open Foundation Models by 01.AI",
+      "year": 2024,
+      "citationCount": 815,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2403.04652, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2290178701",
+          "name": "01.AI Alex Young"
+        },
+        {
+          "authorId": "2290245800",
+          "name": "Bei Chen"
+        },
+        {
+          "authorId": "2290286218",
+          "name": "Chao Li"
+        },
+        {
+          "authorId": "2290360747",
+          "name": "Chengen Huang"
+        },
+        {
+          "authorId": "2143853895",
+          "name": "Ge Zhang"
+        },
+        {
+          "authorId": "2290272624",
+          "name": "Guanwei Zhang"
+        },
+        {
+          "authorId": "2290228500",
+          "name": "Heng Li"
+        },
+        {
+          "authorId": "2290357307",
+          "name": "Jiangcheng Zhu"
+        },
+        {
+          "authorId": "2290238645",
+          "name": "Jianqun Chen"
+        },
+        {
+          "authorId": "2355237017",
+          "name": "Jingwen Chang"
+        },
+        {
+          "authorId": "2290937601",
+          "name": "Kaidong Yu"
+        },
+        {
+          "authorId": "2290396077",
+          "name": "Peng Liu"
+        },
+        {
+          "authorId": "2288025062",
+          "name": "Qiang Liu"
+        },
+        {
+          "authorId": "2282979169",
+          "name": "Shawn Yue"
+        },
+        {
+          "authorId": "2290243755",
+          "name": "Senbin Yang"
+        },
+        {
+          "authorId": "2282346328",
+          "name": "Shiming Yang"
+        },
+        {
+          "authorId": "2260292688",
+          "name": "Tao Yu"
+        },
+        {
+          "authorId": "2290361800",
+          "name": "Wen Xie"
+        },
+        {
+          "authorId": "2239245627",
+          "name": "Wenhao Huang"
+        },
+        {
+          "authorId": "2290209190",
+          "name": "Xiaohui Hu"
+        },
+        {
+          "authorId": "2290242669",
+          "name": "Xiaoyi Ren"
+        },
+        {
+          "authorId": "2290184043",
+          "name": "Xinyao Niu"
+        },
+        {
+          "authorId": "2290181171",
+          "name": "Pengcheng Nie"
+        },
+        {
+          "authorId": "2156553010",
+          "name": "Yuchi Xu"
+        },
+        {
+          "authorId": "2242966052",
+          "name": "Yudong Liu"
+        },
+        {
+          "authorId": "2238545529",
+          "name": "Yue Wang"
+        },
+        {
+          "authorId": "2238181961",
+          "name": "Yuxuan Cai"
+        },
+        {
+          "authorId": "2291013721",
+          "name": "Zhenyu Gu"
+        },
+        {
+          "authorId": "2266805830",
+          "name": "Zhiyuan Liu"
+        },
+        {
+          "authorId": "83732784",
+          "name": "Zonghong Dai"
+        }
+      ],
+      "abstract": "We introduce the Yi model family, a series of language and multimodal models that demonstrate strong multi-dimensional capabilities. The Yi model family is based on 6B and 34B pretrained language models, then we extend them to chat models, 200K long context models, depth-upscaled models, and vision-language models. Our base models achieve strong performance on a wide range of benchmarks like MMLU, and our finetuned chat models deliver strong human preference rate on major evaluation platforms like AlpacaEval and Chatbot Arena. Building upon our scalable super-computing infrastructure and the classical transformer architecture, we attribute the performance of Yi models primarily to its data quality resulting from our data-engineering efforts. For pretraining, we construct 3.1 trillion tokens of English and Chinese corpora using a cascaded data deduplication and quality filtering pipeline. For finetuning, we polish a small scale (less than 10K) instruction dataset over multiple iterations such that every single instance has been verified directly by our machine learning engineers. For vision-language, we combine the chat language model with a vision transformer encoder and train the model to align visual representations to the semantic space of the language model. We further extend the context length to 200K through lightweight continual pretraining and demonstrate strong needle-in-a-haystack retrieval performance. We show that extending the depth of the pretrained checkpoint through continual pretraining further improves performance. We believe that given our current results, continuing to scale up model parameters using thoroughly optimized data will lead to even stronger frontier models.",
+      "author_str": "01.AI Alex Young, Bei Chen, Chao Li",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "ac675900f7c6c14c8488e09a2a6e8525bcf9d45a",
+      "url": "https://www.semanticscholar.org/paper/ac675900f7c6c14c8488e09a2a6e8525bcf9d45a",
+      "title": "Generative AI",
+      "year": 2023,
+      "citationCount": 1250,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.1007/s12599-023-00834-7",
+        "status": "HYBRID",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2309.07930, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2243964945",
+          "name": "Stefan Feuerriegel"
+        },
+        {
+          "authorId": "2225748600",
+          "name": "Jochen Hartmann"
+        },
+        {
+          "authorId": "3012649",
+          "name": "Christian Janiesch"
+        },
+        {
+          "authorId": "2148733",
+          "name": "Patrick Zschech"
+        }
+      ],
+      "abstract": "Recent advancements in generative artificial intelligence (AI) have made it possible for machines to independently produce a variety of creative content. In the context of producing creative content, this essay examines the developments, difficulties, and ethical issues relating to generative AI. It looks into how generative models, such Generative Adversarial Networks (GANs) and Variational Auto encoders (VAEs), can produce realistic artwork like music, literature, and visuals. However, it is frequently discovered that GAN training is extremely unstable and frequently experiences non-convergence, mode collapse, and hyperparameter sensitivity [1]. The technical details of developing and optimizing generative models to produce desired results are covered in detail in this work. It also looks at the difficulties in guaranteeing the variety, creativity, and coherence of generated content. Additionally, the use of generative AI in the creation of original material raises ethical questions. Included in this are concerns about intellectual property, plagiarism, and possible effects on the creative industries. In specifically, the article explores the consequences of employing generative AI for content production in terms of authorship, human creativity, and the possible disruption of traditional creative practices. It also covers issues with fairness, bias, and appropriate application of generative models.",
+      "author_str": "Stefan Feuerriegel, Jochen Hartmann, Christian Janiesch",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "f156ecbbb9243522275490d698c6825f4d2e01af",
+      "url": "https://www.semanticscholar.org/paper/f156ecbbb9243522275490d698c6825f4d2e01af",
+      "title": "Explainable AI: A Review of Machine Learning Interpretability Methods",
+      "year": 2020,
+      "citationCount": 2494,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/1099-4300/23/1/18/pdf?version=1609160444",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC7824368, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "1582428254",
+          "name": "Pantelis Linardatos"
+        },
+        {
+          "authorId": "1753333150",
+          "name": "Vasilis Papastefanopoulos"
+        },
+        {
+          "authorId": "1697867",
+          "name": "S. Kotsiantis"
+        }
+      ],
+      "abstract": "Recent advances in artificial intelligence (AI) have led to its widespread industrial adoption, with machine learning systems demonstrating superhuman performance in a significant number of tasks. However, this surge in performance, has often been achieved through increased model complexity, turning such systems into “black box” approaches and causing uncertainty regarding the way they operate and, ultimately, the way that they come to decisions. This ambiguity has made it problematic for machine learning systems to be adopted in sensitive yet critical domains, where their value could be immense, such as healthcare. As a result, scientific interest in the field of Explainable Artificial Intelligence (XAI), a field that is concerned with the development of new methods that explain and interpret machine learning models, has been tremendously reignited over recent years. This study focuses on machine learning interpretability methods; more specifically, a literature review and taxonomy of these methods are presented, as well as links to their programming implementations, in the hope that this survey would serve as a reference point for both theorists and practitioners.",
+      "author_str": "Pantelis Linardatos, Vasilis Papastefanopoulos, S. Kotsiantis",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "81e8666325b02b1287d4fdcf33232c74e7144f9a",
+      "url": "https://www.semanticscholar.org/paper/81e8666325b02b1287d4fdcf33232c74e7144f9a",
+      "title": "The effects of over-reliance on AI dialogue systems on students' cognitive abilities: a systematic review",
+      "year": 2024,
+      "citationCount": 829,
+      "openAccessPdf": {
+        "url": "https://slejournal.springeropen.com/counter/pdf/10.1186/s40561-024-00316-7",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1186/s40561-024-00316-7?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1186/s40561-024-00316-7, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "115588700",
+          "name": "Chunpeng Zhai"
+        },
+        {
+          "authorId": "2196672071",
+          "name": "Santoso Wibowo"
+        },
+        {
+          "authorId": "2307403340",
+          "name": "Lily D. Li"
+        }
+      ],
+      "abstract": "The growing integration of artificial intelligence (AI) dialogue systems within educational and research settings highlights the importance of learning aids. Despite examination of the ethical concerns associated with these technologies, there is a noticeable gap in investigations on how these ethical issues of AI contribute to students’ over-reliance on AI dialogue systems, and how such over-reliance affects students’ cognitive abilities. Overreliance on AI occurs when users accept AI-generated recommendations without question, leading to errors in task performance in the context of decision-making. This typically arises when individuals struggle to assess the reliability of AI or how much trust to place in its suggestions. This systematic review investigates how students’ over-reliance on AI dialogue systems, particularly those embedded with generative models for academic research and learning, affects their critical cognitive capabilities including decision-making, critical thinking, and analytical reasoning. By using the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines, our systematic review evaluated a body of literature addressing the contributing factors and effects of such over-reliance within educational and research contexts. The comprehensive literature review spanned 14 articles retrieved from four distinguished databases: ProQuest, IEEE Xplore, ScienceDirect, and Web of Science. Our findings indicate that over-reliance stemming from ethical issues of AI impacts cognitive abilities, as individuals increasingly favor fast and optimal solutions over slow ones constrained by practicality. This tendency explains why users prefer efficient cognitive shortcuts, or heuristics, even amidst the ethical issues presented by AI technologies.",
+      "author_str": "Chunpeng Zhai, Santoso Wibowo, Lily D. Li",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "b767c165e7e9621c38c98c247856087f76e9f340",
+      "url": "https://www.semanticscholar.org/paper/b767c165e7e9621c38c98c247856087f76e9f340",
+      "title": "Embracing the future of Artificial Intelligence in the classroom: the relevance of AI literacy, prompt engineering, and critical thinking in modern education",
+      "year": 2024,
+      "citationCount": 696,
+      "openAccessPdf": {
+        "url": "https://educationaltechnologyjournal.springeropen.com/counter/pdf/10.1186/s41239-024-00448-3",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1186/s41239-024-00448-3?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1186/s41239-024-00448-3, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2286339655",
+          "name": "Yoshija Walter"
+        }
+      ],
+      "abstract": "The present discussion examines the transformative impact of Artificial Intelligence (AI) in educational settings, focusing on the necessity for AI literacy, prompt engineering proficiency, and enhanced critical thinking skills. The introduction of AI into education marks a significant departure from conventional teaching methods, offering personalized learning and support for diverse educational requirements, including students with special needs. However, this integration presents challenges, including the need for comprehensive educator training and curriculum adaptation to align with societal structures. AI literacy is identified as crucial, encompassing an understanding of AI technologies and their broader societal impacts. Prompt engineering is highlighted as a key skill for eliciting specific responses from AI systems, thereby enriching educational experiences and promoting critical thinking. There is detailed analysis of strategies for embedding these skills within educational curricula and pedagogical practices. This is discussed through a case-study based on a Swiss university and a narrative literature review, followed by practical suggestions of how to implement AI in the classroom.",
+      "author_str": "Yoshija Walter",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "3b09a37c82d96afe0634c604664263bd50c141e0",
+      "url": "https://www.semanticscholar.org/paper/3b09a37c82d96afe0634c604664263bd50c141e0",
+      "title": "GUIDANCE FOR GENERATIVE AI IN EDUCATION AND RESEARCH\" FOR TEACHERS",
+      "year": 2024,
+      "citationCount": 449,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.55003/jie.23202?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.55003/jie.23202, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "9301133",
+          "name": "S. Boonlue"
+        }
+      ],
+      "abstract": "From the book title is \"Guidance for Generative AI in Education and Research\" for teachers, or this book serves as part of the guidelines for using Generative AI (GenAI) in the fields of education and research. This book was written by W. Holmes and F. Miao in 2023. This book addresses the rapid emergence of publicly available Generative AI tools, with the release of new versions outpacing the establishment of national regulatory frameworks. The lack of national regulations on GenAI in most countries raises concerns about user data privacy and leaves educational institutions unprotected and largely unprepared to scrutinize these tools. UNESCO has issued the first global guidelines on GenAI in education, aiming to support countries in taking immediate action, formulating long-term policies, and developing human capacity to ensure that people can effectively use AI and enhance their work with Generative AI.",
+      "author_str": "S. Boonlue",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "58fdf550600fc3873729d466601c5d08a51ba8a0",
+      "url": "https://www.semanticscholar.org/paper/58fdf550600fc3873729d466601c5d08a51ba8a0",
+      "title": "Representation Engineering: A Top-Down Approach to AI Transparency",
+      "year": 2023,
+      "citationCount": 850,
+      "openAccessPdf": {
+        "url": "https://arxiv.org/pdf/2310.01405",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2310.01405, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "1380103052",
+          "name": "Andy Zou"
+        },
+        {
+          "authorId": "2066589762",
+          "name": "Long Phan"
+        },
+        {
+          "authorId": "2265721314",
+          "name": "Sarah Chen"
+        },
+        {
+          "authorId": "2268733681",
+          "name": "James Campbell"
+        },
+        {
+          "authorId": "2253401167",
+          "name": "Phillip Guo"
+        },
+        {
+          "authorId": "2253397384",
+          "name": "Richard Ren"
+        },
+        {
+          "authorId": "2064029812",
+          "name": "Alexander Pan"
+        },
+        {
+          "authorId": "2255924399",
+          "name": "Xuwang Yin"
+        },
+        {
+          "authorId": "16787428",
+          "name": "Mantas Mazeika"
+        },
+        {
+          "authorId": "46658900",
+          "name": "Ann-Kathrin Dombrowski"
+        },
+        {
+          "authorId": "9343338",
+          "name": "Shashwat Goel"
+        },
+        {
+          "authorId": "2214183912",
+          "name": "Nathaniel Li"
+        },
+        {
+          "authorId": "2253396524",
+          "name": "Michael J. Byun"
+        },
+        {
+          "authorId": "2265646754",
+          "name": "Zifan Wang"
+        },
+        {
+          "authorId": "2269472940",
+          "name": "Alex Troy Mallen"
+        },
+        {
+          "authorId": "104444594",
+          "name": "Steven Basart"
+        },
+        {
+          "authorId": "123593472",
+          "name": "Sanmi Koyejo"
+        },
+        {
+          "authorId": "2255915331",
+          "name": "Dawn Song"
+        },
+        {
+          "authorId": "2623167",
+          "name": "Matt Fredrikson"
+        },
+        {
+          "authorId": "117539586",
+          "name": "Zico Kolter"
+        },
+        {
+          "authorId": "3422872",
+          "name": "Dan Hendrycks"
+        }
+      ],
+      "abstract": "In this paper, we identify and characterize the emerging area of representation engineering (RepE), an approach to enhancing the transparency of AI systems that draws on insights from cognitive neuroscience. RepE places population-level representations, rather than neurons or circuits, at the center of analysis, equipping us with novel methods for monitoring and manipulating high-level cognitive phenomena in deep neural networks (DNNs). We provide baselines and an initial analysis of RepE techniques, showing that they offer simple yet effective solutions for improving our understanding and control of large language models. We showcase how these methods can provide traction on a wide range of safety-relevant problems, including honesty, harmlessness, power-seeking, and more, demonstrating the promise of top-down transparency research. We hope that this work catalyzes further exploration of RepE and fosters advancements in the transparency and safety of AI systems.",
+      "author_str": "Andy Zou, Long Phan, Sarah Chen",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "ab8169d6e4dfabfe7c30ebec1bb871bf3e1551cd",
+      "url": "https://www.semanticscholar.org/paper/ab8169d6e4dfabfe7c30ebec1bb871bf3e1551cd",
+      "title": "GAIA: a benchmark for General AI Assistants",
+      "year": 2023,
+      "citationCount": 648,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2311.12983, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "51888120",
+          "name": "G. Mialon"
+        },
+        {
+          "authorId": "2080941785",
+          "name": "Clémentine Fourrier"
+        },
+        {
+          "authorId": "2267725655",
+          "name": "Craig Swift"
+        },
+        {
+          "authorId": "2267725974",
+          "name": "Thomas Wolf"
+        },
+        {
+          "authorId": "2265899560",
+          "name": "Yann LeCun"
+        },
+        {
+          "authorId": "2073456043",
+          "name": "Thomas Scialom"
+        }
+      ],
+      "abstract": "We introduce GAIA, a benchmark for General AI Assistants that, if solved, would represent a milestone in AI research. GAIA proposes real-world questions that require a set of fundamental abilities such as reasoning, multi-modality handling, web browsing, and generally tool-use proficiency. GAIA questions are conceptually simple for humans yet challenging for most advanced AIs: we show that human respondents obtain 92\\% vs. 15\\% for GPT-4 equipped with plugins. This notable performance disparity contrasts with the recent trend of LLMs outperforming humans on tasks requiring professional skills in e.g. law or chemistry. GAIA's philosophy departs from the current trend in AI benchmarks suggesting to target tasks that are ever more difficult for humans. We posit that the advent of Artificial General Intelligence (AGI) hinges on a system's capability to exhibit similar robustness as the average human does on such questions. Using GAIA's methodology, we devise 466 questions and their answer. We release our questions while retaining answers to 300 of them to power a leader-board available at https://huggingface.co/gaia-benchmark.",
+      "author_str": "G. Mialon, Clémentine Fourrier, Craig Swift",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "781cfd3b72b3bc690b15433cbbc012487d5553dd",
+      "url": "https://www.semanticscholar.org/paper/781cfd3b72b3bc690b15433cbbc012487d5553dd",
+      "title": "A comprehensive AI policy education framework for university teaching and learning",
+      "year": 2023,
+      "citationCount": 964,
+      "openAccessPdf": {
+        "url": "https://educationaltechnologyjournal.springeropen.com/counter/pdf/10.1186/s41239-023-00408-3",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2305.00280, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "40588014",
+          "name": "C. Chan"
+        }
+      ],
+      "abstract": "This study aims to develop an AI education policy for higher education by examining the perceptions and implications of text generative AI technologies. Data was collected from 457 students and 180 teachers and staff across various disciplines in Hong Kong universities, using both quantitative and qualitative research methods. Based on the findings, the study proposes an AI Ecological Education Policy Framework to address the multifaceted implications of AI integration in university teaching and learning. This framework is organized into three dimensions: Pedagogical, Governance, and Operational. The Pedagogical dimension concentrates on using AI to improve teaching and learning outcomes, while the Governance dimension tackles issues related to privacy, security, and accountability. The Operational dimension addresses matters concerning infrastructure and training. The framework fosters a nuanced understanding of the implications of AI integration in academic settings, ensuring that stakeholders are aware of their responsibilities and can take appropriate actions accordingly. Proposed AI Ecological Education Policy Framework for university teaching and learning. Three dimensions: Pedagogical, Governance, and Operational AI Policy Framework. Qualitative and quantitative data collected from students, teachers, and staff. Ten key areas identified for planning an AI policy in universities. Students should play an active role in drafting and implementing the policy. Proposed AI Ecological Education Policy Framework for university teaching and learning. Three dimensions: Pedagogical, Governance, and Operational AI Policy Framework. Qualitative and quantitative data collected from students, teachers, and staff. Ten key areas identified for planning an AI policy in universities. Students should play an active role in drafting and implementing the policy.",
+      "author_str": "C. Chan",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "9472e198f790cb396c088c8e98bd4c5f5134cf62",
+      "url": "https://www.semanticscholar.org/paper/9472e198f790cb396c088c8e98bd4c5f5134cf62",
+      "title": "Intelligent Clinical Documentation: Harnessing Generative AI for Patient-Centric Clinical Note Generation",
+      "year": 2024,
+      "citationCount": 978,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.38124/ijisrt/ijisrt24may1483",
+        "status": "GOLD",
+        "license": "CCBYNC",
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2405.18346, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2303465887",
+          "name": "Anjanava Biswas"
+        },
+        {
+          "authorId": "2303464555",
+          "name": "Wrick Talukdar"
+        }
+      ],
+      "abstract": "Comprehensive clinical documentation is crucial for effective healthcare delivery, yet it poses a significant burden on healthcare professionals, leading to burnout, increased medical errors, and compromised patient safety. This paper explores the potential of generative AI (Artificial Intelligence) to streamline the clinical documentation process, specifically focusing on generating SOAP (Subjective, Objective, Assessment, Plan) and BIRP (Behavior, Intervention, Response, Plan) notes. We present a case study demonstrating the application of natural language processing (NLP) and automatic speech recognition (ASR) technologies to transcribe patient-clinician interactions, coupled with advanced prompting techniques to generate draft clinical notes using large language models (LLMs). The study highlights the benefits of this approach, including time savings, improved documentation quality, and enhanced patient-centered care. Additionally, we discuss ethical considerations, such as maintaining patient confidentiality and addressing model biases, underscoring the need for responsible deployment of generative AI in healthcare settings. The findings suggest that generative AI has the potential to revolutionize clinical documentation practices, alleviating administrative burdens and enabling healthcare professionals to focus more on direct patient care.",
+      "author_str": "Anjanava Biswas, Wrick Talukdar",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "8f9e864fab09bbae4a46a2a62bb954db1a88eb3e",
+      "url": "https://www.semanticscholar.org/paper/8f9e864fab09bbae4a46a2a62bb954db1a88eb3e",
+      "title": "Why Johnny Can’t Prompt: How Non-AI Experts Try (and Fail) to Design LLM Prompts",
+      "year": 2023,
+      "citationCount": 1017,
+      "openAccessPdf": {
+        "url": "https://dl.acm.org/doi/pdf/10.1145/3544548.3581388",
+        "status": "BRONZE",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1145/3544548.3581388?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1145/3544548.3581388, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "1412561558",
+          "name": "J.D. Zamfirescu-Pereira"
+        },
+        {
+          "authorId": "9063054",
+          "name": "Richmond Y. Wong"
+        },
+        {
+          "authorId": "2200271412",
+          "name": "Bjoern Hartmann"
+        },
+        {
+          "authorId": "120280526",
+          "name": "Qian Yang"
+        }
+      ],
+      "abstract": "Pre-trained large language models (“LLMs”) like GPT-3 can engage in fluent, multi-turn instruction-taking out-of-the-box, making them attractive materials for designing natural language interactions. Using natural language to steer LLM outputs (“prompting”) has emerged as an important design technique potentially accessible to non-AI-experts. Crafting effective prompts can be challenging, however, and prompt-based interactions are brittle. Here, we explore whether non-AI-experts can successfully engage in “end-user prompt engineering” using a design probe—a prototype LLM-based chatbot design tool supporting development and systematic evaluation of prompting strategies. Ultimately, our probe participants explored prompt designs opportunistically, not systematically, and struggled in ways echoing end-user programming systems and interactive machine learning systems. Expectations stemming from human-to-human instructional experiences, and a tendency to overgeneralize, were barriers to effective prompt design. These findings have implications for non-AI-expert-facing LLM-based tool design and for improving LLM-and-prompt literacy among programmers and the public, and present opportunities for further research.",
+      "author_str": "J.D. Zamfirescu-Pereira, Richmond Y. Wong, Bjoern Hartmann",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "89ab36ae8630f6e4058c926816fe8d9a676c54e3",
+      "url": "https://www.semanticscholar.org/paper/89ab36ae8630f6e4058c926816fe8d9a676c54e3",
+      "title": "What is AI Literacy? Competencies and Design Considerations",
+      "year": 2020,
+      "citationCount": 1957,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1145/3313831.3376727?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1145/3313831.3376727, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "40413589",
+          "name": "D. Long"
+        },
+        {
+          "authorId": "1691882",
+          "name": "Brian Magerko"
+        }
+      ],
+      "abstract": "Artificial intelligence (AI) is becoming increasingly integrated in user-facing technology, but public understanding of these technologies is often limited. There is a need for additional HCI research investigating a) what competencies users need in order to effectively interact with and critically evaluate AI and b) how to design learner-centered AI technologies that foster increased user understanding of AI. This paper takes a step towards realizing both of these goals by providing a concrete definition of AI literacy based on existing research. We synthesize a variety of interdisciplinary literature into a set of core competencies of AI literacy and suggest several design considerations to support AI developers and educators in creating learner-centered AI. These competencies and design considerations are organized in a conceptual framework thematically derived from the literature. This paper's contributions can be used to start a conversation about and guide future research on AI literacy within the HCI community.",
+      "author_str": "D. Long, Brian Magerko",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "60e90118f03a981aeb0c31d6ea768e537a43f208",
+      "url": "https://www.semanticscholar.org/paper/60e90118f03a981aeb0c31d6ea768e537a43f208",
+      "title": "Ethical and regulatory challenges of AI technologies in healthcare: A narrative review",
+      "year": 2024,
+      "citationCount": 596,
+      "openAccessPdf": {
+        "url": "https://www.cell.com/article/S2405844024023284/pdf",
+        "status": "GOLD",
+        "license": "CCBYNCND",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10879008, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2148377096",
+          "name": "Ciro Mennella"
+        },
+        {
+          "authorId": "2244397584",
+          "name": "Umberto Maniscalco"
+        },
+        {
+          "authorId": "119392103",
+          "name": "G. De Pietro"
+        },
+        {
+          "authorId": "2244080334",
+          "name": "Massimo Esposito"
+        }
+      ],
+      "abstract": "Over the past decade, there has been a notable surge in AI-driven research, specifically geared toward enhancing crucial clinical processes and outcomes. The potential of AI-powered decision support systems to streamline clinical workflows, assist in diagnostics, and enable personalized treatment is increasingly evident. Nevertheless, the introduction of these cutting-edge solutions poses substantial challenges in clinical and care environments, necessitating a thorough exploration of ethical, legal, and regulatory considerations. A robust governance framework is imperative to foster the acceptance and successful implementation of AI in healthcare. This article delves deep into the critical ethical and regulatory concerns entangled with the deployment of AI systems in clinical practice. It not only provides a comprehensive overview of the role of AI technologies but also offers an insightful perspective on the ethical and regulatory challenges, making a pioneering contribution to the field. This research aims to address the current challenges in digital healthcare by presenting valuable recommendations for all stakeholders eager to advance the development and implementation of innovative AI systems.",
+      "author_str": "Ciro Mennella, Umberto Maniscalco, G. De Pietro",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "a779f5dd28c8aaab0e1bdceeb6700f17d655c0a4",
+      "url": "https://www.semanticscholar.org/paper/a779f5dd28c8aaab0e1bdceeb6700f17d655c0a4",
+      "title": "The Role of AI in Hospitals and Clinics: Transforming Healthcare in the 21st Century",
+      "year": 2024,
+      "citationCount": 591,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/2306-5354/11/4/337/pdf?version=1711712822",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11047988, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2294428530",
+          "name": "Shiva Maleki Varnosfaderani"
+        },
+        {
+          "authorId": "2275917530",
+          "name": "Mohamad Forouzanfar"
+        }
+      ],
+      "abstract": "As healthcare systems around the world face challenges such as escalating costs, limited access, and growing demand for personalized care, artificial intelligence (AI) is emerging as a key force for transformation. This review is motivated by the urgent need to harness AI’s potential to mitigate these issues and aims to critically assess AI’s integration in different healthcare domains. We explore how AI empowers clinical decision-making, optimizes hospital operation and management, refines medical image analysis, and revolutionizes patient care and monitoring through AI-powered wearables. Through several case studies, we review how AI has transformed specific healthcare domains and discuss the remaining challenges and possible solutions. Additionally, we will discuss methodologies for assessing AI healthcare solutions, ethical challenges of AI deployment, and the importance of data privacy and bias mitigation for responsible technology use. By presenting a critical assessment of AI’s transformative potential, this review equips researchers with a deeper understanding of AI’s current and future impact on healthcare. It encourages an interdisciplinary dialogue between researchers, clinicians, and technologists to navigate the complexities of AI implementation, fostering the development of AI-driven solutions that prioritize ethical standards, equity, and a patient-centered approach.",
+      "author_str": "Shiva Maleki Varnosfaderani, Mohamad Forouzanfar",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "b4a35e548de27b6924e5f2ee41d37238a5c4a1d5",
+      "url": "https://www.semanticscholar.org/paper/b4a35e548de27b6924e5f2ee41d37238a5c4a1d5",
+      "title": "Habitat: A Platform for Embodied AI Research",
+      "year": 2019,
+      "citationCount": 1813,
+      "openAccessPdf": {
+        "url": "https://arxiv.org/pdf/1904.01201",
+        "status": "GREEN",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1904.01201, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2295141",
+          "name": "M. Savva"
+        },
+        {
+          "authorId": "89942851",
+          "name": "Abhishek Kadian"
+        },
+        {
+          "authorId": "90536527",
+          "name": "Oleksandr Maksymets"
+        },
+        {
+          "authorId": "2329715592",
+          "name": "Yili Zhao"
+        },
+        {
+          "authorId": "8405939",
+          "name": "Erik Wijmans"
+        },
+        {
+          "authorId": "89728623",
+          "name": "Bhavana Jain"
+        },
+        {
+          "authorId": "20128275",
+          "name": "Julian Straub"
+        },
+        {
+          "authorId": "2116493720",
+          "name": "Jia Liu"
+        },
+        {
+          "authorId": "145231047",
+          "name": "V. Koltun"
+        },
+        {
+          "authorId": "143751119",
+          "name": "Jitendra Malik"
+        },
+        {
+          "authorId": "153432684",
+          "name": "Devi Parikh"
+        },
+        {
+          "authorId": "1746610",
+          "name": "Dhruv Batra"
+        }
+      ],
+      "abstract": "We present Habitat, a platform for research in embodied artificial intelligence (AI). Habitat enables training embodied agents (virtual robots) in highly efficient photorealistic 3D simulation. Specifically, Habitat consists of: (i) Habitat-Sim: a flexible, high-performance 3D simulator with configurable agents, sensors, and generic 3D dataset handling. Habitat-Sim is fast -- when rendering a scene from Matterport3D, it achieves several thousand frames per second (fps) running single-threaded, and can reach over 10,000 fps multi-process on a single GPU. (ii) Habitat-API: a modular high-level library for end-to-end development of embodied AI algorithms -- defining tasks (e.g., navigation, instruction following, question answering), configuring, training, and benchmarking embodied agents. These large-scale engineering contributions enable us to answer scientific questions requiring experiments that were till now impracticable or 'merely' impractical. Specifically, in the context of point-goal navigation: (1) we revisit the comparison between learning and SLAM approaches from two recent works and find evidence for the opposite conclusion -- that learning outperforms SLAM if scaled to an order of magnitude more experience than previous investigations, and (2) we conduct the first cross-dataset generalization experiments {train, test} x {Matterport3D, Gibson} for multiple sensors {blind, RGB, RGBD, D} and find that only agents with depth (D) sensors generalize across datasets. We hope that our open-source platform and these findings will advance research in embodied AI.",
+      "author_str": "M. Savva, Abhishek Kadian, Oleksandr Maksymets",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "15074299f9b3cfd1230f29fca3a26236dc8681b8",
+      "url": "https://www.semanticscholar.org/paper/15074299f9b3cfd1230f29fca3a26236dc8681b8",
+      "title": "A multimodal generative AI copilot for human pathology",
+      "year": 2024,
+      "citationCount": 383,
+      "openAccessPdf": {
+        "url": "https://www.nature.com/articles/s41586-024-07618-3_reference.pdf",
+        "status": "HYBRID",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11464372, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "16184125",
+          "name": "Ming Y. Lu"
+        },
+        {
+          "authorId": "2152691032",
+          "name": "Bowen Chen"
+        },
+        {
+          "authorId": "25259989",
+          "name": "Drew F. K. Williamson"
+        },
+        {
+          "authorId": "2274203774",
+          "name": "Richard J. Chen"
+        },
+        {
+          "authorId": "2306952140",
+          "name": "Melissa Zhao"
+        },
+        {
+          "authorId": "2306202363",
+          "name": "Aaron K Chow"
+        },
+        {
+          "authorId": "2376128479",
+          "name": "Kenji Ikemura"
+        },
+        {
+          "authorId": "2306195060",
+          "name": "Ahrong Kim"
+        },
+        {
+          "authorId": "2306204368",
+          "name": "Dimitra Pouli"
+        },
+        {
+          "authorId": "2306761495",
+          "name": "Ankush U Patel"
+        },
+        {
+          "authorId": "2284995594",
+          "name": "Amr Soliman"
+        },
+        {
+          "authorId": "2145775609",
+          "name": "Chengkuan Chen"
+        },
+        {
+          "authorId": "2219976215",
+          "name": "Tong Ding"
+        },
+        {
+          "authorId": "2109623647",
+          "name": "Judy J. Wang"
+        },
+        {
+          "authorId": "2273930354",
+          "name": "Georg K. Gerber"
+        },
+        {
+          "authorId": "2224660941",
+          "name": "Ivy Liang"
+        },
+        {
+          "authorId": "2186875724",
+          "name": "L. Le"
+        },
+        {
+          "authorId": "2243473349",
+          "name": "Anil V Parwani"
+        },
+        {
+          "authorId": "2292229852",
+          "name": "Luca L. Weishaupt"
+        },
+        {
+          "authorId": "2260789705",
+          "name": "Faisal Mahmood"
+        }
+      ],
+      "abstract": "Computational pathology1,2 has witnessed considerable progress in the development of both task-specific predictive models and task-agnostic self-supervised vision encoders3,4. However, despite the explosive growth of generative artificial intelligence (AI), there have been few studies on building general-purpose multimodal AI assistants and copilots5 tailored to pathology. Here we present PathChat, a vision-language generalist AI assistant for human pathology. We built PathChat by adapting a foundational vision encoder for pathology, combining it with a pretrained large language model and fine-tuning the whole system on over 456,000 diverse visual-language instructions consisting of 999,202 question and answer turns. We compare PathChat with several multimodal vision-language AI assistants and GPT-4V, which powers the commercially available multimodal general-purpose AI assistant ChatGPT-4 (ref. 6). PathChat achieved state-of-the-art performance on multiple-choice diagnostic questions from cases with diverse tissue origins and disease models. Furthermore, using open-ended questions and human expert evaluation, we found that overall PathChat produced more accurate and pathologist-preferable responses to diverse queries related to pathology. As an interactive vision-language AI copilot that can flexibly handle both visual and natural language inputs, PathChat may potentially find impactful applications in pathology education, research and human-in-the-loop clinical decision-making. PathChat, a multimodal generative AI copilot for human pathology, has been trained on a large dataset of visual-language instructions to interactively assist users with diverse pathology tasks.",
+      "author_str": "Ming Y. Lu, Bowen Chen, Drew F. K. Williamson",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "8b750488d139f9beba0815ff8f46ebe15ebb3e58",
+      "url": "https://www.semanticscholar.org/paper/8b750488d139f9beba0815ff8f46ebe15ebb3e58",
+      "title": "Mechanistic Interpretability for AI Safety - A Review",
+      "year": 2024,
+      "citationCount": 368,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2404.14082, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "87881370",
+          "name": "Leonard Bereska"
+        },
+        {
+          "authorId": "2304222",
+          "name": "E. Gavves"
+        }
+      ],
+      "abstract": "Understanding AI systems' inner workings is critical for ensuring value alignment and safety. This review explores mechanistic interpretability: reverse engineering the computational mechanisms and representations learned by neural networks into human-understandable algorithms and concepts to provide a granular, causal understanding. We establish foundational concepts such as features encoding knowledge within neural activations and hypotheses about their representation and computation. We survey methodologies for causally dissecting model behaviors and assess the relevance of mechanistic interpretability to AI safety. We examine benefits in understanding, control, alignment, and risks such as capability gains and dual-use concerns. We investigate challenges surrounding scalability, automation, and comprehensive interpretation. We advocate for clarifying concepts, setting standards, and scaling techniques to handle complex models and behaviors and expand to domains such as vision and reinforcement learning. Mechanistic interpretability could help prevent catastrophic outcomes as AI systems become more powerful and inscrutable.",
+      "author_str": "Leonard Bereska, E. Gavves",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "02aec976011a7d595d61db9639209968f4b93177",
+      "url": "https://www.semanticscholar.org/paper/02aec976011a7d595d61db9639209968f4b93177",
+      "title": "When combinations of humans and AI are useful: A systematic review and meta-analysis",
+      "year": 2024,
+      "citationCount": 281,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.1038/s41562-024-02024-1",
+        "status": "HYBRID",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2405.06087, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "153024015",
+          "name": "Michelle Vaccaro"
+        },
+        {
+          "authorId": "3085084",
+          "name": "Abdullah Almaatouq"
+        },
+        {
+          "authorId": "2257866472",
+          "name": "Thomas W. Malone"
+        }
+      ],
+      "abstract": "Inspired by the increasing use of artificial intelligence (AI) to augment humans, researchers have studied human–AI systems involving different tasks, systems and populations. Despite such a large body of work, we lack a broad conceptual understanding of when combinations of humans and AI are better than either alone. Here we addressed this question by conducting a preregistered systematic review and meta-analysis of 106 experimental studies reporting 370 effect sizes. We searched an interdisciplinary set of databases (the Association for Computing Machinery Digital Library, the Web of Science and the Association for Information Systems eLibrary) for studies published between 1 January 2020 and 30 June 2023. Each study was required to include an original human-participants experiment that evaluated the performance of humans alone, AI alone and human–AI combinations. First, we found that, on average, human–AI combinations performed significantly worse than the best of humans or AI alone (Hedges’ g = −0.23; 95% confidence interval, −0.39 to −0.07). Second, we found performance losses in tasks that involved making decisions and significantly greater gains in tasks that involved creating content. Finally, when humans outperformed AI alone, we found performance gains in the combination, but when AI outperformed humans alone, we found losses. Limitations of the evidence assessed here include possible publication bias and variations in the study designs analysed. Overall, these findings highlight the heterogeneity of the effects of human–AI collaboration and point to promising avenues for improving human–AI systems. Vaccaro et al. present a systematic review and meta-analysis of the performance of human–AI combinations, finding that on average, human–AI combinations performed significantly worse than the best of humans or AI alone. They also found performance losses in decision-making tasks and significantly greater gains in content creation tasks.",
+      "author_str": "Michelle Vaccaro, Abdullah Almaatouq, Thomas W. Malone",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "515db5fefd215c05649aaa5adc4d64075d2518ab",
+      "url": "https://www.semanticscholar.org/paper/515db5fefd215c05649aaa5adc4d64075d2518ab",
+      "title": "Design Principles for Generative AI Applications",
+      "year": 2024,
+      "citationCount": 235,
+      "openAccessPdf": {
+        "url": "https://dl.acm.org/doi/pdf/10.1145/3613904.3642466",
+        "status": "HYBRID",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2401.14484, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "1927553",
+          "name": "Justin D. Weisz"
+        },
+        {
+          "authorId": "2200904395",
+          "name": "Jessica He"
+        },
+        {
+          "authorId": "2281639700",
+          "name": "Michael Muller"
+        },
+        {
+          "authorId": "2008495755",
+          "name": "Gabriela Hoefer"
+        },
+        {
+          "authorId": "2044621732",
+          "name": "R. Miles"
+        },
+        {
+          "authorId": "2273838068",
+          "name": "Werner Geyer"
+        }
+      ],
+      "abstract": "Generative AI applications present unique design challenges. As generative AI technologies are increasingly being incorporated into mainstream applications, there is an urgent need for guidance on how to design user experiences that foster effective and safe use. We present six principles for the design of generative AI applications that address unique characteristics of generative AI UX and offer new interpretations and extensions of known issues in the design of AI applications. Each principle is coupled with a set of design strategies for implementing that principle via UX capabilities or through the design process. The principles and strategies were developed through an iterative process involving literature review, feedback from design practitioners, validation against real-world generative AI applications, and incorporation into the design process of two generative AI applications. We anticipate the principles to usefully inform the design of generative AI applications by driving actionable design recommendations.",
+      "author_str": "Justin D. Weisz, Jessica He, Michael Muller",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "71353200a4f9757e10d0243e231fc5bcd14d8387",
+      "url": "https://www.semanticscholar.org/paper/71353200a4f9757e10d0243e231fc5bcd14d8387",
+      "title": "Factors Influencing University Students’ Behavioral Intention to Use Generative Artificial Intelligence: Integrating the Theory of Planned Behavior and AI Literacy",
+      "year": 2024,
+      "citationCount": 250,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1080/10447318.2024.2383033?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/10447318.2024.2383033, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2268721072",
+          "name": "Chengliang Wang"
+        },
+        {
+          "authorId": "2256769838",
+          "name": "Haoming Wang"
+        },
+        {
+          "authorId": "2307722722",
+          "name": "Yuanyuan Li"
+        },
+        {
+          "authorId": "2267902940",
+          "name": "Jian Dai"
+        },
+        {
+          "authorId": "2237092219",
+          "name": "Xiaoqing Gu"
+        },
+        {
+          "authorId": "2256865173",
+          "name": "Teng Yu"
+        }
+      ],
+      "abstract": "Abstract Generative artificial intelligence (GAI) advancements have ignited new expectations for artificial intelligence (AI)-enabled educational transformations. Based on the theory of planned behavior (TPB), this study combines structural equation modeling and interviews to analyze the influencing factors of Chinese university students’ GAI technology usage intention. Regarding AI literacy, students’ cognitive literacy in AI ethics scored the highest (M = 5.740), while AI awareness literacy scored the lowest (M = 4.578). Students’ attitudes toward GAI significantly and positively influenced their usage intention, with the combined TPB framework and AI literacy explaining 59.3% of the variance. AI literacy and subjective norms positively influenced students’ attitudes toward GAI technology and perceived behavioral control, and attitude mediated the impact of AI literacy and subjective norms on GAI usage intention. Further, the interviews provide new insights for university management and educational leadership regarding the construction of an educational ecosystem under the application of GAI technology.",
+      "author_str": "Chengliang Wang, Haoming Wang, Yuanyuan Li",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "55b7e681e14e775600b341d8cc9bf53f3e9a4567",
+      "url": "https://www.semanticscholar.org/paper/55b7e681e14e775600b341d8cc9bf53f3e9a4567",
+      "title": "Human-AI collaboration patterns in AI-assisted academic writing",
+      "year": 2024,
+      "citationCount": 255,
+      "openAccessPdf": {
+        "url": "https://www.tandfonline.com/doi/pdf/10.1080/03075079.2024.2323593?needAccess=true",
+        "status": "HYBRID",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1080/03075079.2024.2323593?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/03075079.2024.2323593, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2277814644",
+          "name": "Andy Nguyen"
+        },
+        {
+          "authorId": "2289857440",
+          "name": "Yvonne Hong"
+        },
+        {
+          "authorId": "2181844584",
+          "name": "Belle Dang"
+        },
+        {
+          "authorId": "2284449711",
+          "name": "Xiaoshan Huang"
+        }
+      ],
+      "abstract": "ABSTRACT Artificial Intelligence (AI) has increasingly influenced higher education, notably in academic writing where AI-powered assisting tools offer both opportunities and challenges. Recently, the rapid growth of generative AI (GAI) has brought its impacts into sharper focus, yet the dynamics of its utilisation in academic writing remain largely unexplored. This paper focuses on examining the nature of human-AI interactions in academic writing, specifically investigating the strategies doctoral students employ when collaborating with a GAI-powered assisting tool. This study involves 626 recorded activities on how ten doctoral students interact with GAI-powered assisting tool during academic writing. AI-driven learning analytics approach was adopted for three layered analyses: (1) data pre-processing and analysis with quantitative content analysis, (2) sequence analysis with Hidden Markov Model (HMM) and hierarchical sequence clustering, and (3) pattern analysis with process mining. Findings indicate that doctoral students engaging in iterative, highly interactive processes with the GAI-powered assisting tool generally achieve better performance in the writing task. In contrast, those who use GAI merely as a supplementary information source, maintaining a linear writing approach, tend to get lower writing performance. This study points to the need for further investigations into human-AI collaboration in learning in higher education, with implications for tailored educational strategies and solutions.",
+      "author_str": "Andy Nguyen, Yvonne Hong, Belle Dang",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "65376df1c3ccf41c2cc4d2088d259c8788789f00",
+      "url": "https://www.semanticscholar.org/paper/65376df1c3ccf41c2cc4d2088d259c8788789f00",
+      "title": "AI4People—An Ethical Framework for a Good AI Society: Opportunities, Risks, Principles, and Recommendations",
+      "year": 2018,
+      "citationCount": 2692,
+      "openAccessPdf": {
+        "url": "https://link.springer.com/content/pdf/10.1007/s11023-018-9482-5.pdf",
+        "status": "HYBRID",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6404626, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "1982425",
+          "name": "L. Floridi"
+        },
+        {
+          "authorId": "3011486",
+          "name": "Josh Cowls"
+        },
+        {
+          "authorId": "51980877",
+          "name": "Monica Beltrametti"
+        },
+        {
+          "authorId": "143907295",
+          "name": "R. Chatila"
+        },
+        {
+          "authorId": "52036921",
+          "name": "Patrice Chazerand"
+        },
+        {
+          "authorId": "1716665",
+          "name": "Virginia Dignum"
+        },
+        {
+          "authorId": "2065341524",
+          "name": "C. Luetge"
+        },
+        {
+          "authorId": "2242273",
+          "name": "Robert Madelin"
+        },
+        {
+          "authorId": "3216736",
+          "name": "U. Pagallo"
+        },
+        {
+          "authorId": "144833426",
+          "name": "F. Rossi"
+        },
+        {
+          "authorId": "1763107",
+          "name": "Burkhard Schafer"
+        },
+        {
+          "authorId": "50291024",
+          "name": "P. Valcke"
+        },
+        {
+          "authorId": "145104974",
+          "name": "E. Vayena"
+        }
+      ],
+      "abstract": "This article reports the findings of AI4People, an Atomium—EISMD initiative designed to lay the foundations for a “Good AI Society”. We introduce the core opportunities and risks of AI for society; present a synthesis of five ethical principles that should undergird its development and adoption; and offer 20 concrete recommendations—to assess, to develop, to incentivise, and to support good AI—which in some cases may be undertaken directly by national or supranational policy makers, while in others may be led by other stakeholders. If adopted, these recommendations would serve as a firm foundation for the establishment of a Good AI Society.",
+      "author_str": "L. Floridi, Josh Cowls, Monica Beltrametti",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "15abedb29536d50afeeec739a25358255cbda3e8",
+      "url": "https://www.semanticscholar.org/paper/15abedb29536d50afeeec739a25358255cbda3e8",
+      "title": "The Impact of AI on Developer Productivity: Evidence from GitHub Copilot",
+      "year": 2023,
+      "citationCount": 529,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2302.06590, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "67042377",
+          "name": "Sida Peng"
+        },
+        {
+          "authorId": "1734481",
+          "name": "Eirini Kalliamvakou"
+        },
+        {
+          "authorId": "2205544450",
+          "name": "Peter Cihon"
+        },
+        {
+          "authorId": "88741890",
+          "name": "Mert Demirer"
+        }
+      ],
+      "abstract": "Generative AI tools hold promise to increase human productivity. This paper presents results from a controlled experiment with GitHub Copilot, an AI pair programmer. Recruited software developers were asked to implement an HTTP server in JavaScript as quickly as possible. The treatment group, with access to the AI pair programmer, completed the task 55.8% faster than the control group. Observed heterogenous effects show promise for AI pair programmers to help people transition into software development careers.",
+      "author_str": "Sida Peng, Eirini Kalliamvakou, Peter Cihon",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "25361e9582996220625a1823d931b4ed5f5558d3",
+      "url": "https://www.semanticscholar.org/paper/25361e9582996220625a1823d931b4ed5f5558d3",
+      "title": "Generative AI in healthcare: an implementation science informed translational path on application, integration and governance",
+      "year": 2024,
+      "citationCount": 337,
+      "openAccessPdf": {
+        "url": "https://implementationscience.biomedcentral.com/counter/pdf/10.1186/s13012-024-01357-9",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10941464, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2077496497",
+          "name": "S. Reddy"
+        }
+      ],
+      "abstract": "Artificial intelligence (AI), particularly generative AI, has emerged as a transformative tool in healthcare, with the potential to revolutionize clinical decision-making and improve health outcomes. Generative AI, capable of generating new data such as text and images, holds promise in enhancing patient care, revolutionizing disease diagnosis and expanding treatment options. However, the utility and impact of generative AI in healthcare remain poorly understood, with concerns around ethical and medico-legal implications, integration into healthcare service delivery and workforce utilisation. Also, there is not a clear pathway to implement and integrate generative AI in healthcare delivery. This article aims to provide a comprehensive overview of the use of generative AI in healthcare, focusing on the utility of the technology in healthcare and its translational application highlighting the need for careful planning, execution and management of expectations in adopting generative AI in clinical medicine. Key considerations include factors such as data privacy, security and the irreplaceable role of clinicians’ expertise. Frameworks like the technology acceptance model (TAM) and the Non-Adoption, Abandonment, Scale-up, Spread and Sustainability (NASSS) model are considered to promote responsible integration. These frameworks allow anticipating and proactively addressing barriers to adoption, facilitating stakeholder participation and responsibly transitioning care systems to harness generative AI’s potential. Generative AI has the potential to transform healthcare through automated systems, enhanced clinical decision-making and democratization of expertise with diagnostic support tools providing timely, personalized suggestions. Generative AI applications across billing, diagnosis, treatment and research can also make healthcare delivery more efficient, equitable and effective. However, integration of generative AI necessitates meticulous change management and risk mitigation strategies. Technological capabilities alone cannot shift complex care ecosystems overnight; rather, structured adoption programs grounded in implementation science are imperative. It is strongly argued in this article that generative AI can usher in tremendous healthcare progress, if introduced responsibly. Strategic adoption based on implementation science, incremental deployment and balanced messaging around opportunities versus limitations helps promote safe, ethical generative AI integration. Extensive real-world piloting and iteration aligned to clinical priorities should drive development. With conscientious governance centred on human wellbeing over technological novelty, generative AI can enhance accessibility, affordability and quality of care. As these models continue advancing rapidly, ongoing reassessment and transparent communication around their strengths and weaknesses remain vital to restoring trust, realizing positive potential and, most importantly, improving patient outcomes.",
+      "author_str": "S. Reddy",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "beacbfeb85d8c954fafa4d0f3a405b2c12c3ae03",
+      "url": "https://www.semanticscholar.org/paper/beacbfeb85d8c954fafa4d0f3a405b2c12c3ae03",
+      "title": "Bias in medical AI: Implications for clinical decision-making",
+      "year": 2024,
+      "citationCount": 312,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11542778, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2333415293",
+          "name": "James L Cross"
+        },
+        {
+          "authorId": "3242427",
+          "name": "M. Choma"
+        },
+        {
+          "authorId": "2322912039",
+          "name": "J. Onofrey"
+        }
+      ],
+      "abstract": "Biases in medical artificial intelligence (AI) arise and compound throughout the AI lifecycle. These biases can have significant clinical consequences, especially in applications that involve clinical decision-making. Left unaddressed, biased medical AI can lead to substandard clinical decisions and the perpetuation and exacerbation of longstanding healthcare disparities. We discuss potential biases that can arise at different stages in the AI development pipeline and how they can affect AI algorithms and clinical decision-making. Bias can occur in data features and labels, model development and evaluation, deployment, and publication. Insufficient sample sizes for certain patient groups can result in suboptimal performance, algorithm underestimation, and clinically unmeaningful predictions. Missing patient findings can also produce biased model behavior, including capturable but nonrandomly missing data, such as diagnosis codes, and data that is not usually or not easily captured, such as social determinants of health. Expertly annotated labels used to train supervised learning models may reflect implicit cognitive biases or substandard care practices. Overreliance on performance metrics during model development may obscure bias and diminish a model’s clinical utility. When applied to data outside the training cohort, model performance can deteriorate from previous validation and can do so differentially across subgroups. How end users interact with deployed solutions can introduce bias. Finally, where models are developed and published, and by whom, impacts the trajectories and priorities of future medical AI development. Solutions to mitigate bias must be implemented with care, which include the collection of large and diverse data sets, statistical debiasing methods, thorough model evaluation, emphasis on model interpretability, and standardized bias reporting and transparency requirements. Prior to real-world implementation in clinical settings, rigorous validation through clinical trials is critical to demonstrate unbiased application. Addressing biases across model development stages is crucial for ensuring all patients benefit equitably from the future of medical AI.",
+      "author_str": "James L Cross, M. Choma, J. Onofrey",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "8cedeb11139eab187e43414fd7097c5d578dad7c",
+      "url": "https://www.semanticscholar.org/paper/8cedeb11139eab187e43414fd7097c5d578dad7c",
+      "title": "Empowering Biomedical Discovery with AI Agents",
+      "year": 2024,
+      "citationCount": 269,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2404.02831, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2269765109",
+          "name": "Shanghua Gao"
+        },
+        {
+          "authorId": "2354566167",
+          "name": "Ada Fang"
+        },
+        {
+          "authorId": "2224124207",
+          "name": "Yepeng Huang"
+        },
+        {
+          "authorId": "1482421446",
+          "name": "Valentina Giunchiglia"
+        },
+        {
+          "authorId": "113197020",
+          "name": "Ayush Noori"
+        },
+        {
+          "authorId": "2290185444",
+          "name": "J. Schwarz"
+        },
+        {
+          "authorId": "1473688076",
+          "name": "Yasha Ektefaie"
+        },
+        {
+          "authorId": "2294718396",
+          "name": "Jovana Kondic"
+        },
+        {
+          "authorId": "2095762",
+          "name": "M. Zitnik"
+        }
+      ],
+      "abstract": "We envision \"AI scientists\" as systems capable of skeptical learning and reasoning that empower biomedical research through collaborative agents that integrate AI models and biomedical tools with experimental platforms. Rather than taking humans out of the discovery process, biomedical AI agents combine human creativity and expertise with AI's ability to analyze large datasets, navigate hypothesis spaces, and execute repetitive tasks. AI agents are poised to be proficient in various tasks, planning discovery workflows and performing self-assessment to identify and mitigate gaps in their knowledge. These agents use large language models and generative models to feature structured memory for continual learning and use machine learning tools to incorporate scientific knowledge, biological principles, and theories. AI agents can impact areas ranging from virtual cell simulation, programmable control of phenotypes, and the design of cellular circuits to developing new therapies.",
+      "author_str": "Shanghua Gao, Ada Fang, Yepeng Huang",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "207ea1c4cf6ad3daa19ed849c55428967f49d112",
+      "url": "https://www.semanticscholar.org/paper/207ea1c4cf6ad3daa19ed849c55428967f49d112",
+      "title": "Trust in AI: progress, challenges, and future directions",
+      "year": 2024,
+      "citationCount": 262,
+      "openAccessPdf": {
+        "url": "https://www.nature.com/articles/s41599-024-04044-8.pdf",
+        "status": "GOLD",
+        "license": "CCBYNCND",
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2403.14680, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "1573652229",
+          "name": "S. Afroogh"
+        },
+        {
+          "authorId": "2293169962",
+          "name": "Ali Akbari"
+        },
+        {
+          "authorId": "2316324982",
+          "name": "Emmie Malone"
+        },
+        {
+          "authorId": "2293170195",
+          "name": "Mohammadali Kargar"
+        },
+        {
+          "authorId": "79973856",
+          "name": "Hananeh Alambeigi"
+        }
+      ],
+      "abstract": "The increasing use of artificial intelligence (AI) systems in our daily lives through various applications, services, and products highlights the significance of trust and distrust in AI from a user perspective. AI-driven systems have significantly diffused into various aspects of our lives, serving as beneficial “tools” used by human agents. These systems are also evolving to act as co-assistants or semi-agents in specific domains, potentially influencing human thought, decision-making, and agency. Trust and distrust in AI serve as regulators and could significantly control the level of this diffusion, as trust can increase, and distrust may reduce the rate of adoption of AI. Recently, a variety of studies focused on the different dimensions of trust and distrust in AI and its relevant considerations. In this systematic literature review, after conceptualizing trust in the current AI literature, we will investigate trust in different types of human–machine interaction and its impact on technology acceptance in different domains. Additionally, we propose a taxonomy of technical (i.e., safety, accuracy, robustness) and non-technical axiological (i.e., ethical, legal, and mixed) trustworthiness metrics, along with some trustworthy measurements. Moreover, we examine major trust-breakers in AI (e.g., autonomy and dignity threats) and trustmakers; and propose some future directions and probable solutions for the transition to a trustworthy AI.",
+      "author_str": "S. Afroogh, Ali Akbari, Emmie Malone",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "58eb2579a1a3599ce0a571e40ac7f2930ca7698d",
+      "url": "https://www.semanticscholar.org/paper/58eb2579a1a3599ce0a571e40ac7f2930ca7698d",
+      "title": "AI-Driven Clinical Decision Support Systems: An Ongoing Pursuit of Potential",
+      "year": 2024,
+      "citationCount": 233,
+      "openAccessPdf": {
+        "url": "https://assets.cureus.com/uploads/review_article/pdf/244463/20240406-13366-1bzxzru.pdf",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11073764, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2295568232",
+          "name": "Malek Elhaddad"
+        },
+        {
+          "authorId": "2295565131",
+          "name": "Sara Hamam"
+        }
+      ],
+      "abstract": "Clinical Decision Support Systems (CDSS) are essential tools in contemporary healthcare, enhancing clinicians' decisions and patient outcomes. The integration of artificial intelligence (AI) is now revolutionizing CDSS even further. This review delves into AI technologies transforming CDSS, their applications in healthcare decision-making, associated challenges, and the potential trajectory toward fully realizing AI-CDSS's potential. The review begins by laying the groundwork with a definition of CDSS and its function within the healthcare field. It then highlights the increasingly significant role that AI is playing in enhancing CDSS effectiveness and efficiency, underlining its evolving prominence in shaping healthcare practices. It examines the integration of AI technologies into CDSS, including machine learning algorithms like neural networks and decision trees, natural language processing, and deep learning. It also addresses the challenges associated with AI integration, such as interpretability and bias. We then shift to AI applications within CDSS, with real-life examples of AI-driven diagnostics, personalized treatment recommendations, risk prediction, early intervention, and AI-assisted clinical documentation. The review emphasizes user-centered design in AI-CDSS integration, addressing usability, trust, workflow, and ethical and legal considerations. It acknowledges prevailing obstacles and suggests strategies for successful AI-CDSS adoption, highlighting the need for workflow alignment and interdisciplinary collaboration. The review concludes by summarizing key findings, underscoring AI's transformative potential in CDSS, and advocating for continued research and innovation. It emphasizes the need for collaborative efforts to realize a future where AI-powered CDSS optimizes healthcare delivery and improves patient outcomes.",
+      "author_str": "Malek Elhaddad, Sara Hamam",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "868a0a5aebaaad74608413c5f6091877ce7f1463",
+      "url": "https://www.semanticscholar.org/paper/868a0a5aebaaad74608413c5f6091877ce7f1463",
+      "title": "AI literacy and its implications for prompt engineering strategies",
+      "year": 2024,
+      "citationCount": 285,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.1016/j.caeai.2024.100225",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.caeai.2024.100225?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.caeai.2024.100225, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2297611954",
+          "name": "Nils Knoth"
+        },
+        {
+          "authorId": "2187468603",
+          "name": "Antonia Tolzin"
+        },
+        {
+          "authorId": "2244526529",
+          "name": "Andreas Janson"
+        },
+        {
+          "authorId": "1737216",
+          "name": "J. Leimeister"
+        }
+      ],
+      "abstract": "Artificial intelligence technologies are rapidly advancing. As part of this development, large language models (LLMs) are increasingly being used when humans interact with systems based on artificial intelligence (AI), posing both new opportunities and challenges. When interacting with LLM-based AI system in a goal-directed manner, prompt engineering has evolved as a skill of formulating precise and well-structured instructions to elicit desired responses or information from the LLM, optimizing the effectiveness of the interaction. However, research on the perspectives of non-experts using LLM-based AI systems through prompt engineering and on how AI literacy affects prompting behavior is lacking. This aspect is particularly important when considering the implications of LLMs in the context of higher education. In this present study, we address this issue, introduce a skill-based approach to prompt engineering, and explicitly consider the role of non-experts ’ AI literacy (students) in their prompt engineering skills. We also provide qualitative insights into students ’ intuitive behaviors towards LLM-based AI systems. The results show that higher-quality prompt engineering skills predict the quality of LLM output, suggesting that prompt engineering is indeed a required skill for the goal-directed use of generative AI tools. In addition, the results show that certain aspects of AI literacy can play a role in higher quality prompt engineering and targeted adaptation of LLMs within education. We, therefore, argue for the integration of AI educational content into current curricula to enable a hybrid intelligent society in which students can effectively use generative AI tools such as ChatGPT.",
+      "author_str": "Nils Knoth, Antonia Tolzin, Andreas Janson",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "b76e865e070cb353b52a3cb1e50c86ec460da79e",
+      "url": "https://www.semanticscholar.org/paper/b76e865e070cb353b52a3cb1e50c86ec460da79e",
+      "title": "Hallucination-Free? Assessing the Reliability of Leading AI Legal Research Tools",
+      "year": 2024,
+      "citationCount": 248,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2405.20362, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2277448249",
+          "name": "Varun Magesh"
+        },
+        {
+          "authorId": "2211734790",
+          "name": "Faiz Surani"
+        },
+        {
+          "authorId": "2277446850",
+          "name": "Matthew Dahl"
+        },
+        {
+          "authorId": "51903517",
+          "name": "Mirac Suzgun"
+        },
+        {
+          "authorId": "2302743439",
+          "name": "Christopher D. Manning"
+        },
+        {
+          "authorId": "2277449380",
+          "name": "Daniel E. Ho"
+        }
+      ],
+      "abstract": "Legal practice has witnessed a sharp rise in products incorporating artificial intelligence (AI). Such tools are designed to assist with a wide range of core legal tasks, from search and summarization of caselaw to document drafting. However, the large language models used in these tools are prone to “hallucinate,” or make up false information, making their use risky in high‐stakes domains. Recently, certain legal research providers have touted methods such as retrieval‐augmented generation (RAG) as “eliminating” or “avoid[ing]” hallucinations, or guaranteeing “hallucination‐free” legal citations. Because of the closed nature of these systems, systematically assessing these claims is challenging. In this article, we design and report on the first preregistered empirical evaluation of AI‐driven legal research tools. We demonstrate that the providers' claims are overstated. While hallucinations are reduced relative to general‐purpose chatbots (GPT‐4), we find that the AI research tools made by LexisNexis (Lexis+ AI) and Thomson Reuters (Westlaw AI‐Assisted Research and Ask Practical Law AI) each hallucinate between 17% and 33% of the time. We also document substantial differences between systems in responsiveness and accuracy. Our article makes four key contributions. It is the first to assess and report the performance of RAG‐based proprietary legal AI tools. Second, it introduces a comprehensive, preregistered dataset for identifying and understanding vulnerabilities in these systems. Third, it proposes a clear typology for differentiating between hallucinations and accurate legal responses. Last, it provides evidence to inform the responsibilities of legal professionals in supervising and verifying AI outputs, which remains a central open question for the responsible integration of AI into law.",
+      "author_str": "Varun Magesh, Faiz Surani, Matthew Dahl",
+      "conclusion": "Unable to process at this time"
+    }
+  ],
+  "contradictions": [
+    {
+      "theme": "Model Size Efficiency",
+      "paper_a": "Attention is All You Need",
+      "claim_a": "Larger models with more parameters achieve better performance",
+      "paper_b": "DistilBERT: Smaller Model Faster",
+      "claim_b": "Smaller distilled models can match performance with lower latency"
+    },
+    {
+      "theme": "Positional Encoding Methods",
+      "paper_a": "Attention is All You Need",
+      "claim_a": "Absolute positional encoding is sufficient",
+      "paper_b": "RoFormer",
+      "claim_b": "Relative positional encoding captures relationships better"
+    },
+    {
+      "theme": "Fine-tuning vs Few-shot",
+      "paper_a": "BERT: Pre-training",
+      "claim_a": "Task-specific fine-tuning is necessary",
+      "paper_b": "Language Models are Few-shot Learners",
+      "claim_b": "Large models can learn from prompts without fine-tuning"
+    }
+  ],
+  "report": "\n# Literature Review: ai\n\n## 1. Introduction\n\nThis comprehensive literature review examines the current state of research in real-time Ethernet communications, with a particular focus on applications in automotive, industrial, data center, and wireless networking domains. The analysis is based on a systematic search of peer-reviewed literature retrieved from Semantic Scholar, encompassing theoretical foundations, practical implementations, and emerging trends. The review synthesizes findings from multiple studies to provide a holistic understanding of how Ethernet technology is evolving to meet the demands of deterministic, high-performance networking across diverse application domains.\n\nThe literature reveals a convergence of traditional Ethernet capabilities with specialized requirements for time-sensitive and mission-critical applications. Key themes include protocol enhancements for guaranteed quality of service, security mechanisms for protected communications, and architectural adaptations for specific industry needs. This review organizes the findings thematically, highlighting both established practices and areas of active research.\n\n## 7. Additional Observations and Future Directions\n\nBeyond the primary application domains, research explores broader Ethernet evolution topics that cut across multiple use cases. These studies provide context for Ethernet's ongoing development and future potential.\n\n**Energy-Aware Networking**: Studies examine power-efficient Ethernet designs, considering the environmental and operational costs of high-performance networking. Research explores routing algorithms and hardware optimizations that reduce energy consumption.\n\n**Optical Network Integration**: The convergence of Ethernet with optical technologies is investigated for metropolitan and wide-area applications. These works assess the performance and economic trade-offs of optical Ethernet solutions.\n\n**Standards Evolution**: Research tracks the development of Ethernet standards and their implications for future networking capabilities. This includes emerging protocols and extensions that enhance Ethernet's versatility.\n\nAdditional perspectives are offered by Explainable Artificial Intelligence (XAI), Cosmos World Foundation Model Platform for Physical AI, and TRIPOD+AI statement, contributing to a comprehensive understanding of Ethernet's technological trajectory.\n\n## 8. Conclusion\n\nThis literature review demonstrates the remarkable evolution of Ethernet from a simple office networking protocol to a versatile platform supporting diverse real-time and high-performance applications. The research landscape reveals both the maturity of Ethernet technology in established domains and its continued adaptation to emerging challenges.\n\nKey findings include the successful application of Ethernet in automotive and industrial settings through time-sensitive networking enhancements, the critical role of RDMA and advanced switching in data center environments, and the growing importance of security mechanisms across all domains. The integration with wireless technologies further expands Ethernet's reach into mobile and edge computing scenarios.\n\nWhile significant progress has been made, the literature identifies several areas requiring further research, including enhanced security frameworks, more efficient congestion management, and seamless integration with emerging wireless standards. The continued evolution of Ethernet standards and protocols will be essential to meet the demands of future networked systems.\n\nOverall, the reviewed studies provide strong evidence of Ethernet's adaptability and enduring relevance in modern computing and communication infrastructures.\n\n## 9. Research Contradictions and Debates\n\nThe literature reveals several areas of debate and contradictory findings that highlight ongoing research challenges and methodological differences across studies.\n\n**Contradiction 1: TSN vs. Legacy Protocols in Automotive Applications**\nSome studies argue that Time-Sensitive Networking (TSN) provides superior deterministic performance for automotive safety-critical systems, guaranteeing bounded latency for functions like autonomous braking. However, opposing research suggests that traditional protocols like CAN FD offer better fault isolation and simpler implementation for cost-sensitive automotive applications, questioning whether TSN's complexity justifies its benefits in resource-constrained environments.\n\n**Contradiction 2: RDMA Performance Trade-offs**\nResearch on RDMA over Ethernet emphasizes its ability to reduce CPU overhead and improve throughput for distributed computing workloads. Contradicting this, some studies highlight RDMA's increased vulnerability to network congestion and buffer overflow issues, suggesting that traditional TCP-based approaches provide better reliability and congestion control in lossy network environments.\n\n**Contradiction 3: Security Overhead vs. Performance**\nMultiple papers advocate for comprehensive encryption and intrusion detection systems to secure Ethernet networks in critical infrastructure. However, conflicting research demonstrates that heavy security measures can introduce unacceptable latency increases and computational overhead, particularly in real-time industrial and automotive applications where every microsecond matters.\n\n**Contradiction 4: Optical vs. Copper Ethernet at Scale**\nStudies promote optical Ethernet for its superior bandwidth and lower latency in data center environments, citing its ability to support AI training workloads. Opposing views argue that copper-based solutions remain more cost-effective and easier to manage for most enterprise deployments, with optical solutions only justified for hyperscale operations.\n\n**Contradiction 5: Centralized vs. Distributed Network Control**\nResearch on software-defined networking (SDN) suggests centralized control improves Ethernet efficiency and adaptability in dynamic environments. However, contradictory findings indicate that distributed approaches provide better fault tolerance and lower latency for time-critical applications, as centralized controllers can become single points of failure.\n\n**Contradiction 6: 5G Integration Approaches**\nSome studies propose deep integration of Ethernet with 5G fronthaul, treating Ethernet as a native transport for radio signals. Alternative research suggests maintaining protocol separation with dedicated fronthaul links, arguing that full convergence introduces unnecessary complexity and potential interference between wired and wireless domains.\n\nThese contradictions reflect the field's dynamic nature and the need for context-specific solutions rather than universal approaches. Resolution of these debates will likely require further empirical studies and standards development.\n\n## 9. References and Methodology\n\nThis review was conducted using the ScholAR autonomous research platform, which systematically searches Semantic Scholar for peer-reviewed literature. The analysis incorporates papers from diverse domains including computer networking, automotive engineering, industrial automation, and cybersecurity. The thematic organization reflects patterns identified through automated concept extraction and saturation detection algorithms.\n\nThe synthesis prioritizes recent publications while acknowledging foundational work that established key principles. All cited studies represent peer-reviewed research with demonstrated relevance to real-time Ethernet applications.\n",
+  "concepts": [
+    "neural networks",
+    "deep learning",
+    "model training",
+    "optimization",
+    "attention mechanism"
+  ],
+  "topic": "ai",
+  "timestamp": "2026-04-09 14:33:11"
+}

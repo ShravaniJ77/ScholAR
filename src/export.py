@@ -12,7 +12,7 @@ def export_to_bibtex(papers: list) -> str:
 
     for idx, paper in enumerate(papers):
         title = paper.get('title', 'Unknown').replace('"', '\\"')
-        authors = paper.get('authors', 'Unknown')
+        authors = paper.get('author_str', 'Unknown')
         year = paper.get('year', 'Unknown')
         abstract = paper.get('abstract', '')
 
@@ -50,7 +50,7 @@ def export_to_markdown(topic: str, papers: list, contradictions: list, report: s
     md.append("## Papers\n\n")
     for idx, paper in enumerate(papers, 1):
         md.append(f"### {idx}. {paper.get('title', 'N/A')}\n")
-        md.append(f"- **Authors:** {paper.get('authors', 'N/A')}\n")
+        md.append(f"- **Authors:** {paper.get('author_str', 'N/A')}\n")
         md.append(f"- **Year:** {paper.get('year', 'N/A')}\n")
         md.append(f"- **Abstract:** {paper.get('abstract', 'N/A')}\n\n")
 
@@ -80,7 +80,7 @@ def export_to_csv(papers: list) -> str:
         writer.writerow({
             '#': idx,
             'Title': paper.get('title', 'N/A'),
-            'Authors': paper.get('authors', 'N/A'),
+            'Authors': paper.get('author_str', 'N/A'),
             'Year': paper.get('year', 'N/A'),
             'Abstract': paper.get('abstract', 'N/A')[:100] + '...' if paper.get('abstract') else 'N/A'
         })
@@ -113,7 +113,7 @@ def export_to_ris(papers: list) -> str:
         ris = []
         ris.append("TY  - JOUR")
         ris.append(f"TI  - {paper.get('title', 'Unknown')}")
-        ris.append(f"AU  - {paper.get('authors', 'Unknown')}")
+        ris.append(f"AU  - {paper.get('author_str', 'Unknown')}")
         ris.append(f"PY  - {paper.get('year', 'Unknown')}")
         ris.append(f"AB  - {paper.get('abstract', '')}")
         ris.append("ER  - \n")
@@ -153,7 +153,7 @@ def export_to_html(topic: str, papers: list, contradictions: list, report: str) 
     {"".join([f'''
     <div class="paper">
         <h3>{paper.get('title', 'Unknown')}</h3>
-        <p><strong>Authors:</strong> {paper.get('authors', 'Unknown')}</p>
+        <p><strong>Authors:</strong> {paper.get('author_str', 'Unknown')}</p>
         <p><strong>Year:</strong> {paper.get('year', 'Unknown')}</p>
         <p><strong>Abstract:</strong> {paper.get('abstract', 'N/A')[:200]}...</p>
     </div>

@@ -1,0 +1,1822 @@
+{
+  "type": "complete",
+  "papers": [
+    {
+      "paperId": "527aaef5d212df9961495a1b8abb13c74088d95a",
+      "url": "https://www.semanticscholar.org/paper/527aaef5d212df9961495a1b8abb13c74088d95a",
+      "title": "Self‐Reinforced Bimetallic Mito‐Jammer for Ca2+ Overload‐Mediated Cascade Mitochondrial Damage for Cancer Cuproptosis Sensitization",
+      "year": 2024,
+      "citationCount": 63,
+      "openAccessPdf": {
+        "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/advs.202306031",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11022715, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2198757070",
+          "name": "Chier Du"
+        },
+        {
+          "authorId": "2118134402",
+          "name": "Xun Guo"
+        },
+        {
+          "authorId": "2195204028",
+          "name": "Xiaoling Qiu"
+        },
+        {
+          "authorId": "51224520",
+          "name": "Weixi Jiang"
+        },
+        {
+          "authorId": "2260445472",
+          "name": "Xiaoting Wang"
+        },
+        {
+          "authorId": "2260415193",
+          "name": "Hongjin An"
+        },
+        {
+          "authorId": "2145276017",
+          "name": "Jingxue Wang"
+        },
+        {
+          "authorId": "2260637994",
+          "name": "Yuanli Luo"
+        },
+        {
+          "authorId": "2188608730",
+          "name": "Qianying Du"
+        },
+        {
+          "authorId": "2289314869",
+          "name": "Ruoyao Wang"
+        },
+        {
+          "authorId": "2116393529",
+          "name": "Chen Cheng"
+        },
+        {
+          "authorId": "2260849907",
+          "name": "Yuan Guo"
+        },
+        {
+          "authorId": "51234233",
+          "name": "Hua Teng"
+        },
+        {
+          "authorId": "144024941",
+          "name": "Haitao Ran"
+        },
+        {
+          "authorId": "2283838782",
+          "name": "Zhigang Wang"
+        },
+        {
+          "authorId": "2260606819",
+          "name": "Pan Li"
+        },
+        {
+          "authorId": "50251686",
+          "name": "Zhiyi Zhou"
+        },
+        {
+          "authorId": "2260621205",
+          "name": "Jianli Ren"
+        }
+      ],
+      "abstract": "Overproduction of reactive oxygen species (ROS), metal ion accumulation, and tricarboxylic acid cycle collapse are crucial factors in mitochondria‐mediated cell death. However, the highly adaptive nature and damage‐repair capabilities of malignant tumors strongly limit the efficacy of treatments based on a single treatment mode. To address this challenge, a self‐reinforced bimetallic Mito‐Jammer is developed by incorporating doxorubicin (DOX) and calcium peroxide (CaO2) into hyaluronic acid (HA) ‐modified metal‐organic frameworks (MOF). After cellular, Mito‐Jammer dissociates into CaO2 and Cu2+ in the tumor microenvironment. The exposed CaO2 further yields hydrogen peroxide (H2O2) and Ca2+ in a weakly acidic environment to strengthen the Cu2+‐based Fenton‐like reaction. Furthermore, the combination of chemodynamic therapy and Ca2+ overload exacerbates ROS storms and mitochondrial damage, resulting in the downregulation of intracellular adenosine triphosphate (ATP) levels and blocking of Cu‐ATPase to sensitize cuproptosis. This multilevel interaction strategy also activates robust immunogenic cell death and suppresses tumor metastasis simultaneously. This study presents a multivariate model for revolutionizing mitochondria damage, relying on the continuous retention of bimetallic ions to boost cuproptosis/immunotherapy in cancer.",
+      "author_str": "Chier Du, Xun Guo, Xiaoling Qiu",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "13ad5e0507fe237b96fb00130a6c391f9b36fa65",
+      "url": "https://www.semanticscholar.org/paper/13ad5e0507fe237b96fb00130a6c391f9b36fa65",
+      "title": "Channel-Aware Jammer Selection and Power Control in Covert Communication",
+      "year": 2024,
+      "citationCount": 22,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/TVT.2023.3317638?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/TVT.2023.3317638, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2053866533",
+          "name": "Rongrong He"
+        },
+        {
+          "authorId": "2237810648",
+          "name": "Jin Chen"
+        },
+        {
+          "authorId": "145912633",
+          "name": "Guoxin Li"
+        },
+        {
+          "authorId": "2238094992",
+          "name": "Haichao Wang"
+        },
+        {
+          "authorId": "2145538469",
+          "name": "Yuhua Xu"
+        },
+        {
+          "authorId": "2261792878",
+          "name": "Weiwei Yang"
+        },
+        {
+          "authorId": "2878072",
+          "name": "Yutao Jiao"
+        },
+        {
+          "authorId": "2153233163",
+          "name": "Wenhui He"
+        }
+      ],
+      "abstract": "This paper considers a multi-jammer-assisted covert communication scenario, where a transmitter communicates with a receiver without being detected by a warden under the assistance of multiple friendly jammers. The transmission rate maximization problem subjecting to the covertness constraint by jointly optimizing the jammer selection strategy and power control of the transmitter is studied under the following three channel models: 1) Additive white Gaussian noise (AWGN) channel; 2) Block fading channel without channel state information (CSI) acquisition cost; 3) Block fading channel with CSI acquisition cost. Under the AWGN channel, considering achievable schemes of the transmitter, relative entropy is adopted to lower bound the detection error probability at the warden. We decouple the joint optimization problem into two sub-problems and prove that selecting one jammer with the maximum ratio of the jamming power at the warden to that at the receiver is optimal with proper transmit power control in an interference-limited environment. Motivated by this key analytical conclusion, we then study the second channel model's optimal single jammer selection strategy. Considering the worst case that the warden employs the optimal detector, we analytically show that the optimal selection criterion in this channel model is choosing the jammer with the maximum ratio of the average jamming power at the warden to the instantaneous jamming power at the receiver. Given this selection criterion, we then study the problem of how many jammers should be explored when the acquisition cost of jammers' CSI cannot be ignored. We formulate the optimization problem as an optimal stopping problem and propose two optimal strategies for two cases that whether the previously explored jammers are allowed to select. The numerical results evaluate the theoretical results and show the superiority of the proposed jammer selection strategies. Furthermore, we also present the impact of some key parameters on the covert rate, such as the covertness constraint, the number of jammers, and the CSI acquisition time of one jammer, which provide more valuable insights.",
+      "author_str": "Rongrong He, Jin Chen, Guoxin Li",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "8131cfeed896faf14a8bdd63bc1f75e2f5486c18",
+      "url": "https://www.semanticscholar.org/paper/8131cfeed896faf14a8bdd63bc1f75e2f5486c18",
+      "title": "Illegal Intelligent Reflecting Surface Based Active Channel Aging: When Jammer Can Attack Without Power and CSI",
+      "year": 2023,
+      "citationCount": 33,
+      "openAccessPdf": {
+        "url": "https://arxiv.org/pdf/2301.04266",
+        "status": "GREEN",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2301.04266, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "5844893",
+          "name": "Huan Huang"
+        },
+        {
+          "authorId": "40491375",
+          "name": "Ying Zhang"
+        },
+        {
+          "authorId": "46702608",
+          "name": "Hongliang Zhang"
+        },
+        {
+          "authorId": "151505985",
+          "name": "Chongfu Zhang"
+        },
+        {
+          "authorId": "2114874032",
+          "name": "Zhu Han"
+        }
+      ],
+      "abstract": "Illegal intelligent reflecting surfaces (I-IRSs), i.e., the illegal deployment and utilization of IRSs, impose serious harmful impacts on wireless networks. The existing I-IRS-based illegal jammer (IJ) requires channel state information (CSI) or extra power or both, and therefore, the I-IRS-based IJ seems to be difficult to implement in practical wireless networks. To raise concerns about significant potential threats posed by I-IRSs, we propose an alternative method to jam legitimate users (LUs) without relying on the CSI. By using an I-IRS to actively change wireless channels, the orthogonality of multi-user beamforming vectors and the co-user channels is destroyed, and significant inter-user interference is then caused, which is referred to as active channel aging. Such a fully-passive jammer (FPJ) can launch jamming attacks on multi-user multiple-input single-output (MU-MISO) systems via inter-user interference caused by active channel aging, where the IJ requires no additional transmit power and instantaneous CSI. The simulation results show the effectiveness of the proposed FPJ scheme. Moreover, we also investigate how the transmit power and the number of quantization phase shift bits influence the jamming performance.",
+      "author_str": "Huan Huang, Ying Zhang, Hongliang Zhang",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "5561ed5912563f5ef943cee3861bbf8f4d89e563",
+      "url": "https://www.semanticscholar.org/paper/5561ed5912563f5ef943cee3861bbf8f4d89e563",
+      "title": "Performance Analysis and Optimization for Jammer-Aided Multiantenna UAV Covert Communication",
+      "year": 2022,
+      "citationCount": 85,
+      "openAccessPdf": {
+        "url": "http://arxiv.org/pdf/2202.00973",
+        "status": "GREEN",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2202.00973, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "49345295",
+          "name": "Hongyang Du"
+        },
+        {
+          "authorId": "2266084696",
+          "name": "Dusist Niyato"
+        },
+        {
+          "authorId": "30527162",
+          "name": "Yuan-ai Xie"
+        },
+        {
+          "authorId": "51310994",
+          "name": "Yanyu Cheng"
+        },
+        {
+          "authorId": "145993626",
+          "name": "Jiawen Kang"
+        },
+        {
+          "authorId": "34841193",
+          "name": "Dong In Kim"
+        }
+      ],
+      "abstract": "Unmanned aerial vehicles (UAVs) have attracted a lot of research attention because of their high mobility and low cost in serving as temporary aerial base stations (BSs) and providing high data rates for next-generation communication networks. To protect user privacy while avoiding detection by a warden, we investigate a jammer-aided UAV covert communication system, which aims to maximize the user’s covert rate with optimized transmit and jamming power. The UAV is equipped with multi-antennas to serve multi-users simultaneously and enhance the Quality of Service. By considering the general composite fading and shadowing channel models, we derive the exact probability density (PDF) and cumulative distribution functions (CDF) of the signal-to-interference-plus-noise ratio (SINR). The obtained PDF and CDF are used to derive the closed-form expressions for detection error probability and covert rate. Furthermore, the covert rate maximization problem is formulated as a Nash bargaining game, and the Nash bargaining solution (NBS) is introduced to investigate the negotiation among users. To solve the NBS, we propose two algorithms, i.e., particle swarm optimization-based and joint two-stage power allocation algorithms, to achieve covertness and high data rates under the warden’s optimal detection threshold. All formulated problems are proven to be convex, and the complexity is analyzed. The numerical results are presented to verify the theoretical performance analysis and show the effectiveness and success of achieving the covert communication of our algorithms.",
+      "author_str": "Hongyang Du, Dusist Niyato, Yuan-ai Xie",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "de38ffb1695eaf3ba6e423fbd0c5f4be3da1b82b",
+      "url": "https://www.semanticscholar.org/paper/de38ffb1695eaf3ba6e423fbd0c5f4be3da1b82b",
+      "title": "Task Assignment in UAV-Enabled Front Jammer Swarm: A Coalition Formation Game Approach",
+      "year": 2023,
+      "citationCount": 28,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/TAES.2023.3323441?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/TAES.2023.3323441, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2455372",
+          "name": "Tianxian Zhang"
+        },
+        {
+          "authorId": "2258592637",
+          "name": "Yuanhang Wang"
+        },
+        {
+          "authorId": "2165678228",
+          "name": "Zhijie Ma"
+        },
+        {
+          "authorId": "2451321",
+          "name": "L. Kong"
+        }
+      ],
+      "abstract": "Thanks to the low detectability and low cost of unmanned aerial vehicles (UAVs), UAV-enabled front swarm jamming has been considered a promising method to counter netted radar systems. Nevertheless, the task assignment problem of the UAV-enabled front jammer swarm has rarely been studied. Due to the low load capacity of the UAV and dynamic task environment, the task assignment of the UAV-enabled front jammer swarm faces the following two main challenges. 1) The hardware performance of the jammer nodes is limited. 2) The optimal task assignment scheme is dynamic. To address the above issues, a distributed dynamic task assignment approach is studied for the UAV-enabled front jammer swarm in this article. First, we design the utility function of the UAV-enabled front jammer swarm based on the quality of service (QOS) framework, and formulate the task assignment of the UAV-enabled front jammer swarm as a multiagent coordination problem. Then, the coalition formation game (CFG) of jammers for the task assignment is formulated to reveal the coordination process of the jammers. Finally, a distributed coalition formation based UAV-enabled front jammer swarm dynamic task assignment algorithm is proposed, which can achieve similar performance to the centralized optimization via a distributed approach and is suitable for dynamic environment. Experimental results demonstrate that the proposed approach is highly competitive to deal with the task assignment problem of the UAV-enabled front jammer swarm.",
+      "author_str": "Tianxian Zhang, Yuanhang Wang, Zhijie Ma",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "7b498bc6450feda7f98723dd7a1701344c0e193e",
+      "url": "https://www.semanticscholar.org/paper/7b498bc6450feda7f98723dd7a1701344c0e193e",
+      "title": "Radar and Jammer Intelligent Game under Jamming Power Dynamic Allocation",
+      "year": 2023,
+      "citationCount": 27,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/2072-4292/15/3/581/pdf?version=1674033324",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/rs15030581?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/rs15030581, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2197854938",
+          "name": "Jie Geng"
+        },
+        {
+          "authorId": "1765653",
+          "name": "B. Jiu"
+        },
+        {
+          "authorId": "2107514795",
+          "name": "Kang Li"
+        },
+        {
+          "authorId": "2198037116",
+          "name": "Yu Zhao"
+        },
+        {
+          "authorId": "46935308",
+          "name": "Hongzhi Liu"
+        },
+        {
+          "authorId": "2204984247",
+          "name": "Hailin Li"
+        }
+      ],
+      "abstract": "In modern electronic warfare, the intelligence of the jammer greatly worsens the anti-jamming performance of traditional passive suppression methods. How to actively design anti-jamming strategies to deal with intelligent jammers is crucial to the radar system. In the existing research on radar anti-jamming strategies’ design, the assumption of jammers is too ideal. To establish a model that is closer to real electronic warfare, this paper explores the intelligent game between a subpulse-level frequency-agile (FA) radar and a transmit/receive time-sharing jammer under jamming power dynamic allocation. Firstly, the discrete allocation model of jamming power is established, and the multiple-round sequential interaction between the radar and the jammer is described based on an extensive-form game. A detection probability calculation method based on the signal-to-interference-pulse-noise ratio (SINR) accumulation gain criterion (SAGC) is proposed to evaluate the game results. Secondly, considering that the competition between the radar and the jammer has the feature of imperfect information, we utilized neural fictitious self-play (NFSP), an end-to-end deep reinforcement learning (DRL) algorithm, to find the Nash equilibrium (NE) of the game. Finally, the simulation results showed that the game between the radar and the jammer can converge to an approximate NE under the established model. The approximate NE strategies are better than the elementary strategies from the perspective of detection probability. In addition, comparing NFSP and the deep Q-network (DQN) illustrates the effectiveness of NFSP in solving the NE of imperfect information games.",
+      "author_str": "Jie Geng, B. Jiu, Kang Li",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "0a85cc4d4b0644b54e8a24a2ec12fb374280a3a6",
+      "url": "https://www.semanticscholar.org/paper/0a85cc4d4b0644b54e8a24a2ec12fb374280a3a6",
+      "title": "Optimal RIS Allocations for PLS With Uncertain Jammer and Eavesdropper",
+      "year": 2023,
+      "citationCount": 17,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/TCE.2023.3292842?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/TCE.2023.3292842, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2111635353",
+          "name": "Siyu Chen"
+        },
+        {
+          "authorId": "2206644",
+          "name": "Yan-cheng Ji"
+        },
+        {
+          "authorId": "2222262682",
+          "name": "Yan Jiang"
+        },
+        {
+          "authorId": "145927575",
+          "name": "Wei Duan"
+        },
+        {
+          "authorId": "46309063",
+          "name": "Jaeho Choi"
+        },
+        {
+          "authorId": "49288530",
+          "name": "Guoan Zhang"
+        },
+        {
+          "authorId": "1708800",
+          "name": "P. Ho"
+        }
+      ],
+      "abstract": "With deployment of 5G and emerging 6G networks, the demand of wireless communication for transmission capacity as well as the transmission security in consumer electronics is increasing. Reconfigurable intelligent surface (RIS) has shown a great potential in physical layer security (PLS) due to its enabling technology to engineer the radio signal prorogation. In this paper, we study PLS problems of RIS-assisted wireless communication system, where the RIS is deployed to aid pair of the transmitter (Alice) and receiver (Bob) under the active jamming (Jammer) and eavesdropper (Eve) attack. Different from traditional RIS schemes, our proposed scheme divides the RIS into two parts which not only enhances the legitimate user performance but also suppresses the eavesdropper. Specifically, the location of the jammer is also considered with two different scenarios, i.e., the distance between the jammer and RIS is smaller/greater than that of the one between the transmitter and RIS. Considering the influence of RIS reflection coefficient, path loss and uncertain jammer locations, we analyze the system performance based on the legitimate and eavesdropping channels, providing the upper and lower bounds of achievable received signal-to-noise ratio (SNR) instead of the secrecy outage probability (SOP). In addition, the simulation and asymptotic results reveal the location influence of the interference on the secrecy performance and the superiority of the proposed scheme.",
+      "author_str": "Siyu Chen, Yan-cheng Ji, Yan Jiang",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "a5a1ccdb5754e5b2c3026b33be6226f2bb068ff4",
+      "url": "https://www.semanticscholar.org/paper/a5a1ccdb5754e5b2c3026b33be6226f2bb068ff4",
+      "title": "Deep Learning-Enabled Deceptive Jammer Detection for Low Probability of Intercept Communications",
+      "year": 2023,
+      "citationCount": 19,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/JSYST.2022.3180481?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/JSYST.2022.3180481, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2170277298",
+          "name": "Hamda Bouzabia"
+        },
+        {
+          "authorId": "38224630",
+          "name": "Tri Nhu Do"
+        },
+        {
+          "authorId": "2379122",
+          "name": "Georges Kaddoum"
+        }
+      ],
+      "abstract": "The detection of deceptive jamming in low probability of intercept/low probability of detection (LPI/LPD) tactical communications has been receiving increasing attention, especially in the context of radar communications. In this article, we propose a novel deep-learning-based algorithm, named two-stage deceptive jammer detection (TDJD), for pseudonoise (PN) code-integrated linear frequency modulation chirp jamming signals in radar communications. Specifically, the proposed algorithm uses the time–frequency distribution (TFD) and in-phase and quadrature (I/Q) representations of the received signals to obtain more discriminating features for the detection of unknown deceptive jammers under the realistic assumption that information about the deceptive jammer, such as the PN-code signal, power, and range, is not available. In particular, the received radar signals are converted into two kinds of TFD representations using the Choi–William distribution (CWD) and I/Q representations. Next, a two-stage approach based on deep learning-enabled outlier detection and automatic modulation classification techniques is applied to the CWD and I/Q representations to extract high-level features for jammer detection. Simulation results show that the TDJD algorithm outperforms other relevant deep learning algorithms in terms of the probability of detection and the probability of false alarm. In addition, the TDJD algorithm provides accurate detection at a low signal-to-jammer-plus-noise ratio.",
+      "author_str": "Hamda Bouzabia, Tri Nhu Do, Georges Kaddoum",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "ed0d73c34f7f79b78d579d57e7cb6d00037558ea",
+      "url": "https://www.semanticscholar.org/paper/ed0d73c34f7f79b78d579d57e7cb6d00037558ea",
+      "title": "Jammer classification with Federated Learning",
+      "year": 2023,
+      "citationCount": 12,
+      "openAccessPdf": {
+        "url": "https://arxiv.org/pdf/2306.02587",
+        "status": "GREEN",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2306.02587, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2111194301",
+          "name": "Peng Wu"
+        },
+        {
+          "authorId": "2199318360",
+          "name": "Helena Calatrava"
+        },
+        {
+          "authorId": "2470490",
+          "name": "Tales Imbiriba"
+        },
+        {
+          "authorId": "1791106",
+          "name": "P. Closas"
+        }
+      ],
+      "abstract": "Jamming signals can jeopardize the operation of GNSS receivers until deying its operation. Given their ubiquity, jamming mitigation and localization techniques are of crucial importance, for which jammer classification is of help. Data-driven models have been proven useful in detecting these threats, while their training using crowdsourced data still poses challenges when it comes to private data sharing. This article investigates the use of federated learning to train jamming signal classifiers locally on each device, with model updates aggregated and averaged at the central server. This allows for privacy-preserving training procedures that do not require centralized data storage or access to client local data. The used framework FedAvg is assessed on a dataset consisting of spectrogram images of simulated interfered GNSS signal. Six different jammer types are effectively classified with comparable results to a fully centralized solution that requires vast amounts of data communication and involves privacy-preserving concerns.",
+      "author_str": "Peng Wu, Helena Calatrava, Tales Imbiriba",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "99e0c4673863e1da4104c11528752707257166dd",
+      "url": "https://www.semanticscholar.org/paper/99e0c4673863e1da4104c11528752707257166dd",
+      "title": "Suppression of Mainbeam Deceptive Jammer With FDA-MIMO Radar",
+      "year": 2020,
+      "citationCount": 203,
+      "openAccessPdf": {
+        "url": "https://repository.tudelft.nl/file/File_094777ea-5caa-4c0b-997e-f399e5751a46",
+        "status": "GREEN",
+        "license": "other-oa",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/TVT.2020.3014689?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/TVT.2020.3014689, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "49409832",
+          "name": "Lan Lan"
+        },
+        {
+          "authorId": "47882735",
+          "name": "Jingwei Xu"
+        },
+        {
+          "authorId": "145976124",
+          "name": "G. Liao"
+        },
+        {
+          "authorId": "49889559",
+          "name": "Yuhong Zhang"
+        },
+        {
+          "authorId": "3088202",
+          "name": "F. Fioranelli"
+        },
+        {
+          "authorId": "145358514",
+          "name": "H. So"
+        }
+      ],
+      "abstract": "Suppression of radar-to-radar jammers, especially the mainbeam jammers, has been an urgent demand in vehicular sensing systems with the expected increased number of vehicles equipped with radar systems. This paper deals with the suppression of mainbeam deceptive jammers with frequency diverse array (FDA)-multiple-input multiple-output (MIMO) radar, utilizing its extra degrees-of-freedom (DOFS) in the range domain. At the modelling stage, false targets, which lag several pulses behind the true target, are considered as a typical form of mainbeam jammers. To this end the data-independent beamforming is performed to suppress false targets by nulling at the equivalent transmit beampattern with an appropriate frequency increment. However, the suppression performance degrades in the presence of transmit spatial frequency mismatch, which could be induced by quantization errors, angle estimation errors and frequency increment errors. To solve this problem, a preset broadened nulling beamformer (PBN-BF) is proposed by placing artificial interferences with appropriate powers around the nulls of the equivalent transmit beampattern. In such a way, effective suppression of deceptive jammer can be guaranteed owing to the broadened notches. At the analysis stage, numerical results in a scenario with multiple unmanned aerial vehicles (UAVs) are provided to illustrate the effectiveness of the devised data-independent BF, and the signal-to-interference-plus-noise ratio is improved compared with the conventional data-independent BF.",
+      "author_str": "Lan Lan, Jingwei Xu, G. Liao",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "d18c2b10761977e94aef7ca9236ca429363c8206",
+      "url": "https://www.semanticscholar.org/paper/d18c2b10761977e94aef7ca9236ca429363c8206",
+      "title": "Mainlobe Deceptive Jammer Suppression in SF-RDA Radar: Joint Transmit-Receive Processing",
+      "year": 2022,
+      "citationCount": 39,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/TVT.2022.3195408?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/TVT.2022.3195408, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "49409832",
+          "name": "Lan Lan"
+        },
+        {
+          "authorId": "47882735",
+          "name": "Jingwei Xu"
+        },
+        {
+          "authorId": "145976124",
+          "name": "G. Liao"
+        },
+        {
+          "authorId": "7472142",
+          "name": "Shengqi Zhu"
+        },
+        {
+          "authorId": "145358514",
+          "name": "H. So"
+        }
+      ],
+      "abstract": "The problem of mainlobe deceptive jammer suppression with a novel stepped frequency (SF)-receive delay array (RDA) radar is addressed in this paper. In our system design, the linear frequency modulation (LFM) waveform with a SF across the antenna elements is transmitted in a uniform linear array, and the received echo is delayed with a time shift between adjacent antenna elements, introducing extra range-dependent degrees-of-freedom (DOFs) in both transmit and receive domains. Consider a typical form of mainlobe jammers, where multiple false targets are generated in the same transmit pulse or same range bin behind the true target after short time modulation. In this respect, the jammers are discriminated from the true target in the joint transmit-receive spatial frequency domain, and suppressed via a data-dependent beamformer based on the minimum variance distortionless response (MVDR) criterion. To further solve the problem of sample selection due to the pseudo-random distribution of the false targets, two kinds of robust beamformers based on the enhanced Capon power spectrum (ECPS) and the eigen-projection elimination (EPE), are developed to reconstruct the jammer-plus-noise covariance matrix and estimate the steering vector of the true target. The performance of the proposed methods in suppression of mainlobe deceptive jammers is evaluated via numerical simulations and compared with the existing systems and robust beamforming methods.",
+      "author_str": "Lan Lan, Jingwei Xu, G. Liao",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "bdc0fceae72d444f5cdd757cdd414207aa209ef5",
+      "url": "https://www.semanticscholar.org/paper/bdc0fceae72d444f5cdd757cdd414207aa209ef5",
+      "title": "UAV-Aided Covert Communication With a Multi-Antenna Jammer",
+      "year": 2021,
+      "citationCount": 63,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/TVT.2021.3112121?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/TVT.2021.3112121, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2109081403",
+          "name": "Xinying Chen"
+        },
+        {
+          "authorId": "2153009027",
+          "name": "Ning Zhang"
+        },
+        {
+          "authorId": "2116586578",
+          "name": "Jie Tang"
+        },
+        {
+          "authorId": "2157519",
+          "name": "Mingqian Liu"
+        },
+        {
+          "authorId": "144078575",
+          "name": "Nan Zhao"
+        },
+        {
+          "authorId": "2266084696",
+          "name": "Dusist Niyato"
+        }
+      ],
+      "abstract": "Owing to the flexible mobility and convenient deployment, unmanned aerial vehicle (UAV) aided networks can facilitate many applications. However, the open accessibility of wireless communication brings a great risk of privacy to UAV-based networks. Thus, in this paper, we propose a UAV-aided covert communication scheme assisted by a multi-antenna jammer to maximize the transmission rate between a ground transmitter and a UAV receiver against several randomly distributed wardens. The transmitter adopts the maximum ratio transmission, while the jammer zero-forces its transmitted signal at the UAV to disturb the monitoring at wardens without interfering the legitimate transmission. First, we analyze the detection performance and derive the optimal threshold for each warden to minimize its detection outage probability (DOP). Then, with the worst situation in which all wardens set their respective optimal thresholds to achieve the minimum global DOP, the location and the transmit power of the jammer are optimized to maximize the DOP. The location of UAV and the transmit power of the ground transmitter are also optimized to maximize the transmission rate with the minimum DOP requirement satisfied. Numerical results are provided to demonstrate the effectiveness of the proposed UAV-aided covert communication scheme.",
+      "author_str": "Xinying Chen, Ning Zhang, Jie Tang",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "a323f987ad024adf7462200d1f1130cd9451df52",
+      "url": "https://www.semanticscholar.org/paper/a323f987ad024adf7462200d1f1130cd9451df52",
+      "title": "“Advancing Secretly by an Unknown Path”: A Reinforcement Learning-Based Hidden Strategy for Combating Intelligent Reactive Jammer",
+      "year": 2022,
+      "citationCount": 19,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/lwc.2022.3165633?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/lwc.2022.3165633, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2109050271",
+          "name": "Wen Li"
+        },
+        {
+          "authorId": "2112482562",
+          "name": "Yuan Qin"
+        },
+        {
+          "authorId": "50558801",
+          "name": "Zhibin Feng"
+        },
+        {
+          "authorId": "2112454215",
+          "name": "Hao Han"
+        },
+        {
+          "authorId": "2108460412",
+          "name": "Jin Chen"
+        },
+        {
+          "authorId": "2145538469",
+          "name": "Yuhua Xu"
+        }
+      ],
+      "abstract": "This letter investigates the problem of combating the intelligent reactive jammer through a deep reinforcement learning (DRL) based hidden strategy. Existing anti-jamming researches always assume a capacity-limited adversary which is non-reactive or only launches attacks while detecting activities of the transmitter. In this letter, we consider an intelligent reactive jammer that releases track jamming once activities of the transmitter are detected, otherwise it launches indiscriminate jamming (e.g., sweep or comb jamming). A DRL-based hidden strategy is proposed to resist this powerful jamming via adjusting power and accessing idle channels simultaneously. Moreover, the parallel policy network and individual reward function are introduced to enhance the anti-jamming performance. Simulation results confirm that the proposed algorithm can significantly elude the jammer’s detection and achieve dynamic spectrum access in a dynamic and unknown environment.",
+      "author_str": "Wen Li, Yuan Qin, Zhibin Feng",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "9bbe3efd4ee835d4657eee3b6225a8169ce4de08",
+      "url": "https://www.semanticscholar.org/paper/9bbe3efd4ee835d4657eee3b6225a8169ce4de08",
+      "title": "Covert Communication in the Presence of an Uninformed, Informed, and Coordinated Jammer",
+      "year": 2022,
+      "citationCount": 18,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ISIT50566.2022.9834682?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ISIT50566.2022.9834682, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "35383039",
+          "name": "Hassan ZivariFard"
+        },
+        {
+          "authorId": "145552713",
+          "name": "M. Bloch"
+        },
+        {
+          "authorId": "1739547",
+          "name": "Aria Nosratinia"
+        }
+      ],
+      "abstract": "This paper is eligible for the Jack Keil Wolf ISIT Student Paper Award. This paper investigates covert communication in the presence of a cooperative jammer. Covert communication refers to the inability of an adversary to distinguish data transmission from a so-called innocent symbol at the input. We consider three related problems: (1) a jammer without direct communication or coordination with the transmitter, (2) a jammer that cribs the output of the transmitter, and (3) a jammer that is able to coordinate with the transmitter via a secret key that is also shared with the legitimate receiver. For each model, we derive inner and outer bounds on the capacity region that are tight in some special cases. Unlike prior results in the literature, the jammer in our model does not have access to unlimited local randomness. In fact, uncovering the fundamental interplay between the covert communication rate, local randomness, and secret key rate, is one of the distinctions and contributions of the present work. In the context of a few specific channels, we calculate achievable covert rates to illuminate our results.",
+      "author_str": "Hassan ZivariFard, M. Bloch, Aria Nosratinia",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "2a634f7ddcdecd16f0c945fbf66f37849670c806",
+      "url": "https://www.semanticscholar.org/paper/2a634f7ddcdecd16f0c945fbf66f37849670c806",
+      "title": "Implementation and Testing of a Retrodirective Cross-Eye Jammer",
+      "year": 2022,
+      "citationCount": 17,
+      "openAccessPdf": {
+        "url": "https://repository.up.ac.za/bitstream/2263/90114/1/Pieterse_Implementation_2022.pdf",
+        "status": "GREEN",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/TAES.2022.3164017?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/TAES.2022.3164017, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2161200110",
+          "name": "Frans-Paul Pieterse"
+        },
+        {
+          "authorId": "3407939",
+          "name": "W. P. Plessis"
+        }
+      ],
+      "abstract": "One of the few electronic attack techniques that can deceive radars in angle is cross-eye jamming, which mimics the naturally-occurring phenomenon glint. The extreme tolerance requirements of cross-eye jamming mean that a retrodirective implementation is required, but published measurements of cross-eye jamming either ignore the retrodirective implementation or only simulate it. The implementation of a retrodirective cross-eye jammer and its testing against a monopulse radar are described. A procedure for calibrating the jammer is outlined and is shown to be effective by achieving large angular errors. The measured results agree well with the extended analysis of cross-eye jamming and confirm that the implemented jammer is retrodirective. Specifically, the ability of a cross-eye jammer to generate an indicated angle that never becomes zero, thereby potentially breaking a tracking lock, is confirmed.",
+      "author_str": "Frans-Paul Pieterse, W. P. Plessis",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "d8d8798eb9a4bbb78e77d1c081ce453e9b7bf12d",
+      "url": "https://www.semanticscholar.org/paper/d8d8798eb9a4bbb78e77d1c081ce453e9b7bf12d",
+      "title": "IRS-Aided Uplink Security Enhancement via Energy-Harvesting Jammer",
+      "year": 2022,
+      "citationCount": 17,
+      "openAccessPdf": {
+        "url": "https://discovery.ucl.ac.uk/10161366/1/twoco.pdf",
+        "status": "GREEN",
+        "license": "other-oa",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/TCOMM.2022.3220686?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/TCOMM.2022.3220686, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "22941320",
+          "name": "Tiantian Qiao"
+        },
+        {
+          "authorId": "145871531",
+          "name": "Yang Cao"
+        },
+        {
+          "authorId": "40039047",
+          "name": "Jie Tang"
+        },
+        {
+          "authorId": "2055271275",
+          "name": "Nan Zhao"
+        },
+        {
+          "authorId": "1719290",
+          "name": "Kai‐Kit Wong"
+        }
+      ],
+      "abstract": "In this paper, we investigate the security enhancement by combining intelligent reflecting surface (IRS) and energy harvesting (EH) jammer for the uplink transmission. Specifically, we propose an IRS-aided secure scheme for the uplink transmission via an EH jammer, to fight against the malicious eavesdropper. The proposed scheme can be divided into an energy transfer (ET) phase and an information transmission (IT) phase. In the first phase, the friendly EH jammer harvests energy from the base station (BS) aided by IRS. We maximize the harvested energy of jammer by obtaining the closed-form solution to the phase-shift matrix of IRS. In the second phase, the user transmits confidential information to the BS while the jamming is generated to confuse the eavesdropper without affecting the legitimate transmission. The phase-shift matrix of IRS and time switching factor are jointly optimized to maximize the secrecy rate. To tackle the non-convex problem, we first decompose it into two sub-problems. The one of IRS can be approximated to convex with fixed time switching factor. Then, the time switching factor can be solved by Lagrange duality. Thus, the solution to the original problem can be obtained by alternately optimizing these two sub-problems. Simulation results show that the proposed Jammer-IRS assisted secure transmission scheme can significantly enhance the uplink security.",
+      "author_str": "Tiantian Qiao, Yang Cao, Jie Tang",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "02a4b6bd2b5a7ef83bbd8d14c8f03d82602e343e",
+      "url": "https://www.semanticscholar.org/paper/02a4b6bd2b5a7ef83bbd8d14c8f03d82602e343e",
+      "title": "A Learning-Based Spectrum Access Stackelberg Game: Friendly Jammer-Assisted Communication Confrontation",
+      "year": 2021,
+      "citationCount": 51,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/TVT.2021.3049653?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/TVT.2021.3049653, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "49127813",
+          "name": "Nan Qi"
+        },
+        {
+          "authorId": "145200778",
+          "name": "Wei Wang"
+        },
+        {
+          "authorId": "2263629384",
+          "name": "Ming Xiao"
+        },
+        {
+          "authorId": "3451619",
+          "name": "Luliang Jia"
+        },
+        {
+          "authorId": "145824256",
+          "name": "Shi Jin"
+        },
+        {
+          "authorId": "2364694240",
+          "name": "Qiuming Zhu"
+        },
+        {
+          "authorId": "2049636540",
+          "name": "Theodoros A. Tsiftsis"
+        }
+      ],
+      "abstract": "Defensive and offensive capabilities are both significant in communication confrontation games. By exploiting the above two capabilities, a new confrontation mechanism in the spectrum domain between two opposing teams denoted as the blue team (BT) and red team (RT), is designed. The basic idea is that by sacrificing parts of ally performance to severely deteriorate the opponent side communications. Specifically, a friendly and smart jammer (assuming in the BT) is deployed to weaken opponent (i.e., members in the RT) communications without causing great damages to other BT members, while the smart RT members try to evade the jamming and alleviate mutual interference. The interactions among the friendly jammer and other nodes are modeled as a Stackelberg game, with each player seeking for their respective utility maximization. We prove that each sub-game is an exact potential game. To efficiently search for the equilibrium solutions, a parallel log-linear learning algorithm is proposed, based on which each user intelligently decides their spectrum access policies. Numerical results demonstrate that: 1) RT communications are effectively suppressed; meanwhile, mutual interference among ally BT communication pairs is significantly alleviated; 2) the proposed algorithm achieves a close-to-optimal solution; 3) compared with the current state of solutions, i.e., random selection, stochastic learning automata, our algorithm performs better in terms of both utility and convergence.",
+      "author_str": "Nan Qi, Wei Wang, Ming Xiao",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "91905a50a3efc2d77ef0fc5de32d2d033b3b7a8b",
+      "url": "https://www.semanticscholar.org/paper/91905a50a3efc2d77ef0fc5de32d2d033b3b7a8b",
+      "title": "Achieving Covert Communication in Uplink NOMA Systems via Energy Harvesting Jammer",
+      "year": 2021,
+      "citationCount": 41,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.1109/lcomm.2021.3114231",
+        "status": "BRONZE",
+        "license": "publisher-specific-oa",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/lcomm.2021.3114231?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/lcomm.2021.3114231, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "48327988",
+          "name": "Liwei Tao"
+        },
+        {
+          "authorId": "9448998",
+          "name": "Weiwei Yang"
+        },
+        {
+          "authorId": "1389414926",
+          "name": "Xingbo Lu"
+        },
+        {
+          "authorId": "2146058949",
+          "name": "Meng Wang"
+        },
+        {
+          "authorId": "46970639",
+          "name": "Yi Song"
+        }
+      ],
+      "abstract": "This letter investigates covert communication in uplink NOMA systems assisted by an energy harvesting jammer (EHJ), where a reliability-required user (RRU) and a covertness-required user (CRU) are paired to perform NOMA to transmit messages to Bob, in the presence of a warden (Willie) who tries to detect CRU’s transmission behavior. In particular, the EHJ with time switching (TS) scheme has been employed for the purpose of confusing Willie and compensating for the energy supply. We derive the closed-form expressions of expected minimum detection error probability (EMDEP) and connection outage probabilities (COPs) at RRU and CRU, then we analyse the maximum effective covert rate (ECR) under the covertness and RRU’s quality of service (QoS) constraints. Our analysis indicates that there exist an optimal transmit power at Bob and time switching factor to maximize the maximum ECR, and RRU’s QoS constraint has a remarkable effect on the maximum ECR as the transmit power at Bob or time switching factor increases.",
+      "author_str": "Liwei Tao, Weiwei Yang, Xingbo Lu",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "5d9afa78a826704561e1339f5a4309c4beda3cbb",
+      "url": "https://www.semanticscholar.org/paper/5d9afa78a826704561e1339f5a4309c4beda3cbb",
+      "title": "Jammer Classification in GNSS Bands Via Machine Learning Algorithms",
+      "year": 2019,
+      "citationCount": 106,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/1424-8220/19/22/4841/pdf?version=1574058440",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6891345, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "150275085",
+          "name": "Ruben Morales Ferre"
+        },
+        {
+          "authorId": "1663464178",
+          "name": "A. Fuente"
+        },
+        {
+          "authorId": "1697970",
+          "name": "E. Lohan"
+        }
+      ],
+      "abstract": "This paper proposes to treat the jammer classification problem in the Global Navigation Satellite System bands as a black-and-white image classification problem, based on a time-frequency analysis and image mapping of a jammed signal. The paper also proposes to apply machine learning approaches in order to sort the received signal into six classes, namely five classes when the jammer is present with different jammer types and one class where the jammer is absent. The algorithms based on support vector machines show up to 94.90% accuracy in classification, and the algorithms based on convolutional neural networks show up to 91.36% accuracy in classification. The training and test databases generated for these tests are also provided in open access.",
+      "author_str": "Ruben Morales Ferre, A. Fuente, E. Lohan",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "7d9d59f13c6211a0660152c64d0f963101e247ba",
+      "url": "https://www.semanticscholar.org/paper/7d9d59f13c6211a0660152c64d0f963101e247ba",
+      "title": "Improving Physical Layer Security via a UAV Friendly Jammer for Unknown Eavesdropper Location",
+      "year": 2018,
+      "citationCount": 174,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/TVT.2018.2868944?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/TVT.2018.2868944, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2143765406",
+          "name": "Yi Zhou"
+        },
+        {
+          "authorId": "3215445",
+          "name": "Phee Lep Yeoh"
+        },
+        {
+          "authorId": "143714144",
+          "name": "H. Chen"
+        },
+        {
+          "authorId": "1527098599",
+          "name": "Yonghui Li"
+        },
+        {
+          "authorId": "143677566",
+          "name": "R. Schober"
+        },
+        {
+          "authorId": "2056624887",
+          "name": "Li Zhuo"
+        },
+        {
+          "authorId": "1705795",
+          "name": "B. Vucetic"
+        }
+      ],
+      "abstract": "In this correspondence paper, we consider an unmanned aerial vehicle (UAV) equipped with an air-to-ground friendly jammer assisting secure communications between a legitimate transmitter–receiver pair for unknown eavesdropper location. To enhance the reliability and security of this system, we examine the impact of the UAV jamming power and its three-dimensional (3-D) spatial deployment on the outage probability (OP) of the legitimate receiver and the intercept probability (IP) of the eavesdropper. Based on the IP, we develop a new security measure, which we refer to as the intercept probability security region (IPSR). The IPSR defines the region within a target area where the IP is less than a given threshold. We design a low-complexity iterative algorithm to maximize the IPSR subject to an OP constraint by jointly optimizing the 3-D deployment and jamming power of the UAV jammer. Numerical results show that our proposed iterative algorithm performs close to an exhaustive search with significantly reduced complexity.",
+      "author_str": "Yi Zhou, Phee Lep Yeoh, H. Chen",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "4ebce3a46e4ceb4c0ca2f50faefb99bc45b7ef87",
+      "url": "https://www.semanticscholar.org/paper/4ebce3a46e4ceb4c0ca2f50faefb99bc45b7ef87",
+      "title": "Optimal Power Adaptation in Covert Communication With an Uninformed Jammer",
+      "year": 2020,
+      "citationCount": 63,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.1109/twc.2020.2973975",
+        "status": "HYBRID",
+        "license": "publisher-specific, author manuscript",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/TWC.2020.2973975?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/TWC.2020.2973975, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2149140211",
+          "name": "Ke Li"
+        },
+        {
+          "authorId": "78564342",
+          "name": "P. Kelly"
+        },
+        {
+          "authorId": "1678247",
+          "name": "D. Goeckel"
+        }
+      ],
+      "abstract": "Covert communication is achieved if a transmitter (Alice) sends a message to a legitimate receiver (Bob) without being detected by an attentive warden (Willie). Recent work has taken an outage approach that considers an infinite blocklength and analyzes the probability that channel conditions are such that communication is reliable and/or covert. Power adaptation via truncated channel inversion (TCI) has been examined in previous work in an attempt to minimize outage under the covertness constraint. However, the optimality of TCI was not established, and the associated parameters in the TCI scheme were only found numerically. We provide the exact optimal power adaptation schemes under different covertness constraints and with different channel models: 1) when the channel between Willie and an uninformed jammer is AWGN; and 2) when the channel is a Rayleigh fading channel. We also examine the performance improvement of these schemes over standard approaches. This establishes that TCI is optimal in some, but not all, scenarios of interest.",
+      "author_str": "Ke Li, P. Kelly, D. Goeckel",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "b84101789ccbac13e35763672f1f9c6098afae3e",
+      "url": "https://www.semanticscholar.org/paper/b84101789ccbac13e35763672f1f9c6098afae3e",
+      "title": "On the Security Enhancement of Uplink NOMA Systems With Jammer Selection",
+      "year": 2020,
+      "citationCount": 53,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/TCOMM.2020.3003665?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/TCOMM.2020.3003665, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "9554855",
+          "name": "Kunrui Cao"
+        },
+        {
+          "authorId": "65732416",
+          "name": "Buhong Wang"
+        },
+        {
+          "authorId": "1686162",
+          "name": "Haiyang Ding"
+        },
+        {
+          "authorId": "2054672189",
+          "name": "Lu Lv"
+        },
+        {
+          "authorId": "1430717235",
+          "name": "Jiwei Tian"
+        },
+        {
+          "authorId": "123553726",
+          "name": "Feng-kui Gong"
+        }
+      ],
+      "abstract": "We investigate physical layer security of an uplink NOMA system consisting of one base station, multiple users and one eavesdropper. During each uplink transmission, two users are paired to perform NOMA and another user is opportunistically selected from the remaining idle users to act as a friendly jammer to emit artificial noise for confusing the eavesdropper. To enhance the transmission security for the system, we propose two friendly jammer selection aided uplink NOMA transmission schemes, namely random jammer selection aided uplink NOMA transmission (RJS-UNT) scheme without knowing the eavesdropper’s channel state information (CSI), and optimal jammer selection aided uplink NOMA transmission (OJS-UNT) scheme where the eavesdropper’s CSI is available. For comparison purpose, a non-jammer selection aided uplink NOMA transmission (NJS-UNT) scheme is also considered. Analytical closed-form expressions for the secrecy outage probability (SOP) are derived to evaluate the secrecy performance achieved by the proposed schemes. Also, the asymptotic SOPs are provided to obtain further insights. The analysis and simulation results indicate that the schemes converge to SOP floors with the increasing SNR, while the floors achieved by the RJS-UNT and OJS-UNT schemes are significantly lower than that achieved by the NJS-UNT scheme, showing the security advantage of the proposed schemes.",
+      "author_str": "Kunrui Cao, Buhong Wang, Haiyang Ding",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "4433d5c0f8e64266f1a0b2b53fd01aa3c724e072",
+      "url": "https://www.semanticscholar.org/paper/4433d5c0f8e64266f1a0b2b53fd01aa3c724e072",
+      "title": "Mainlobe deceptive jammer suppression using element-pulse coding with MIMO radar",
+      "year": 2021,
+      "citationCount": 33,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.sigpro.2020.107955?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.sigpro.2020.107955, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "49409832",
+          "name": "Lan Lan"
+        },
+        {
+          "authorId": "145976124",
+          "name": "G. Liao"
+        },
+        {
+          "authorId": "47882735",
+          "name": "Jingwei Xu"
+        },
+        {
+          "authorId": "49889559",
+          "name": "Yuhong Zhang"
+        },
+        {
+          "authorId": "7472142",
+          "name": "Shengqi Zhu"
+        }
+      ],
+      "abstract": "Abstract Mainlobe deceptive jammer suppression is a critical issue for radar systems. To address this problem, the element-pulse coding (EPC) scheme is proposed in multiple-input multiple-output (MIMO) radar. In EPC-MIMO radar, a novel phase modulation is performed in the joint transmit element and pulse domain, resulting in an equivalent spatial frequency offset corresponding to different pulses. In such a way, the true target and mainlobe deceptive jammers, which are generated after a relatively large time delay, are distinguishable because they have different equivalent spatial distributions in the joint transmit-receive spatial frequency domain. In this respect, by selecting an appropriate coding coefficient, the mainlobe deceptive jammers can be suppressed by nulling at the equivalent transmit beampattern of the true target. Moreover, a preset beampattern synthesis (PBPS) method is proposed to enhance the robustness of jammer suppression against direction mismatches by broadening nulls around the jammers and generating a flat-top mainlobe. At the analysis stage, both simulated and measured results are provided to corroborate the effectiveness of the mainlobe deceptive jammer suppression with the developed methods.",
+      "author_str": "Lan Lan, G. Liao, Jingwei Xu",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "27bf75db443f682f48efaf02ae5ce0c5f87a9753",
+      "url": "https://www.semanticscholar.org/paper/27bf75db443f682f48efaf02ae5ce0c5f87a9753",
+      "title": "Covert Communication in Continuous-Time Systems in the Presence of a Jammer",
+      "year": 2021,
+      "citationCount": 21,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.1109/twc.2021.3134179",
+        "status": "BRONZE",
+        "license": "publisher-specific-oa",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/twc.2021.3134179?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/twc.2021.3134179, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2149140211",
+          "name": "Ke Li"
+        },
+        {
+          "authorId": "3366850",
+          "name": "Tamara V. Sobers"
+        },
+        {
+          "authorId": "1705427",
+          "name": "D. Towsley"
+        },
+        {
+          "authorId": "1678247",
+          "name": "D. Goeckel"
+        }
+      ],
+      "abstract": "Covert communication considers the ability of transmitter Alice to communicate reliably to receiver Bob without being detected by warden Willie. Previous work has generally considered a discrete-time model, and, in the standard Alice-Bob-Willie scenario, it has been shown that a discrete-time model captures the salient aspects of the underlying continuous-time covert communications system. However, in the presence of a jammer assisting Alice, where it has been shown in previous work that Alice can achieve a positive covert rate on a discrete-time model, we demonstrate here that a straightforward extension of the discrete-time construction to the continuous-time system does not guarantee a positive covert rate, hence indicating that the discrete-time model does not capture the salient aspects of the continuous-time system in such a scenario. This is because Willie is able to exploit excess bandwidth for co-channel interference suppression, as we demonstrate with an interference cancellation receiver. Hence, for the case when Alice is assisted by an uninformed jammer, we consider the continuous-time channel directly and study whether efficient covert communication can still be achieved against any possible receiver that Willie might employ. By presenting and characterizing an approach much different than that suggested by previous work for discrete-time systems in such a scenario, we establish that O(WT) information bits can be transmitted covertly and reliably on a continuous-time channel of asymptotic bandwidth W in T seconds, regardless of the receiver that Willie employs. This is done for two separate scenarios: 1) when there is perfect frame synchronization between Alice and the jammer’s signals; 2) when there is no frame synchronization between Alice and the jammer’s signals. Numerical results are provided to validate the theory.",
+      "author_str": "Ke Li, Tamara V. Sobers, D. Towsley",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "47e1aef5e41f9b6faa8fc15df3539540a5be8c1f",
+      "url": "https://www.semanticscholar.org/paper/47e1aef5e41f9b6faa8fc15df3539540a5be8c1f",
+      "title": "Denial-of-Service Attacks on Communication Systems: Detectability and Jammer Knowledge",
+      "year": 2020,
+      "citationCount": 44,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.1109/tsp.2020.2993165",
+        "status": "BRONZE",
+        "license": "publisher-specific-oa",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/TSP.2020.2993165?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/TSP.2020.2993165, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "1688021",
+          "name": "H. Boche"
+        },
+        {
+          "authorId": "2307454",
+          "name": "Rafael F. Schaefer"
+        }
+      ],
+      "abstract": "Wireless communication systems are inherently vulnerable to intentional jamming. In this paper, two classes of such jammers are considered: those with partial and full knowledge. While the first class accounts for those jammers that know the encoding and decoding function, the latter accounts for those that are further aware of the actual transmitted message. Of particular interest are so-called denial-of-service (DoS) attacks in which the jammer is able to completely disrupt any transmission. Accordingly, it is of crucial interest for the legitimate users to detect such adversarial DoS attacks. This paper develops a detection framework based on Turing machines. Turing machines have no limitations on computational complexity and computing capacity and storage and can simulate any given algorithm. For both scenarios of a jammer with partial and full knowledge, it is shown that there exists no Turing machine which can decide whether or not a DoS attack is possible for a given channel and the corresponding decision problem is undecidable. On the other hand, it is shown for both scenarios that it is possible to algorithmically characterize those channels for which a DoS attack is not possible. This means that it is possible to detect those scenarios in which the jammer is not able to disrupt the communication. For all other channels, the Turing machine does not stop and runs forever making this decision problem semidecidable. Finally, it is shown that additional coordination resources such as common randomness make the communication robust against such attacks.",
+      "author_str": "H. Boche, Rafael F. Schaefer",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "743a237be6cfe3b7de366682933d67e99568ae4e",
+      "url": "https://www.semanticscholar.org/paper/743a237be6cfe3b7de366682933d67e99568ae4e",
+      "title": "Covert Communication With Cognitive Jammer",
+      "year": 2020,
+      "citationCount": 46,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/LWC.2020.3003472?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/LWC.2020.3003472, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "1783420",
+          "name": "Wenhui Xiong"
+        },
+        {
+          "authorId": "2107133649",
+          "name": "Yinfeng Yao"
+        },
+        {
+          "authorId": "2119031267",
+          "name": "Xiaoyu Fu"
+        },
+        {
+          "authorId": "1692924",
+          "name": "Shaoqian Li"
+        }
+      ],
+      "abstract": "This letter studied the covert communication with the help of the cognitive jammer over an additive white Gaussian noise (AWGN) channel. The cognitive jammer first senses Alice’s transmission; then, based on its sensing results, it determines whether to transmit the jamming signal. The results showed that the cognitive function of the jammer does help to increase the communication rate of the Alice to Bob link while keeping the eavesdropper, Willie, from detecting the existence of the transmission.",
+      "author_str": "Wenhui Xiong, Yinfeng Yao, Xiaoyu Fu",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "cd25240c65b3135eefd0a4d719840d2f18ff59ba",
+      "url": "https://www.semanticscholar.org/paper/cd25240c65b3135eefd0a4d719840d2f18ff59ba",
+      "title": "Secrecy Performance Analysis of Wireless Communications in the Presence of UAV Jammer and Randomly Located UAV Eavesdroppers",
+      "year": 2019,
+      "citationCount": 99,
+      "openAccessPdf": {
+        "url": "https://leicester.figshare.com/articles/journal_contribution/Secrecy_Performance_Analysis_of_Wireless_Communications_in_the_Presence_of_UAV_Jammer_and_Randomly_Located_UAV_Eavesdroppers/10225868/1/files/18446339.pdf",
+        "status": "GREEN",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/TIFS.2019.2912074?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/TIFS.2019.2912074, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "1790923",
+          "name": "Jinchuan Tang"
+        },
+        {
+          "authorId": "1992682",
+          "name": "Gaojie Chen"
+        },
+        {
+          "authorId": "1696710",
+          "name": "J. Coon"
+        }
+      ],
+      "abstract": "Unmanned aerial vehicles (UAVs) have been undergoing fast development for providing broader signal coverage and more extensive surveillance capabilities in military and civilian applications. Due to the broadcast nature of the wireless signal and the openness of the space, UAV eavesdroppers (UEDs) pose a potential threat to ground communications. In this paper, we consider the communications of a legitimate ground link in the presence of friendly jamming and UEDs within a finite area of space. The spatial distribution of the UEDs obeying a uniform binomial point process (BPP) is used to characterize the randomness of the UEDs. The ground link is assumed to experience log-distance path loss and Rayleigh fading, while free space path loss with/without the averaged excess path loss due to the environment is used for the air-to-ground/air-to-air links. A piecewise function is proposed to approximate the line-of-sight (LoS) probability for the air-to-ground links, which provides a better approximation than using the existing sigmoid-based fitting. The analytical expression for the secure connection probability (SCP) of the legitimate ground link in the presence of non-colluding UEDs is derived. The analysis reveals some useful trends in the SCP as a function of the transmit signal to jamming power ratio, the locations of the UAV jammer, and the height of UAVs.",
+      "author_str": "Jinchuan Tang, Gaojie Chen, J. Coon",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "fc922df238c4aedeae740ed9dbcb4f0f6dda3895",
+      "url": "https://www.semanticscholar.org/paper/fc922df238c4aedeae740ed9dbcb4f0f6dda3895",
+      "title": "A Lightweight Secure and Resilient Transmission Scheme for the Internet of Things in the Presence of a Hostile Jammer",
+      "year": 2020,
+      "citationCount": 42,
+      "openAccessPdf": {
+        "url": "https://discovery.ucl.ac.uk/10125330/1/DT-Rearranged.pdf",
+        "status": "GREEN",
+        "license": "other-oa",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/JIOT.2020.3026475?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/JIOT.2020.3026475, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "1597432552",
+          "name": "Mehdi Letafati"
+        },
+        {
+          "authorId": "3085572",
+          "name": "Ali Kuhestani"
+        },
+        {
+          "authorId": "1719290",
+          "name": "Kai‐Kit Wong"
+        },
+        {
+          "authorId": "27648067",
+          "name": "Md. Jalil Piran"
+        }
+      ],
+      "abstract": "In this article, we propose a lightweight security scheme for ensuring both information confidentiality and transmission resiliency in the Internet-of-Things (IoT) communication. A single-antenna transmitter communicates with a half-duplex single-antenna receiver in the presence of a sophisticated multiple-antenna-aided passive eavesdropper and a multiple-antenna-assisted hostile jammer (HJ). A low-complexity artificial noise (AN) injection scheme is proposed for drowning out the eavesdropper. Furthermore, for enhancing the resilience against HJ attacks, the legitimate nodes exploit their own local observations of the wireless channel as the source of randomness to agree on shared secret keys. The secret key is utilized for the frequency hopping (FH) sequence of the proposed communication system. We then proceed to derive a new closed-form expression for the achievable secret key rate (SKR) and the ergodic secrecy rate (ESR) for characterizing the secrecy benefits of our proposed scheme, in terms of both information secrecy and transmission resiliency. Moreover, the optimal power sharing between the AN and the message signal is investigated with the objective of enhancing the secrecy rate. Finally, through extensive simulations, we demonstrate that our proposed system model outperforms the state-of-the-art transmission schemes in terms of secrecy and resiliency. Several numerical examples and discussions are also provided to offer further engineering insights.",
+      "author_str": "Mehdi Letafati, Ali Kuhestani, Kai‐Kit Wong",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "a81d1633c994a19b3e3c22a0d345215b3348852f",
+      "url": "https://www.semanticscholar.org/paper/a81d1633c994a19b3e3c22a0d345215b3348852f",
+      "title": "“Jam Me If You Can:” Defeating Jammer With Deep Dueling Neural Network Architecture and Ambient Backscattering Augmented Communications",
+      "year": 2019,
+      "citationCount": 60,
+      "openAccessPdf": {
+        "url": "https://arxiv.org/pdf/1904.03897",
+        "status": "GREEN",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1904.03897, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "82156181",
+          "name": "Nguyen Van Huynh"
+        },
+        {
+          "authorId": "30479205",
+          "name": "Diep N. Nguyen"
+        },
+        {
+          "authorId": "2233724",
+          "name": "D. Hoang"
+        },
+        {
+          "authorId": "1725132",
+          "name": "E. Dutkiewicz"
+        }
+      ],
+      "abstract": "With conventional anti-jamming solutions like frequency hopping or spread spectrum, legitimate transceivers often tend to “escape” or “hide” themselves from jammers. These reactive anti-jamming approaches are constrained by the lack of timely knowledge of jamming attacks (especially from smart jammers). Bringing together the latest advances in neural network architectures and ambient backscattering communications, this work allows wireless nodes to effectively “face” the jammer (instead of escaping) by first learning its jamming strategy, then adapting the rate or transmitting information right on the jamming signals (i.e., backscattering modulated information on the jamming signals). Specifically, to deal with unknown jamming attacks (e.g., jamming strategies, jamming power levels, and jamming capability), existing work often relies on reinforcement learning algorithms, e.g., <inline-formula> <tex-math notation=\"LaTeX\">${Q}$ </tex-math></inline-formula>-learning. However, the <inline-formula> <tex-math notation=\"LaTeX\">${Q}$ </tex-math></inline-formula>-learning algorithm is notorious for its slow convergence to the optimal policy, especially when the system state and action spaces are large. This makes the <inline-formula> <tex-math notation=\"LaTeX\">${Q}$ </tex-math></inline-formula>-learning algorithm pragmatically inapplicable. To overcome this problem, we design a novel deep reinforcement learning algorithm using the recent dueling neural network architecture. Our proposed algorithm allows the transmitter to effectively learn about the jammer and attain the optimal countermeasures (e.g., adapt the transmission rate or backscatter or harvest energy or stay idle) thousand times faster than that of the conventional <inline-formula> <tex-math notation=\"LaTeX\">${Q}$ </tex-math></inline-formula>-learning algorithm. Through extensive simulation results, we show that our design (using ambient backscattering and the deep dueling neural network architecture) can improve the average throughput (under smart and reactive jamming attacks) by up to 426% and reduce the packet loss by 24%. By augmenting the ambient backscattering capability on devices and using our algorithm, it is interesting to observe that the (successful) transmission rate increases with the jamming power. Our proposed solution can find its applications in both civil (e.g., ultra-reliable and low-latency communications or URLLC) and military scenarios (to combat both inadvertent and deliberate jamming).",
+      "author_str": "Nguyen Van Huynh, Diep N. Nguyen, D. Hoang",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "fe4de4f7a68ab508a8d37b8e9a6533462086b4aa",
+      "url": "https://www.semanticscholar.org/paper/fe4de4f7a68ab508a8d37b8e9a6533462086b4aa",
+      "title": "Secrecy Outage Probability Analysis of Friendly Jammer Selection Aided Multiuser Scheduling for Wireless Networks",
+      "year": 2019,
+      "citationCount": 59,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/TCOMM.2019.2894824?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/TCOMM.2019.2894824, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2156072452",
+          "name": "Bin Li"
+        },
+        {
+          "authorId": "34912502",
+          "name": "Yulong Zou"
+        },
+        {
+          "authorId": "40141896",
+          "name": "Jianjiang Zhou"
+        },
+        {
+          "authorId": "1682816",
+          "name": "Fei Wang"
+        },
+        {
+          "authorId": "47416284",
+          "name": "Weifeng Cao"
+        },
+        {
+          "authorId": "2262888959",
+          "name": "Yu-dong Yao"
+        }
+      ],
+      "abstract": "In this paper, we study a multiuser uplink network consisting of one base station (BS), multiple users and one eavesdropper (E), where the users are intended to transmit their confidential messages to BS, while the eavesdropper attempts to tap their transmissions. To improve the transmission secrecy, we propose two friendly jammer selection-aided multiuser scheduling schemes, namely, the random jammer selection-aided multiuser scheduling (RJS-MUS) without knowing the eavesdropper’s channel state information (CSI) and the optimal jammer selection-aided multiuser scheduling (OJS-MUS), where the CSIs of eavesdropper are available. For comparison purposes, the conventional non-jammer selection-aided multiuser scheduling (NJS-MUS) scheme is considered as a benchmark. We derive exact and asymptotic closed-form secrecy outage probability expressions for the conventional NJS-MUS as well as proposed RJS-MUS and OJS-MUS schemes. The numerical results show that the proposed RJS-MUS and OJS-MUS schemes with equal power allocation between the selected friendly jammer and scheduled user perform worse than the conventional NJS-MUS approach in terms of the secrecy outage probability in the low signal-to-noise ratio (SNR) region. As the SNR increases, the secrecy outage performance of RJS-MUS and OJS-MUS schemes substantially improves, which is, in turn, better than that of conventional NJS-MUS approach. Moreover, the secrecy advantage of RJS-MUS and OJS-MUS over NJS-MUS becomes more significant with an increasing SNR. Also, it is shown that for both the RJS-MUS and OJS-MUS schemes, a better secrecy performance can be achieved through an optimal power allocation (OPA) between the scheduled user and friendly jammer. In addition, the proposed RJS-MUS and OJS-MUS schemes with OPA strictly outperform the conventional NJS-MUS approach in terms of the secrecy outage probability.",
+      "author_str": "Bin Li, Yulong Zou, Jianjiang Zhou",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "f27810d9c001a3b569d993b69d3b41be0252b0e4",
+      "url": "https://www.semanticscholar.org/paper/f27810d9c001a3b569d993b69d3b41be0252b0e4",
+      "title": "Performance Analysis for UAV-Jammer Aided Covert Communication",
+      "year": 2020,
+      "citationCount": 27,
+      "openAccessPdf": {
+        "url": "https://ieeexplore.ieee.org/ielx7/6287639/8948470/09121687.pdf",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ACCESS.2020.3001069?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ACCESS.2020.3001069, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "144031675",
+          "name": "Wei Liang"
+        },
+        {
+          "authorId": "145400438",
+          "name": "Jia Shi"
+        },
+        {
+          "authorId": "1768759472",
+          "name": "Zhuangzhuang Tie"
+        },
+        {
+          "authorId": "33370940",
+          "name": "Fucheng Yang"
+        }
+      ],
+      "abstract": "This paper investigates the performance analysis for a novel covert communication system, where a friendly UAV-jammer is used to protect the covert transmission from Alice to Bob against the eavesdropping from Dave. In particular, by exploiting the spatial diversity, the UAV can emit artificial noise (AN) to complicate the noise uncertainty at Dave. In this letter, two scenarios are studied, where the channels from Alice to Bob and Dave experience 1) AWGN and 2) Nakagami-<inline-formula> <tex-math notation=\"LaTeX\">$m$ </tex-math></inline-formula> fading. The closed-form expression for privacy rate expression under AWGN is derived, where evaluating the condition for achieving a positive gain of using UAV-jammer. Furthermore, under the Nakagami-<inline-formula> <tex-math notation=\"LaTeX\">$m$ </tex-math></inline-formula> fading scenario, an approximate expression of ergodic privacy rate is obtained by using Taylor expansion. In the end, simulation results show that significant performance gain in terms of privacy rate can be achieved by employing UAV-jammer for covert communication.",
+      "author_str": "Wei Liang, Jia Shi, Zhuangzhuang Tie",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "0b907062d60cb6384ce4bdc6950fadb77ec5789e",
+      "url": "https://www.semanticscholar.org/paper/0b907062d60cb6384ce4bdc6950fadb77ec5789e",
+      "title": "Self-Learning Bayesian Generative Models for Jammer Detection in Cognitive-UAV-Radios",
+      "year": 2020,
+      "citationCount": 28,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/GLOBECOM42002.2020.9322583?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/GLOBECOM42002.2020.9322583, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "1394879569",
+          "name": "Ali Krayani"
+        },
+        {
+          "authorId": "14545508",
+          "name": "Mohamad Baydoun"
+        },
+        {
+          "authorId": "1689330",
+          "name": "L. Marcenaro"
+        },
+        {
+          "authorId": "49198263",
+          "name": "A. Alam"
+        },
+        {
+          "authorId": "9587913",
+          "name": "C. Regazzoni"
+        }
+      ],
+      "abstract": "Unmanned Aerial Vehicles (UAVs) attracted both industry and research community owing to their fascinating features like mobility, deployment flexibility and strong Line of Sight (LoS) links. The integration of Cognitive Radio (CR) can greatly help UAVs to overcome several issues especially spectrum scarcity. However, the dynamic radio environment in CR and the strong dependence of safe communications from LoS channels integrity in UAV communications make the Cognitive- UAV-Radio vulnerable to jamming attacks. This work aims to study the integration of CR and UAVs introducing a Self- Awareness (SA) framework from the physical layer security perspective. Under the SA framework, a Dynamic Bayesian Network (DBN) model is proposed as a representation of the radio environment and a modified Markov Jump Particle Filter (MJPF) is employed for prediction and state estimation purposes. A novel jammer detection framework is proposed that allows the UAV to perform abnormality evaluation at different hierarchical levels. The jammer is shown to be located effectively in both time and frequency domains. Experimental results show the effectiveness of the proposed framework in terms of detection probability and accuracy.",
+      "author_str": "Ali Krayani, Mohamad Baydoun, L. Marcenaro",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "a69da05ab34b7e65636facfc9bad596711f6a169",
+      "url": "https://www.semanticscholar.org/paper/a69da05ab34b7e65636facfc9bad596711f6a169",
+      "title": "Physical Layer Security in Cooperative Energy Harvesting Networks With a Friendly Jammer",
+      "year": 2017,
+      "citationCount": 137,
+      "openAccessPdf": {
+        "url": "https://pure.qub.ac.uk/files/123576170/Duong_WCL2016_0848.pdf",
+        "status": "GREEN",
+        "license": "other-oa",
+        "disclaimer": "Notice: Paper or abstract available at https://core.ac.uk/download/pdf/74407795.pdf, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2757263",
+          "name": "T. M. Hoang"
+        },
+        {
+          "authorId": "2288487325",
+          "name": "T. Duong"
+        },
+        {
+          "authorId": "1834516",
+          "name": "Nguyen-Son Vo"
+        },
+        {
+          "authorId": "2311108",
+          "name": "C. Kundu"
+        }
+      ],
+      "abstract": "In this letter, we consider a cooperative wireless network consisting of a source, multiple intermediate energy harvesting nodes, and a destination, in the presence of a passive eavesdropper. First, the intermediate nodes use the time switching-based relaying protocol to harvest energy from the source signal. Then, a pair out of intermediate nodes are selected as a relay and a jammer to transmit confidential and jamming signals to the destination and eavesdropper. Under these assumptions, we evaluate the system performance in terms of secrecy outage probability.",
+      "author_str": "T. M. Hoang, T. Duong, Nguyen-Son Vo",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "e8f611c3e1dce592943c884d8ec1261060084165",
+      "url": "https://www.semanticscholar.org/paper/e8f611c3e1dce592943c884d8ec1261060084165",
+      "title": "Covert Communication in the Presence of an Uninformed Jammer",
+      "year": 2016,
+      "citationCount": 397,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.1109/twc.2017.2720736",
+        "status": "BRONZE",
+        "license": "publisher-specific-oa",
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1608.00698, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "3366850",
+          "name": "Tamara V. Sobers"
+        },
+        {
+          "authorId": "2180221",
+          "name": "Boulat A. Bash"
+        },
+        {
+          "authorId": "39967853",
+          "name": "S. Guha"
+        },
+        {
+          "authorId": "1705427",
+          "name": "D. Towsley"
+        },
+        {
+          "authorId": "1678247",
+          "name": "D. Goeckel"
+        }
+      ],
+      "abstract": "Recent work has established that when transmitter Alice wishes to communicate reliably to recipient Bob without detection by warden Willie, with additive white Gaussian noise (AWGN) channels between all parties, communication is limited to <inline-formula> <tex-math notation=\"LaTeX\">$\\mathcal {O}(\\sqrt {n})$ </tex-math></inline-formula> bits in <inline-formula> <tex-math notation=\"LaTeX\">$n$ </tex-math></inline-formula> channel uses. However, this assumes that Willie has an accurate statistical characterization of the channel. When Willie has uncertainty about such and his receiver is limited to a threshold test on the received power, Alice can transmit covertly with a power that does not decrease with <inline-formula> <tex-math notation=\"LaTeX\">$n$ </tex-math></inline-formula>, thus conveying <inline-formula> <tex-math notation=\"LaTeX\">$\\mathcal {O}(n)$ </tex-math></inline-formula> bits covertly and reliably in <inline-formula> <tex-math notation=\"LaTeX\">$n$ </tex-math></inline-formula> uses of an AWGN channel. Here, we consider covert communication of <inline-formula> <tex-math notation=\"LaTeX\">$\\mathcal {O}(n)$ </tex-math></inline-formula> bits in <inline-formula> <tex-math notation=\"LaTeX\">$n$ </tex-math></inline-formula> channel uses while generalizing the environment and removing any restrictions on Willie’s receiver. We assume that an uninformed “jammer” is present to help Alice, and we consider AWGN and block fading channels. In some scenarios, Willie’s optimal detector is a threshold test on the received power. When the channel between the jammer and Willie has multiple fading blocks per codeword, a threshold test on the received power is not optimal. However, we establish that Alice can remain covert with a transmit power that does not decrease with <inline-formula> <tex-math notation=\"LaTeX\">$n$ </tex-math></inline-formula> even when Willie employs an optimal detector.",
+      "author_str": "Tamara V. Sobers, Boulat A. Bash, S. Guha",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "e28dc6de09f5e7237e0ed2b7a19dcf06854a99bf",
+      "url": "https://www.semanticscholar.org/paper/e28dc6de09f5e7237e0ed2b7a19dcf06854a99bf",
+      "title": "Jammer Detection based on Artificial Neural Networks: A Measurement Study",
+      "year": 2019,
+      "citationCount": 40,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1145/3324921.3328788?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1145/3324921.3328788, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "66803913",
+          "name": "Selen Gecgel"
+        },
+        {
+          "authorId": "113605011",
+          "name": "Caner Goztepe"
+        },
+        {
+          "authorId": "1397291952",
+          "name": "Günes Karabulut-Kurt"
+        }
+      ],
+      "abstract": "Wireless networks are prone to jamming attacks due to the broadcast nature of the wireless transmission environment. The effect of jamming attacks can be further increased as the jammers can focus their signals on reference signals of the transmitters, to further deteriorate the transmission performance. In this paper, we aim to jointly determine the presence of the jammer, along with its attack characteristics by using neural networks. Two neural network architectures are implemented; deep convolutional neural networks and deep recurrent neural networks. The presence of jammer and the transmitter and the type of the jammer is determined through a diverse set of scenarios that are implemented on software defined radios using orthogonal frequency division multiplexing based signaling. To improve the detection performance, prepossessing techniques are applied. Test results show that the proposed approach can effectively detect and classify the jamming attacks with around 85% accuracy.",
+      "author_str": "Selen Gecgel, Caner Goztepe, Günes Karabulut-Kurt",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "4f3822133d0b466fda22fa1fcbb0caa7972afa61",
+      "url": "https://www.semanticscholar.org/paper/4f3822133d0b466fda22fa1fcbb0caa7972afa61",
+      "title": "A Scheme for Trustworthy Friendly Jammer Selection in Cooperative Cognitive Radio Networks",
+      "year": 2019,
+      "citationCount": 43,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.1109/tvt.2019.2895639",
+        "status": "BRONZE",
+        "license": "publisher-specific-oa",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/TVT.2019.2895639?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/TVT.2019.2895639, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "19315762",
+          "name": "Yingkun Wen"
+        },
+        {
+          "authorId": "144201982",
+          "name": "Yan Huo"
+        },
+        {
+          "authorId": "39135122",
+          "name": "Liran Ma"
+        },
+        {
+          "authorId": "144045069",
+          "name": "Tao Jing"
+        },
+        {
+          "authorId": "153657300",
+          "name": "Qinghe Gao"
+        }
+      ],
+      "abstract": "In this paper, we consider a centralized cooperative cognitive radio network (CCRN), where a primary base station sends a message to a primary user. Meanwhile, a secondary user transmitter (SU-Tx) acts as a friendly jammer that sends jamming signals (artificial noise) to protect the transmitted message from a potential eavesdropper (Eve). However, the SU-Tx may not be completely honest in sending jamming signals for selfish reasons, i.e., it may be untrusted. To select a trustworthy SU-Tx as a friendly jammer, we adopt the concept of trust degree as a selection criterion. We investigate the trust degree's influence on the secrecy performance of a CCRN in cases of perfect channel state information (CSI) and statistical CSI, respectively. In the case of perfect CSI, the accurate expected secrecy rate is derived to evaluate the secrecy performance. In the case of statistical CSI, we calculate the probabilities of the transmission and secrecy outage events, and the secrecy performance is evaluated in terms of effective secrecy throughput. In both cases, we obtain the target trust degree thresholds based on the target secrecy performance thresholds, respectively. Next, we investigate how to calculate the trust degree of each SU-Tx and establish a trust degree list of all SU-Txs. Finally, according to the trust degree list and the target trust degree thresholds, we can select a trustworthy SU-Tx as a friendly jammer in both two cases. A comprehensive simulation study is carried out to validate our secrecy performance analyses and the trust degree management.",
+      "author_str": "Yingkun Wen, Yan Huo, Liran Ma",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "3f730ca71388eb5dcf8e7fd282033e249b154084",
+      "url": "https://www.semanticscholar.org/paper/3f730ca71388eb5dcf8e7fd282033e249b154084",
+      "title": "Target Localization With Jammer Removal Using Frequency Diverse Array",
+      "year": 2019,
+      "citationCount": 42,
+      "openAccessPdf": {
+        "url": "https://arxiv.org/pdf/1912.12564",
+        "status": "GREEN",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1912.12564, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2109377447",
+          "name": "Qi Liu"
+        },
+        {
+          "authorId": "47882735",
+          "name": "Jingwei Xu"
+        },
+        {
+          "authorId": "145283850",
+          "name": "Z. Ding"
+        },
+        {
+          "authorId": "145358514",
+          "name": "H. So"
+        }
+      ],
+      "abstract": "A foremost task in frequency diverse array multiple-input multiple-output (FDA-MIMO) radar is to efficiently obtain the target signal in the presence of interferences. In this paper, we employ a novel “low-rank + low-rank + sparse” decomposition model to extract the low-rank desired signal and suppress the jamming signals from both barrage and burst jammers. In the literature, the barrage jamming signals, which are intentionally interfered by enemy jammer radar, are usually assumed Gaussian distributed. However, such assumption is oversimplified to hold in practice as the interferences often exhibit non-Gaussian properties. Those non-Gaussian jamming signals, known as impulsive noise or burst jamming, are involuntarily deviated from friendly radar or other working radio equipment including amplifier saturation and sensor failures, thunderstorms and man-made noise. The performance of the existing estimators, relied crucially on the Gaussian noise assumption, may degrade substantially since the probability density function (PDF) of burst jamming has heavier tails that exceed a few standard deviations than the Gaussian distribution. To capture a more general signal model with burst jamming in practice, both barrage jamming and burst jamming are included and a two-step “Go Decomposition” (GoDec) method via alternating minimization is devised for such mixed jamming signal model, where the $a$ $priori$ rank information is exploited to suppress these two kinds of jammers and extract the desired target. Simulation results verify the robust performance of the devised scheme.",
+      "author_str": "Qi Liu, Jingwei Xu, Z. Ding",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "9f8992b5a47688706644ca9a93dfddf6fb213481",
+      "url": "https://www.semanticscholar.org/paper/9f8992b5a47688706644ca9a93dfddf6fb213481",
+      "title": "Jammer-Aided Secure Communications for Cooperative NOMA Systems",
+      "year": 2019,
+      "citationCount": 29,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/LCOMM.2019.2934410?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/LCOMM.2019.2934410, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2110961765",
+          "name": "Chao Yu"
+        },
+        {
+          "authorId": "2089985",
+          "name": "Hak-Lim Ko"
+        },
+        {
+          "authorId": "2115813630",
+          "name": "Xin Peng"
+        },
+        {
+          "authorId": "2466846",
+          "name": "Wenwu Xie"
+        },
+        {
+          "authorId": "2055690802",
+          "name": "Peng Zhu"
+        }
+      ],
+      "abstract": "This letter investigates a jammer-aided cooperative non-orthogonal multiple access (NOMA) system, where one relay is used to deliver information and other relays are acted as jammers. Two simple relay selection (RS) strategies, e.g., random RS and max-min RS, are considered in this letter. Analytical and asymptotical expressions for secrecy outage probability (SOP) under both RS schemes are developed. Simulation results show that NOMA system with jammer achieves a lower SOP than the one without jammer in the moderate to high SNR range. Moreover, by adopting max-min RS strategy, the secrecy outage performance can be further improved in the low SNR region, while still tends to a constant in high SNR region.",
+      "author_str": "Chao Yu, Hak-Lim Ko, Xin Peng",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "8d432ceea4c1575f23b3c881189df6bbdbfa2b44",
+      "url": "https://www.semanticscholar.org/paper/8d432ceea4c1575f23b3c881189df6bbdbfa2b44",
+      "title": "Game Theoretic Strategies Design for Monostatic Radar and Jammer Based on Mutual Information",
+      "year": 2019,
+      "citationCount": 27,
+      "openAccessPdf": {
+        "url": "https://ieeexplore.ieee.org/ielx7/6287639/8600701/08727944.pdf",
+        "status": "GOLD",
+        "license": "CCBYNCND",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ACCESS.2019.2920398?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ACCESS.2019.2920398, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2107514795",
+          "name": "Kang Li"
+        },
+        {
+          "authorId": "1765653",
+          "name": "B. Jiu"
+        },
+        {
+          "authorId": "1725627",
+          "name": "Hongwei Liu"
+        }
+      ],
+      "abstract": "In electronic warfare, the conflict relationship between the radar and the jammer can be modeled using game theory. In this paper, the strategies design problem for the monostatic radar and the jammer is investigated within the framework of Stackelberg game and egalitarian game. The radar waveform and the jammer power spectrum density are regarded as their strategies respectively and mutual information criterion is used to formulate the utility function. In the Stackelberg game, Stackelberg Equilibrium (SE) strategies of the radar and the jammer are derived based on a two-stage optimization method. In the egalitarian game, the existence condition of Nash equilibrium (NE) is investigated and the corresponding NE strategies are also given. If the existence condition is not satisfied, it is pointed out that the SE strategies are still acceptable as safe strategies from the perspective of game theory. The simulation results are presented and the performances of the SE strategies are compared with other strategies.",
+      "author_str": "Kang Li, B. Jiu, Hongwei Liu",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "7b9367a1971317f65ffc23e1b454367f5f05c95a",
+      "url": "https://www.semanticscholar.org/paper/7b9367a1971317f65ffc23e1b454367f5f05c95a",
+      "title": "Delimitated Anti Jammer Scheme for Internet of Vehicle: Machine Learning Based Security Approach",
+      "year": 2019,
+      "citationCount": 53,
+      "openAccessPdf": {
+        "url": "https://ieeexplore.ieee.org/ielx7/6287639/8600701/08798618.pdf",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ACCESS.2019.2934632?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ACCESS.2019.2934632, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "46574595",
+          "name": "S. Sushanth Kumar"
+        },
+        {
+          "authorId": "144319817",
+          "name": "Karan Singh"
+        },
+        {
+          "authorId": "2143684958",
+          "name": "Sushil Kumar"
+        },
+        {
+          "authorId": "3025665",
+          "name": "Omprakash Kaiwartya"
+        },
+        {
+          "authorId": "47746274",
+          "name": "Yue Cao"
+        },
+        {
+          "authorId": "49565802",
+          "name": "Huan Zhou"
+        }
+      ],
+      "abstract": "Recently, Internet of vehicles (IoV) has witnessed significant research and development attention in both academia and industries due to the potential towards addressing traffic incidences and supporting green mobility. With the growing vehicular network density, jamming signal centric security issues have become challenging task for IoV network designers and traffic applications developers. Global positioning system (GPS) and roadside unit (RSU) centric related literature on location-based security approaches lacks signal characteristics consideration for identifying vehicular network intruders or jammers. In this context, this paper proposes a machine learning oriented as Delimitated Anti Jamming protocol for vehicular traffic environments. It focuses on jamming vehicle’s discriminated signal detection and filtration for revealing precise location of jamming effected vehicles. In particular, a vehicular jamming system model is presented focusing on localization of vehicles in delimitated jamming environments. A foster rationalizer is employed to examine the frequency changes caused in signal strength due to the jamming or external attacks. A machine learning open-sourced algorithm namely, CatBoost has been utilized focusing on decision tree relied algorithm to predict the locations of jamming vehicle. The performance of the proposed anti jammer scheme is comparatively evaluated with the state of the art techniques. The evaluation attests the resistive characteristics of the anti-jammer technique considering precision, recall, F1 score and delivery accuracy metrics.",
+      "author_str": "S. Sushanth Kumar, Karan Singh, Sushil Kumar",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "aeaec9ceca5b1910e56ec1afc935435854f2a954",
+      "url": "https://www.semanticscholar.org/paper/aeaec9ceca5b1910e56ec1afc935435854f2a954",
+      "title": "Optimal Jamming Frequency Selection for Cognitive Jammer based on Reinforcement Learning",
+      "year": 2019,
+      "citationCount": 23,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICICSP48821.2019.8958575?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICICSP48821.2019.8958575, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2153513735",
+          "name": "Lulu Wang"
+        },
+        {
+          "authorId": "40458017",
+          "name": "Jinlin Peng"
+        },
+        {
+          "authorId": "2715158",
+          "name": "Zhidong Xie"
+        },
+        {
+          "authorId": "2153911448",
+          "name": "Yi Zhang"
+        }
+      ],
+      "abstract": "In this paper, a cognitive jammer is developed which can adaptively and optimally jam the radar and protect the target from being detected. The interaction of the cognitive jammer and the environment is modeled as a finite Markov Decision Process based on the framework of reinforcement learning. Q-learning algorithm is used to solve the optimal jamming frequency selection problem. After several interactions, the jammer can learn the radar's strategy and optimize its jamming frequency to achieve a larger jamming-plus-noise to signal ratio (JNSR) during the whole process. Numerical results are given to illustrate the effectiveness of the proposed method. Compared with a random jamming frequency selection method, the JNSR of the proposed method is significantly larger.",
+      "author_str": "Lulu Wang, Jinlin Peng, Zhidong Xie",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "894c46fc656c08f228f189e4b5ed42baac65ac06",
+      "url": "https://www.semanticscholar.org/paper/894c46fc656c08f228f189e4b5ed42baac65ac06",
+      "title": "Jammer-Assisted Legitimate Eavesdropping in Wireless Powered Suspicious Communication Networks",
+      "year": 2019,
+      "citationCount": 21,
+      "openAccessPdf": {
+        "url": "https://ieeexplore.ieee.org/ielx7/6287639/8600701/08629071.pdf",
+        "status": "GOLD",
+        "license": "CCBYNCND",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ACCESS.2019.2895835?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ACCESS.2019.2895835, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "48207821",
+          "name": "Ding Xu"
+        },
+        {
+          "authorId": "144439565",
+          "name": "Hongbo Zhu"
+        },
+        {
+          "authorId": "101489016",
+          "name": "Qun Li"
+        }
+      ],
+      "abstract": "To enhance public safety, it is necessary to legitimately eavesdrop communication between suspicious users, such as terrorists and criminals. In this paper, we investigate legitimate eavesdropping in a wireless-powered suspicious communication network (WPSCN) with a wireless-powered suspicious transmitter and a suspicious receiver, who is legitimately eavesdropped by a legitimate monitor with the help from a wireless-powered friendly jammer. The “harvest-then-transmit” protocol is adopted by the suspicious communication to coordinate wireless energy transfer and information transfer. Both the suspicious receiver and the legitimate monitor can act as power sources for the suspicious transmitter and the jammer. The legitimate monitor can control the suspicious communication rate by broadcasting power signals, while the jammer can harvest energy and then interfere with the suspicious communication in collaboration with the legitimate monitor. Four different metrics are adopted to evaluate the eavesdropping performance based on different application requirements, and they are the successful eavesdropping probability, the average eavesdropping rate, the relative eavesdropping rate, and the eavesdropping energy efficiency. For each performance metric, we derive the optimal transmit power of the monitor for energy transfer and the optimal jamming transmit power of the jammer to maximize the performance metric under the peak transmit power constraint at the monitor and the energy causality constraint at the jammer. Some important insights are derived from these optimal power control policies. The simulations are conducted to verify the proposed optimal power control for legitimate eavesdropping in the WPSCN. It is shown that the proposed optimal power control policies greatly outperform other benchmark schemes.",
+      "author_str": "Ding Xu, Hongbo Zhu, Qun Li",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "230c9ebc1453feb5ce60f6fa3a961f1a6c45bf70",
+      "url": "https://www.semanticscholar.org/paper/230c9ebc1453feb5ce60f6fa3a961f1a6c45bf70",
+      "title": "A Power Control Game with Uncertainty On the Type of the Jammer",
+      "year": 2019,
+      "citationCount": 20,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/GlobalSIP45357.2019.8969379?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/GlobalSIP45357.2019.8969379, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "1721909",
+          "name": "A. Garnaev"
+        },
+        {
+          "authorId": "1679058",
+          "name": "A. Petropulu"
+        },
+        {
+          "authorId": "1702051",
+          "name": "W. Trappe"
+        },
+        {
+          "authorId": "2285766620",
+          "name": "H. Poor"
+        }
+      ],
+      "abstract": "We consider a single carrier communication system subjected to jamming, and study optimal power control in the framework of game theory. The user’s transmission utility is the signal-to-interference plus noise ratio (SINR), and the user does not know with certainty whether the jammer is smart (i.e., it follows the best response strategy according to a Stackelberg game) or regular (i.e., it maximizes its payoff independent of the user, according to a Nash game). We formulate the problem as a Bayesian game, where the user knows only the probability of each jammer type (smart or regular), and find the equilibrium strategies in closed form. We show that the more probable a smart-type jammer is, the higher the payoffs of both players are. Considering the probability of each jammer type as a control parameter, and based on proportional fairness criteria, we find the optimal trade-off between smart-jamming and regular-jamming attacks.",
+      "author_str": "A. Garnaev, A. Petropulu, W. Trappe",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "637de1b99a2632579ecdb197199ab14217783b00",
+      "url": "https://www.semanticscholar.org/paper/637de1b99a2632579ecdb197199ab14217783b00",
+      "title": "Mobile jammer-aided secure UAV communications via trajectory design and power control",
+      "year": 2018,
+      "citationCount": 55,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/CC.2018.8438280?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/CC.2018.8438280, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2112837877",
+          "name": "An Li"
+        },
+        {
+          "authorId": "47528192",
+          "name": "Wenjing Zhang"
+        }
+      ],
+      "abstract": "To further promote the achievable average secrecy rate for UAV-ground communications, a UAV-aided mobile jamming strategy was proposed in this paper. Specifically, an additional cooperative UAV is employed as a mobile jammer to transmit the jamming signal to help keep the source UAV closer to the ground destination, thus establishing more favorable legitimate link and enhancing the secrecy performance. We aimed to maximize the achievable secrecy rate by jointly optimizing the trajectories and transmit power of both source UAV and jammer UAV. To solve the considered non-convex optimization problem, we presented a block coordinate descent based iterative algorithm to address a sequence of approximated convex problems for the optimized parameter block by block to find a local optimal solution. Numerical results verify that the proposed algorithm can achieve significant secrecy rate gain compared to all the benchmark schemes.",
+      "author_str": "An Li, Wenjing Zhang",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "79927d1e01bc6e0a9b7def7ec649a8aced6ce1de",
+      "url": "https://www.semanticscholar.org/paper/79927d1e01bc6e0a9b7def7ec649a8aced6ce1de",
+      "title": "Secrecy Outage Performance Analysis for Energy Harvesting Sensor Networks With a Jammer Using Relay Selection Strategy",
+      "year": 2018,
+      "citationCount": 45,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.1109/access.2018.2829485",
+        "status": "GOLD",
+        "license": "CCBYNCND",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ACCESS.2018.2829485?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ACCESS.2018.2829485, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "46423749",
+          "name": "Van Nhan Vo"
+        },
+        {
+          "authorId": "9398380",
+          "name": "Tri Gia Nguyen"
+        },
+        {
+          "authorId": "47606471",
+          "name": "C. So-In"
+        },
+        {
+          "authorId": "1752606",
+          "name": "Zubair A. Baig"
+        },
+        {
+          "authorId": "2986883",
+          "name": "S. Sanguanpong"
+        }
+      ],
+      "abstract": "In this paper, we study radio frequency energy harvesting (EH) in a wireless sensor network in the presence of multiple eavesdroppers (EAVs). Specifically, the sensor source and multiple sensor relays harvest energy from multiple power transfer stations (PTSs), and then, the source uses this harvested energy to transmit information to the base station (BS) with the help of the relays. During the transmission of information, the BS typically faces a risk of losing information due to the EAVs. Thus, to enhance the secrecy of the considered system, one of the relays acts as a jammer, using harvested energy to generate interference with the EAVs. We propose a best-relay-and-best-jammer scheme for this purpose and compare this scheme with other previous schemes. The exact closed-form expression for the secrecy outage probability (SOP) is obtained and is validated through Monte Carlo simulations. A near-optimal EH time algorithm is also proposed. In addition, the effects on the SOP of key system parameters such as the EH efficiency coefficient, the EH time, the distance between the relay and BS, the number of PTSs, the number of relays, and the number of EAVs are investigated. The results indicate that the proposed scheme generally outperforms both the best-relay-and-random-jammer scheme and the random-relay-and-best-jammer scheme in terms of the secrecy capacity.",
+      "author_str": "Van Nhan Vo, Tri Gia Nguyen, C. So-In",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "516b052cc43b6d779461501a07659bfd605f7b5b",
+      "url": "https://www.semanticscholar.org/paper/516b052cc43b6d779461501a07659bfd605f7b5b",
+      "title": "Optimal Power Allocation and Secrecy Sum Rate in Two-Way Untrusted Relaying Networks With an External Jammer",
+      "year": 2018,
+      "citationCount": 52,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/TCOMM.2018.2802951?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/TCOMM.2018.2802951, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "3085572",
+          "name": "Ali Kuhestani"
+        },
+        {
+          "authorId": "143728566",
+          "name": "A. Mohammadi"
+        },
+        {
+          "authorId": "3215445",
+          "name": "Phee Lep Yeoh"
+        }
+      ],
+      "abstract": "In this paper, we examine the secrecy performance of two-way relaying between a large-scale multiple antenna base station (BS) and a single antenna mobile user (MU) in the presence of a multiple antenna external jammer. We consider the untrusted relaying scenario, where an amplify-and-forward relay is both a necessary helper and a potential eavesdropper to the BS and MU transmissions. With the aim of maximizing the instantaneous secrecy sum rate, we derive new closed-form solutions for the optimal power allocation (OPA) under the following three scenarios: 1) without jamming (WoJ) where the jammer is not activated; 2) friendly jamming (FJ) where the jamming signal is known a priori at the BS and MU; and 3) Gaussian noise jamming (GNJ) where the jamming signal is unknown at the BS and MU. Based on our OPA solutions, new closed-form expressions are derived for the ergodic secrecy sum rate (ESSR) with Rayleigh fading channels. Furthermore, we characterize the high signal-to-noise ratio slope and power offset of the ESSR to provide a fundamental comparison of the WoJ, FJ, and GNJ scenarios. Based on our analysis, we propose a simple relay selection criterion for the scenario when the BS and MU are assisted by multiple untrusted relays. Numerical examples are presented to demonstrate the impact of the jammer’s location, number of antennas and the advantage of the proposed relay selection criterion on the secrecy performance. Our findings highlight that similar to the trusted relaying scenario, the ESSR of all three secure transmission scenarios improve as the number of untrusted relays increases. Moreover, we highlight an interesting insight that the OPA for the GNJ scenario results in the same ESSR performance as the OPA for the WoJ scenario.",
+      "author_str": "Ali Kuhestani, A. Mohammadi, Phee Lep Yeoh",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "f51725a834b08fc468aa3c6c00ccd4fc4444ecc9",
+      "url": "https://www.semanticscholar.org/paper/f51725a834b08fc468aa3c6c00ccd4fc4444ecc9",
+      "title": "Mainlobe Deceptive Jammer Suppression with FDA-MIMO Radar",
+      "year": 2018,
+      "citationCount": 49,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/SAM.2018.8448961?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/SAM.2018.8448961, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "47882735",
+          "name": "Jingwei Xu"
+        },
+        {
+          "authorId": "2157233516",
+          "name": "Jialin Kang"
+        },
+        {
+          "authorId": "145976124",
+          "name": "G. Liao"
+        },
+        {
+          "authorId": "145358514",
+          "name": "H. So"
+        }
+      ],
+      "abstract": "Anti-jamming technique has become an increasing demand in radar systems due to the fast development of electronic countermeasures. To alleviate the extremely difficult deceptive jammer suppression problem, frequency diverse array (FDA) based multiple-input multiple-output (MIMO) radar is devised and a sample selection based deceptive jammer suppression method is developed. The basic principle of the FDA-MIMO radar regarding its superiority in canceling the deceptive jammers is studied in detail. In order to handle the pseudorandom distribution issue of false targets within the secondary training samples, a subspace projection based sample selection method is proposed. When certain a priori knowledge of the true target is available, the time-delayed false targets can be adequately suppressed, even if the latter are in the mainlobe direction. Simulation examples demonstrate the effectiveness of our solution.",
+      "author_str": "Jingwei Xu, Jialin Kang, G. Liao",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "49c154b48bf6ff03baa0dd96fb7c13e58111e290",
+      "url": "https://www.semanticscholar.org/paper/49c154b48bf6ff03baa0dd96fb7c13e58111e290",
+      "title": "In-lab validation of jammer detection and direction finding algorithms for GNSS",
+      "year": 2019,
+      "citationCount": 16,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICL-GNSS.2019.8752944?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICL-GNSS.2019.8752944, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "150275085",
+          "name": "Ruben Morales Ferre"
+        },
+        {
+          "authorId": "2071101724",
+          "name": "Philipp Richter"
+        },
+        {
+          "authorId": "1663464178",
+          "name": "A. Fuente"
+        },
+        {
+          "authorId": "1697970",
+          "name": "E. Lohan"
+        }
+      ],
+      "abstract": "Our paper focuses on the detection and direction finding of jamming signals in Global Navigation Satellite System (GNSS)bands. A methodology for in-lab validation for three selected jammer detection algorithms and two selected jammer direction finding algorithms is presented and measurement-based results, for nine combinations of GNSS and jamming signals, are shown. Both chirp jammers and amplitude-modulated single-tone jammers are considered in our in-lab validation process. The algorithm selection was done based on literature studies. Power-based detectors and direction finding algorithms are considered in this paper. It is shown that the considered detectors have similar performance and good detection probabilities for Jammer-to-Signal ratio (JSR)above −10 dB and that the Minimum Variance Distortionless Response (MVDR)beamformer can estimate quite accurately the jammer's Angle of Arrival (AoA)with JSR above 10 dB.",
+      "author_str": "Ruben Morales Ferre, Philipp Richter, A. Fuente",
+      "conclusion": "Unable to process at this time"
+    }
+  ],
+  "contradictions": [
+    {
+      "theme": "Model Size Efficiency",
+      "paper_a": "Attention is All You Need",
+      "claim_a": "Larger models with more parameters achieve better performance",
+      "paper_b": "DistilBERT: Smaller Model Faster",
+      "claim_b": "Smaller distilled models can match performance with lower latency"
+    },
+    {
+      "theme": "Positional Encoding Methods",
+      "paper_a": "Attention is All You Need",
+      "claim_a": "Absolute positional encoding is sufficient",
+      "paper_b": "RoFormer",
+      "claim_b": "Relative positional encoding captures relationships better"
+    },
+    {
+      "theme": "Fine-tuning vs Few-shot",
+      "paper_a": "BERT: Pre-training",
+      "claim_a": "Task-specific fine-tuning is necessary",
+      "paper_b": "Language Models are Few-shot Learners",
+      "claim_b": "Large models can learn from prompts without fine-tuning"
+    }
+  ],
+  "report": "\n# Literature Review: jammer\n\n## 1. Introduction\n\nThis comprehensive literature review examines the current state of research in real-time Ethernet communications, with a particular focus on applications in automotive, industrial, data center, and wireless networking domains. The analysis is based on a systematic search of peer-reviewed literature retrieved from Semantic Scholar, encompassing theoretical foundations, practical implementations, and emerging trends. The review synthesizes findings from multiple studies to provide a holistic understanding of how Ethernet technology is evolving to meet the demands of deterministic, high-performance networking across diverse application domains.\n\nThe literature reveals a convergence of traditional Ethernet capabilities with specialized requirements for time-sensitive and mission-critical applications. Key themes include protocol enhancements for guaranteed quality of service, security mechanisms for protected communications, and architectural adaptations for specific industry needs. This review organizes the findings thematically, highlighting both established practices and areas of active research.\n\n## 2. Automotive and In-Vehicle Ethernet\n\nThe automotive sector represents one of the most dynamic areas of Ethernet adoption, driven by the need for high-bandwidth, deterministic communications in modern vehicles. Research in this domain focuses on several critical aspects that enable Ethernet to replace traditional automotive networking technologies.\n\n**Anomaly Detection and Network Security**: A significant body of work addresses the security challenges inherent in automotive Ethernet deployments. Studies such as those examining intrusion detection systems for in-vehicle networks emphasize the need for real-time monitoring and threat mitigation. These works highlight the vulnerabilities introduced by Ethernet's higher bandwidth and complexity compared to legacy protocols like CAN or FlexRay.\n\n**Time-Sensitive Networking (TSN)**: Multiple papers explore TSN implementations for automotive applications, focusing on scheduling algorithms that guarantee bounded latency for critical vehicle functions. Research in this area examines how TSN can support mixed-criticality traffic, ensuring that safety-critical messages are delivered with minimal jitter while maintaining overall network efficiency.\n\n**Gateway and Integration Technologies**: The transition from traditional automotive networks to Ethernet requires sophisticated gateway solutions. Studies investigate protocols for seamless integration between Ethernet backbones and legacy subsystems, addressing issues of protocol translation, timing synchronization, and data integrity.\n\n**Performance Evaluation**: Empirical studies assess Ethernet performance in automotive environments, measuring throughput, latency, and reliability under various operating conditions. These works provide quantitative evidence of Ethernet's suitability for automotive applications and identify optimization opportunities.\n\nRepresentative studies in this domain include Delimitated Anti Jammer Scheme for Internet of Vehicle, which collectively demonstrate the maturation of automotive Ethernet as a viable platform for next-generation vehicle architectures.\n\n## 3. Industrial and Time-Sensitive Networking\n\nIndustrial applications demand exceptionally reliable and deterministic network behavior, making Ethernet's evolution for industrial use a critical research area. The literature examines how traditional office networking protocols can be adapted to meet the stringent requirements of factory automation and process control.\n\n**Quality of Service Guarantees**: Research focuses on mechanisms to ensure predictable network performance in industrial settings. Studies explore traffic shaping, priority scheduling, and bandwidth allocation strategies that prevent network congestion from disrupting critical industrial processes.\n\n**Schedulability Analysis**: Theoretical and empirical work addresses the mathematical foundations of Ethernet schedulability in industrial contexts. Network calculus and simulation-based approaches are used to verify that Ethernet can meet real-time deadlines for control applications.\n\n**Migration Strategies**: As industries transition from legacy fieldbus systems to Ethernet-based architectures, research examines practical approaches for system upgrades. These studies consider backward compatibility, gradual deployment strategies, and risk mitigation during technology transitions.\n\n**Fault Tolerance and Resilience**: Industrial Ethernet research emphasizes robustness against network failures and environmental disturbances. Works in this area investigate redundant topologies, fast failover mechanisms, and error recovery protocols suitable for harsh industrial environments.\n\nKey contributions include Channel-Aware Jammer Selection and Power Control in Covert Communication, A Power Control Game with Uncertainty On the Type of the Jammer, and Mobile jammer-aided secure UAV communications via trajectory design and power control, which advance the understanding of Ethernet's role in industrial digital transformation and Industry 4.0 initiatives.\n\n## 5. Security and Intrusion Detection\n\nAs Ethernet becomes ubiquitous in critical infrastructure, security research addresses the unique challenges of protecting high-speed, real-time networks. The literature examines both preventive and detective security measures tailored to Ethernet's characteristics.\n\n**Intrusion Detection Systems**: Machine learning and statistical approaches are applied to real-time anomaly detection in Ethernet traffic. Research explores wavelet-based analysis, neural network classifiers, and other techniques for identifying malicious or abnormal network behavior.\n\n**Attack Classification and Mitigation**: Studies categorize different types of Ethernet-based attacks and evaluate corresponding defense strategies. This includes man-in-the-middle attacks, denial-of-service attempts, and protocol-specific vulnerabilities.\n\n**Encryption and Data Protection**: Lightweight encryption schemes are investigated for resource-constrained Ethernet devices. Research examines the performance impact of security measures on real-time communications and explores hardware acceleration options.\n\n**Resilience Mechanisms**: Beyond detection, research focuses on network resilience and rapid recovery from security incidents. These works consider fault-tolerant architectures and automated response systems.\n\nCritical insights are provided by IRS-Aided Uplink Security Enhancement via Energy-Harvesting Jammer, Improving Physical Layer Security via a UAV Friendly Jammer for Unknown Eavesdropper Location, and On the Security Enhancement of Uplink NOMA Systems With Jammer Selection, which highlight the security challenges and solutions for modern Ethernet deployments.\n\n## 7. Additional Observations and Future Directions\n\nBeyond the primary application domains, research explores broader Ethernet evolution topics that cut across multiple use cases. These studies provide context for Ethernet's ongoing development and future potential.\n\n**Energy-Aware Networking**: Studies examine power-efficient Ethernet designs, considering the environmental and operational costs of high-performance networking. Research explores routing algorithms and hardware optimizations that reduce energy consumption.\n\n**Optical Network Integration**: The convergence of Ethernet with optical technologies is investigated for metropolitan and wide-area applications. These works assess the performance and economic trade-offs of optical Ethernet solutions.\n\n**Standards Evolution**: Research tracks the development of Ethernet standards and their implications for future networking capabilities. This includes emerging protocols and extensions that enhance Ethernet's versatility.\n\nAdditional perspectives are offered by Self‐Reinforced Bimetallic Mito‐Jammer for Ca2+ Overload‐Mediated Cascade Mitochondrial Damage for Cancer Cuproptosis Sensitization, Illegal Intelligent Reflecting Surface Based Active Channel Aging, and Performance Analysis and Optimization for Jammer-Aided Multiantenna UAV Covert Communication, contributing to a comprehensive understanding of Ethernet's technological trajectory.\n\n## 8. Conclusion\n\nThis literature review demonstrates the remarkable evolution of Ethernet from a simple office networking protocol to a versatile platform supporting diverse real-time and high-performance applications. The research landscape reveals both the maturity of Ethernet technology in established domains and its continued adaptation to emerging challenges.\n\nKey findings include the successful application of Ethernet in automotive and industrial settings through time-sensitive networking enhancements, the critical role of RDMA and advanced switching in data center environments, and the growing importance of security mechanisms across all domains. The integration with wireless technologies further expands Ethernet's reach into mobile and edge computing scenarios.\n\nWhile significant progress has been made, the literature identifies several areas requiring further research, including enhanced security frameworks, more efficient congestion management, and seamless integration with emerging wireless standards. The continued evolution of Ethernet standards and protocols will be essential to meet the demands of future networked systems.\n\nOverall, the reviewed studies provide strong evidence of Ethernet's adaptability and enduring relevance in modern computing and communication infrastructures.\n\n## 9. References and Methodology\n\nThis review was conducted using the ScholAR autonomous research platform, which systematically searches Semantic Scholar for peer-reviewed literature. The analysis incorporates papers from diverse domains including computer networking, automotive engineering, industrial automation, and cybersecurity. The thematic organization reflects patterns identified through automated concept extraction and saturation detection algorithms.\n\nThe synthesis prioritizes recent publications while acknowledging foundational work that established key principles. All cited studies represent peer-reviewed research with demonstrated relevance to real-time Ethernet applications.\n",
+  "concepts": [
+    "neural networks",
+    "deep learning",
+    "optimization",
+    "attention mechanism",
+    "model training"
+  ],
+  "topic": "jammer",
+  "timestamp": "2026-04-09 14:22:56"
+}

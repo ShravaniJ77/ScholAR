@@ -1,0 +1,1128 @@
+{
+  "type": "complete",
+  "papers": [
+    {
+      "paperId": "b1793a5edc04e26032eed4b4f5b4fab4fa88c13c",
+      "url": "https://www.semanticscholar.org/paper/b1793a5edc04e26032eed4b4f5b4fab4fa88c13c",
+      "title": "Semi-Quantitative and Qualitative Distinction of Aromatic and Flavour Compounds in Charcoal Grilled, Electric Barbecue Grilled, Infrared Grilled and Superheated-Steam Roasted Lamb Meat Patties Using GC/MC, E-nose and E-tongue",
+      "year": 2022,
+      "citationCount": 10,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/2297-8739/9/3/71/pdf?version=1646726776",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/separations9030071?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/separations9030071, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "84696620",
+          "name": "Raheel Suleman"
+        },
+        {
+          "authorId": "2066560654",
+          "name": "Teng Hui"
+        },
+        {
+          "authorId": "2108305350",
+          "name": "Zhenyu Wang"
+        },
+        {
+          "authorId": "1399320866",
+          "name": "A. Alarcón-Rojo"
+        },
+        {
+          "authorId": "2146397360",
+          "name": "Huan Liu"
+        },
+        {
+          "authorId": "9088111",
+          "name": "Dequan Zhang"
+        }
+      ],
+      "abstract": "This study investigated the influence of four different methods of cooking (charcoal grilling, electric barbecue grilling, superheated-steam roasting and infrared grilling) on the volatile profile of lamb meat patties. The study included the patties of the oyster cut muscle of lambs cooked using charcoal grilling, electric barbecue grilling, infrared grilling and superheated-steam roasting methods. The principal component analysis (PCA) of electric nose data showed a total variance of 73.71%. The e-nose values showed differentiation of the volatiles released from the lamb meat patties. Data of PCA of e-nose and GC-MS revealed good separation between groups. Significance (p < 0.05) was found for the flavour profile values of charcoal-grilled and superheated-steam-roasted samples while the lowest significance was observed between infrared- and electric-barbecue-grilled samples. Saltiness and sourness were higher in superheated-steam-roasted patties than charcoal-grilled samples through e-tongue. The main volatile compound found in all the lamb patties was 2,3-octanedione with a content of 20.43 µg/g–27.83 µg/g. 1-hexanol was highest at 34.74 µg/g in the charcoal-grilled samples while 2,3-octanedione was highest at 35.83 µg/g in superheated-steam-roasted patties.",
+      "author_str": "Raheel Suleman, Teng Hui, Zhenyu Wang",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "c84b824c5a96c157529d4e9d67f4ef0bdb632ab0",
+      "url": "https://www.semanticscholar.org/paper/c84b824c5a96c157529d4e9d67f4ef0bdb632ab0",
+      "title": "Comprehensive Evaluation of Flavor in Charcoal and Electric-Roasted Tamarix Lamb by HS-SPME/GC-MS Combined with Electronic Tongue and Electronic Nose",
+      "year": 2021,
+      "citationCount": 31,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/2304-8158/10/11/2676/pdf?version=1635932838",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC8623117, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2117959440",
+          "name": "Yujun Xu"
+        },
+        {
+          "authorId": "9088111",
+          "name": "Dequan Zhang"
+        },
+        {
+          "authorId": "2118228956",
+          "name": "Ruixia Chen"
+        },
+        {
+          "authorId": "2143695345",
+          "name": "Xiaoyue Yang"
+        },
+        {
+          "authorId": "2146397360",
+          "name": "Huan Liu"
+        },
+        {
+          "authorId": "2108305350",
+          "name": "Zhenyu Wang"
+        },
+        {
+          "authorId": "2066560654",
+          "name": "Teng Hui"
+        }
+      ],
+      "abstract": "To prevent the pollution generated during charcoal roasting of tamarix lamb, environmental-friendly electric is gradually applied in meat processing. The profile and formation of flavor in roasted tamarix lamb were evaluated using HS-SPME/GC-MS combined with E-nose/-tongue. Results indicated that charcoal-roasted tamarix lamb exhibited the higher taste of umami and sourness in E-tongue and had higher contents of alcohols, aldehydes, ketones, alkanes, and aromatics in E-nose, while the electric ones exhibited the higher taste of sweetness and bitterness and had higher contents of nitrogen oxides, terpenes, aromatics, and organic sulfur. Compared with charcoal, application of the electric significantly decreased the numbers of key volatile compounds with VIP > 1 (markers) and the contents of most markers.",
+      "author_str": "Yujun Xu, Dequan Zhang, Ruixia Chen",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "88e97f187dc5cee6b54918c8039f2d5416e28d3e",
+      "url": "https://www.semanticscholar.org/paper/88e97f187dc5cee6b54918c8039f2d5416e28d3e",
+      "title": "Tongue Prick Bionic Angularly Adjustable Microneedles for Enhanced Scarless Wound Healing",
+      "year": 2025,
+      "citationCount": 35,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1002/adfm.202422602?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/adfm.202422602, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2278089017",
+          "name": "Ni Gan"
+        },
+        {
+          "authorId": "2304613949",
+          "name": "Xin Li"
+        },
+        {
+          "authorId": "2280436415",
+          "name": "Meng Wei"
+        },
+        {
+          "authorId": "2341276024",
+          "name": "Zhijie Li"
+        },
+        {
+          "authorId": "2218563662",
+          "name": "Shu Zhou"
+        },
+        {
+          "authorId": "2304895090",
+          "name": "Bingbing Gao"
+        }
+      ],
+      "abstract": "High‐tension site wounds are frequently accompanied by challenges associated with hypertrophic scarring. The key to achieving scar‐free healing is the creation of a mechanical environment conducive to scar‐free skin regeneration. Herein, simple rolling punctures are utilized on angle transform molds to develop cat tongue prick bionic angle‐adjustable microneedles (TPMNs) to maintain a firm grip on the periwound skin, thereby reducing tissue tension. The integration of TPMNs with triboelectric nanogenerators (TENGs) enables excellent conductive and triboelectric properties. The system can provide a stable spatial electric field around the wound to promote cell migration. As the microfluid reaches the TPMNs, the self‐driving force is enhanced by a unique angle design to control the microfluid flow rate. Sufficient evidence has shown that TPMNs expedite wound contraction and skin tissue regeneration while concurrently reducing scar formation in mouse trauma model experiments. The innovative TPMNs‐TENGs synergistically provides a highly functional platform for wound tension relief, which is suitable for scar treatment in this study and potentially extends to the construction and regulation of smart wearable devices.",
+      "author_str": "Ni Gan, Xin Li, Meng Wei",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "0d7adce441205bf6abffe38ae683fd4989d95ba6",
+      "url": "https://www.semanticscholar.org/paper/0d7adce441205bf6abffe38ae683fd4989d95ba6",
+      "title": "Aggregation-Induced-Emission Materials with Different Electric Charges as an Artificial Tongue: Design, Construction, and Assembly with Various Pathogenic Bacteria for Effective Bacterial Imaging and Discrimination.",
+      "year": 2017,
+      "citationCount": 64,
+      "openAccessPdf": {
+        "url": "https://figshare.com/articles/journal_contribution/Aggregation-Induced-Emission_Materials_with_Different_Electric_Charges_as_an_Artificial_Tongue_Design_Construction_and_Assembly_with_Various_Pathogenic_Bacteria_for_Effective_Bacterial_Imaging_and_Discrimination/5330653/1/files/9150832.pdf",
+        "status": "GREEN",
+        "license": "CCBYNC",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1021/acsami.7b09848?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1021/acsami.7b09848, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "121866101",
+          "name": "Guang-Jian Liu"
+        },
+        {
+          "authorId": "22607523",
+          "name": "Sheng-Nan Tian"
+        },
+        {
+          "authorId": "2109735508",
+          "name": "Cuihong Li"
+        },
+        {
+          "authorId": "1955151",
+          "name": "G. Xing"
+        },
+        {
+          "authorId": "2144764288",
+          "name": "Lei Zhou"
+        }
+      ],
+      "abstract": "Imaging-based total bacterial count and type identification of bacteria play crucial roles in clinical diagnostics, public health, biological and medical science, and environmental protection. Herein, we designed and synthesized a series of tetraphenylethenes (TPEs) functionalized with one or two aldehyde, carboxylic acid, and quaternary ammonium groups, which were successfully used as fluorescent materials for rapid and efficient staining of eight kinds of representative bacterial species, including pathogenic bacteria Vibrio cholera, Klebsiella pneumoniae, and Listeria monocytogenes and potential bioterrorism agent Yersinia pestis. By comparing the fluorescence intensity changes of the aggregation-induced-emission (AIE) materials before and after bacteria incubation, the sensing mechanisms (electrostatic versus hydrophobic interactions) were simply discussed. Moreover, the designed AIE materials were successfully used as an efficient artificial tongue for bacteria discrimination, and all of the bacteria tested were identified via linear discriminant analysis. Our current work provided a general method for simultaneous broad-spectrum bacterial imaging and species discrimination, which is helpful for bacteria surveillance in many fields.",
+      "author_str": "Guang-Jian Liu, Sheng-Nan Tian, Cuihong Li",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "6479e7bdff804aa9dedd0aa4b0d9e54ef6f35a3a",
+      "url": "https://www.semanticscholar.org/paper/6479e7bdff804aa9dedd0aa4b0d9e54ef6f35a3a",
+      "title": "Combined metabolomics and electronic tongue technology elucidated the mechanisms of regulation of color–taste characteristics of Huangqin (Scutellaria baicalensis Georgi) herbal tea after various roasting processes",
+      "year": 2025,
+      "citationCount": 2,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": "CCBYNCND",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC12657378, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2378155602",
+          "name": "Ao Zhang"
+        },
+        {
+          "authorId": "2157625826",
+          "name": "Yukai Zhao"
+        },
+        {
+          "authorId": "2143199751",
+          "name": "Feng Pang"
+        },
+        {
+          "authorId": "2357229919",
+          "name": "Chuanling Zhang"
+        },
+        {
+          "authorId": "2401803097",
+          "name": "Yu Deng"
+        },
+        {
+          "authorId": "2380459605",
+          "name": "Yan Xue"
+        },
+        {
+          "authorId": "2368702937",
+          "name": "Xin Jia"
+        },
+        {
+          "authorId": "2055875776",
+          "name": "Pin Lv"
+        },
+        {
+          "authorId": "2376851059",
+          "name": "Xiaoqin Wang"
+        },
+        {
+          "authorId": "2345896535",
+          "name": "Yang Cao"
+        }
+      ],
+      "abstract": "Roasting is essential for optimizing Huangqin herbal tea (HHT; Scutellaria baicalensis Georgi) quality. This study integrated metabolomics, electronic tongue analysis, and computer vision to compare microwave roasting (MR), electric roasting (ER), charcoal roasting (CR), steam roasting (SR), and natural drying (ND). All roasting methods significantly reduced bitterness and sweet-bitter aftertaste. CR produced infusions with intense yellow-brown coloration while enhancing umami, saltiness, and baicalin retention. SR uniquely increased brightness, reduced chroma, and imparted richness while suppressing bitterness. Metabolomic analysis demonstrated that roasting universally elevated caffeine and catechin derivatives but reduced free amino acids and reducing sugars. Specifically, SR preserved bitter-salty ornithine while degrading gallic acid derivatives and uronic acids. Weighted compound coexpression network analysis revealed that flavonoid glycosides coregulate color with phospholipid derivatives, whereas nitrogenous compounds and iridoid glycosides govern flavor profiles. These findings establish a framework for precision optimization of HHT processing.",
+      "author_str": "Ao Zhang, Yukai Zhao, Feng Pang",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "20f99d052594904f9cf6585a55b282a06ad361d8",
+      "url": "https://www.semanticscholar.org/paper/20f99d052594904f9cf6585a55b282a06ad361d8",
+      "title": "Tongue-Like Bioactuator with Multiple Skeletal Muscle Tissues",
+      "year": 2025,
+      "citationCount": 2,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/MEMS61431.2025.10918061?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/MEMS61431.2025.10918061, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2350983711",
+          "name": "Xuankai Gao"
+        },
+        {
+          "authorId": "2350825529",
+          "name": "Kohei Okasaki"
+        },
+        {
+          "authorId": "1557380518",
+          "name": "Hirono Ohashi"
+        },
+        {
+          "authorId": "2350827989",
+          "name": "Takeshi Sakurai"
+        },
+        {
+          "authorId": "2314458364",
+          "name": "Yuya Morimoto"
+        }
+      ],
+      "abstract": "We proposed a tongue-like bioactuator composed of multiple muscle tissues capable of different motion patterns under different stimulation conditions. To mimic the jointless structure of tongue, in which muscle fibers are arranged in a multi-directional manner, we orthogonally attached two skeletal muscle tissues with aligned myotubes. Leveraging the anisotropic properties of muscle tissue in response to electric stimulation, this bioactuator achieved bidirectional rotations under horizontal stimulation and linear actuation under vertical stimulation. Compared to conventional muscular bioactuator, our tongue-like bioactuator will provide a way to enable complex motions of muscle-based biohybrid robots.",
+      "author_str": "Xuankai Gao, Kohei Okasaki, Hirono Ohashi",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "a1fe2d8cd6fa25308f61e92f49eb7d00fb214680",
+      "url": "https://www.semanticscholar.org/paper/a1fe2d8cd6fa25308f61e92f49eb7d00fb214680",
+      "title": "Metabolomics and electronic-tongue analysis reveal differences in color and taste quality of large-leaf yellow tea under different roasting methods",
+      "year": 2024,
+      "citationCount": 15,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.1016/j.fochx.2024.101721",
+        "status": "HYBRID",
+        "license": "CCBYNCND",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11369393, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2261815630",
+          "name": "Caiyan Sheng"
+        },
+        {
+          "authorId": "2295728672",
+          "name": "Mingxia Lu"
+        },
+        {
+          "authorId": "2269703346",
+          "name": "Jixin Zhang"
+        },
+        {
+          "authorId": "2316109058",
+          "name": "Wei Zhao"
+        },
+        {
+          "authorId": "2306927390",
+          "name": "Yanqun Jiang"
+        },
+        {
+          "authorId": "152267139",
+          "name": "Tiehan Li"
+        },
+        {
+          "authorId": "2294309192",
+          "name": "Yujie Wang"
+        },
+        {
+          "authorId": "2254537060",
+          "name": "Jingming Ning"
+        }
+      ],
+      "abstract": "Roasting is a key process in the production of large-leaf yellow tea (LYT). In this study, we synthesized metabolomics and electronic-tongue analysis to compare the quality of charcoal-roasted, electric-roasted and drum-roasted LYT. Charcoal-roasted LYT had the highest yellowness and redness, drum-roasted LYT had a more prominent umami and brightness, and electric roasting reduced astringency. A total of 48 metabolites were identified by metabolomics. Among these, leucocyanidin, kaempferol, luteolin-7-lactate, and apigenin-7-O-neohesperidoside might affect the brightness and yellowness. Theanine, aspartic acid, and glutamic acid contents significantly and positively correlated with umami levels, and the high retention of flavonoid glycosides and catechins in drum-roasted LYT contributed to its astringency. These findings elucidate the contribution of the roasting method to the quality of LYT and provide a theoretical basis for LYT production.",
+      "author_str": "Caiyan Sheng, Mingxia Lu, Jixin Zhang",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "98d44ab95131c7872dc696065598ccf5e5c4848b",
+      "url": "https://www.semanticscholar.org/paper/98d44ab95131c7872dc696065598ccf5e5c4848b",
+      "title": "Efficient Taste Analysis via Single-Channel Hybrid Electronic Tongue",
+      "year": 2024,
+      "citationCount": 2,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1149/ma2024-01492669mtgabs?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1149/ma2024-01492669mtgabs, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2275156132",
+          "name": "Sarika Yadav"
+        },
+        {
+          "authorId": "2269233177",
+          "name": "Raj Ganesh S. Pala"
+        }
+      ],
+      "abstract": "The prospective applications of electronic tongues (e-tongues) in the food, water, beverage, and pharmaceutical industries have long been hampered by the inconvenient nature of series measurements using expensive and specialised sensor arrays. A cost-efficeint and easier solution to this problem arises in the shape of a single-channel hybrid e-tongue, presenting a novel approach to overcoming restrictions. This progress uses data fusion from potentiometry and impedimetry to combine these measures into a single channel made up of unfunctionalized metal electrodes supported by a pH electrode.\n The hybrid e-tongue combines potentiometric response, which includes pH and open circuit potential, with impedimetric response, which takes into account comparable electric circuit parameters such as charge transfer resistance and double-layer capacitance. The taste discriminability of this low-cost single-channel hybrid e-tongue is validated using two metal electrodes, Pt and Ni, and two separate sample preparations of basic taste analytes, each at concentrations around the human tongue threshold.\n Principal component analysis (PCA) plots are used to test qualitative discrimination by reducing dimensionality and clustering analytes. Silhouette coefficients (SC) and hierarchical cluster analysis are used to assess clustering quality. Even without particular sample preparation, the Pt and Ni electrodes exhibit substantial clustering with SC values of 0.83 and 0.74, respectively. This significant outcome highlights the efficacy of the hybrid e-tongue in improving taste discriminability.\n Comparisons with potentiometric and impedimetric measurements performed independently show that the hybrid e-tongue, assisted by data fusion at a single channel, improves accuracy and clustering significantly. This finding not only speeds up the analysis process, but it also improves the overall effectiveness of taste discrimination.\n Correlations between taste analytes and physicochemical factors are formed using heatmap plots and PCA loading plots to provide a fuller knowledge of the hybrid e-tongue's mechanics. These visualisations provide vital insights into the complex interplay of several physicochemical processes, offering insight into the mechanism underlying the hybrid e-tongue's excellent performance.discrimination.\n Despite its remarkable capabilities, the study acknowledges that taste discriminability diminishes due to the buffer activity of the standard reference solution used for sample preparation. This recognition prompts further exploration and optimization of the solution to ensure the broad applicability of the hybrid e-tongue across various scenarios.\n In conclusion, the reported single-channel hybrid e-tongue represents a significant advancement in taste analysis technology. By addressing the challenges associated with series measurements on complex sensor arrays, this innovation opens new avenues for commercial e-tongues in diverse industries. The amalgamation of potentiometry and impedimetry in a single channel not only enhances accuracy and clustering but also provides valuable mechanistic insights. As the research community continues to refine and optimize this technology, the future holds great promise for the widespread adoption of single-channel hybrid e-tongues in analytical applications, advancing how we perceive and understand taste.",
+      "author_str": "Sarika Yadav, Raj Ganesh S. Pala",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "65c59bfb677b566c6c225d7010da991c1d306784",
+      "url": "https://www.semanticscholar.org/paper/65c59bfb677b566c6c225d7010da991c1d306784",
+      "title": "Electric Field Driven Soft Morphing Matter",
+      "year": 2025,
+      "citationCount": 2,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC12531759, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2301263729",
+          "name": "Ciqun Xu"
+        },
+        {
+          "authorId": "27041801",
+          "name": "C. Faul"
+        },
+        {
+          "authorId": "2244423592",
+          "name": "Majid Taghavi"
+        },
+        {
+          "authorId": "2254569200",
+          "name": "Jonathan Rossiter"
+        }
+      ],
+      "abstract": "The manipulation of soft morphing robots using external electric fields and wireless control is challenging. Electric field‐driven soft morphing matter, termed electro‐morphing gel (e‐MG), that exhibits complex multimodal large‐scale deformation (showing up to 286% strain, and strain rates up to 500% s−1) and locomotion under external electric fields applied using compact and lightweight electrodes is presented. The distinctive capabilities of e‐MG derive from the combination of an elastomeric matrix and nanoparticulate paracrystalline carbon. The material properties, electroactive principle, and control strategies are explored and demonstrate fundamental morphing matter behaviors including rotating, translating, stretching, spreading, bending, and twisting. A range of potential bio‐inspired applications, including slim mold‐like spreading, snail‐like jumping over a gap, object transport, wall climbing, and a frog tongue‐inspired gripper is shown. The e‐MG provides morphing capabilities beyond the current limitations in wireless control for a wide range of applications in soft and bio‐inspired robotics, dexterous manipulation, and space exploration.",
+      "author_str": "Ciqun Xu, C. Faul, Majid Taghavi",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "a4f8be488c35316c6f5b39db91bab70a1f3c6c0e",
+      "url": "https://www.semanticscholar.org/paper/a4f8be488c35316c6f5b39db91bab70a1f3c6c0e",
+      "title": "Propagation of Photoinduced Electric Field Changes Through Phytochrome and their Impact on Conformational Transitions",
+      "year": 2025,
+      "citationCount": 1,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC12640670, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2309228505",
+          "name": "Mariafrancesca La Greca"
+        },
+        {
+          "authorId": "2117788172",
+          "name": "Anh Duc Nguyen"
+        },
+        {
+          "authorId": "1499286275",
+          "name": "A. Kraskov"
+        },
+        {
+          "authorId": "144714148",
+          "name": "N. Michael"
+        },
+        {
+          "authorId": "48095925",
+          "name": "L. Sauthof"
+        },
+        {
+          "authorId": "2381326805",
+          "name": "Manal Ebrahim"
+        },
+        {
+          "authorId": "46849089",
+          "name": "S. Katz"
+        },
+        {
+          "authorId": "2130025679",
+          "name": "Johannes von Sass"
+        },
+        {
+          "authorId": "2331400450",
+          "name": "Oanh Tu Hoang"
+        },
+        {
+          "authorId": "145624420",
+          "name": "Nediljko Budisa"
+        },
+        {
+          "authorId": "4417172",
+          "name": "P. Scheerer"
+        },
+        {
+          "authorId": "2331402029",
+          "name": "Ramona Schlesinger"
+        },
+        {
+          "authorId": "3809519",
+          "name": "M. Mroginski"
+        },
+        {
+          "authorId": "2242148847",
+          "name": "P. Hildebrandt"
+        }
+      ],
+      "abstract": "In phytochromes, photoisomerization of the chromophore and subsequent structural relaxations lead to the functionally essential secondary structure transition of the tongue, a phytochrome‐specific protein segment. The coupling mechanism between chromophore and protein structural changes is yet not understood, but electric field changes are discussed to play an important role. In this work, electric field changes in the chromophore binding pocket (CBP) are confirmed to propagate over long distances through the protein and alter the electric field in the tongue region. An experimental‐theoretical approach to analyze local electric fields using Stark reporters has been further developed. These are nitrile groups introduced site‐specifically into the protein via noncanonical amino acids. The functional integrity of the variants is checked by crystallography and various spectroscopies. For the first time, functionally intact variants with substitutions in the tongue are generated. Based on frequency shifts and relative intensities of the nitrile stretching modes, hydrogen‐bonding and noncovalent electric field contributions are separated. The field changes originating in the CBP are transduced to the tongue along a pathway via Phe192. Given a proper direction of the net electric field vector in the tongue region, the magnitude of the field may be sufficient to destabilize the tongue structure.",
+      "author_str": "Mariafrancesca La Greca, Anh Duc Nguyen, A. Kraskov",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "29d217a316be47ea9d26bf6654f5105602c026d7",
+      "url": "https://www.semanticscholar.org/paper/29d217a316be47ea9d26bf6654f5105602c026d7",
+      "title": "THE SWITCH ELECTRIC DRIVE CONTROL SYSTEM WITH LIMITATION OF THE FINAL SPEED OF TRANSMISSION",
+      "year": 2025,
+      "citationCount": 0,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.18664/1994-7852.211.2025.327161",
+        "status": "GOLD",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.18664/1994-7852.211.2025.327161?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.18664/1994-7852.211.2025.327161, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2356929997",
+          "name": "Vladimir Khismatulin"
+        },
+        {
+          "authorId": "2356927224",
+          "name": "Andrii Prylypko"
+        },
+        {
+          "authorId": "2356925267",
+          "name": "A. Sosunov"
+        },
+        {
+          "authorId": "2356931237",
+          "name": "M. Ushakov"
+        }
+      ],
+      "abstract": "The algorithm of operation of switch electric drives (the electric motor together with a reducer and a safety friction clutch) in railway transport is constructed in such a way that at the moment of completion of the working stroke of the tongue, its linear speed has the maximum value, and the braking process is provided only by the mechanical counteraction of the frame rail on the moving tongue. This process is accompanied by increased wear of the contacting parts, the deformation of the tongue, the rods and the elements of the hinged joints. To reduce the intensity of mechanical wear on the parts of the electric drive and the switch it is necessary to reduce the kinetic energy of the moving masses by reducing the velocity at the time the transfer is completed to zero or to a sufficiently small value. On the other hand, from the time of switching tongue depends the time of setting the routes, processing capacity of stations, sorting hills, that is, the efficiency of the transport complex as a whole. The aim of the article is to synthesize the control system of a switch electric motor with zero speed at the еnd of the translation, optimal by the quadratic quality index. The mathematical formulation of the goal of management, the criterion of optimality and the constraints on the control action are presented. A mathematical model of a drive with a DC motor is developed. The controllability of the object of the variational problem are analyzed. Synthesis of the optimal control system is performed using the maximum principle of L. S. Pontryagin. The analysis of the problem of practical implementation of the optimal control system is briefly analyzed.",
+      "author_str": "Vladimir Khismatulin, Andrii Prylypko, A. Sosunov",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "e5958de9512aa90e6b63025c5c216ad35b831910",
+      "url": "https://www.semanticscholar.org/paper/e5958de9512aa90e6b63025c5c216ad35b831910",
+      "title": "Single Response Electroplated Metal Microwires-Based Microfluidic Electronic Tongue for Taste Discrimination",
+      "year": 2023,
+      "citationCount": 10,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/LSENS.2023.3334745?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/LSENS.2023.3334745, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2275156132",
+          "name": "Sarika Yadav"
+        },
+        {
+          "authorId": "40174421",
+          "name": "Rajendra Kumar Sahu"
+        },
+        {
+          "authorId": "2269233177",
+          "name": "Raj Ganesh S. Pala"
+        }
+      ],
+      "abstract": "We demonstrate a microfluidic electronic tongue (MET) by analy- zing a single equivalent admittance spectrum of stainless-steel microwires electroplated with copper, nickel, iron, and zinc connected in parallel. These microwires are integrated into a microfluidic chip made of polydimethylsiloxane. The admittance response from the MET was processed using principal component analysis, where four primary taste samples are clustered according to their taste, showing strong distinction with the Silhouette coefficient above 0.71. The biplot explains that analyte–electrode interactions occurring over distinct time scales contribute to taste discrimination. Taste discriminability of MET is poor if fitted equivalent electric circuit data is utilized. The MET, with a single response electroplated metal wires sensor array, may pave the way for a cost efficient and simpler taste and quality assessment in various commercial applications.",
+      "author_str": "Sarika Yadav, Rajendra Kumar Sahu, Raj Ganesh S. Pala",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "31ca9d02d6ecfa9ffd94360d941b506a5e73159b",
+      "url": "https://www.semanticscholar.org/paper/31ca9d02d6ecfa9ffd94360d941b506a5e73159b",
+      "title": "Tongue bite injury after use of transcranial electric stimulation motor-evoked potential monitoring",
+      "year": 2014,
+      "citationCount": 9,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.4103/0970-9185.137297",
+        "status": "GOLD",
+        "license": "CCBYNCSA",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC4152700, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2110028537",
+          "name": "Aparna Williams"
+        },
+        {
+          "authorId": "4249774",
+          "name": "Georgene Singh"
+        }
+      ],
+      "abstract": "Journal of Anaesthesiology Clinical Pharmacology | July-September 2014 | Vol 30 | Issue 3 439 on the patient’s condition and a communication between the anesthesiologist, surgeon and interventional radiologist is essential. C. Voscopoulos et al.[2] and Basem Abdalmalak et al.[3] have successfully used dexmedetomidine based technique in tracheobronchial stenting in the cases of central airway obstruction. Bergese SD et al.[4] evaluated the safety and efficacy of dexmedetomidine for sedation during awake fiberoptic intubation and they found that dexmedetomidine is effective as the primary sedative in the patients undergoing the awake fiberoptic intubation with difficult airway.",
+      "author_str": "Aparna Williams, Georgene Singh",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "456a0f2e582fed05c26ab2d9a3dd53116f5054d8",
+      "url": "https://www.semanticscholar.org/paper/456a0f2e582fed05c26ab2d9a3dd53116f5054d8",
+      "title": "Oral mucosa lesions in electric smokers (E-Cigarettes): A scoping review",
+      "year": 2024,
+      "citationCount": 1,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.30574/wjarr.2024.24.2.3448?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.30574/wjarr.2024.24.2.3448, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2306554621",
+          "name": "Syafriaz Zulfa Maulina"
+        },
+        {
+          "authorId": "72058536",
+          "name": "A.Sar anya"
+        },
+        {
+          "authorId": "2333677748",
+          "name": "Firdausy"
+        },
+        {
+          "authorId": "3956681",
+          "name": "N. Ayuningtyas"
+        }
+      ],
+      "abstract": "Background: Electronic cigarettes are one form of cigarettes that are popular in society. However, their impact on health, especially oral health, is not better than conventional cigarettes because they can cause various health disorders and oxidative stress. Various lesions in the mouth can occur due to long-term use of electronic cigarettes.\nPurpose: This study aims to systematically review previous research findings regarding oral lesions that can be found in patients who smoke electronic cigarettes or e-cigarettes.\nMethod: This research is a type of secondary literature research in the form of a systematic literature review (scoping review). This scoping review is compiled based on the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) method.\nResult: The results of various studies were obtained from subjects with different frequencies and intensities of electronic cigarette use. So that different lesions were obtained in each observation. The lesions recorded were such as leukoedema, coated tongue, smoker's melanosis, hairy tongue, and nicotinic stomatitis.\nConclusion: Based on various studies, it has been shown that in e-cigarette users, oral lesions such as leukoedema, coated tongue, smoker's melanosis, hairy tongue, and nicotinic stomatitis can be found. The findings of these lesions depend on the frequency and intensity of e-cigarette use.",
+      "author_str": "Syafriaz Zulfa Maulina, A.Sar anya, Firdausy",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "c406dee57dd2154f2ed6e26c7f3460d9496cb467",
+      "url": "https://www.semanticscholar.org/paper/c406dee57dd2154f2ed6e26c7f3460d9496cb467",
+      "title": "Long latency responses in tongue muscle elicited by various stimulation sites in anesthetized humans - New insights into tongue-related brainstem reflexes.",
+      "year": 2022,
+      "citationCount": 14,
+      "openAccessPdf": {
+        "url": "http://www.brainstimjrnl.com/article/S1935861X22000547/pdf",
+        "status": "GOLD",
+        "license": "CCBYNCND",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.brs.2022.03.003?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.brs.2022.03.003, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "3093054",
+          "name": "A. Szelényi"
+        },
+        {
+          "authorId": "46593781",
+          "name": "E. Fava"
+        }
+      ],
+      "abstract": "BACKGROUND\nLong Latency Responses (LLR) in tongue muscles are a scarcely described phenomenon, the physiology of which is uncertain.\n\n\nOBJECTIVES\nThe aim of this exploratory, observational study was to describe tongue-LLR elicited by direct trigeminal nerve (DTNS), dorsal column (DoColS), transcranial electric (TES) and peripheral median nerve (MNS) stimulation in a total of 93 patients undergoing neurosurgical procedures under general anesthesia.\n\n\nMETHODS\nBilateral tongue responses were derived concurrently after each of the following stimulations: (1) DTNS applied with single monophasic or train-of-three pulses, ≤5 mA; (2) DoColS applied with a train-of-three pulses, ≤10 mA; (3) TES consisting of an anodal train-of-five stimulation, ≤250 mA; (4) MNS at wrist consisting of single or train-of-three monophasic pulses, ≤50 mA. Polyphasic tongue muscle responses exceeding the latencies of tongue compound muscle action potentials or motor evoked potentials were classified as LLR.\n\n\nRESULTS\nTongue-LLR were evoked from all stimulation sites, with latencies as follows: (1) DTNS: solely ipsilateral 20.2 ± 3.3 msec; (2) DoColS: ipsilateral 25.9 ± 1.6 msec, contralateral 25.1 ± 4.2 msec; (3) TES: contralateral 55.3 ± 10.2 msec, ipsilateral 54.9 ± 12.0 msec; (4) MNS: ipsilateral 37.8 ± 4.7 msec and contralateral 40.3 ± 3.5 msec.\n\n\nCONCLUSION\nThe tongue muscles are a common efferent in brainstem pathways targeted by trigeminal and cervical sensory fibers. DTNS can elicit the \"trigemino-hypoglossal-reflex\". For the MNS elicited tongue-LLR, we propose the term \"somatosensory evoked tongue-reflex\". Although the origin of the TES related tongue-LLR remains unclear, these data will help to interpret intraoperative tongue recordings.",
+      "author_str": "A. Szelényi, E. Fava",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "b3a96ece5f49909a479db62d8fb9aa63004978c4",
+      "url": "https://www.semanticscholar.org/paper/b3a96ece5f49909a479db62d8fb9aa63004978c4",
+      "title": "Electromyography: Processing, Muscles' Electric Signal Analysis, and Use in Myofunctional Orthodontics",
+      "year": 2023,
+      "citationCount": 7,
+      "openAccessPdf": {
+        "url": "https://assets.cureus.com/uploads/review_article/pdf/190428/20240118-24418-a8f9fs.pdf",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10794812, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2275446021",
+          "name": "Shweta Tagore"
+        },
+        {
+          "authorId": "2247790360",
+          "name": "Amit Reche"
+        },
+        {
+          "authorId": "2253524312",
+          "name": "Priyanka Paul"
+        },
+        {
+          "authorId": "2229919539",
+          "name": "Mihika Deshpande"
+        }
+      ],
+      "abstract": "Electromyography, commonly known as EMG, utilizes superficial or needle electrodes to record and analyze the fundamental electrical characteristics of skeletal muscles, determining whether the muscles are contracting. The motor unit, which consists of a collection of group muscle fibers and the motor neurons that govern them, is the structural basis of EMG. Three types of electrode are used in EMG which are needle electrode, fine wire electrode, and surface electrode. A significant amount of literature indicates that the correction of muscle function affects the relationships between teeth within the same jaw and between the jaws on opposing sides. The mechanism of action in myofunctional appliance therapy is linked to neuromuscular and skeletal adaptations resulting from altered function in the orofacial region. Both myofunctional therapy and orthodontics aim to address abnormal muscular behavior, restore abnormal muscle activity, and maintain proper alignment in various areas, including the lips, lower jaw, and tongue. This knowledge is essential for functions such as swallowing, speaking, chewing, and respiration as well as for minimizing incorrect movements and positioning. This article aims to describe the application of surface EMG as a diagnosis tool for assessing muscle activities in various orthodontic disorders, such as class II malocclusion open bite, crossbite, maxillary constriction, cleft lip and palate (CLP), and temporomandibular dysfunction, in patients. The electrodes used in EMG can be utilized to detect bioelectric activity in the muscles of the jaws and abnormalities in jaw movement. Analyzing EMG data is vital for obtaining a comprehensive understanding of the masticatory muscle system.",
+      "author_str": "Shweta Tagore, Amit Reche, Priyanka Paul",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "e50103488ddf1a41f15738e63889596a94962423",
+      "url": "https://www.semanticscholar.org/paper/e50103488ddf1a41f15738e63889596a94962423",
+      "title": "Modelling the tongue-of-ionisation using CTIP with SuperDARN electric potential input: verification by radiotomography",
+      "year": 2009,
+      "citationCount": 6,
+      "openAccessPdf": {
+        "url": "https://angeo.copernicus.org/articles/27/1139/2009/angeo-27-1139-2009.pdf",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.5194/ANGEO-27-1139-2009?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.5194/ANGEO-27-1139-2009, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "145411417",
+          "name": "S. E. Pryse"
+        },
+        {
+          "authorId": "102532421",
+          "name": "E. Whittick"
+        },
+        {
+          "authorId": "4592242",
+          "name": "A. Aylward"
+        },
+        {
+          "authorId": "104075813",
+          "name": "H. Middleton"
+        },
+        {
+          "authorId": "2216725844",
+          "name": "Daniel S. Brown"
+        },
+        {
+          "authorId": "145763711",
+          "name": "M. Lester"
+        },
+        {
+          "authorId": "1949188",
+          "name": "J. Secan"
+        }
+      ],
+      "abstract": "Abstract. Electric potential patterns obtained by the SuperDARN radar network are used as input to the Coupled Thermosphere-Ionosphere-Plasmasphere model, in an attempt to improve the modelling of the spatial distribution of the ionospheric plasma at high latitudes. Two case studies are considered, one under conditions of stable IMF Bz negative and the other under stable IMF Bz positive. The modelled plasma distributions are compared with sets of well-established tomographic reconstructions, which have been interpreted previously in multi-instrument studies. For IMF Bz negative both the model and observations show a tongue-of-ionisation on the nightside, with good agreement between the electron density and location of the tongue. Under Bz positive, the SuperDARN input allows the model to reproduce a spatial plasma distribution akin to that observed. In this case plasma, unable to penetrate the polar cap boundary into the polar cap, is drawn by the convective flow in a tongue-of-ionisation around the periphery of the polar cap.",
+      "author_str": "S. E. Pryse, E. Whittick, A. Aylward",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "c309c603a3a577533419661cd01ca9d4a1b709c9",
+      "url": "https://www.semanticscholar.org/paper/c309c603a3a577533419661cd01ca9d4a1b709c9",
+      "title": "Electrochemical Assessment of Anticancer Compounds on the Human Tongue Squamous Carcinoma Cells",
+      "year": 2020,
+      "citationCount": 14,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/1424-8220/20/9/2632/pdf",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC7249152, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "152497319",
+          "name": "Chun-Chung Huang"
+        },
+        {
+          "authorId": "3013849",
+          "name": "T. Tung"
+        },
+        {
+          "authorId": "47396933",
+          "name": "Chien-Chu Huang"
+        },
+        {
+          "authorId": "2115275965",
+          "name": "Shao-Yi Lin"
+        },
+        {
+          "authorId": "37796436",
+          "name": "Shih-Chi Chao"
+        },
+        {
+          "authorId": "122764414",
+          "name": "Sheng-Po Chiu"
+        },
+        {
+          "authorId": "15559585",
+          "name": "Shiao-Pieng Lee"
+        },
+        {
+          "authorId": "2069098049",
+          "name": "Chun-Min Lo"
+        }
+      ],
+      "abstract": "The most common oral cancer is squamous cell carcinoma (SCC) and its highest occurrence is in the tongue. Almost 30% of patients with one primary head and neck tumor will have a second primary malignancy. In recent studies, two novel plant extracts, andrographolide and cannabidiol (CBD), have been exploited for their anticancer effects. Here, we investigated the cytotoxic effects of these two compounds on SCC-25 cells, a human tongue squamous carcinoma cell line, and compared the outcomes with two chemotherapeutic drugs, cisplatin and fluorouracil. Electric cell substrate impedance sensing (ECIS) system was applied to measure frequency- and time-dependent impedance of SCC-25 cell-covered electrodes and to further assess subtle changes in cell morphology and micromotion in response to different concentrations (0, 10, 30, 100, and 300 µM) of these compounds. AlamarBlue and Annexin V/7-AAD binding assays were used to measure the concentration dependent changes in viability and apoptosis of SCC-25 cells. Our results demonstrate that 24 hours after exposure to 30 µM CBD can significantly decrease the micromotion rate, damage the integrity of cell morphology, reduce cell viability, and induce higher apoptosis in treated SCC-25 cells, while the other three drugs attain similar effects at the concentration of 100 µM or higher. The apoptosis-induced changes in cell morphology and micromotion monitored by ECIS correlate well with biochemical assays. Thus, both frequency- and time-dependent impedance measurements using ECIS can be used to real-time follow cancer cell activities in response to anticancer drugs with different temporal cytotoxicity profiles.",
+      "author_str": "Chun-Chung Huang, T. Tung, Chien-Chu Huang",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "329102087e539400d7648e6845008b5b5f3da951",
+      "url": "https://www.semanticscholar.org/paper/329102087e539400d7648e6845008b5b5f3da951",
+      "title": "A bioinspired in vitro bioelectronic tongue with human T2R38 receptor for high-specificity detection of N-C=S-containing compounds.",
+      "year": 2019,
+      "citationCount": 25,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/J.TALANTA.2019.02.021?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/J.TALANTA.2019.02.021, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "116508198",
+          "name": "Chunlian Qin"
+        },
+        {
+          "authorId": "2256483758",
+          "name": "Zhen Qin"
+        },
+        {
+          "authorId": "2110997077",
+          "name": "Dong-Xiao Zhao"
+        },
+        {
+          "authorId": "144712112",
+          "name": "Yuxiang Pan"
+        },
+        {
+          "authorId": "7151026",
+          "name": "L. Zhuang"
+        },
+        {
+          "authorId": "49537673",
+          "name": "H. Wan"
+        },
+        {
+          "authorId": "7392372",
+          "name": "A. Di Pizio"
+        },
+        {
+          "authorId": "15840827",
+          "name": "Einav Malach"
+        },
+        {
+          "authorId": "2168640",
+          "name": "M. Niv"
+        },
+        {
+          "authorId": "2979242",
+          "name": "Liquan Huang"
+        },
+        {
+          "authorId": "1753600934",
+          "name": "N. Hu"
+        },
+        {
+          "authorId": "40486937",
+          "name": "Ping Wang"
+        }
+      ],
+      "abstract": "Detection and identification of bitter compounds draw great attention in pharmaceutical and food industry. Several well-known agonists of specific bitter taste receptors have been found to exhibit anti-cancer effects. For example, N-C=S-containing compounds, such as allyl-isothiocyanates, have shown cancer chemo-preventive effects. It is worth noting that human T2R38 receptor is specific for compounds containing N-C=S moiety. Here, a bioinspired cell-based bioelctronic tongue (BioET) is developed for the high-specificity isothiocyanate-induced bitter detection, utilizing human Caco-2 cells as a primary sensing element and interdigitated impedance sensor as a secondary transducer. As an intestinal carcinoma cell line, Caco-2 endogenously expresses human bitter receptor T2R38, and the activation of T2R38 induces the changes of cellular morphology which can be detected by electric cell-substrate impedance sensing (ECIS). After configuration and optimization of parameters including timing of compound administration and cell density, quantitative bitter evaluation models were built for two well-known bitter compounds, phenylthiocarbamide (PTC) and propylthiouracil (PROP). The bitter specific detection of this BioET is inhibited by probenecid and U-73122, and is not elicited by other taste modalities or bitter ligands that do not activate T2R38. Moreover, by combining different computational tools, we designed a ligand-based virtual screening (LBVS) protocol to select ligands that are likely to activate T2R38 receptor. Three computationally predicted agonists of T2R38 were selected using the LBVS protocol, and the BioET presented response to the predicted agonists, validating the capability of the LBVS protocol. This study suggests this unique cell-based BioET paves a general and promising way to specifically detect N-C=S-containing compounds that can be used for pharmaceutical study and drug development.",
+      "author_str": "Chunlian Qin, Zhen Qin, Dong-Xiao Zhao",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "054fd9394b726f24064ced7ae8ed20eed3161a72",
+      "url": "https://www.semanticscholar.org/paper/054fd9394b726f24064ced7ae8ed20eed3161a72",
+      "title": "Triple Langmuir probe measurements in a low-energy tongue-flared configuration plasma thruster",
+      "year": 2021,
+      "citationCount": 7,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/J.VACUUM.2021.110135?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/J.VACUUM.2021.110135, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2118560032",
+          "name": "H. C. Lee"
+        },
+        {
+          "authorId": "101590243",
+          "name": "C. H. Lim"
+        },
+        {
+          "authorId": "144991313",
+          "name": "Y. Lau"
+        },
+        {
+          "authorId": "92486920",
+          "name": "O. Chin"
+        }
+      ],
+      "abstract": "Abstract The pulsed plasma thruster is a type of electric propulsion, which has attracted a lot of interest due to its application in microsatellite. In this study, a side-fed, tongue-flared configuration PPT is operated at 2 J and a triple Langmuir probe is used to measure the plasma characteristics, namely electron temperature, Te and electron density, ne. These measurements were carried out in both perpendicular and parallel planes to the thruster electrode. The radial profiles of plasma expulsion in both planes were also measured and compared. The mean ion velocity was calculated from the plasma transit times from the teflon target where surface discharge was first initiated to the probe positions. These plasma characteristics were compared to other systems operated over a wide range of energy.",
+      "author_str": "H. C. Lee, C. H. Lim, Y. Lau",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "1de9516cbd3b971885b0b54b8b8aa5effc13dc42",
+      "url": "https://www.semanticscholar.org/paper/1de9516cbd3b971885b0b54b8b8aa5effc13dc42",
+      "title": "Local Electric Field Changes during the Photoconversion of the Bathy Phytochrome Agp2.",
+      "year": 2021,
+      "citationCount": 18,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1021/acs.biochem.1c00426?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1021/acs.biochem.1c00426, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "1499286275",
+          "name": "A. Kraskov"
+        },
+        {
+          "authorId": "2130025679",
+          "name": "Johannes von Sass"
+        },
+        {
+          "authorId": "2117788172",
+          "name": "Anh Duc Nguyen"
+        },
+        {
+          "authorId": "46373792",
+          "name": "T. Hoang"
+        },
+        {
+          "authorId": "4308547",
+          "name": "David Buhrke"
+        },
+        {
+          "authorId": "46849089",
+          "name": "S. Katz"
+        },
+        {
+          "authorId": "144714148",
+          "name": "N. Michael"
+        },
+        {
+          "authorId": "10001261",
+          "name": "J. Kozuch"
+        },
+        {
+          "authorId": "5829473",
+          "name": "I. Zebger"
+        },
+        {
+          "authorId": "3250802",
+          "name": "F. Siebert"
+        },
+        {
+          "authorId": "4417172",
+          "name": "P. Scheerer"
+        },
+        {
+          "authorId": "3809519",
+          "name": "M. Mroginski"
+        },
+        {
+          "authorId": "145624420",
+          "name": "Nediljko Budisa"
+        },
+        {
+          "authorId": "5126564",
+          "name": "Peter Hildebrandt"
+        }
+      ],
+      "abstract": "Phytochromes switch between a physiologically inactive and active state via a light-induced reaction cascade, which is initiated by isomerization of the tetrapyrrole chromophore and leads to the functionally relevant secondary structure transition of a protein segment (tongue). Although details of the underlying cause-effect relationships are not known, electrostatic fields are likely to play a crucial role in coupling chromophores and protein structural changes. Here, we studied local electric field changes during the photoconversion of the dark state Pfr to the photoactivated state Pr of the bathy phytochrome Agp2. Substituting Tyr165 and Phe192 in the chromophore pocket by para-cyanophenylalanine (pCNF), we monitored the respective nitrile stretching modes in the various states of photoconversion (vibrational Stark effect). Resonance Raman and IR spectroscopic analyses revealed that both pCNF-substituted variants undergo the same photoinduced structural changes as wild-type Agp2. Based on a structural model for the Pfr state of F192pCNF, a molecular mechanical-quantum mechanical approach was employed to calculate the electric field at the nitrile group and the respective stretching frequency, in excellent agreement with the experiment. These calculations serve as a reference for determining the electric field changes in the photoinduced states of F192pCNF. Unlike F192pCNF, the nitrile group in Y165pCNF is strongly hydrogen bonded such that the theoretical approach is not applicable. However, in both variants, the largest changes of the nitrile stretching modes occur in the last step of the photoconversion, supporting the view that the proton-coupled restructuring of the tongue is accompanied by a change of the electric field.",
+      "author_str": "A. Kraskov, Johannes von Sass, Anh Duc Nguyen",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "0c3f759b2c7b0df1dd472bdafc256aca0d821762",
+      "url": "https://www.semanticscholar.org/paper/0c3f759b2c7b0df1dd472bdafc256aca0d821762",
+      "title": "Augmented Flavours: Modulation of Flavour Experiences Through Electric Taste Augmentation.",
+      "year": 2019,
+      "citationCount": 43,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.foodres.2018.05.030?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.foodres.2018.05.030, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "1722792",
+          "name": "Nimesha Ranasinghe"
+        },
+        {
+          "authorId": "144453922",
+          "name": "David Tolley"
+        },
+        {
+          "authorId": "88317219",
+          "name": "Thi Ngoc Tram Nguyen"
+        },
+        {
+          "authorId": "2643274",
+          "name": "Liangkun Yan"
+        },
+        {
+          "authorId": "2054484",
+          "name": "Barry Chew"
+        },
+        {
+          "authorId": "1689168",
+          "name": "E. Do"
+        }
+      ],
+      "abstract": "In recent years there has been a growing interest in the potential benefits and new applications that may be afforded by incorporating digital flavour augmentation technologies into traditional eating and drinking experiences. Although many studies have shown how controlled olfactory, visual and auditory cues can impact flavour experiences, there has been a relatively small amount of work that has investigated the utilisation of digital gustatory (taste) augmentation in the same context. Hence, we have created two utensils, a pair of chopsticks and a soup bowl, that apply controlled electrical pulses to the tip of the tongue during consumption in order to augment flavours through electrical stimulation. As such, in this paper we present a study that aimed to evaluate the impact of electric taste augmentation on two types of eating experiences: consuming mashed potato and miso soup. Based on this study, our findings demonstrate that 1) significant increases in perceived saltiness and sourness can be achieved when consuming unsalted mashed potato and 2) significantly higher ratings of sourness can be achieved when consuming diluted miso soup.",
+      "author_str": "Nimesha Ranasinghe, David Tolley, Thi Ngoc Tram Nguyen",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "02edf02d89f6cf79c39d7db6c38c2650cdf2e482",
+      "url": "https://www.semanticscholar.org/paper/02edf02d89f6cf79c39d7db6c38c2650cdf2e482",
+      "title": "Impedimetric electronic tongue based on nanocomposites for the analysis of red wines. Improving the variable selection method",
+      "year": 2018,
+      "citationCount": 28,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/J.SNB.2018.09.023?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/J.SNB.2018.09.023, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "1388890497",
+          "name": "C. García-Hernández"
+        },
+        {
+          "authorId": "2134817791",
+          "name": "C. Salvo Comino"
+        },
+        {
+          "authorId": "1388890499",
+          "name": "F. Martín-Pedrosa"
+        },
+        {
+          "authorId": "2092960421",
+          "name": "M. Rodríguez-Méndez"
+        },
+        {
+          "authorId": "1388890484",
+          "name": "C. García-Cabezón"
+        }
+      ],
+      "abstract": "Abstract An impedimetric electronic tongue to discriminate red wines with similar characteristics (same region, vintage and ageing method) is developed. The excellent performance achieved is due to the remarkable sensing properties of the nanocomposites forming the array and to the methodology developed to extract the input variables used in the statistical analysis. The multisensor system is formed by one PEDOT:PSS sensor and two nanocomposites formed by layers of PEDOT:PSS and gold nanoparticles (PEDOT:PSS/AuNP) or layers of PEDOT:PSS and lutetium bisphthalocyanine (PEDOT:PSS/LuPc2). The well-known electrocatalytic activity of the sensing materials is promoted in the layered composites and enhances the cross-selectivity of the sensors. Besides, a feature extraction method that uses an equivalent electric circuit model to obtain the input variables used in the statistical analysis has been developed. By using the statistical procedure of Principal Component Analysis, the improved electronic tongue is able to discriminate three wines from the variety Tempranillo, one wine of the variety Tinta de Toro (a clon of Tempranillo) and one wine elaborated with a coupage of 90% Tempranillo and 10% Garnacha variety. The combination of layered nanomaterials and the new feature extraction method also enhances the capability of the impedimetric electronic tongue to predict chemical variables using Partial Least Squares regression.",
+      "author_str": "C. García-Hernández, C. Salvo Comino, F. Martín-Pedrosa",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "19a3c0fb25be8f1dc3b56517f69b53ef1d084267",
+      "url": "https://www.semanticscholar.org/paper/19a3c0fb25be8f1dc3b56517f69b53ef1d084267",
+      "title": "Electric field aspects in hypoglossal nerve stimulation for obstructive sleep apnea: A bilateral electrophysiological evaluation of unilateral electrode configuration changes",
+      "year": 2022,
+      "citationCount": 4,
+      "openAccessPdf": {
+        "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/jsr.13592",
+        "status": "HYBRID",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1111/jsr.13592?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1111/jsr.13592, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "4422579",
+          "name": "A. Steffen"
+        },
+        {
+          "authorId": "2165893276",
+          "name": "Florian Joffrey Moritz"
+        },
+        {
+          "authorId": "1825863",
+          "name": "I. König"
+        },
+        {
+          "authorId": "6072668",
+          "name": "M. Suurna"
+        },
+        {
+          "authorId": "2848092",
+          "name": "N. Brüggemann"
+        }
+      ],
+      "abstract": "Hypoglossal nerve stimulation is an established treatment option for obstructive sleep apnea in selected patients. A unilateral hypoglossal nerve stimulation system was approved a decade ago, yet the physiological effect of unilateral hypoglossal stimulation on bilateral tongue motion remains unclear. This study examined how electrode configuration, stimulation cuff position, or body mass index influenced the contralateral genioglossus electromyography (EMG) signal. Twenty‐nine patients underwent three EMG recordings in a polysomnographic setting after being implanted with a unilateral hypoglossal nerve stimulator for at least 6 months. The ratio of EMG signals between the ipsi‐ and contralateral sides was evaluated. No difference in EMG signals was demonstrated based on electrode configurations, stimulation‐cuff position, body‐mass‐index, or sleep apnea severity, even in patients with right tongue protrusion only. Our findings may be explained by a significant level of cross‐innervation and by a smaller and less variable circumferential electric field than expected based on prior biophysical models. A patient's individual anatomy needs to be considered during therapy titration in order to achieve an optimal response.",
+      "author_str": "A. Steffen, Florian Joffrey Moritz, I. König",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "342cde2af3164b9ba432bf4144fa236f630b4a1d",
+      "url": "https://www.semanticscholar.org/paper/342cde2af3164b9ba432bf4144fa236f630b4a1d",
+      "title": "Flexible Tongue Electrode Array System for In Vivo Mapping of Electrical Signals of Taste Sensation.",
+      "year": 2021,
+      "citationCount": 3,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1021/acssensors.1c01621?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1021/acssensors.1c01621, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2118019312",
+          "name": "Shuang Huang"
+        },
+        {
+          "authorId": "2146342133",
+          "name": "Tao Zhang"
+        },
+        {
+          "authorId": "2108541500",
+          "name": "Hongbo Li"
+        },
+        {
+          "authorId": "2119682649",
+          "name": "Mingyue Zhang"
+        },
+        {
+          "authorId": "2146036199",
+          "name": "Xingxing Liu"
+        },
+        {
+          "authorId": "1716314788",
+          "name": "Dongxin Xu"
+        },
+        {
+          "authorId": "2144221737",
+          "name": "Hao Wang"
+        },
+        {
+          "authorId": "2152295132",
+          "name": "Zhiran Shen"
+        },
+        {
+          "authorId": "49017947",
+          "name": "Qianni Wu"
+        },
+        {
+          "authorId": "2117236531",
+          "name": "Jun Tao"
+        },
+        {
+          "authorId": "36427582",
+          "name": "Wen-hao Xia"
+        },
+        {
+          "authorId": "145411122",
+          "name": "Xi Xie"
+        },
+        {
+          "authorId": "50822729",
+          "name": "Fanmao Liu"
+        }
+      ],
+      "abstract": "Tongue is a unique organ that senses tastes, and the scientific puzzle about whether electricity can evoke taste sensations and how the sensations have been distributed on the tongue has not been solved. Investigations on tongue stimulation by electricity might benefit the developments of techniques for clinical neuromodulation, tissue activation, and a brain-tongue-machine interface. To solve the scientific puzzle of whether electrical stimulation induces taste-related sensations, a portable flexible tongue electrode array system (FTEAS) was developed, which can synchronously provide electrical stimulation and signal mapping at each zone of the tongue. Utilizing the FTEAS to perform tests on the rat tongue in vivo, specific electrical signals were observed to be evoked by chemical and electrical stimulations. The features and distributions of the electric signals evoked during the rat tongue tests were systematically studied and comprehensively analyzed. The results show that an appropriate electrical stimulation can induce multiple sensations simultaneously, while the distribution of each sensation was not significantly distinguished among different zones of the tongue, and at the same time, this taste-related electrical signal can be recorded by the FTEAS. This work establishes a promising platform to solve the scientific puzzle of how sensations are activated chemically and electrically on the tongue and may provide advanced noninvasive oral-electrotherapy and a brain-tongue-machine interface.",
+      "author_str": "Shuang Huang, Tao Zhang, Hongbo Li",
+      "conclusion": "Unable to process at this time"
+    }
+  ],
+  "contradictions": [
+    {
+      "theme": "Model Size Efficiency",
+      "paper_a": "Attention is All You Need",
+      "claim_a": "Larger models with more parameters achieve better performance",
+      "paper_b": "DistilBERT: Smaller Model Faster",
+      "claim_b": "Smaller distilled models can match performance with lower latency"
+    },
+    {
+      "theme": "Positional Encoding Methods",
+      "paper_a": "Attention is All You Need",
+      "claim_a": "Absolute positional encoding is sufficient",
+      "paper_b": "RoFormer",
+      "claim_b": "Relative positional encoding captures relationships better"
+    },
+    {
+      "theme": "Fine-tuning vs Few-shot",
+      "paper_a": "BERT: Pre-training",
+      "claim_a": "Task-specific fine-tuning is necessary",
+      "paper_b": "Language Models are Few-shot Learners",
+      "claim_b": "Large models can learn from prompts without fine-tuning"
+    }
+  ],
+  "report": "\n# Literature Review: electric tongue\n\n## 1. Topic Overview\nThis report summarizes the available literature related to \"electric tongue\". The analysis is based on the extracted conclusions from the papers processed during the search.\n\n## 2. Key Conclusions\n[1] Semi-Quantitative and Qualitative Distinction of Aromatic and Flavour Compounds in Charcoal Grilled, Electric Barbecue Grilled, Infrared Grilled and Superheated-Steam Roasted Lamb Meat Patties Using GC/MC, E-nose and E-tongue: Unable to process at this time\n[2] Comprehensive Evaluation of Flavor in Charcoal and Electric-Roasted Tamarix Lamb by HS-SPME/GC-MS Combined with Electronic Tongue and Electronic Nose: Unable to process at this time\n[3] Tongue Prick Bionic Angularly Adjustable Microneedles for Enhanced Scarless Wound Healing: Unable to process at this time\n[4] Aggregation-Induced-Emission Materials with Different Electric Charges as an Artificial Tongue: Design, Construction, and Assembly with Various Pathogenic Bacteria for Effective Bacterial Imaging and Discrimination.: Unable to process at this time\n[5] Combined metabolomics and electronic tongue technology elucidated the mechanisms of regulation of color–taste characteristics of Huangqin (Scutellaria baicalensis Georgi) herbal tea after various roasting processes: Unable to process at this time\n[6] Tongue-Like Bioactuator with Multiple Skeletal Muscle Tissues: Unable to process at this time\n[7] Metabolomics and electronic-tongue analysis reveal differences in color and taste quality of large-leaf yellow tea under different roasting methods: Unable to process at this time\n[8] Efficient Taste Analysis via Single-Channel Hybrid Electronic Tongue: Unable to process at this time\n[9] Electric Field Driven Soft Morphing Matter: Unable to process at this time\n[10] Propagation of Photoinduced Electric Field Changes Through Phytochrome and their Impact on Conformational Transitions: Unable to process at this time\n[11] THE SWITCH ELECTRIC DRIVE CONTROL SYSTEM WITH LIMITATION OF THE FINAL SPEED OF TRANSMISSION: Unable to process at this time\n[12] Single Response Electroplated Metal Microwires-Based Microfluidic Electronic Tongue for Taste Discrimination: Unable to process at this time\n[13] Tongue bite injury after use of transcranial electric stimulation motor-evoked potential monitoring: Unable to process at this time\n[14] Oral mucosa lesions in electric smokers (E-Cigarettes): A scoping review: Unable to process at this time\n[15] Long latency responses in tongue muscle elicited by various stimulation sites in anesthetized humans - New insights into tongue-related brainstem reflexes.: Unable to process at this time\n[16] Electromyography: Processing, Muscles' Electric Signal Analysis, and Use in Myofunctional Orthodontics: Unable to process at this time\n[17] Modelling the tongue-of-ionisation using CTIP with SuperDARN electric potential input: verification by radiotomography: Unable to process at this time\n[18] Electrochemical Assessment of Anticancer Compounds on the Human Tongue Squamous Carcinoma Cells: Unable to process at this time\n[19] A bioinspired in vitro bioelectronic tongue with human T2R38 receptor for high-specificity detection of N-C=S-containing compounds.: Unable to process at this time\n[20] Triple Langmuir probe measurements in a low-energy tongue-flared configuration plasma thruster: Unable to process at this time\n[21] Local Electric Field Changes during the Photoconversion of the Bathy Phytochrome Agp2.: Unable to process at this time\n[22] Augmented Flavours: Modulation of Flavour Experiences Through Electric Taste Augmentation.: Unable to process at this time\n[23] Impedimetric electronic tongue based on nanocomposites for the analysis of red wines. Improving the variable selection method: Unable to process at this time\n[24] Electric field aspects in hypoglossal nerve stimulation for obstructive sleep apnea: A bilateral electrophysiological evaluation of unilateral electrode configuration changes: Unable to process at this time\n[25] Flexible Tongue Electrode Array System for In Vivo Mapping of Electrical Signals of Taste Sensation.: Unable to process at this time\n\n## 3. Limitations and Gaps\nThe agent could not generate a complete final report automatically, so this fallback summary preserves the topic context and key findings.\n\n## 4. Next Steps\nFurther analysis should focus on verifying the claims above and identifying any additional papers that may refine these findings.\n",
+  "concepts": [
+    "attention mechanism",
+    "model training",
+    "optimization",
+    "neural networks",
+    "deep learning"
+  ],
+  "topic": "electric tongue",
+  "timestamp": "2026-04-09 11:45:19"
+}

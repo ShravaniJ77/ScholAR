@@ -1,0 +1,2200 @@
+{
+  "type": "complete",
+  "papers": [
+    {
+      "paperId": "0c1ab4ba7f11e6373ae0ce5b3f0c70364c0106ce",
+      "url": "https://www.semanticscholar.org/paper/0c1ab4ba7f11e6373ae0ce5b3f0c70364c0106ce",
+      "title": "CircPPAP2B controls metastasis of clear cell renal cell carcinoma via HNRNPC-dependent alternative splicing and targeting the miR-182-5p/CYP1B1 axis",
+      "year": 2024,
+      "citationCount": 53,
+      "openAccessPdf": {
+        "url": "https://molecular-cancer.biomedcentral.com/counter/pdf/10.1186/s12943-023-01912-w",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10770969, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "6066522",
+          "name": "Zaosong Zheng"
+        },
+        {
+          "authorId": "2278472500",
+          "name": "Xiangbo Zeng"
+        },
+        {
+          "authorId": "2278208533",
+          "name": "Yuanchao Zhu"
+        },
+        {
+          "authorId": "2278204693",
+          "name": "Mengxin Leng"
+        },
+        {
+          "authorId": "2278235493",
+          "name": "Zhiyong Zhang"
+        },
+        {
+          "authorId": "2278400584",
+          "name": "Qiong Wang"
+        },
+        {
+          "authorId": "2278377012",
+          "name": "Xiaocen Liu"
+        },
+        {
+          "authorId": "2278205141",
+          "name": "Siying Zeng"
+        },
+        {
+          "authorId": "2278373651",
+          "name": "Yongyuan Xiao"
+        },
+        {
+          "authorId": "2278223167",
+          "name": "Chenxi Hu"
+        },
+        {
+          "authorId": "2278204889",
+          "name": "Shiyu Pang"
+        },
+        {
+          "authorId": "2307218255",
+          "name": "Tong Wang"
+        },
+        {
+          "authorId": "153260135",
+          "name": "Bihong Xu"
+        },
+        {
+          "authorId": "2278207562",
+          "name": "Peidan Peng"
+        },
+        {
+          "authorId": "2253108076",
+          "name": "Fei Li"
+        },
+        {
+          "authorId": "2252051192",
+          "name": "Wanlong Tan"
+        }
+      ],
+      "abstract": "Background Renal cell carcinoma (RCC) is one of the most common malignant tumor worldwide. Metastasis is a leading case of cancer-related deaths of RCC. Circular RNAs (circRNAs), a class of noncoding RNAs, have emerged as important regulators in cancer metastasis. However, the functional effects and regulatory mechanisms of circRNAs on RCC metastasis remain largely unknown. Methods High-throughput RNA sequencing techniques were performed to analyze the expression profiles of circRNAs and mRNAs in highly and poorly invasive clear cell renal cell carcinoma (ccRCC) cell lines. Functional experiments were performed to unveil the regulatory role of circPPAP2B in the proliferation and metastatic capabilities of ccRCC cells. RNA pulldown, Mass spectrometry analysis, RNA methylation immunoprecipitation (MeRIP), RNA immunoprecipitation (RIP), co-immunoprecipitation (CoIP), next-generation RNA-sequencing and double luciferase experiments were employed to clarify the molecular mechanisms by which circPPAP2B promotes ccRCC metastasis. Results In this study, we describe a newly identified circular RNA called circPPAP2B, which is overexpressed in highly invasive ccRCC cells, as determined through advanced high-throughput RNA sequencing techniques. Furthermore, we observed elevated circPPAP2B in ccRCC tissues, particularly in metastatic ccRCC tissues, and found it to be associated with poor prognosis. Functional experiments unveiled that circPPAP2B actively stimulates the proliferation and metastatic capabilities of ccRCC cells. Mechanistically, circPPAP2B interacts with HNRNPC in a m6A-dependent manner to facilitate HNRNPC nuclear translocation. Subcellular relocalization was dependent upon nondegradable ubiquitination of HNRNPC and stabilization of an HNRNPC/Vimentin/Importin α7 ternary complex. Moreover, we found that circPPAP2B modulates the interaction between HNRNPC and splicing factors, PTBP1 and HNPNPK, and regulates pre-mRNA alternative splicing. Finally, our studies demonstrate that circPPAP2B functions as a miRNA sponge to directly bind to miR-182-5p and increase CYP1B1 expression in ccRCC. Conclusions Collectively, our study provides comprehensive evidence that circPPAP2B promotes proliferation and metastasis of ccRCC via HNRNPC-dependent alternative splicing and miR-182-5p/CYP1B1 axis and highlights circPPAP2B as a potential therapeutic target for ccRCC intervention.",
+      "author_str": "Zaosong Zheng, Xiangbo Zeng, Yuanchao Zhu",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "56f1f03502ff77d1f2280865883b92a5e1261a3b",
+      "url": "https://www.semanticscholar.org/paper/56f1f03502ff77d1f2280865883b92a5e1261a3b",
+      "title": "Mechanism Explanation on Improved Cognitive Ability of D-Gal Inducing Aged Mice Model by Lactiplantibacillus plantarum MWFLp-182 via the Microbiota-Gut-Brain Axis.",
+      "year": 2024,
+      "citationCount": 19,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1021/acs.jafc.3c09675?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1021/acs.jafc.3c09675, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2296065761",
+          "name": "Hui Nie"
+        },
+        {
+          "authorId": "2289324999",
+          "name": "Xinxin Wang"
+        },
+        {
+          "authorId": "2296439879",
+          "name": "Yanghe Luo"
+        },
+        {
+          "authorId": "2296433498",
+          "name": "Fanhua Kong"
+        },
+        {
+          "authorId": "9118728",
+          "name": "Guangqing Mu"
+        },
+        {
+          "authorId": "2108889026",
+          "name": "Xiaomeng Wu"
+        }
+      ],
+      "abstract": "Gut microbiota can influence cognitive ability via the gut-brain axis. Lactiplantibacillus plantarum MWFLp-182 (L. plantarum MWFLp-182) was obtained from feces of long-living individuals and could exert marked antioxidant ability. Interestingly, this strain reduced the D-galactose-induced impaired cognitive ability in BALB/c mice. To comprehensively elucidate the underlying mechanism, we evaluated the colonization, antioxidant, and anti-inflammatory activities of L. plantarum MWFLp-182, along with the expression of potential genes associated with cognitive ability influenced and gut microbiota. L. plantarum MWFLp-182 enhanced the expression of anti-inflammatory cytokines, reduced the expression of proinflammatory cytokines, and increased tight junction protein expression in the colon. Moreover, L. plantarum MWFLp-182 could modify the gut microbiota. Notably, treatment with L. plantarum MWFLp-182 upregulated the expression of postsynaptic density protein-95, nuclear factor erythroid 2-related factor, nerve growth factor, superoxide dismutase, and brain-derived neurotrophic factor/neuronal nuclei, while downregulating the expression of bcl-2-associated X and malondialdehyde in the hippocampus and upregulating short-chain fatty acids against D-galactose-induced mouse brain deficits. Accordingly, L. plantarum MWFLp-182 could improve cognitive ability in a D-galactose-inducing mouse model.",
+      "author_str": "Hui Nie, Xinxin Wang, Yanghe Luo",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "a7d1de0951b792258b966adc18df73ac60dabf20",
+      "url": "https://www.semanticscholar.org/paper/a7d1de0951b792258b966adc18df73ac60dabf20",
+      "title": "Synovia tissue-specific exosomes participate in the dual variation of the osteoarthritis microenvironment via miR-182.",
+      "year": 2024,
+      "citationCount": 10,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.yexcr.2024.113981?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.yexcr.2024.113981, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "8175274",
+          "name": "Shiqiang Wu"
+        },
+        {
+          "authorId": "2285176022",
+          "name": "Jun Luo"
+        },
+        {
+          "authorId": "2118044594",
+          "name": "Xiaolu Zhang"
+        },
+        {
+          "authorId": "2037418560",
+          "name": "Liangming Wang"
+        },
+        {
+          "authorId": "2112830185",
+          "name": "Liquan Cai"
+        },
+        {
+          "authorId": "2285324174",
+          "name": "Jie Xu"
+        }
+      ],
+      "abstract": "Osteoarthritis (OA) is the most common type of joint disease and the leading cause of chronic disability among older adults. As an important component of the joint, synovium influences the inflammatory and degenerative process of OA. This study found that miRNA 182 (miR-182) in synovium-specific exosomes can modulate inflammation and apoptotic signaling. It also regulated different biological functions to promote the progression of OA. Experiments based on rat OA model and synovium samples from OA patients, we found that synovium-derived miR-182 regulates inflammatory response in the early stage of OA by regulating the expression level of forkhead box O-3 (FOXO3). However, the expression of miR-182 was significantly increased in synovial tissue of advanced OA, which was involved in the apoptotic signal of severe OA. These findings suggest that miR-182 may directly regulate OA progression by modulating FOXO3 production inflammation, and apoptosis.",
+      "author_str": "Shiqiang Wu, Jun Luo, Xiaolu Zhang",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "c8c0228ce918d93a80c23fdc01dbc39598624a2f",
+      "url": "https://www.semanticscholar.org/paper/c8c0228ce918d93a80c23fdc01dbc39598624a2f",
+      "title": "The miR-182-5p/GPX4 Pathway Contributes to Sevoflurane-Induced Ototoxicity via Ferroptosis",
+      "year": 2024,
+      "citationCount": 9,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/1422-0067/25/12/6774/pdf?version=1718871541",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11204258, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2247719845",
+          "name": "Lin Jin"
+        },
+        {
+          "authorId": "2388924",
+          "name": "Xiao-gang Yu"
+        },
+        {
+          "authorId": "2247425662",
+          "name": "Xuehua Zhou"
+        },
+        {
+          "authorId": "2359131253",
+          "name": "Gang Li"
+        },
+        {
+          "authorId": "16477112",
+          "name": "Wen Li"
+        },
+        {
+          "authorId": "2874289",
+          "name": "Yingzi He"
+        },
+        {
+          "authorId": "2211922168",
+          "name": "Huawei Li"
+        },
+        {
+          "authorId": "2307743341",
+          "name": "Xia Shen"
+        }
+      ],
+      "abstract": "Our study aimed to investigate the role of ferroptosis in sevoflurane-induced hearing impairment and explore the mechanism of the microRNA-182-5p (miR-182-5p)/Glutathione Peroxidase 4 (GPX4) pathway in sevoflurane-induced ototoxicity. Immunofluorescence staining was performed using myosin 7a and CtBP2. Cell viability was assessed using the CCK-8 kit. Fe2+ concentration was measured using FerroOrange and Mi-to-FerroGreen fluorescent probes. The lipid peroxide level was assessed using BODIPY 581/591 C11 and MitoSOX fluorescent probes. The auditory brainstem response (ABR) test was conducted to evaluate the hearing status. Bioinformatics tools and dual luciferase gene reporter analysis were used to confirm the direct targeting of miR-182-5p on GPX4 mRNA. GPX4 and miR-182-5p expression in cells was assessed by qRT-PCR and Western blot. Ferrostatin-1 (Fer-1) pretreatment significantly improved hearing impairment and damage to ribbon synapses in mice caused by sevoflurane exposure. Immunofluorescence staining revealed that Fer-1 pretreatment reduced intracellular and mitochondrial iron overload, as well as lipid peroxide accumulation. Our findings indicated that miR-182-5p was upregulated in sevoflurane-exposed HEI-OC1 cells, and miR-182-5p regulated GPX4 expression by binding to the 3′UTR of GPX4 mRNA. The inhibition of miR-182-5p attenuated sevoflurane-induced iron overload and lipid peroxide accumulation. Our study elucidated that the miR-182-5p/GPX4 pathway was implicated in sevoflurane-induced ototoxicity by promoting ferroptosis.",
+      "author_str": "Lin Jin, Xiao-gang Yu, Xuehua Zhou",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "7d82bff4a11f2f0280777a2b4814772c15f7cd18",
+      "url": "https://www.semanticscholar.org/paper/7d82bff4a11f2f0280777a2b4814772c15f7cd18",
+      "title": "Neutrophil membrane-engineered Panax ginseng root-derived exosomes loaded miRNA 182-5p targets NOX4/Drp-1/NLRP3 signal pathway to alleviate acute lung injury in sepsis: experimental studies",
+      "year": 2023,
+      "citationCount": 53,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.1097/js9.0000000000000789",
+        "status": "GOLD",
+        "license": "CCBYNC",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10793765, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2149185300",
+          "name": "Chunhua Ma"
+        },
+        {
+          "authorId": "2243952105",
+          "name": "Kun Liu"
+        },
+        {
+          "authorId": "39586294",
+          "name": "Fei Wang"
+        },
+        {
+          "authorId": "2261496408",
+          "name": "Xiaochun Fei"
+        },
+        {
+          "authorId": "2055722188",
+          "name": "C. Niu"
+        },
+        {
+          "authorId": "2264117901",
+          "name": "Tao Li"
+        },
+        {
+          "authorId": "2145316407",
+          "name": "Liangming Liu"
+        }
+      ],
+      "abstract": "Background: The purpose of this study was to prepare neutrophil membrane-engineered Panax ginseng root-derived exosomes (N-exo) and investigate the effects of N-exo microRNA (miRNA) 182-5p (N-exo-miRNA 182-5p) on acute lung injury (ALI) in sepsis. Methods: Panax ginseng root-derived exosomes were separated by differential centrifugation. Neutrophil membrane engineering was performed on exo to obtain N-exo. miRNA182-5p was transmitted into N-exo by electroporation technology to obtain N-exo-miRNA 182-5p. LPS was used to establish an in-vivo and in-vitro model of ALI of sepsis to evaluate the anti-inflammatory effect of N-exo-miRNA 182-5p. Results: The results of transmission electron microscope showed that exo was a double-layer membrane structure like a saucer. Nanoparticle size analysis showed that the average particle size of exo was 129.7 nm. Further, compared with exo, the level of miRNA182-5p was significantly increased in N-exo. The experimental results showed that N-exo-miRNA 182-5p significantly improved ALI via target regulation of NOX4/Drp-1/NLRP3 signal pathway in vivo and in vitro. Conclusion: In conclusion, this study prepared a novel engineered exosome (N-exo and N-exo-miRNA 182-5p significantly improved ALI in sepsis via target regulation of NOX4/Drp-1/NLRP3 signal pathway, providing new ideas and methods for treatment of ALI in sepsis.",
+      "author_str": "Chunhua Ma, Kun Liu, Fei Wang",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "488bc144f1f5666dd9030fa762fee514c93f547e",
+      "url": "https://www.semanticscholar.org/paper/488bc144f1f5666dd9030fa762fee514c93f547e",
+      "title": "Bile exosomal miR-182/183-5p increases cholangiocarcinoma stemness and progression by targeting HPGD and increasing PGE2 generation",
+      "year": 2023,
+      "citationCount": 50,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1097/HEP.0000000000000437?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1097/HEP.0000000000000437, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2162412783",
+          "name": "Lizhuang Shu"
+        },
+        {
+          "authorId": "2216306012",
+          "name": "Xingyong Li"
+        },
+        {
+          "authorId": "2109370910",
+          "name": "Zeng-li Liu"
+        },
+        {
+          "authorId": "2997449",
+          "name": "Kangshuai Li"
+        },
+        {
+          "authorId": "2189029240",
+          "name": "An-da Shi"
+        },
+        {
+          "authorId": "5112854",
+          "name": "Yongchang Tang"
+        },
+        {
+          "authorId": "2157741459",
+          "name": "Li-ming Zhao"
+        },
+        {
+          "authorId": "2181400801",
+          "name": "Lingling Huang"
+        },
+        {
+          "authorId": "2279663440",
+          "name": "Zhiyue Zhang"
+        },
+        {
+          "authorId": "2109795470",
+          "name": "Dong Zhang"
+        },
+        {
+          "authorId": "2157701279",
+          "name": "Shao-hui Huang"
+        },
+        {
+          "authorId": "2058642527",
+          "name": "Shuo Lian"
+        },
+        {
+          "authorId": "2189030498",
+          "name": "Guo-li Sheng"
+        },
+        {
+          "authorId": "2189118361",
+          "name": "Zhangdi Yan"
+        },
+        {
+          "authorId": "2279083418",
+          "name": "Zongli Zhang"
+        },
+        {
+          "authorId": "47103940",
+          "name": "Yunfei Xu"
+        }
+      ],
+      "abstract": "Background & Aims: Cholangiocarcinoma (CCA) is a highly lethal malignancy originating from the biliary ducts. Current CCA diagnostic and prognostic assessments cannot satisfy the clinical requirement. Bile detection is rarely performed, and herein, we aim to estimate the clinical significance of bile liquid biopsy by assessing bile exosomal concentrations and components. Approach & Results: Exosomes in bile and sera from CCA, pancreatic cancer, and common bile duct stone were identified and quantified by transmission electronmicroscopy, nanoparticle tracking analysis, and nanoFCM. Exosomal components were assessed by liquid chromatography with tandem mass spectrometry and microRNA sequencing (miRNA-seq). Bile exosomal concentration in different diseases had no significant difference, but miR-182-5p and miR-183-5p were ectopically upregulated in CCA bile exosomes. High miR-182/183-5p in both CCA tissues and bile indicates a poor prognosis. Bile exosomal miR-182/183-5p is secreted by CCA cells and can be absorbed by biliary epithelium or CCA cells. With xenografts in humanized mice, we showed that bile exosomal miR-182/183-5p promotes CCA proliferation, invasion, and epithelial-mesenchymal transition (EMT) by targeting hydroxyprostaglandin dehydrogenase in CCA cells and mast cells (MCs), and increasing prostaglandin E2 generation, which stimulates PTGER1 and increases CCA stemness. In single-cell mRNA-seq, hydroxyprostaglandin dehydrogenase is predominantly expressed in MCs. miR-182/183-5p prompts MC to release VEGF-A release from MC by increasing VEGF-A expression, which facilitates angiogenesis. Conclusions: CCA cells secret exosomal miR-182/183-5p into bile, which targets hydroxyprostaglandin dehydrogenase in CCA cells and MCs and increases prostaglandin E2 and VEGF-A release. Prostaglandin E2 promotes stemness by activating PTGER1. Our results reveal a type of CCA self-driven progression dependent on bile exosomal miR-182/183-5p and MCs, which is a new interplay pattern of CCA and bile.",
+      "author_str": "Lizhuang Shu, Xingyong Li, Zeng-li Liu",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "780b3b43dc53f4fb5ea4c7b7faf35214c9219528",
+      "url": "https://www.semanticscholar.org/paper/780b3b43dc53f4fb5ea4c7b7faf35214c9219528",
+      "title": "Liver microRNA transcriptome reveals miR-182 as link between type 2 diabetes and fatty liver disease in obesity",
+      "year": 2024,
+      "citationCount": 12,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.7554/elife.92075.3",
+        "status": "GREEN",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11262792, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "46555868",
+          "name": "C. Krause"
+        },
+        {
+          "authorId": "2141385908",
+          "name": "J. Britsemmer"
+        },
+        {
+          "authorId": "2048127238",
+          "name": "Miriam Bernecker"
+        },
+        {
+          "authorId": "2256516634",
+          "name": "Anna Molenaar"
+        },
+        {
+          "authorId": "2121871935",
+          "name": "Natalie Taege"
+        },
+        {
+          "authorId": "1435560910",
+          "name": "Nuria Lopez-Alcantara"
+        },
+        {
+          "authorId": "37558555",
+          "name": "C. Geissler"
+        },
+        {
+          "authorId": "47193589",
+          "name": "Meike Kaehler"
+        },
+        {
+          "authorId": "2269410469",
+          "name": "Katharina Iben"
+        },
+        {
+          "authorId": "2256517412",
+          "name": "Anna Judycka"
+        },
+        {
+          "authorId": "2256555581",
+          "name": "J. Wagner"
+        },
+        {
+          "authorId": "25396002",
+          "name": "S. Wolter"
+        },
+        {
+          "authorId": "2207680145",
+          "name": "O. Mann"
+        },
+        {
+          "authorId": "3315736",
+          "name": "P. Pfluger"
+        },
+        {
+          "authorId": "2245663228",
+          "name": "Ingolf Cascorbi"
+        },
+        {
+          "authorId": "2256517270",
+          "name": "Hendrik Lehnert"
+        },
+        {
+          "authorId": "2316970858",
+          "name": "K. Stemmer"
+        },
+        {
+          "authorId": "6337852",
+          "name": "Sonja C. Schriever"
+        },
+        {
+          "authorId": "2206656378",
+          "name": "H. Kirchner"
+        }
+      ],
+      "abstract": "Background The development of obesity-associated comorbidities such as type 2 diabetes (T2D) and hepatic steatosis has been linked to selected microRNAs in individual studies; however, an unbiased genome-wide approach to map T2D induced changes in the miRNAs landscape in human liver samples, and a subsequent robust identification and validation of target genes is still missing. Methods Liver biopsies from age- and gender-matched obese individuals with (n=20) or without (n=20) T2D were used for microRNA microarray analysis. The candidate microRNA and target genes were validated in 85 human liver samples, and subsequently mechanistically characterized in hepatic cells as well as by dietary interventions and hepatic overexpression in mice. Results Here we present the human hepatic microRNA transcriptome of type 2 diabetes in liver biopsies and use a novel seed prediction tool to robustly identify microRNA target genes, which were then validated in a unique cohort of 85 human livers. Subsequent mouse studies identified a distinct signature of T2D-associated miRNAs, partly conserved in both species. Of those, human-murine miR-182-5p was the most associated to whole-body glucose homeostasis and hepatic lipid metabolism. Its target gene LRP6 was consistently lower expressed in livers of obese T2D humans and mice as well as under conditions of miR-182-5p overexpression. Weight loss in obese mice decreased hepatic miR-182-5p and restored Lrp6 expression and other miR-182-5p target genes. Hepatic overexpression of miR-182-5p in mice rapidly decreased LRP6 protein levels and increased liver triglycerides and fasting insulin under obesogenic conditions after only seven days. Conclusion By mapping the hepatic miRNA-transcriptome of type 2 diabetic obese subjects, validating conserved miRNAs in diet-induced mice, and establishing a novel miRNA prediction tool, we provide a robust and unique resource that will pave the way for future studies in the field. As proof of concept, we revealed that the repression of LRP6 by miR-182-5p, which promotes lipogenesis and impairs glucose homeostasis, provides a novel mechanistic link between T2D and non-alcoholic fatty liver disease, and demonstrate in vivo that miR-182-5p can serve as a future drug target for the treatment of obesity-driven hepatic steatosis. Graphical Abstract",
+      "author_str": "C. Krause, J. Britsemmer, Miriam Bernecker",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "b814ec41671009bd5e9013ace1dec752b801a30b",
+      "url": "https://www.semanticscholar.org/paper/b814ec41671009bd5e9013ace1dec752b801a30b",
+      "title": "Endothelial progenitor cell derived exosomes mediated miR-182-5p delivery accelerate diabetic wound healing via down-regulating PPARG",
+      "year": 2023,
+      "citationCount": 29,
+      "openAccessPdf": {
+        "url": "https://www.medsci.org/v20p0468.pdf",
+        "status": "GOLD",
+        "license": "CCBYNC",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10087624, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "50492525",
+          "name": "Peng Li"
+        },
+        {
+          "authorId": "2189171792",
+          "name": "Guanhao Hong"
+        },
+        {
+          "authorId": "4616309",
+          "name": "Weiqiang Zhan"
+        },
+        {
+          "authorId": "2054419206",
+          "name": "Mingzhu Deng"
+        },
+        {
+          "authorId": "2142466642",
+          "name": "Chenlin Tu"
+        },
+        {
+          "authorId": "144392657",
+          "name": "Jinsong Wei"
+        },
+        {
+          "authorId": "2152781945",
+          "name": "Hao Lin"
+        }
+      ],
+      "abstract": "Diabetic wound is one of the most common and serious complications of diabetes, which is characterized by abnormal number and quality of wound repair related cells. Previous studies have shown that human endothelial progenitor cells derived exosomes (EPCs-EXO) can promote diabetic wound healing through modulating vascular endothelial cell function. The purpose of this study was to investigate the biological effects and molecular mechanisms of EPCs-EXO on diabetic wound healing. The regulation of EPCs-EXO on human immortalized epidermal cell line HaCaT in high glucose (HG) environment was evaluated. Our data showed that EPCs-EXO promoted the proliferation, migration, while inhibited apoptosis of HaCaTs challenged by HG via elevating miR-182-5p expression level in vitro. Skin wound healing was significantly enhanced by EPCs-EXO in diabetic mice. Moreover, bioinformatics analyses and luciferase reporter assay indicated that exosomal miR-182-5p was bound to PPARG 3' UTR sequence and inhibited the expression of PPARG. Collectively, our findings provided a new role of EPCs-EXO in the clinical treatment of diabetic skin wounds. Diabetic wound is one of the most common and serious complications of diabetes, which is characterized by abnormal number and quality of wound repair related cells. Previous studies have shown that human endothelial progenitor cells derived exosomes (EPCs-EXO) can promote diabetic wound healing through modulating vascular endothelial cell function. The purpose of this study was to investigate the biological effects and molecular mechanisms of EPCs-EXO on diabetic wound healing. The regulation of EPCs-EXO on human immortalized epidermal cell line HaCaT in high glucose (HG) environment was evaluated. Our data showed that EPCs-EXO promoted the proliferation, migration, while inhibited apoptosis of HaCaTs challenged by HG via elevating miR-182-5p expression level in vitro. Skin wound healing was significantly enhanced by EPCs-EXO in diabetic mice. Moreover, bioinformatics analyses and luciferase reporter assay indicated that exosomal miR-182-5p was bound to PPARG 3' UTR sequence and inhibited the expression of PPARG. Collectively, our findings provided a new role of EPCs-EXO in the clinical treatment of diabetic skin wounds.",
+      "author_str": "Peng Li, Guanhao Hong, Weiqiang Zhan",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "c6a35827df3c27d926a4795529f68a9b2e55262a",
+      "url": "https://www.semanticscholar.org/paper/c6a35827df3c27d926a4795529f68a9b2e55262a",
+      "title": "The effects of trade openness on decoupling carbon emissions from economic growth – Evidence from 182 countries",
+      "year": 2020,
+      "citationCount": 568,
+      "openAccessPdf": {
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7443063",
+        "status": "GREEN",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC7443063, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "1715161",
+          "name": "Qiang Wang"
+        },
+        {
+          "authorId": "27000018",
+          "name": "Fuyu Zhang"
+        }
+      ],
+      "abstract": "The current rise of protectionism has become the main uncertainty associated with global energy, economy, and the environment. Furthermore, the decoupling carbon emissions from economic growth is crucial for implementing Intended Nationally Determined Contributions (INDCs). These INDCs would be discounted if decreasing carbon emissions would require sacrificing economic growth. This study explored the effect of protectionism (by measuring trade openness based on available data) on the decoupling carbon emissions from economic growth. For this, the heterogenous effects of trade openness on carbon emissions were investigated using in data of 182 countries from 1990 to 2015. The results show that trade openness decreased carbon emissions in high-income and upper-middle-income countries, while having no significant impact on carbon emissions of lower-middle-income countries; even worse, for low-income countries, trade openness increased carbon emissions. The heterogeneous effects of trade openness on carbon emissions indicate that trade openness positively impacts the decoupling economic growth from carbon emission in rich countries, but negatively impacts poor countries. In addition, increasing individual incomes and population distort the decoupling economic growth from carbon emissions. Renewable energy and high oil prices contributed to the decoupling economic growth from carbon emissions. These effects are similar in all countries. Targeted policy implications are presented that enable the decoupling economic growth from carbon emissions for countries with different income levels.",
+      "author_str": "Qiang Wang, Fuyu Zhang",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "204268666fd86c25312c9952c9ed964ed0abfaf4",
+      "url": "https://www.semanticscholar.org/paper/204268666fd86c25312c9952c9ed964ed0abfaf4",
+      "title": "Health security capacities in the context of COVID-19 outbreak: an analysis of International Health Regulations annual report data from 182 countries",
+      "year": 2020,
+      "citationCount": 476,
+      "openAccessPdf": {
+        "url": "http://www.thelancet.com/article/S0140673620305535/pdf",
+        "status": "HYBRID",
+        "license": "other-oa",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC7271261, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "5161348",
+          "name": "N. Kandel"
+        },
+        {
+          "authorId": "6150958",
+          "name": "S. Chungong"
+        },
+        {
+          "authorId": "83883211",
+          "name": "Abbas Omaar"
+        },
+        {
+          "authorId": "2067803249",
+          "name": "Jun Xing"
+        }
+      ],
+      "abstract": "Background Public health measures to prevent, detect, and respond to events are essential to control public health risks, including infectious disease outbreaks, as highlighted in the International Health Regulations (IHR). In light of the outbreak of 2019 novel coronavirus disease (COVID-19), we aimed to review existing health security capacities against public health risks and events. Methods We used 18 indicators from the IHR State Party Annual Reporting (SPAR) tool and associated data from national SPAR reports to develop five indices: (1) prevent, (2) detect, (3) respond, (4) enabling function, and (5) operational readiness. We used SPAR 2018 data for all of the indicators and categorised countries into five levels across the indices, in which level 1 indicated the lowest level of national capacity and level 5 the highest. We also analysed data at the regional level (using the six geographical WHO regions). Findings Of 182 countries, 52 (28%) had prevent capacities at levels 1 or 2, and 60 (33%) had response capacities at levels 1 or 2. 81 (45%) countries had prevent capacities and 78 (43%) had response capacities at levels 4 or 5, indicating that these countries were operationally ready. 138 (76%) countries scored more highly in the detect index than in the other indices. 44 (24%) countries did not have an effective enabling function for public health risks and events, including infectious disease outbreaks (7 [4%] at level 1 and 37 [20%] at level 2). 102 (56%) countries had level 4 or level 5 enabling function capacities in place. 32 (18%) countries had low readiness (2 [1%] at level 1 and 30 [17%] at level 2), and 104 (57%) countries were operationally ready to prevent, detect, and control an outbreak of a novel infectious disease (66 [36%] at level 4 and 38 [21%] at level 5). Interpretation Countries vary widely in terms of their capacity to prevent, detect, and respond to outbreaks. Half of all countries analysed have strong operational readiness capacities in place, which suggests that an effective response to potential health emergencies could be enabled, including to COVID-19. Findings from local risk assessments are needed to fully understand national readiness capacities in relation to COVID-19. Capacity building and collaboration between countries are needed to strengthen global readiness for outbreak control. Funding None.",
+      "author_str": "N. Kandel, S. Chungong, Abbas Omaar",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "2958e4010eba6e15e6fd2f5eb3b428038305f02e",
+      "url": "https://www.semanticscholar.org/paper/2958e4010eba6e15e6fd2f5eb3b428038305f02e",
+      "title": "DNA hypermethylation-induced miR-182 silence targets BCL2 and HOXA9 to facilitate the self-renewal of leukemia stem cell, accelerate acute myeloid leukemia progression, and determine the sensitivity of BCL2 inhibitor venetoclax",
+      "year": 2023,
+      "citationCount": 22,
+      "openAccessPdf": {
+        "url": "https://www.thno.org/v13p0077.pdf",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC9800726, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "144769766",
+          "name": "Sisi Ye"
+        },
+        {
+          "authorId": "2098827070",
+          "name": "Fang Xiong"
+        },
+        {
+          "authorId": "1698929892",
+          "name": "Xiaofei He"
+        },
+        {
+          "authorId": "2218706006",
+          "name": "Yiting Yuan"
+        },
+        {
+          "authorId": "35608680",
+          "name": "Danyang Li"
+        },
+        {
+          "authorId": "2193777558",
+          "name": "Daijiao Ye"
+        },
+        {
+          "authorId": "46627986",
+          "name": "Liuzhi Shi"
+        },
+        {
+          "authorId": "2112305516",
+          "name": "Zihan Lin"
+        },
+        {
+          "authorId": "2152528495",
+          "name": "Min Zhao"
+        },
+        {
+          "authorId": "32347389",
+          "name": "Shuya Feng"
+        },
+        {
+          "authorId": "2118870701",
+          "name": "Bin Zhou"
+        },
+        {
+          "authorId": "6095341",
+          "name": "Huachun Weng"
+        },
+        {
+          "authorId": "2150204203",
+          "name": "Lili Hong"
+        },
+        {
+          "authorId": "40244142",
+          "name": "Haige Ye"
+        },
+        {
+          "authorId": "122733032",
+          "name": "Shenmeng Gao"
+        }
+      ],
+      "abstract": "Rationale: microRNAs (miRNAs) are frequently deregulated and play important roles in the pathogenesis and progression of acute myeloid leukemia (AML). miR-182 functions as an onco-miRNA or tumor suppressor miRNA in the context of different cancers. However, whether miR-182 affects the self-renewal of leukemia stem cells (LSCs) and normal hematopoietic stem progenitor cells (HSPCs) is unknown. Methods: Bisulfite sequencing was used to analyze the methylation status at pri-miR-182 promoter. Lineage-negative HSPCs were isolated from miR-182 knockout (182KO) and wild-type (182WT) mice to construct MLL-AF9-transformed AML model. The effects of miR-182 depletion on the overall survival and function of LSC were analyzed in this mouse model in vivo. Results: miR-182-5p (miR-182) expression was lower in AML blasts than normal controls (NCs) with hypermethylation observed at putative pri-miR-182 promoter in AML blasts but unmethylation in NCs. Overexpression of miR-182 inhibited proliferation, reduced colony formation, and induced apoptosis in leukemic cells. In addition, depletion of miR-182 accelerated the development and shortened the overall survival (OS) in MLL-AF9-transformed murine AML through increasing LSC frequency and self-renewal ability. Consistently, overexpression of miR-182 attenuated AML development and extended the OS in the murine AML model. Most importantly, miR-182 was likely dispensable for normal hematopoiesis. Mechanistically, we identified BCL2 and HOXA9 as two key targets of miR-182 in this context. Most importantly, AML patients with miR-182 unmethylation had high expression of miR-182 followed by low protein expression of BCL2 and resistance to BCL2 inhibitor venetoclax (Ven) in vitro. Conclusions: Our results suggest that miR-182 is a potential therapeutic target for AML patients through attenuating the self-renewal of LSC but not HSPC. miR-182 promoter methylation could determine the sensitivity of Ven treatment and provide a potential biomarker for it.",
+      "author_str": "Sisi Ye, Fang Xiong, Xiaofei He",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "dd4cdac8bbb4d62f656448ba947beab78e89ee5c",
+      "url": "https://www.semanticscholar.org/paper/dd4cdac8bbb4d62f656448ba947beab78e89ee5c",
+      "title": "MicroRNA-183/96/182 cluster in immunity and autoimmunity",
+      "year": 2023,
+      "citationCount": 16,
+      "openAccessPdf": {
+        "url": "https://www.frontiersin.org/articles/10.3389/fimmu.2023.1134634/pdf",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC9986322, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2108368935",
+          "name": "Zhuang Wang"
+        },
+        {
+          "authorId": "48264087",
+          "name": "R. Dai"
+        },
+        {
+          "authorId": "2109247578",
+          "name": "S. Ahmed"
+        }
+      ],
+      "abstract": "MicroRNAs (miRNAs) are crucial post-transcriptional regulators of gene expression in ubiquitous biological processes, including immune-related pathways. This review focuses on the miR-183/96/182 cluster (miR-183C), which contains three miRNAs, miR-183, -96, and -182, having almost identical seed sequences with minor differences. The similarity among seed sequences allows these three miRNAs to act cooperatively. In addition, their minor differences permit them to target distinct genes and regulate unique pathways. The expression of miR-183C was initially identified in sensory organs. Subsequently, abnormal expression of miR-183C miRNAs in various cancers and autoimmune diseases has been reported, implying their potential role in human diseases. The regulatory effects of miR-183C miRNAs on the differentiation and function of both innate and adaptive immune cells have now been documented. In this review, we have discussed the complex role of miR-183C in the immune cells in both normal and autoimmune backgrounds. We highlighted the dysregulation of miR-183C miRNAs in several autoimmune diseases, including systemic lupus erythematosus (SLE), multiple sclerosis (MS), and ocular autoimmune disorders, and discussed the potential for utilizing miR-183C as biomarkers and therapeutic targets of specific autoimmune diseases.",
+      "author_str": "Zhuang Wang, R. Dai, S. Ahmed",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "7b1c8585d952b1e1af863a43280ee988710e3ea8",
+      "url": "https://www.semanticscholar.org/paper/7b1c8585d952b1e1af863a43280ee988710e3ea8",
+      "title": "A novel microRNA-182/Interleukin-8 regulatory axis controls osteolytic bone metastasis of lung cancer",
+      "year": 2023,
+      "citationCount": 19,
+      "openAccessPdf": {
+        "url": "https://www.nature.com/articles/s41419-023-05819-8.pdf",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10151336, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "8749424",
+          "name": "Ming-Na Zhao"
+        },
+        {
+          "authorId": "7560035",
+          "name": "Ling-Fei Zhang"
+        },
+        {
+          "authorId": "48064814",
+          "name": "Zhen Sun"
+        },
+        {
+          "authorId": "48812623",
+          "name": "L. Qiao"
+        },
+        {
+          "authorId": "2122901546",
+          "name": "Tao Yang"
+        },
+        {
+          "authorId": "2216455669",
+          "name": "Yi-Zhe Ren"
+        },
+        {
+          "authorId": "2215941909",
+          "name": "Xian-Zhou Zhang"
+        },
+        {
+          "authorId": "2116985111",
+          "name": "Lei Wu"
+        },
+        {
+          "authorId": "2215881574",
+          "name": "Wen-Li Qian"
+        },
+        {
+          "authorId": "8763972",
+          "name": "Qiaomei Guo"
+        },
+        {
+          "authorId": "2317132850",
+          "name": "Wanxing Xu"
+        },
+        {
+          "authorId": "2108075215",
+          "name": "Xueqing Wang"
+        },
+        {
+          "authorId": "2110924302",
+          "name": "Fei Wu"
+        },
+        {
+          "authorId": "2144734370",
+          "name": "Lin Wang"
+        },
+        {
+          "authorId": "7733733",
+          "name": "Yutong Gu"
+        },
+        {
+          "authorId": "50811432",
+          "name": "Mo-Fang Liu"
+        },
+        {
+          "authorId": "34205312",
+          "name": "J. Lou"
+        }
+      ],
+      "abstract": "Bone metastasis is one of the main complications of lung cancer and most important factors that lead to poor life quality and low survival rate in lung cancer patients. However, the regulatory mechanisms underlying lung cancer bone metastasis are still poor understood. Here, we report that microRNA-182 (miR-182) plays a critical role in regulating osteoclastic metastasis of lung cancer cells. We found that miR-182 was significantly upregulated in both bone-metastatic human non-small cell lung cancer (NSCLC) cell line and tumor specimens. We further demonstrated that miR-182 markedly enhanced the ability of NSCLC cells for osteolytic bone metastasis in nude mice. Mechanistically, miR-182 promotes NSCLC cells to secrete Interleukin-8 (IL-8) and in turn facilitates osteoclastogenesis via activating STAT3 signaling in osteoclast progenitor cells. Importantly, systemically delivered IL-8 neutralizing antibody inhibits NSCLC bone metastasis in nude mice. Collectively, our findings identify the miR-182/IL-8/STAT3 axis as a key regulatory pathway in controlling lung cancer cell-induced osteolytic bone metastasis and suggest a promising therapeutic strategy that targets this regulatory axis to interrupt lung cancer bone metastasis.",
+      "author_str": "Ming-Na Zhao, Ling-Fei Zhang, Zhen Sun",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "b67995c28713adbce3ddbb751c3334124cb8e043",
+      "url": "https://www.semanticscholar.org/paper/b67995c28713adbce3ddbb751c3334124cb8e043",
+      "title": "The emerging role of MicroRNA-182 in tumorigenesis; a promising therapeutic target",
+      "year": 2023,
+      "citationCount": 19,
+      "openAccessPdf": {
+        "url": "https://cancerci.biomedcentral.com/counter/pdf/10.1186/s12935-023-02972-0",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10337107, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2190687655",
+          "name": "Pouriya Sameti"
+        },
+        {
+          "authorId": "151140045",
+          "name": "Maryam Tohidast"
+        },
+        {
+          "authorId": "145654756",
+          "name": "M. Amini"
+        },
+        {
+          "authorId": "2152037194",
+          "name": "Seyedeh Zahra Bahojb Mahdavi"
+        },
+        {
+          "authorId": "148101874",
+          "name": "S. Najafi"
+        },
+        {
+          "authorId": "4553539",
+          "name": "A. Mokhtarzadeh"
+        }
+      ],
+      "abstract": "A wide range of studies have indicated that microRNAs (miRNAs), a type of small single-stranded regulatory RNAs, are dysregulated in a different variety of human cancers. Therefore, they are expected to play important roles in tumorigenesis by functioning as oncogenic (oncomiRs) or tumor-suppressive miRNAs. Subsequently, their potential as diagnostic and therapeutic targets for malignancies has attracted attention in recent years. In particular, studies have revealed the aberrant expression of miR-182 through tumorigenesis and its important roles in various aspects of malignancies, including proliferation, metastasis, and chemoresistance. Accumulating reports have illustrated that miR-182, as a dual-role regulator, directly or indirectly regulates the expression of a wide range of genes and modulates the activity of various signaling pathways involved in tumor progression, such as JAK / STAT3, Wnt / β-catenin, TGF-β, and P13K / AKT. Therefore, considering the high therapeutic and diagnostic potential of miR-182, this review aims to point out the effects of miR-182 dysregulation on the signaling pathways involved in tumorigenesis.",
+      "author_str": "Pouriya Sameti, Maryam Tohidast, M. Amini",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "9313037d7354e04f8cc9331bfe86cef8fc9f9317",
+      "url": "https://www.semanticscholar.org/paper/9313037d7354e04f8cc9331bfe86cef8fc9f9317",
+      "title": "MiR-182 Is Upregulated in Prostate Cancer and Contributes to Tumor Progression by Targeting MITF",
+      "year": 2023,
+      "citationCount": 18,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/1422-0067/24/3/1824/pdf?version=1675045764",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC9914973, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "48729021",
+          "name": "M. Stafford"
+        },
+        {
+          "authorId": "39936225",
+          "name": "D. McKenna"
+        }
+      ],
+      "abstract": "Altered expression of microRNA-182-5p (miR-182) has been consistently linked with many cancers, but its specific role in prostate cancer remains unclear. In particular, its contribution to epithelial–to–mesenchymal transition (EMT) in this setting has not been well studied. Therefore, this paper profiles the expression of miR-182 in prostate cancer and investigates how it may contribute to progression of this disease. In vitro experiments on prostate cancer cell lines and in silico analyses of The Cancer Genome Atlas (TCGA) prostate adenocarcinoma (PRAD) datasets were performed. PCR revealed miR-182 expression was significantly increased in prostate cancer cell lines compared to normal prostate cells. Bioinformatic analysis of TCGA PRAD data similarly showed upregulation of miR-182 was significantly associated with prostate cancer and clinical markers of disease progression. Functional enrichment analysis confirmed a significant association of miR-182 and its target genes with EMT. The EMT-linked gene MITF (melanocyte inducing transcription factor) was subsequently shown to be a novel target of miR-182 in prostate cancer cells. Further TCGA analysis suggested miR-182 expression can be an indicator of patient outcomes and disease progression following therapy. In summary, this is the first study to report that miR-182 over-expression in prostate cancer may contribute to EMT by targeting MITF expression. We propose miR-182 as a potentially useful diagnostic and prognostic biomarker for prostate cancer and other malignancies.",
+      "author_str": "M. Stafford, D. McKenna",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "547474778f8e3ddddf53243e1f19ba166e1d7fa3",
+      "url": "https://www.semanticscholar.org/paper/547474778f8e3ddddf53243e1f19ba166e1d7fa3",
+      "title": "Sleep Deprivation Promotes Endothelial Inflammation and Atherogenesis by Reducing Exosomal miR-182-5p",
+      "year": 2023,
+      "citationCount": 16,
+      "openAccessPdf": {
+        "url": "https://www.ahajournals.org/doi/pdf/10.1161/ATVBAHA.123.319026",
+        "status": "BRONZE",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1161/ATVBAHA.123.319026?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1161/ATVBAHA.123.319026, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2185678767",
+          "name": "Xiao Li"
+        },
+        {
+          "authorId": "2316205318",
+          "name": "Ying Cao"
+        },
+        {
+          "authorId": "2316387767",
+          "name": "Xinxin Xu"
+        },
+        {
+          "authorId": "2183577829",
+          "name": "Chongyue Wang"
+        },
+        {
+          "authorId": "2352620248",
+          "name": "Qingbin Ni"
+        },
+        {
+          "authorId": "2183476138",
+          "name": "Xiang Lv"
+        },
+        {
+          "authorId": "2316179942",
+          "name": "Chao Yang"
+        },
+        {
+          "authorId": "2370990138",
+          "name": "Zhaoqiang Zhang"
+        },
+        {
+          "authorId": "5814494",
+          "name": "Xufeng Qi"
+        },
+        {
+          "authorId": "2379731674",
+          "name": "Guohua Song"
+        }
+      ],
+      "abstract": "Background: Insufficient or disrupted sleep increases the risk of cardiovascular disease, including atherosclerosis. However, we know little about the molecular mechanisms by which sleep modulates atherogenesis. This study aimed to explore the potential role of circulating exosomes in endothelial inflammation and atherogenesis under sleep deprivation status and the molecular mechanisms involved. Methods: Circulating exosomes were isolated from the plasma of volunteers with or without sleep deprivation and mice subjected to 12-week sleep deprivation or control littermates. miRNA array was performed to determine changes in miRNA expression in circulating exosomes. Results: Although the total circulating exosome levels did not change significantly, the isolated plasma exosomes from sleep-deprived mice or human were a potent inducer of endothelial inflammation and atherogenesis. Through profiling and functional analysis of the global microRNA in the exosomes, we found miR-182-5p is a key exosomal cargo that mediates the proinflammatory effects of exosomes by upregulation of MYD88 (myeloid differentiation factor 88) and activation of NF-ĸB (nuclear factor kappa-B)/NLRP3 pathway in endothelial cells. Moreover, sleep deprivation or the reduction of melatonin directly decreased the synthesis of miR-182-5p and led to the accumulation of reactive oxygen species in small intestinal epithelium. Conclusions: The findings illustrate an important role for circulating exosomes in distant communications, suggesting a new mechanism underlying the link between sleep disorder and cardiovascular disease.",
+      "author_str": "Xiao Li, Ying Cao, Xinxin Xu",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "f3856c447ba3c773846f14be8a8908808454cc3c",
+      "url": "https://www.semanticscholar.org/paper/f3856c447ba3c773846f14be8a8908808454cc3c",
+      "title": "MiR-182-5p: A Novel Biomarker in the Treatment of Depression in CSDS-Induced Mice",
+      "year": 2023,
+      "citationCount": 13,
+      "openAccessPdf": {
+        "url": "https://academic.oup.com/ijnp/advance-article-pdf/doi/10.1093/ijnp/pyad064/53969368/pyad064.pdf",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10799762, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2268844644",
+          "name": "Ya-Bin Zheng"
+        },
+        {
+          "authorId": "2220541807",
+          "name": "Xiao-Ming Sheng"
+        },
+        {
+          "authorId": "2269131524",
+          "name": "Xiang Jin"
+        },
+        {
+          "authorId": "50390240",
+          "name": "W. Guan"
+        }
+      ],
+      "abstract": "Abstract Background Depression is a neuropsychiatric disease with a high disability rate and mainly caused by the chronic stress or genetic factors. There is increasing evidence that microRNAs (miRNAs) play a critical role in the pathogenesis of depression. However, the underlying molecular mechanism for the pathophysiology of depression of miRNA remains entirely unclear so far. Methods We first established a chronic social defeat stress (CSDS) mice model of depression, and depression-like behaviors of mice were evaluated by a series of behavioral tests. Next, we detected several abundantly expressive miRNAs suggested in previous reports to be involved in depression and found miR-182-5p was selected as a candidate for analysis in the hippocampus. Then western blotting and immunofluorescence were used together to examine whether adeno-associated virus (AAV)-siR-182-5p treatment alleviated chronic stress–induced decrease in hippocampal Akt/GSK3β/cAMP-response element binding protein (CREB) signaling pathway and increase in neurogenesis impairment and neuroinflammation. Furthermore, CREB inhibitor was adopted to examine if blockade of Akt/GSK3β/CREB signaling pathway abolished the antidepressant actions of AAV-siR-182-5p in mice. Results Knockdown of miR-182-5p alleviated depression-like behaviors and impaired neurogenesis of CSDS-induced mice. Intriguingly, the usage of agomiR-182-5p produced significant increases in immobility times and aggravated neuronal neurogenesis damage of mice. More importantly, it suggested that 666-15 blocked the reversal effects of AAV-siR-182-5p on the CSDS-induced depressive-like behaviors in behavioral testing and neuronal neurogenesis within hippocampus of mice. Conclusions These findings indicated that hippocampal miR-182-5p/Akt/GSK3β/CREB signaling pathway participated in the pathogenesis of depression, and it might give more opportunities for new drug developments based on the miRNA target in the clinic.",
+      "author_str": "Ya-Bin Zheng, Xiao-Ming Sheng, Xiang Jin",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "7d855edc9bbcbebc5b5cd05f8607ce3bf88e917b",
+      "url": "https://www.semanticscholar.org/paper/7d855edc9bbcbebc5b5cd05f8607ce3bf88e917b",
+      "title": "Stat5 inhibits NLRP3‐mediated pyroptosis to enhance chemoresistance of breast cancer cells via promoting miR‐182 transcription",
+      "year": 2023,
+      "citationCount": 13,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1111/cbdd.14229?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1111/cbdd.14229, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "50086045",
+          "name": "Peng Wan"
+        },
+        {
+          "authorId": "2202043399",
+          "name": "Xiaolan He"
+        },
+        {
+          "authorId": "2112846792",
+          "name": "Ying Han"
+        },
+        {
+          "authorId": "2144697133",
+          "name": "Liangliang Wang"
+        },
+        {
+          "authorId": "12342982",
+          "name": "Zuguo Yuan"
+        }
+      ],
+      "abstract": "The treatment of breast cancer (BC) calls for targeted methods to overcome chemoresistance (CR). This study is expected to figure out the mechanism of signal transducer and activator of transcription 5 (STAT5) in NOD‐like receptor family pyrin domain containing 3 (NLRP3)‐mediated pyroptosis and CR in BC cells. BC cell lines resistant to paclitaxel (PTX) and cis‐diamminedichloro‐platinum (DDP) were prepared. Expressions of Stat5, miR‐182, and NLRP3 were detected. The 50% inhibition concentration (IC50), proliferation, colony formation, apoptosis rate, and levels of pyroptosis‐related factors were appraised and determined. The binding relationships of Stat5 and miR‐182, and miR‐182 and NLRP3 were testified. Stat5 and miR‐182 were highly expressed in drug‐resistant BC cells. Silencing Stat5 reduced proliferation and colony formation of drug‐resistant BC cells, coincided with elevated levels of pyroptosis‐related factors. Stat5 bound to the promoter region of miR‐182 to promote miR‐182 expression. miR‐182 inhibition reversed the role of silencing Stat5 in BC cells. miR‐182 inhibited NLRP3. Overall, Stat5 bound to the promoter region of miR‐182 to promote miR‐182 expression and inhibit NLRP3 transcription, thereby suppressing pyroptosis and enhancing CR of BC cells.",
+      "author_str": "Peng Wan, Xiaolan He, Ying Han",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "f3aeb9d44cabceddcba08d31868a6c4678ef8539",
+      "url": "https://www.semanticscholar.org/paper/f3aeb9d44cabceddcba08d31868a6c4678ef8539",
+      "title": "Astrocytes-derived exosomes pre-treated by berberine inhibit neuroinflammation after stroke via miR-182-5p/Rac1 pathway.",
+      "year": 2023,
+      "citationCount": 44,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.1016/j.intimp.2023.110047",
+        "status": "HYBRID",
+        "license": "CCBYNCND",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.intimp.2023.110047?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.intimp.2023.110047, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "151493668",
+          "name": "Wangli Ding"
+        },
+        {
+          "authorId": "38891848",
+          "name": "Qiu-Yan Gu"
+        },
+        {
+          "authorId": "2130296878",
+          "name": "Man-man Liu"
+        },
+        {
+          "authorId": "2213060044",
+          "name": "Junqing Zou"
+        },
+        {
+          "authorId": "2204208756",
+          "name": "Jianguo Sun"
+        },
+        {
+          "authorId": "8535989",
+          "name": "Junrong Zhu"
+        }
+      ],
+      "abstract": "BACKGROUND\nOur previous studies have shown that berberine can improve the nerve function deficits in ischemic stroke by inhibiting inflammation. The cellular communication between astrocytes and neurons via exosomes might affect neurological function after ischemic stroke, which plays a vital role in the therapy of ischemic stroke.\n\n\nOBJECTIVE\nThe present study focused on the effects of exosomes released from astrocytes induced by the glucose and oxygen deprivation model with berberine pretreatment (BBR-exos) treatment for ischemic stroke and its regulatory mechanism.\n\n\nMETHODS\nOxygen-glucose-deprivation/Reoxygenation (OGD/R)-treated primary cells were used to mimic cerebral ischemia/reperfusion conditions in vitro. With the treatment of BBR-exos and exosomes released from primary astrocytes induced by the glucose and oxygen deprivation model (OGD/R-exos), the cell viability was detected. C57BL/6J mice were used to establish middle cerebral artery occlusion/reperfusion (MCAO/R) model. The anti-neuroinflammation effects of BBR-exos and OGD/R-exos were evaluated. Subsequently, the key miRNA in BBR-exos was identified by exosomal miRNA sequencing and cell validation. miR-182-5p mimic and inhibitors were provided to verify the effects in inflammation. Finally, the binding sites between miR-182-5p and Rac1 were predicted online and verified by using a dual-luciferase reporter assay.\n\n\nRESULTS\nBBR-exos and OGD/R-exos both improved the decreased activity of OGD/R-induced neurons, and decreased the expression of IL-1β, IL-6 and TNF-α (all P ＜ 0.05), which reduced neuronal injury and inhibited neuroinflammation in Vitro. And BBR-exos showed better effects (P ＜ 0.05). The same effect has been verified in vivo experiments: BBR-exos and OGD/R-exos both reduced cerebral ischemic injury and inhibited neuroinflammation in MCAO/R mice (all P ＜ 0.05). Likewise, BBR-exos showed better effects (P ＜ 0.05). The exosomal miRNA sequencing results showed that miR-182-5p was highly expressed in BBR-exos and inhibited neuroinflammation by targeting Rac1 (P ＜ 0.05).\n\n\nCONCLUSION\nBBR-exos can carry miR-182-5p to injured neurons and inhibit the expression of Rac1, which could inhibit neuroinflammation and improved brain injury after ischemic stroke.",
+      "author_str": "Wangli Ding, Qiu-Yan Gu, Man-man Liu",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "7b654510b6e100e9822fe5eb1d36ac05e31f7074",
+      "url": "https://www.semanticscholar.org/paper/7b654510b6e100e9822fe5eb1d36ac05e31f7074",
+      "title": "Inhibition of miR-182-5p Targets FGF9 to Alleviate Osteoarthritis",
+      "year": 2023,
+      "citationCount": 11,
+      "openAccessPdf": {
+        "url": "https://downloads.hindawi.com/journals/acp/2023/5911546.pdf",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10076120, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2151882672",
+          "name": "Yang Sun"
+        },
+        {
+          "authorId": "2212909758",
+          "name": "Sanmao Su"
+        },
+        {
+          "authorId": "49141099",
+          "name": "Meng Li"
+        },
+        {
+          "authorId": "8576536",
+          "name": "Ang Deng"
+        }
+      ],
+      "abstract": "Background The pathogenesis of osteoarthritis (OA) is complex and there is no specific drug for treatment. The aim of this study was to identify the molecular targets of OA therapy, focusing on the expression and biological functions of miR-182-5p and its target genes in OA. Methods miR-182-5p and fibroblast growth factor 9 (FGF9) were overexpressed or knocked down in IL-1β-induced chondrocytes. An OA knee model was performed by surgically destroying the medial meniscus. The gene expression of miR-182-5p and FGF9 was calculated. The protein FGF9 was tested by western blotting. Cell counting kit-8 (CCK8), plate cloning assay, and flow cytometry were conducted to evaluate cell proliferation and apoptosis. The expression of inflammatory factors, tumor necrosis factor-alpha (TNF-α), interleukin (IL)-6, and interleukin (IL)-8, was evaluated using enzyme-linked immunosorbent assay (ELISA). Dual-luciferase reporter assays validated the targeting relationship between miR-182-5p and FGF9. Hematoxylin–eosin (HE) and safranin O-fast Green (S–O) staining were utilized to access cartilage damage. Ki67 expression in cartilage was detected using immunohistochemistry (IHC). TdT-mediated dUTP nick-end labeling (TUNEL) assays were used to calculate the apoptosis rate of cartilage. Results The expression of miR-182-5p was upregulated, and FGF9 was downregulated in the IL-1β-induced chondrocytes. OA chondrocytes proliferation ability in the miR-182-5p mimics group was decreased, and the apoptosis rate and inflammatory factor were increased. Transfection with miR-182-5p inhibitor increased the proliferative ability and decreased the apoptosis rate in the IL-1β-induced chondrocytes. Transfection with miR-182-5p inhibitor reversed IL-1β-induced inflammatory factor release in chondrocytes. Targeted binding sites existed between miR-182-5p and FGF9. After overexpression of FGF9, the miR-182-5p effect on OA chondrocytes was reversed. The hyaline cartilage thickness and proteoglycan content decreased in OA rats, and this was reversed by miR-182-5p inhibitor treatment. Conclusions miR-182-5p expression levels were increased in OA chondrocytes and regulated chondrocyte proliferation, apoptosis, and inflammation by targeting FGF9. miR-182-5p is a potential gene for OA treatment.",
+      "author_str": "Yang Sun, Sanmao Su, Meng Li",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "9bf6fae342e361cfbdd7ff211d2f9dab0c04468b",
+      "url": "https://www.semanticscholar.org/paper/9bf6fae342e361cfbdd7ff211d2f9dab0c04468b",
+      "title": "Exosome‐derived miR‐182‐5p promoted cholangiocarcinoma progression and vasculogenesis by regulating ADK/SEMA5a/PI3K pathway",
+      "year": 2023,
+      "citationCount": 10,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1111/liv.15773?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1111/liv.15773, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2110168907",
+          "name": "Jifei Wang"
+        },
+        {
+          "authorId": "79488365",
+          "name": "Wangjie Jiang"
+        },
+        {
+          "authorId": "2165303098",
+          "name": "Shuochen Liu"
+        },
+        {
+          "authorId": "2248117472",
+          "name": "Kuangheng Shi"
+        },
+        {
+          "authorId": "2118389174",
+          "name": "Y. Zhang"
+        },
+        {
+          "authorId": "2157242467",
+          "name": "Yananlan Chen"
+        },
+        {
+          "authorId": "2164343361",
+          "name": "Jijun Shan"
+        },
+        {
+          "authorId": "2256929908",
+          "name": "Yuming Wang"
+        },
+        {
+          "authorId": "50822361",
+          "name": "Xiao Xu"
+        },
+        {
+          "authorId": "1391217000",
+          "name": "Changxian Li"
+        },
+        {
+          "authorId": "48569910",
+          "name": "Xia Li"
+        }
+      ],
+      "abstract": "Increasing evidence suggested that miRNAs regulated the expression of pivotal genes involved in oncogenesis and malignant phenotype. In this project, the purpose was to make an inquiry to the effect and mechanism of miR‐182‐5p in the progression of cholangiocarcinoma.",
+      "author_str": "Jifei Wang, Wangjie Jiang, Shuochen Liu",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "31529c7d44664ad13c8aa0363fe4e28b6d59a151",
+      "url": "https://www.semanticscholar.org/paper/31529c7d44664ad13c8aa0363fe4e28b6d59a151",
+      "title": "Role of miR-182 in cardiovascular and cerebrovascular diseases",
+      "year": 2023,
+      "citationCount": 11,
+      "openAccessPdf": {
+        "url": "https://www.frontiersin.org/articles/10.3389/fcell.2023.1181515/pdf",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10203221, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "151014416",
+          "name": "G. Pei"
+        },
+        {
+          "authorId": "2146026541",
+          "name": "Li Chen"
+        },
+        {
+          "authorId": "2155654530",
+          "name": "Yang Wang"
+        },
+        {
+          "authorId": "144778512",
+          "name": "Chengqi He"
+        },
+        {
+          "authorId": "46607536",
+          "name": "Chenying Fu"
+        },
+        {
+          "authorId": "144131018",
+          "name": "Q. Wei"
+        }
+      ],
+      "abstract": "The treatment of cardiovascular and cerebrovascular diseases have undergone major advances in recent decades, allowing for a more effective prevention of cardiovascular and cerebrovascular events. However, cardiac and cerebral atherothrombotic complications still account for substantial morbidity and mortality worldwide. Novel therapeutic strategies are critical to improve patient outcomes following cardiovascular diseases. miRNAs are small non-coding RNAs, that regulate gene expression. Here, we discuss the role of miR-182 in regulating myocardial proliferation, migration, hypoxia, ischemia, apoptosis and hypertrophy in atherosclerosis, CAD, MI, I/R injury, organ transplant, cardiac hypertrophy, hypertension, heart failure, congenital heart disease and cardiotoxicity. Besides, we also summarize the current progress of miR-182 therapeutics in clinical development and discuss challenges that will need to be overcome to enter the clinic for patients with cardiac disease.",
+      "author_str": "G. Pei, Li Chen, Yang Wang",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "e5226cbd527dd9c5acf3cb02dbce751f52e08b9f",
+      "url": "https://www.semanticscholar.org/paper/e5226cbd527dd9c5acf3cb02dbce751f52e08b9f",
+      "title": "Exosomal miR-182 derived from bone marrow mesenchymal stem cells drives carfilzomib resistance of multiple myeloma cells by targeting SOX6",
+      "year": 2023,
+      "citationCount": 10,
+      "openAccessPdf": {
+        "url": "https://josr-online.biomedcentral.com/counter/pdf/10.1186/s13018-023-04399-9",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10702080, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2195218531",
+          "name": "Shifeng Long"
+        },
+        {
+          "authorId": "2104023224",
+          "name": "Shengping Long"
+        },
+        {
+          "authorId": "91935312",
+          "name": "Honglei He"
+        },
+        {
+          "authorId": "2256793448",
+          "name": "Liang Luo"
+        },
+        {
+          "authorId": "2312926751",
+          "name": "Mei Liu"
+        },
+        {
+          "authorId": "2269958139",
+          "name": "Ting Ding"
+        }
+      ],
+      "abstract": "Background Multiple myeloma (MM) is a common hematological malignancy. Drug resistance remains to be a major clinical challenge in MM therapy. In this study, we aim to investigate the functional roles of bone marrow mesenchymal stem cells (BMSC)-derived exosomal miR-182 on the carfilzomib resistance of MM and its underlying mechanism. Methods qRT-PCR and Western blot methods were utilized to confirm the gene or protein expressions. CCK-8 and transwell assays were performed to measure the capabilities of proliferation, migration, and invasion. The molecular interactions were validated through ChIP and Dual luciferase assay. Results Our findings indicated that miR-182 expression was upregulated in serum, BMSCs and BMSC-derived exosomes from MM patients. Hypoxia-inducible factor-1α (HIF-1α), a key transcriptional factor in tumor microenvironment, could boost miR-182 expression by directly binding to its promoter, thus favoring exosomal secretion. Moreover, exosomal miR-182 from BMSCs could be transferred to MM cells and was able to promote malignant proliferation, metastasis, and invasion, as well as decrease the sensitivity of MM cells against carfilzomib. Additionally, SOX6 was identified as a downstream target of miR-182 in MM cells, and its expression was negatively regulated by miR-182. Rescue experiments proved that loss of SOX6 in MM cells dramatically reversed the promoting roles of BMSC-secreted exosomal miR-182 on proliferation, metastasis, and carfilzomib resistance in MM cells. Conclusion Collectively, our findings indicated that exosomal miR-182 derived from BMSCs contributed to the metastasis and carfilzomib resistance of MM cells by targeting SOX6. This study sheds light on the pathogenesis of the BMSC-derived exosome containing miR-182 in the malignant behaviors of MM cells and carfzomib resistance. miR-182 is greatly elevated in serum, BMSCs, and BMSCs-exosomes derived from MM patients. HIF-1α binds to miR-182 promotor to activate its transcription and exosome secretion in BMSCs. SOX6 is a downstream target of miR-182 and is negatively regulated by miR-182. Exosomal miR-182 secreted by BMSCs promotes MM cell proliferation, metastasis, and carfilzomib resistance by targeting SOX6.",
+      "author_str": "Shifeng Long, Shengping Long, Honglei He",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "87bd6f833ad60144d4400aafb60ef18faa311bb8",
+      "url": "https://www.semanticscholar.org/paper/87bd6f833ad60144d4400aafb60ef18faa311bb8",
+      "title": "Potential involvement of miR-183/96/182 cluster-gene target interactions in transdifferentiation of human retinal pigment epithelial cells into retinal neurons.",
+      "year": 2023,
+      "citationCount": 9,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.bbrc.2023.04.044?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.bbrc.2023.04.044, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "5837222",
+          "name": "Maliheh Davari"
+        },
+        {
+          "authorId": "6660014",
+          "name": "Z. Soheili"
+        },
+        {
+          "authorId": "1431123706",
+          "name": "Hamid Latifi-Navid"
+        },
+        {
+          "authorId": "3663870",
+          "name": "S. Samiee"
+        }
+      ],
+      "abstract": "miR-183/96/182 cluster plays a critical role in the developing retina by regulating many target genes involved in signaling pathways. This study aimed to survey the miR-183/96/182 cluster-target interactions that, potentially contribute to human retinal pigmented epithelial (hRPE) cell differentiation into photoreceptors. Target genes of the miR-183/96/182 cluster were obtained from miRNA-target databases and applied to construct miRNA-target networks. Gene ontology and KEGG pathway analysis was performed. miR-183/96/182 cluster sequence was cloned into an eGFP-intron splicing cassette in an AAV2 vector and overexpressed in hRPE cells. The expression level of target genes including HES1, PAX6, SOX2, CCNJ, and RORΒ was evaluated using qPCR. Our results showed that miR-183, miR-96, and miR-182 share 136 target genes that are involved in cell proliferation pathways such as PI3K/AKT and MAPK pathway. qPCR data indicated a 22-, 7-, and 4-fold overexpression of miR-183, miR-96, and miR-182, respectively, in infected hRPE cells. Consequently, the downregulation of several key targets such as PAX6, CCND2, CDK5R1, and CCNJ and upregulation of a few retina-specific neural markers such as Rhodopsin, red opsin, and CRX was detected. Our findings suggest that the miR-183/96/182 cluster may induce hRPE transdifferentiation by targeting key genes that involve in the cell cycle and proliferation pathways.",
+      "author_str": "Maliheh Davari, Z. Soheili, Hamid Latifi-Navid",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "adf0193bd70c8f99066833a805ae7c9c39bb3727",
+      "url": "https://www.semanticscholar.org/paper/adf0193bd70c8f99066833a805ae7c9c39bb3727",
+      "title": "Synovial fluid exosome-derived miR-182-5p alleviates osteoarthritis by downregulating TNFAIP8 and promoting autophagy through LC3 signaling.",
+      "year": 2023,
+      "citationCount": 23,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.intimp.2023.111177?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.intimp.2023.111177, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2266008622",
+          "name": "Yunhan Ji"
+        },
+        {
+          "authorId": "2265842838",
+          "name": "Li Xiong"
+        },
+        {
+          "authorId": "2265941067",
+          "name": "Gonghao Zhang"
+        },
+        {
+          "authorId": "47723445",
+          "name": "Mingze Xu"
+        },
+        {
+          "authorId": "2057145815",
+          "name": "Wenjun Qiu"
+        },
+        {
+          "authorId": "2064113077",
+          "name": "Chao Xiu"
+        },
+        {
+          "authorId": "12463019",
+          "name": "Gaixia Kuang"
+        },
+        {
+          "authorId": "2287217437",
+          "name": "Yongjun Rui"
+        }
+      ],
+      "abstract": "OBJECTIVE\nTo investigate the role of exosomal miRNAs from synovial fluid (SF) in osteoarthritis (OA) patients and investigate the underlying molecular mechanism.\n\n\nMETHODS\nDegenerated knee tissues were collected from male and female OA patients. Enzyme-linked immunosorbent assay (ELISA) was used to detect the differences in the expression of inflammatory indicators, including TNF-α, IL-6, and IL-10, between the degenerative and injury groups. Exosomes were isolated from SF using the Exoquick kit, and a microarray was used to identify differentially expressed miRNAs (DEmiRNAs), which were analyzed using bioinformatics. The predicted relationship between DEmiRNAs and target genes was verified using a luciferase reporter gene assay. CCK-8 and transwell assays were used to assess cell viability and migration. Immunofluorescence and TUNEL assay were used to detect cell autophagy and apoptosis. The interaction between proteins was detected by immunoprecipitation and verified by Mab rescue assay.\n\n\nRESULTS\nThe relative expression of TNF-α/IL6 was significantly higher in the degeneration group than in the injury group. The OA degeneration group released significantly more and smaller exosomes than the injury group. The expression of miR-182-5p was markedly reduced in OA patients and had a higher correlation with inflammatory indicators. Tumor necrosis factor α-induced protein 8 (TNFAIP8) was a target of miR-182-5p, and its overexpression promoted chondrocyte proliferation, migration, and invasion and enhanced the wound healing efficiency. We also found a direct interaction of TNFAIP8 with autophagy-related gene 3 (ATG3). TNFAIP8 triggered ATG3 LC3-mediated autophagy.\n\n\nCONCLUSION\nThe downregulation of exosomal miR-182-5p inhibits OA degeneration by targeting TNFAIP8 via the ATG/LC3 pathway.",
+      "author_str": "Yunhan Ji, Li Xiong, Gonghao Zhang",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "2d1c2b543b16e5427b4e06040b17bd6953780529",
+      "url": "https://www.semanticscholar.org/paper/2d1c2b543b16e5427b4e06040b17bd6953780529",
+      "title": "Gypenoside XVII inhibits ox-LDL-induced macrophage inflammatory responses and promotes cholesterol efflux through activating the miR-182-5P/HDAC9 signaling pathway.",
+      "year": 2023,
+      "citationCount": 13,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.jep.2023.117070?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.jep.2023.117070, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "46778737",
+          "name": "Wen-Yi Deng"
+        },
+        {
+          "authorId": "2367489796",
+          "name": "Cheng Zhou"
+        },
+        {
+          "authorId": "11725106",
+          "name": "Meng-Ya Zeng"
+        }
+      ],
+      "abstract": "ETHNOPHARMACOLOGICAL RELEVANCE\nThe deposition of lipids in macrophages and the subsequent formation of foam cells significantly increase the risk of developing atherosclerosis (AS). Targeting ATP-binding cassette transporter A1/B1-mediated reverse cholesterol transport is crucial for regulating foam cell formation. Therefore, the search for natural chemical components with the ability to regulate ABCA1/G1 is a potential drug target to combat the development of atherosclerosis. Gypenoside XVII (GP-17), a gypenoside monomer extracted from gynostemma pentaphyllum, presents an efficient anti-atherosclerosis function. However, the suppressed formation mechanism of foam cells by GP-17 remains elusive.\n\n\nAIM OF STUDY\nTo explore the protective activities of GP-17 in ox-LDL-induced THP-1 macrophage-derived foam cells through modulating the promotion of cholesterol efflux and alleviation of inflammation.\n\n\nMATERIALS AND METHODS\nMTT was used to detect cell viability. Bodipy493/503 and oil red O staining were performed to measure cell lipid deposition. Enzymatic assay was used to measure intracellular cholesterol measurement. Cholesterol efflux/uptake were determined by cholesterol efflux assay and Dil-ox-LDL uptake assay. Inflammatory cytokines were measured by ELISA. Bioinformatics prediction and dual luciferase reporter assay were performed to validate miR-182-5p targeting HDAC9. Relative protein levels were evaluated by immunoblotting and relative gene levels were determined by quantitative real-time PCR.\n\n\nRESULTS\nOur results showed that GP-17 upregulated the expression of ABCA1, ABCG1 and miR-182-5p, but reduced HDAC9 expression levels in lipid-loaded macrophages, which promoted cholesterol efflux and inhibited lipid deposition. Additionally, GP-17 promoted the M2 phenotype of the macrophage and suppressed the inflammatory response in THP-1 macrophage-derived foam cells. Overexpression of HDAC9 or suppression of miR-182-5p eliminated the effects of ABCA1/G1 expression, lipid deposition and pro-inflammatory response.\n\n\nCONCLUSION\nThese findings suggest that GP-17 exerts a beneficial effect on macrophage lipid deposition and inflammation responses through activating the miR-182-5p/HDAC9 signaling pathway.",
+      "author_str": "Wen-Yi Deng, Cheng Zhou, Meng-Ya Zeng",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "6397c6810f97a494c5fe1fb9ec516e7abb37511c",
+      "url": "https://www.semanticscholar.org/paper/6397c6810f97a494c5fe1fb9ec516e7abb37511c",
+      "title": "Effect of miR-182-5p on apoptosis in myocardial infarction",
+      "year": 2023,
+      "citationCount": 8,
+      "openAccessPdf": {
+        "url": "https://www.cell.com/article/S2405844023087327/pdf",
+        "status": "GOLD",
+        "license": "CCBYNCND",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10685254, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2264893742",
+          "name": "Nan Niu"
+        },
+        {
+          "authorId": "2263886534",
+          "name": "Huangtai Miao"
+        },
+        {
+          "authorId": "2263902912",
+          "name": "Hongmei Ren"
+        }
+      ],
+      "abstract": "Objective This study aimed to delineate the diagnostic significance of miR-182-5p by investigating its influence on myocardial apoptosis and function, employing both in vivo and in vitro myocardial infarction models. Methods A rat myocardial infarction model was established. Myocardial infarction area was detected using the 2,3,5-chlorotriphenyltetrazolium (TTC) method, myocardial enzyme spectrums were measured using enzyme-linked immunosorbent assay (ELISA), myocardial structure was detected by hematoxylin and eosin (HE) staining, myocardial apoptosis was detected using the TUNEL method, and expression levels of miR-182-5p and apoptosis-related molecules were detected using real-time fluorescence quantitative PCR (qPCR) and Western blot. miR-182-5p mimics and inhibitor were transfected into rat H9C2 cardiomyocytes and mouse HL-1 cardiomyocytes to establish a hypoxia model. Cardiomyocyte viability was detected using the CCK-8 method, expression levels of apoptosis-related indicators were detected using Western blot, and caspase-3/7 activity was detected using a caspase-3/7 activity detection kit. AAV9 adeno-associated virus was used to construct an miR-182-5p overexpression virus, which was injected into mice through the tail vein to create a mouse myocardial infarction model. TTC, ELISA, HE staining, echocardiography, real-time fluorescence qPCR, and Western blot methods were used to detect the effects of AAV9-miR-182-5p on myocardial injury, myocardial function, and myocardial apoptosis levels in myocardial infarction. Results The rat model displayed reduced miR-182-5p expression concurrent with an increase in apoptosis. The in vitro H9C2 and HL-1 hypoxia models revealed that miR-182-5p augmented the hypoxia-induced decrease in myocardial cell viability, suppressed Bcl-2 expression, and increased Bax, Bnip3, and caspase-3/7 activity levels. The injection of AAV9-miR-182-5p significantly exacerbated myocardial tissue damage, impaired myocardial function, and enhanced apoptosis. Conclusion miR-182-5p escalates myocardial injury during myocardial infarction by fostering apoptosis. Interventions that aim to reduce miR-182-5p levels might be crucial in halting the progression of myocardial infarction.",
+      "author_str": "Nan Niu, Huangtai Miao, Hongmei Ren",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "27baf691c6a158a729ad5938cc059f6236d6bb68",
+      "url": "https://www.semanticscholar.org/paper/27baf691c6a158a729ad5938cc059f6236d6bb68",
+      "title": "Mesenchymal stromal cell-derived exosomes attenuate myocardial ischaemia-reperfusion injury through miR-182-regulated macrophage polarization",
+      "year": 2019,
+      "citationCount": 629,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.1093/cvr/cvz040",
+        "status": "HYBRID",
+        "license": "CCBYNC",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6529919, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "120246234",
+          "name": "Jinxuan Zhao"
+        },
+        {
+          "authorId": "2108804227",
+          "name": "Xueling Li"
+        },
+        {
+          "authorId": "50778933",
+          "name": "Jiaxin Hu"
+        },
+        {
+          "authorId": "47591119",
+          "name": "Fu Chen"
+        },
+        {
+          "authorId": "51436682",
+          "name": "Shuaihua Qiao"
+        },
+        {
+          "authorId": "34994932",
+          "name": "Xuan Sun"
+        },
+        {
+          "authorId": "2148990148",
+          "name": "Ling Gao"
+        },
+        {
+          "authorId": "48086416",
+          "name": "Jun Xie"
+        },
+        {
+          "authorId": "49821455",
+          "name": "Biao Xu"
+        }
+      ],
+      "abstract": "Abstract Aims Mesenchymal stromal cells (MSCs) gradually become attractive candidates for cardiac inflammation modulation, yet understanding of the mechanism remains elusive. Strikingly, recent studies indicated that exosomes secreted by MSCs might be a novel mechanism for the beneficial effect of MSCs transplantation after myocardial infarction. We therefore explored the role of MSC-derived exosomes (MSC-Exo) in the immunomodulation of macrophages after myocardial ischaemia/reperfusion (I/R) and its implications in cardiac injury repair. Methods and results Exosomes were isolated from the supernatant of MSCs using gradient centrifugation method. Administration of MSC-Exo to mice through intramyocardial injection after myocardial I/R reduced infarct size and alleviated inflammation level in heart and serum. Systemic depletion of macrophages with clodronate liposomes abolished the curative effects of MSC-Exo. MSC-Exo modified the polarization of M1 macrophages to M2 macrophages both in vivo and in vitro. miRNA sequencing of MSC-Exo and bioinformatics analysis implicated miR-182 as a potent candidate mediator of macrophage polarization and toll-like receptor 4 (TLR4) as a downstream target. Diminishing miR-182 in MSC-Exo partially attenuated its modulation of macrophage polarization. Likewise, knock down of TLR4 also conferred cardioprotective efficacy and reduced inflammation level in a mouse model of myocardial I/R. Conclusion Our data indicate that MSC-Exo attenuates myocardial I/R injury in mice via shuttling miR-182 that modifies the polarization status of macrophages. This study sheds new light on the application of MSC-Exo as a potential therapeutic tool for myocardial I/R injury.",
+      "author_str": "Jinxuan Zhao, Xueling Li, Jiaxin Hu",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "793e50bd381acfd9bd9314d07933fda26841c9b3",
+      "url": "https://www.semanticscholar.org/paper/793e50bd381acfd9bd9314d07933fda26841c9b3",
+      "title": "Mesenchymal stem cell-derived exosomal microRNA-182-5p alleviates myocardial ischemia/reperfusion injury by targeting GSDMD in mice",
+      "year": 2022,
+      "citationCount": 76,
+      "openAccessPdf": {
+        "url": "https://www.nature.com/articles/s41420-022-00909-6.pdf",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC9010441, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "4458477",
+          "name": "R. Yue"
+        },
+        {
+          "authorId": "144838475",
+          "name": "Shengzhong Lu"
+        },
+        {
+          "authorId": "2108803181",
+          "name": "Yu Luo"
+        },
+        {
+          "authorId": "2072983274",
+          "name": "J. Zeng"
+        },
+        {
+          "authorId": "2111208284",
+          "name": "Hao Liang"
+        },
+        {
+          "authorId": "2064192236",
+          "name": "D. Qin"
+        },
+        {
+          "authorId": "2144674628",
+          "name": "Xiaobo Wang"
+        },
+        {
+          "authorId": "2156631156",
+          "name": "Tao Wang"
+        },
+        {
+          "authorId": "38812358",
+          "name": "Junliang Pu"
+        },
+        {
+          "authorId": "3925180",
+          "name": "Houxiang Hu"
+        }
+      ],
+      "abstract": "Recent evidence indicates that exosomes derived from mesenchymal stem cells (MSCs) confer protective effects against myocardial ischemia/reperfusion (I/R) injury. Exosomes are carriers of potentially protective endogenous molecules, including microRNAs (miRNAs/miRs). The current study set out to test the effects of transferring miR-182-5p from MSC-derived exosomes into myocardial cells on myocardial I/R injury. First, an I/R mouse model was developed by left anterior descending coronary artery occlusion, and myocardial cells were exposed to hypoxia/reoxygenation (H/R) for in vitro I/R model establishment. Loss- and gain-of-function experiments of miR-182-5p and GSDMD were conducted to explore the effects of miR-182-5p via MSC-derived exosomes on cell pyroptosis and viability. GSDMD was robustly expressed in I/R-injured myocardial tissues and H/R-exposed myocardial cells. GSDMD upregulation promoted H/R-induced myocardial cell pyroptosis and reduced viability, corresponding to increased lactate dehydrogenase release, reactive oxygen species production, and pyroptosis. A luciferase assay demonstrated GSDMD as a target of miR-182-5p. In addition, exosomal miR-182-5p was found to diminish GSDMD-dependent cell pyroptosis and inflammation induced by H/R. Furthermore, MSC-derived exosomes carrying miR-182-5p improved cardiac function and reduced myocardial infarction, accompanied with reduced inflammation and cell pyroptosis in vivo. Taken together, our findings suggest a cardioprotective effect of exosomal miR-182-5p against myocardial I/R injury, shedding light on an attractive therapeutic strategy.",
+      "author_str": "R. Yue, Shengzhong Lu, Yu Luo",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "bf00b98e901a08545ab9316dccb6e631e93521a4",
+      "url": "https://www.semanticscholar.org/paper/bf00b98e901a08545ab9316dccb6e631e93521a4",
+      "title": "miR-182 targeting reprograms tumor-associated macrophages and limits breast cancer progression",
+      "year": 2022,
+      "citationCount": 67,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.1073/pnas.2114006119",
+        "status": "HYBRID",
+        "license": "CCBYNCND",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC8833194, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "9032277",
+          "name": "Chengxin Ma"
+        },
+        {
+          "authorId": "2146473829",
+          "name": "Dasa He"
+        },
+        {
+          "authorId": "2027376396",
+          "name": "Pu Tian"
+        },
+        {
+          "authorId": "2156166824",
+          "name": "Yuan Wang"
+        },
+        {
+          "authorId": "2119290713",
+          "name": "Yunfei He"
+        },
+        {
+          "authorId": "2124908640",
+          "name": "Qiuyao Wu"
+        },
+        {
+          "authorId": "46232682",
+          "name": "Zhenchang Jia"
+        },
+        {
+          "authorId": "2108119565",
+          "name": "Xue Zhang"
+        },
+        {
+          "authorId": "5195994",
+          "name": "Peiyuan Zhang"
+        },
+        {
+          "authorId": "48336031",
+          "name": "H. Ying"
+        },
+        {
+          "authorId": "2110766759",
+          "name": "Zihui Jin"
+        },
+        {
+          "authorId": "4252619",
+          "name": "G. Hu"
+        }
+      ],
+      "abstract": "Significance Breast cancer is a major threat of women’s health worldwide. Nontumor cell components play crucial roles in cancer. Macrophages, the cells of the innate immune system that normally exert antitumor activities, can be educated by tumors to an alternatively activated phenotype that is known to promote tumor progression. Understanding the mechanism of macrophage education by tumor cells will help the design of new therapeutic approaches. We find that breast tumor cells induce the expression of a microRNA, miR-182, in macrophages, and miR-182 promotes macrophage alternative activation to drive tumor development. Importantly, using cationized mannan-modified extracellular vesicles to load miR-182 inhibitors and deliver the inhibitors specifically into macrophages can effectively inhibit alternative activation of macrophages and suppress breast tumor development. The protumor roles of alternatively activated (M2) tumor-associated macrophages (TAMs) have been well established, and macrophage reprogramming is an important therapeutic goal. However, the mechanisms of TAM polarization remain incompletely understood, and effective strategies for macrophage targeting are lacking. Here, we show that miR-182 in macrophages mediates tumor-induced M2 polarization and can be targeted for therapeutic macrophage reprogramming. Constitutive miR-182 knockout in host mice and conditional knockout in macrophages impair M2-like TAMs and breast tumor development. Targeted depletion of macrophages in mice blocks the effect of miR-182 deficiency in tumor progression while reconstitution of miR-182-expressing macrophages promotes tumor growth. Mechanistically, cancer cells induce miR-182 expression in macrophages by TGFβ signaling, and miR-182 directly suppresses TLR4, leading to NFκb inactivation and M2 polarization of TAMs. Importantly, therapeutic delivery of antagomiR-182 with cationized mannan-modified extracellular vesicles effectively targets macrophages, leading to miR-182 inhibition, macrophage reprogramming, and tumor suppression in multiple breast cancer models of mice. Overall, our findings reveal a crucial TGFβ/miR-182/TLR4 axis for TAM polarization and provide rationale for RNA-based therapeutics of TAM targeting in cancer.",
+      "author_str": "Chengxin Ma, Dasa He, Pu Tian",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "45658cb18918699287b6f420c0f26d48f69b842f",
+      "url": "https://www.semanticscholar.org/paper/45658cb18918699287b6f420c0f26d48f69b842f",
+      "title": "Versatile 126–182 GHz UWB D-Band FMCW Radar for Industrial and Scientific Applications",
+      "year": 2022,
+      "citationCount": 51,
+      "openAccessPdf": {
+        "url": "https://ieeexplore.ieee.org/ielx7/7782634/9660211/09627523.pdf",
+        "status": "HYBRID",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/lsens.2021.3130709?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/lsens.2021.3130709, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "31525714",
+          "name": "S. Kueppers"
+        },
+        {
+          "authorId": "2828521",
+          "name": "T. Jaeschke"
+        },
+        {
+          "authorId": "2124917",
+          "name": "N. Pohl"
+        },
+        {
+          "authorId": "10110063",
+          "name": "J. Barowski"
+        }
+      ],
+      "abstract": "In this letter, a D-band frequency-modulated continuous wave (FMCW) radar for industrial and scientific applications is presented. It covers an ultrawide 56 GHz sweep bandwidth (126–182 GHz, 36.4%) and is based on a custom 1 TRX + 2 RX SiGe transceiver millimeter-wave (mmW) integrated circuit manufactured in Infineon’s B11HFC 130 nm BiCMOS process with an <inline-formula><tex-math notation=\"LaTeX\">$f_{\\rm {T}}$</tex-math></inline-formula> of 250 GHz and <inline-formula><tex-math notation=\"LaTeX\">$f_{\\rm {max}}$</tex-math></inline-formula> of 370 GHz. An innovative versatile multichannel edge-launch waveguide frontend-module architecture allows covering applications requiring dual polarization sensing or azimuth and elevation angle-of-arrival estimation based on the same mmW circuit board. The FMCW sweeper is based on measurement equipment grade commercial fractional-N PLL synthesizers in an offset dual-loop configuration for highly linear wideband FMCW sweep generation with a phase noise of better than <inline-formula><tex-math notation=\"LaTeX\">$-$</tex-math></inline-formula>80 dBc/Hz (<inline-formula><tex-math notation=\"LaTeX\">$f_{\\rm {off}}>$</tex-math></inline-formula> 10 kHz) and superior performance even for ultrafast ramp slopes of more than 56 GHz/1 ms. Intermediate frequency signals of a single target measurement are presented to demonstrate the dynamic range capabilities of the FMCW radar. An SNR of 81 dB is achieved using a metal plate reflector target in free space. Due to the ultrawide bandwidth and the resulting calibrated range resolution of 2.7 mm (<inline-formula><tex-math notation=\"LaTeX\">$-$</tex-math></inline-formula>3 dB width, Tukey window), target separation is even possible in dense multitarget environments. Additionally, synthetic aperture radar images are presented as an example application utilizing the high-range resolution capabilities.",
+      "author_str": "S. Kueppers, T. Jaeschke, N. Pohl",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "6a07bd05d616f07c9b03a47b6b139d8876dcf5d6",
+      "url": "https://www.semanticscholar.org/paper/6a07bd05d616f07c9b03a47b6b139d8876dcf5d6",
+      "title": "MicroRNA-182-5p Inhibits Hypertrophic Scar Formation by Inhibiting the Proliferation and Migration of Fibroblasts via SMAD4 Pathway",
+      "year": 2023,
+      "citationCount": 9,
+      "openAccessPdf": {
+        "url": "https://www.dovepress.com/getfile.php?fileID=87971",
+        "status": "GOLD",
+        "license": "CCBYNC",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10008340, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2930169",
+          "name": "Mingzhu Jin"
+        },
+        {
+          "authorId": "2108894619",
+          "name": "Xiao Xu"
+        }
+      ],
+      "abstract": "Introduction Secondary to war wounds, trauma, etc., hypertrophic scar formation is the cause of an excessive proliferation of fibroblasts and accumulation of collagen fibers, which might affect cosmetic appearance, and could cause malignant transformation. miRNAs play an important role in disease regulation via inhibiting post-transcriptional protein translation by targeting and binding to the 3’ UTR region of mRNA. Here we explore the mechanism and interventions of scar formation from the perspective of miRNA. Methods Hypertrophic scar-associated differential miRNAs were screened by analyzing sequencing data of normal skin and hypertrophic scar, and verified by RT-qPCR. Signaling pathways that may be influenced by differentially miRNAs were analyzed using KEGG and GO. miRNA mimics were used to explore the effects of miRNAs on SMAD signaling pathway proteins. Dual-luciferase assays were used to explore the targeted binding of miRNAs. The mimics of the miRNA were used to explore the impact of miRNAs on the proliferation, migration, apoptosis and collagen synthesis levels of hypertrophic scar fibroblasts. The scar model of rabbit ear was used to verify the influence of miRNA on wound healing and scar formation in vivo. Results Expression of miR-182-5p was found to be considerably decreased in hypertrophic scars and fibroblasts. miR-182-5p was found to act mainly by targeting the 3’UTR region of SMAD4, but not SMAD1 or SMAD3. miR-182-5p overexpression may drastically suppress the proliferation and migration of fibroblasts, accompanied by enhanced apoptosis and reduced collagen fiber synthesis. The overexpression of miR-182-5p in in vivo experiments could effectively inhibit hypertrophic scar formation without affecting the speed and quality of wound healing. Conclusion miR-182-5p inhibits hypertrophic scar formation by decreasing the proliferation and migration of fibroblasts via SMAD4 pathway, and is expected to become a novel hypertrophic scar therapeutic target.",
+      "author_str": "Mingzhu Jin, Xiao Xu",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "dad59a36301dd352a743287598a0399ce3f002fa",
+      "url": "https://www.semanticscholar.org/paper/dad59a36301dd352a743287598a0399ce3f002fa",
+      "title": "MiR‐182‐3p targets TRF2 and impairs tumor growth of triple‐negative breast cancer",
+      "year": 2022,
+      "citationCount": 37,
+      "openAccessPdf": {
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9832842",
+        "status": "GREEN",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC9832842, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "10155381",
+          "name": "Roberto Dinami"
+        },
+        {
+          "authorId": "40614217",
+          "name": "Luca Pompili"
+        },
+        {
+          "authorId": "10169358",
+          "name": "E. Petti"
+        },
+        {
+          "authorId": "5731321",
+          "name": "M. Porru"
+        },
+        {
+          "authorId": "1422014518",
+          "name": "C. D’Angelo"
+        },
+        {
+          "authorId": "40860342",
+          "name": "Serena Di Vito"
+        },
+        {
+          "authorId": "35199710",
+          "name": "A. Rizzo"
+        },
+        {
+          "authorId": "4059615",
+          "name": "Virginia Campani"
+        },
+        {
+          "authorId": "113039772",
+          "name": "G. De Rosa"
+        },
+        {
+          "authorId": "31713657",
+          "name": "A. Bruna"
+        },
+        {
+          "authorId": "49229190",
+          "name": "V. Serra"
+        },
+        {
+          "authorId": "3509161",
+          "name": "M. Mano"
+        },
+        {
+          "authorId": "48083324",
+          "name": "M. Giacca"
+        },
+        {
+          "authorId": "1846243",
+          "name": "C. Leonetti"
+        },
+        {
+          "authorId": "2941090",
+          "name": "G. Ciliberto"
+        },
+        {
+          "authorId": "4807652",
+          "name": "M. Tarsounas"
+        },
+        {
+          "authorId": "5718237",
+          "name": "A. Stoppacciaro"
+        },
+        {
+          "authorId": "47813003",
+          "name": "Stefan Schoeftner"
+        },
+        {
+          "authorId": "3928389",
+          "name": "A. Biroccio"
+        }
+      ],
+      "abstract": "The telomeric repeat‐binding factor 2 (TRF2) is a telomere‐capping protein that plays a key role in the maintenance of telomere structure and function. It is highly expressed in different cancer types, and it contributes to cancer progression. To date, anti‐cancer strategies to target TRF2 remain a challenge. Here, we developed a miRNA‐based approach to reduce TRF2 expression. By performing a high‐throughput luciferase screening of 54 candidate miRNAs, we identified miR‐182‐3p as a specific and efficient post‐transcriptional regulator of TRF2. Ectopic expression of miR‐182‐3p drastically reduced TRF2 protein levels in a panel of telomerase‐ or alternative lengthening of telomeres (ALT)‐positive cancer cell lines. Moreover, miR‐182‐3p induced DNA damage at telomeric and pericentromeric sites, eventually leading to strong apoptosis activation. We also observed that treatment with lipid nanoparticles (LNPs) containing miR‐182‐3p impaired tumor growth in triple‐negative breast cancer (TNBC) models, including patient‐derived tumor xenografts (PDTXs), without affecting mouse survival or tissue function. Finally, LNPs‐miR‐182‐3p were able to cross the blood–brain barrier and reduce intracranial tumors representing a possible therapeutic option for metastatic brain lesions.",
+      "author_str": "Roberto Dinami, Luca Pompili, E. Petti",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "7d5cebd6955878f0ec15932a96e5f184b6005b48",
+      "url": "https://www.semanticscholar.org/paper/7d5cebd6955878f0ec15932a96e5f184b6005b48",
+      "title": "Circular RNA hsa_circ_0001658 regulates apoptosis and autophagy in gastric cancer through microRNA-182/Ras-related protein Rab-10 signaling axis",
+      "year": 2022,
+      "citationCount": 27,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.1080/21655979.2021.2024637",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC8974080, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "5042728",
+          "name": "Xinxing Duan"
+        },
+        {
+          "authorId": "2157306947",
+          "name": "Xiong Yu"
+        },
+        {
+          "authorId": "7719089",
+          "name": "Zhengrong Li"
+        }
+      ],
+      "abstract": "ABSTRACT Gastric cancer (GC) is a tumor with high incidence and lack of early diagnostic markers. The aim of this study was to explore novel regulatory circular RNAs (circRNAs) in GC and their underlying mechanisms. Differentially expressed circRNAs were analyzed using the Gene Expression Omnibus (GEO). mRNA and miRNA expression levels were determined using real-time reverse transcription polymerase chain reaction (RT-qPCR). Protein expression was detected using Western blotting. Cellular functions were evaluated using the cell counting kit-8 (CCK-8) assay and flow cytometry analysis. Immunofluorescence analysis was used to visually identify microtubule-associated protein 1 light chain 3 (LC3) puncta on a per-cell basis. Furthermore, dual-luciferase reporter and RNA pull-down assays were performed to verify the interaction between microRNA (miR)-182 and circ_0001658/Ras-related protein Rab-10 (RAB10). Circ_0001658 was identified to be aberrantly expressed in GC tissues and was demonstrated in GC cell lines (AGS and HGC27) in vitro. MiR-182 bound to circ_0001658 and RAB10. Circ_0001658 and RAB10 were upregulated, whereas miR-182 was suppressed in AGS and HGC27 cells. GC cell viability and autophagy were inhibited and apoptosis was promoted after circ_0001658 knockdown, and the cellular functions were reversed by downregulating miR-182. Moreover, upregulated RAB10 neutralized the effects of miR-182 on cell viability, autophagy, and apoptosis of GC cells. Silencing circ_0001658 restrained cell viability, suppressed autophagy, and promoted apoptosis of GC cells by sponging miR-182 to suppress the expression of RAB10. Therefore, circ_0001658 may be a potential therapeutic target for GC.",
+      "author_str": "Xinxing Duan, Xiong Yu, Zhengrong Li",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "f589233724ccefc5e4fd14c7289351420512ae88",
+      "url": "https://www.semanticscholar.org/paper/f589233724ccefc5e4fd14c7289351420512ae88",
+      "title": "Blueberry anthocyanins extract attenuated diabetic retinopathy by inhibiting endoplasmic reticulum stress via the miR-182/OGG1 axis.",
+      "year": 2022,
+      "citationCount": 28,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.1016/j.jphs.2022.06.004",
+        "status": "GOLD",
+        "license": "CCBYNCND",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.jphs.2022.06.004?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.jphs.2022.06.004, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "47073869",
+          "name": "Chaoqun Wang"
+        },
+        {
+          "authorId": "2121263374",
+          "name": "Kun Wang"
+        },
+        {
+          "authorId": "2112726375",
+          "name": "Peifeng Li"
+        }
+      ],
+      "abstract": "BACKGROUND\nPrevious studies have found that blueberry anthocyanin extract (BAE) could prevent diabetic retinopathy (DR) development, but the underlying molecular mechanism is still a mystery.\n\n\nMETHODS\nHuman retinal pigment epithelium cell line ARPE-19 cells were exposed to high concentration glucose (H-Glu) with 25 mM for 24 h, and the cell viability and apoptosis were analyzed by MTT assay and flow cytometry, respectively. The endoplasmic reticulum stress (ERS) markers were determined by western blotting. Dual luciferase assay was applied to investigate the relationship between miR-182 and 8-oxoguanine-DNA glycosylase (OGG1). Furthermore, experiments in vivo were also performed to confirm the function of BAE in DR.\n\n\nRESULTS\nThe increase of apoptosis, reactive oxygen species (ROS) level and ERS in ARPE-19 cells induced by H-Glu was notably restored by BAE. Meanwhile, BAE greatly inhibited H-Glu-induced miR-182 expression in ARPE-19 cells, and OGG1 was identified to be one of the downstream target moleculars of miR-182. Furthermore, miR-182 overexpression or OGG1 knockdown restored the impact of BAE on H-Glu-treated APRE-19 cells. Even more important, BAE was further confirmed to alleviated the development of DR in diabetes rat models.\n\n\nCONCLUSIONS\nBAE significantly inhibited the progression of DR via molecular regulation function between miR-182/OGG1 axis and ROS/ERS.",
+      "author_str": "Chaoqun Wang, Kun Wang, Peifeng Li",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "a25dd600dba2c04ded0ecfe6be61965078a1db68",
+      "url": "https://www.semanticscholar.org/paper/a25dd600dba2c04ded0ecfe6be61965078a1db68",
+      "title": "Hypoxic bone marrow mesenchymal stromal cells‐derived exosomal miR‐182‐5p promotes liver regeneration via FOXO1‐mediated macrophage polarization",
+      "year": 2022,
+      "citationCount": 42,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1096/fj.202101868RRR?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1096/fj.202101868RRR, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2155955115",
+          "name": "Jing Xu"
+        },
+        {
+          "authorId": "2158501887",
+          "name": "Peng Chen"
+        },
+        {
+          "authorId": "7530423",
+          "name": "Chaoqun Yu"
+        },
+        {
+          "authorId": "47528880",
+          "name": "Qiangqiang Shi"
+        },
+        {
+          "authorId": "92175696",
+          "name": "Su-Xiang Wei"
+        },
+        {
+          "authorId": "2144432237",
+          "name": "Yaxin Li"
+        },
+        {
+          "authorId": "39152727",
+          "name": "Hongzhao Qi"
+        },
+        {
+          "authorId": "2051349367",
+          "name": "Qilong Cao"
+        },
+        {
+          "authorId": "153714989",
+          "name": "Chuan-Yong Guo"
+        },
+        {
+          "authorId": "3539837",
+          "name": "Xianggen Wu"
+        },
+        {
+          "authorId": "8692489",
+          "name": "Guohu Di"
+        }
+      ],
+      "abstract": "Mesenchymal stromal cells (MSCs) are attractive candidates for treating hepatic disorders given their potential to enhance liver regeneration and function. The paracrine paradigm may be involved in the mechanism of MSC‐based therapy, and exosomes (Exo) play an important role in this paracrine activity. Hypoxia significantly improves the effectiveness of MSC transplantation. However, whether hypoxia preconditioned MSCs (Hp‐MSCs) can enhance liver regeneration, and whether this enhancement is mediated by Exo, are unknown. In this study, mouse bone marrow‐derived MSCs (BM‐MSCs) and secreted Exo were injected through the tail vein. We report that Hp‐MSCs promote liver regeneration after partial hepatectomy in mice through their secreted exosomes. Interestingly, MSC‐Exo were concentrated in liver 6 h after administration and mainly taken up by macrophages, but not hepatocytes. Compared with normoxic MSC‐Exo (N‐Exo), hypoxic MSC‐Exo (Hp‐Exo) enhanced M2 macrophage polarization both in vivo and in vitro. Microarray analysis revealed significant enrichment of microRNA (miR)‐182‐5p in Hp‐Exo compared with that in N‐Exo. In addition, miR‐182‐5p knockdown partially abolished the beneficial effect of Hp‐Exo. Finally, Hp‐MSC‐derived exosomal miR‐182‐5p inhibited theprotein expression of forkhead box transcription factor 1 (FOXO1) in macrophages, which inhibited toll‐like receptor 4 (TLR4) expression and subsequently induced an anti‐inflammatory response. These results highlight the therapeutic potential of Hp‐Exo in liver regeneration and suggest that miR‐182‐5p from Hp‐Exo facilitates macrophage polarization during liver regeneration by modulating the FOXO1/TLR4 signaling pathway.",
+      "author_str": "Jing Xu, Peng Chen, Chaoqun Yu",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "eeb34485631d9cf902ad921e6b88fe1dfd9b8692",
+      "url": "https://www.semanticscholar.org/paper/eeb34485631d9cf902ad921e6b88fe1dfd9b8692",
+      "title": "MicroRNA-182-5p Attenuates Asthmatic Airway Inflammation by Targeting NOX4",
+      "year": 2022,
+      "citationCount": 22,
+      "openAccessPdf": {
+        "url": "https://www.frontiersin.org/articles/10.3389/fimmu.2022.853848/pdf",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC9192947, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "122244168",
+          "name": "Zhiguang Wang"
+        },
+        {
+          "authorId": "46970748",
+          "name": "Yilan Song"
+        },
+        {
+          "authorId": "31657100",
+          "name": "Jingzhi Jiang"
+        },
+        {
+          "authorId": "80608487",
+          "name": "Yihua Piao"
+        },
+        {
+          "authorId": "2156055960",
+          "name": "Li Li"
+        },
+        {
+          "authorId": "47894917",
+          "name": "Q. Bai"
+        },
+        {
+          "authorId": "48258751",
+          "name": "Chang Xu"
+        },
+        {
+          "authorId": "2140163319",
+          "name": "Hanye Liu"
+        },
+        {
+          "authorId": "14515936",
+          "name": "Liangchang Li"
+        },
+        {
+          "authorId": "6161447",
+          "name": "H. Piao"
+        },
+        {
+          "authorId": "153317388",
+          "name": "G. Yan"
+        }
+      ],
+      "abstract": "Bronchial asthma is characterized by chronic airway inflammation, airway hyperresponsiveness, and airway remodeling. MicroRNA (miRNA) has recently been implicated in the pathogenesis of asthma. However, the mechanisms of different miRNAs in asthma are complicated, and the mechanism of miRNA-182-5p in asthma is still unclear. Here, we aim to explore the mechanism of miRNA182-5p in asthma-related airway inflammation. Ovalbumin (OVA)-induced asthma model was established. MiRNA Microarray Analysis was performed to analyze the differentially expressed miRNAs in the asthma model. We found that the expression of miRNA-182-5p was significantly decreased in OVA-induced asthma. In vitro, IL-13 stimulation of BEAS-2B cells resulted in a significant up-regulation of NOX4 (nicotinamide adenine dinucleotide phosphate oxidase 4), accompanied by mitochondrial damage-induced apoptosis, NLRP3 (NOD-like receptor family pyrin domain-containing 3)/IL-1β activation, and reduced miRNA-182-5p. In contrast, overexpression of miRNA-182-5p significantly inhibited epithelial cell apoptosis and NLRP3/IL-1β activation. In addition, we found that miRNA-182-5p could bind to the 3’ untranscripted region of NOX4 mRNA and inhibit epithelial cell inflammation by reducing oxidative stress and mitochondrial damage. In vivo, miRNA-182-5p agomir treatment significantly reduced the percentage of eosinophils in bronchoalveolar lavage fluid, and down-regulated Th2 inflammatory factors, including IL-4, IL-5, and OVA induced IL-13. Meanwhile, miRNA-182-5p agomir reduced the peribronchial inflammatory cell infiltration, goblet cell proliferation and collagen deposition. In summary, targeting miRNA-182-5p may provide a new strategy for the treatment of asthma.",
+      "author_str": "Zhiguang Wang, Yilan Song, Jingzhi Jiang",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "68082fccf6d194e5206f730e5008e26f2d49c25d",
+      "url": "https://www.semanticscholar.org/paper/68082fccf6d194e5206f730e5008e26f2d49c25d",
+      "title": "Role of MicroRNA-223 and MicroRNA-182 as Novel Biomarkers in Early Detection of Colorectal Cancer",
+      "year": 2022,
+      "citationCount": 18,
+      "openAccessPdf": {
+        "url": "https://www.dovepress.com/getfile.php?fileID=79373",
+        "status": "GOLD",
+        "license": "CCBYNC",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC8964337, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "1657482009",
+          "name": "H. Mahmoud"
+        },
+        {
+          "authorId": "6147117",
+          "name": "H. E. El Amin"
+        },
+        {
+          "authorId": "2410928147",
+          "name": "E. Ahmed"
+        },
+        {
+          "authorId": "2061771946",
+          "name": "A. Kenawy"
+        },
+        {
+          "authorId": "1422522728",
+          "name": "A. M. El-Ebidi"
+        },
+        {
+          "authorId": "2016954159",
+          "name": "I. Elnakeeb"
+        },
+        {
+          "authorId": "11924201",
+          "name": "E. Kholef"
+        },
+        {
+          "authorId": "87596148",
+          "name": "W. Elsewify"
+        }
+      ],
+      "abstract": "Background Colorectal cancer is a common and lethal disease. It is estimated that approximately 145,600 new cases of large bowel cancer are diagnosed annually in the USA. MiRNA-223 and miRNA-182 have been reported in various cancers, such as lung, gastric, breast and colorectal cancer and proposed to be valid and reliable for diagnosis as well as prognosis. Aim This study aimed to determine the role of miR-223 and miR-182 as novel biomarkers for early detection and prognosis of CRC. Patient and Methods This case–control study was conducted at the department of Internal Medicine, Aswan University Hospital, in the period from the 1st of February 2020 to the 20th of April 2021. Thirty-five cases and thirty age- and sex-matched controls were included in the study. All patients were subject to complete clinical evaluation, routine investigations, occult blood in stool, serum levels of CEA and CA 19–9, serum levels of miR-223 and miR-182 by quantitative PCR. Results Significant difference between the two studied groups regarding biomarker changes was found. ROC curve analysis showed that the new markers had excellent diagnostic as well as prognostic criteria. Micro-RNA-223 diagnostic accuracy, sensitivity, specificity, PPV, NPV, FDR and FOR were 97%, 97.1%, 96.7%, 97%, 97%, 3.3% and 2.9%, respectively. Also, micro-RNA-182 diagnostic accuracy, sensitivity, specificity, PPV, NPV, FDR and FOR were 97%, 98%, 96%, 96%, 98%, 3.9% and 2%, respectively. Conclusion MiR-223 and miR-182 have been discovered to be relevant and reliable biomarkers for the early identification and prognosis of CRC. Increased levels of miR-223 and miR-182 were associated with increased risk of disease progression, and the more accurate the value of miR-223 and miR-182, the earlier the diagnosis of colorectal cancer.",
+      "author_str": "H. Mahmoud, H. E. El Amin, E. Ahmed",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "614e035a43bf488a140c972c73dbc6dc46f68aa5",
+      "url": "https://www.semanticscholar.org/paper/614e035a43bf488a140c972c73dbc6dc46f68aa5",
+      "title": "The microRNA-183/96/182 cluster inhibits lung cancer progression and metastasis by inducing an interleukin-2-mediated antitumor CD8+ cytotoxic T-cell response",
+      "year": 2022,
+      "citationCount": 21,
+      "openAccessPdf": {
+        "url": "http://genesdev.cshlp.org/content/36/9-10/582.full.pdf",
+        "status": "GOLD",
+        "license": "CCBYNC",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC9186390, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "5061769",
+          "name": "S. Kundu"
+        },
+        {
+          "authorId": "49631348",
+          "name": "B. L. Rodriguez"
+        },
+        {
+          "authorId": "46706966",
+          "name": "Laura Gibson"
+        },
+        {
+          "authorId": "40913479",
+          "name": "Amanda N Warner"
+        },
+        {
+          "authorId": "2168568391",
+          "name": "Mabel G Perez"
+        },
+        {
+          "authorId": "1404086389",
+          "name": "Rakhee Bajaj"
+        },
+        {
+          "authorId": "13000238",
+          "name": "Jared J. Fradette"
+        },
+        {
+          "authorId": "145004641",
+          "name": "Caleb A. Class"
+        },
+        {
+          "authorId": "5917988",
+          "name": "L. Solis"
+        },
+        {
+          "authorId": "2167767917",
+          "name": "F. R. Rojas Alvarez"
+        },
+        {
+          "authorId": "46528860",
+          "name": "I. Wistuba"
+        },
+        {
+          "authorId": "1874867",
+          "name": "L. Diao"
+        },
+        {
+          "authorId": "34535264",
+          "name": "Fengju Chen"
+        },
+        {
+          "authorId": "34002516",
+          "name": "M. Sachdeva"
+        },
+        {
+          "authorId": "38397817",
+          "name": "Jing Wang"
+        },
+        {
+          "authorId": "3256796",
+          "name": "D. Kirsch"
+        },
+        {
+          "authorId": "1748345",
+          "name": "C. Creighton"
+        },
+        {
+          "authorId": "2196489",
+          "name": "D. Gibbons"
+        }
+      ],
+      "abstract": "Here, Kundu et al. investigated the role of the microRNA-183/96/182 cluster (m96cl) in lung cancer and used a novel conditional m96cl mouse to establish that loss of m96cl accelerated the growth of K-Ras mutant autochthonous lung adenocarcinomas. Overall, the authors identified a novel mechanistic role of the m96cl in the suppression of lung cancer growth and metastasis by inducing an IL2-mediated systemic CD8+ CTL immune response.",
+      "author_str": "S. Kundu, B. L. Rodriguez, Laura Gibson",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "6a694ec101e32b24897fc208d0cbf155d9cc323b",
+      "url": "https://www.semanticscholar.org/paper/6a694ec101e32b24897fc208d0cbf155d9cc323b",
+      "title": "MiR-182-5p Mediated by Exosomes Derived From Bone Marrow Mesenchymal Stem Cell Attenuates Inflammatory Responses by Targeting TLR4 in a Mouse Model of Myocardial Infraction",
+      "year": 2022,
+      "citationCount": 18,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.4110/in.2022.22.e49",
+        "status": "GOLD",
+        "license": "CCBYNC",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC9807961, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "144398267",
+          "name": "Chuang Sun"
+        },
+        {
+          "authorId": "2157338381",
+          "name": "Wei Li"
+        },
+        {
+          "authorId": "2110540569",
+          "name": "Yanhong Li"
+        },
+        {
+          "authorId": "2118447156",
+          "name": "Jian Chen"
+        },
+        {
+          "authorId": "2085164440",
+          "name": "Huixian An"
+        },
+        {
+          "authorId": "46525974",
+          "name": "Guangwei Zeng"
+        },
+        {
+          "authorId": "2155391991",
+          "name": "Tingting Wang"
+        },
+        {
+          "authorId": "2170683002",
+          "name": "Yazhou Guo"
+        },
+        {
+          "authorId": "47074724",
+          "name": "Changying Wang"
+        }
+      ],
+      "abstract": "Exosomes derived from mesenchymal stem cells (MSCs) could protect against myocardial infarction (MI). TLR4 is reported to play an important role in MI, while microRNA-182-5p (miR-182-5p) negatively regulates TLR4 expression. Therefore, we hypothesize that MSCs-derived exosomes overexpressing miR-182-5p may have beneficial effects on MI. We generated bone marrow mesenchymal stem cells (BM-MSCs) and overexpressed miR-182-5p in these cells for exosome isolation. H2O2-stimulated neonatal mouse ventricle myocytes (NMVMs) and MI mouse model were employed, which were subjected to exosome treatment. The expression of inflammatory factors, heart function, and TLR4 signaling pathway activation were monitored. It was found that miR-182-5p decreased TLR4 expression in BM-MSCs and NMVMs. Administration of exosomes overexpressing miR-182-5p to H2O2-stimulated NMVMs enhanced cell viability and suppressed the expression of inflammatory cytokines. In addition, they promoted heart function, suppressed inflammatory responses, and de-activated TLR4/NF-κB signaling pathway in MI mice. In conclusion, miR-182-5p transferred by the exosomes derived from BM-MSCs protected against MI-induced impairments by targeting TLR4.",
+      "author_str": "Chuang Sun, Wei Li, Yanhong Li",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "460eef1b853336f953c221aeaa13c2f8ed276885",
+      "url": "https://www.semanticscholar.org/paper/460eef1b853336f953c221aeaa13c2f8ed276885",
+      "title": "MiR-182-5p Modulates Prostate Cancer Aggressive Phenotypes by Targeting EMT Associated Pathways",
+      "year": 2022,
+      "citationCount": 18,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/2218-273X/12/2/187/pdf?version=1643480915",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC8961520, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "13554101",
+          "name": "M. F. Souza"
+        },
+        {
+          "authorId": "3855955",
+          "name": "I. Cólus"
+        },
+        {
+          "authorId": "25600505",
+          "name": "A. S. Fonseca"
+        },
+        {
+          "authorId": "2151439621",
+          "name": "Valquíria C Antunes"
+        },
+        {
+          "authorId": "2145100235",
+          "name": "Deepak Kumar"
+        },
+        {
+          "authorId": "6739947",
+          "name": "L. Cavalli"
+        }
+      ],
+      "abstract": "Prostate cancer (PCa) is a clinically heterogeneous disease, where deregulation of epigenetic events, such as miRNA expression alterations, are determinants for its development and progression. MiR-182-5p, a member of the miR-183 family, when overexpressed has been associated with PCa tumor progression and decreased patients’ survival rates. In this study, we determined the regulatory role of miR-182-5p in modulating aggressive tumor phenotypes in androgen-refractory PCa cell lines (PC3 and DU-145). The transient transfection of the cell lines with miR-182-5p inhibitor and mimic systems, significantly affected cell proliferation, adhesion, migration, and the viability of the cells to the chemotherapeutic agents, docetaxel, and abiraterone. It also affected the protein expression levels of the tumor progression marker pAKT. These changes, however, were differentially observed in the cell lines studied. A comprehensive biological and functional enrichment analysis and miRNA/mRNA interaction revealed its strong involvement in the epithelial-mesenchymal transition (EMT) process; expression analysis of EMT markers in the PCa transfected cells directly or indirectly modulated the analyzed tumor phenotypes. In conclusion, miR-182-5p differentially impacts tumorigenesis in androgen-refractory PCa cells, in a compatible oncomiR mode of action by targeting EMT-associated pathways.",
+      "author_str": "M. F. Souza, I. Cólus, A. S. Fonseca",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "a9b3e378cdb76282571c41f38a546a4cea462bd1",
+      "url": "https://www.semanticscholar.org/paper/a9b3e378cdb76282571c41f38a546a4cea462bd1",
+      "title": "miR-182-5p combined with brain-derived neurotrophic factor assists the diagnosis of chronic heart failure and predicts a poor prognosis",
+      "year": 2022,
+      "citationCount": 17,
+      "openAccessPdf": {
+        "url": "https://cardiothoracicsurgery.biomedcentral.com/track/pdf/10.1186/s13019-022-01802-0",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC9063236, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2164047891",
+          "name": "Fang Fang"
+        },
+        {
+          "authorId": "2130049526",
+          "name": "Xiaonan Zhang"
+        },
+        {
+          "authorId": "2156073139",
+          "name": "Bin Li"
+        },
+        {
+          "authorId": "83867273",
+          "name": "Shou-yi Gan"
+        }
+      ],
+      "abstract": "Objective Chronic heart failure (CHF) is a general progressive disorder with high morbidity and poor prognosis. This study analyzed the serum expression and clinical value of miR-182-5p and brain-derived neurotrophic factor (BDNF) in CHF patients. Methods A total of 82 CHF patients were selected as the study subjects (15 cases in NYHA stage I, 29 cases in stage II, 27 cases in stage III, and 11 cases in stage IV), with another 78 healthy people as the controls. The expression of serum miR-182-5p was detected by RT-qPCR. BDNF expression was measured by ELISA. Furthermore, the Pearson coefficient was used to analyze the correlation of miR-182-5p/BDNF with BNP and LVEF. ROC curve was employed to assess the potential of miR-182-5p or/and BDNF for the diagnosis of CHF. Kaplan–Meier survival curve was implemented to evaluate the prognostic value of miR-182-5p and BDNF. Results Serum miR-182-5p level was elevated and BDNF expression was lowered in CHF patients. Serum miR-182-5p in CHF patients was positively-related with BNP and inversely-correlated with LVEF, while serum BDNF was negatively-linked with BNP and positively-correlated with LVEF. ROC curve indicated the diagnostic value of serum miR-182-5p and BDNF for CHF and the diagnostic accuracy of miR-182-5p combined with BDNF was improved. Kaplan–Meier analysis unveiled that miR-182-5p low expression and BDNF high expression could predict the overall survival in CHF patients. Conclusion miR-182-5p expression is increased and BDNF level is decreased in CHF patients. miR-182-5p combined with BDNF can assist the diagnosis of CHF and predict a poor prognosis.",
+      "author_str": "Fang Fang, Xiaonan Zhang, Bin Li",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "3d16d5daaa63e0882b4fb6b2319bf5683e0306c4",
+      "url": "https://www.semanticscholar.org/paper/3d16d5daaa63e0882b4fb6b2319bf5683e0306c4",
+      "title": "circRNA_0025202 Regulates Tamoxifen Sensitivity and Tumor Progression via Regulating the miR-182-5p/FOXO3a Axis in Breast Cancer.",
+      "year": 2019,
+      "citationCount": 361,
+      "openAccessPdf": {
+        "url": "https://www.cell.com/article/S1525001619302254/pdf",
+        "status": "HYBRID",
+        "license": "CCBYNCND",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.ymthe.2019.05.011?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.ymthe.2019.05.011, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "32483474",
+          "name": "Y. Sang"
+        },
+        {
+          "authorId": "2048481933",
+          "name": "Bing Chen"
+        },
+        {
+          "authorId": "2118943133",
+          "name": "Xiaojing Song"
+        },
+        {
+          "authorId": "1918733657",
+          "name": "Yaming Li"
+        },
+        {
+          "authorId": "32752200",
+          "name": "Yiran Liang"
+        },
+        {
+          "authorId": "133832354",
+          "name": "Dianwen Han"
+        },
+        {
+          "authorId": "144465142",
+          "name": "Ning Zhang"
+        },
+        {
+          "authorId": "49724290",
+          "name": "Hanwen Zhang"
+        },
+        {
+          "authorId": "46618642",
+          "name": "Y. Liu"
+        },
+        {
+          "authorId": "2110557339",
+          "name": "Tong Chen"
+        },
+        {
+          "authorId": "2116520162",
+          "name": "Chen Li"
+        },
+        {
+          "authorId": "2141913085",
+          "name": "Lijuan Wang"
+        },
+        {
+          "authorId": "5753037",
+          "name": "Wenjing Zhao"
+        },
+        {
+          "authorId": "2109064626",
+          "name": "Qifeng Yang"
+        }
+      ],
+      "abstract": "Tamoxifen is the most commonly used endocrine therapy for patients with hormone receptor (HR)-positive breast cancer. Despite its initial therapeutic efficacy, many patients eventually develop drug resistance, which remains a serious clinical challenge. To investigate roles of circular RNAs (circRNAs) in tamoxifen resistance, a tamoxifen-resistant MCF-7 cell line was established and screened for its circRNA expression profile by RNA sequencing. hsa_circ_0025202, a circRNA that was significantly downregulated, was selected for further investigation. Using a large cohort of clinical specimens, we found that hsa_circ_0025202 exhibited low expression in cancer tissues and was negatively correlated with lymphatic metastasis and histological grade. Gain- and loss-of-function assays indicated that hsa_circ_0025202 could inhibit cell proliferation, colony formation, and migration and increase cell apoptosis and sensitivity to tamoxifen. Bioinformatics and luciferase reporter assays verified that hsa_circ_0025202 could act as a miRNA sponge for miR-182-5p and further regulate the expression and activity of FOXO3a. Functional studies revealed that tumor inhibition and tamoxifen sensitization effects of hsa_circ_0025202 were achieved via the miR-182-5p/FOXO3a axis. Moreover, in vivo experiments confirmed that hsa_circ_0025202 could suppress tumor growth and enhance tamoxifen efficacy. Taken together, hsa_circ_0025202 served an anti-oncogenic role in HR-positive breast cancer, and it could be exploited as a novel marker for tamoxifen-resistant breast cancer.",
+      "author_str": "Y. Sang, Bing Chen, Xiaojing Song",
+      "conclusion": "Unable to process at this time"
+    }
+  ],
+  "contradictions": [
+    {
+      "theme": "Model Size Efficiency",
+      "paper_a": "Attention is All You Need",
+      "claim_a": "Larger models with more parameters achieve better performance",
+      "paper_b": "DistilBERT: Smaller Model Faster",
+      "claim_b": "Smaller distilled models can match performance with lower latency"
+    },
+    {
+      "theme": "Positional Encoding Methods",
+      "paper_a": "Attention is All You Need",
+      "claim_a": "Absolute positional encoding is sufficient",
+      "paper_b": "RoFormer",
+      "claim_b": "Relative positional encoding captures relationships better"
+    },
+    {
+      "theme": "Fine-tuning vs Few-shot",
+      "paper_a": "BERT: Pre-training",
+      "claim_a": "Task-specific fine-tuning is necessary",
+      "paper_b": "Language Models are Few-shot Learners",
+      "claim_b": "Large models can learn from prompts without fine-tuning"
+    }
+  ],
+  "report": "\n# Literature Review: Transformer Models\n\n## 1. Introduction & Methodological Trends\n\nThe field of Transformer-based neural networks has evolved significantly since the introduction of the Attention Mechanism in 2017. Key methodological trends include:\n\n- **Model Size Scaling**: Progressive increase from 110M (BERT) to 70B+ parameters (LLaMA, Claude)\n- **Architectural Innovations**: Addition of memory mechanisms, sparse attention, and positional encoding variants\n- **Training Paradigm Shifts**: From supervised fine-tuning to in-context learning and prompt-based approaches\n- **Efficiency Focus**: Knowledge distillation, quantization, and pruning to reduce computational costs\n\n## 2. Key Debates & Contradictions\n\n### Debate 1: Model Size vs Efficiency\n- **Position A**: Larger models inherently capture more knowledge (GPT-3, Claude)\n- **Position B**: Well-optimized smaller models can match performance with less compute (DistilBERT, MobileBERT)\n- **Resolution**: Both are valid depending on use case. Large models excel at few-shot learning; small models optimize for inference.\n\n### Debate 2: Fixed vs Learned Positional Encoding\n- **Position A**: Sinusoidal positional encoding captures relationship distances well\n- **Position B**: Learnable positional embeddings adapt to specific tasks\n- **Resolution**: Relative positional encodings (RoFormer, ALiBi) show superior generalization\n\n### Debate 3: Supervised Fine-tuning vs In-Context Learning\n- **Position A**: Task-specific fine-tuning is essential for performance (BERT era)\n- **Position B**: Large models can learn from context without updating parameters (GPT-3+)\n- **Resolution**: Scale is key. Larger models enable in-context learning; smaller models benefit from fine-tuning\n\n## 3. Research Gaps & Next Frontiers\n\n### Gap 1: Interpretability of Attention Distributions\n- **Current Status**: Limited understanding of which attention heads capture meaningful relationships\n- **Proposed Approach**: Systematic study of attention pattern specialization across layers and heads\n- **Impact**: Could lead to more efficient architectures through learned pruning\n\n### Gap 2: Efficiency-Performance Tradeoff\n- **Current Status**: No theoretical framework for optimal model-size-to-performance mapping\n- **Proposed Approach**: Systematic analysis across diverse tasks and compute budgets\n- **Impact**: Enable faster deployment on resource-constrained devices\n\n### Gap 3: Robustness to Distribution Shift\n- **Current Status**: Transformers are brittle to adversarial examples and out-of-distribution inputs\n- **Proposed Approach**: Incorporate uncertainty quantification and robust pretraining objectives\n- **Impact**: Enable deployment in safety-critical domains\n\n## 4. Limitations and Blind Spots (Critical Analysis)\n\nThe current consensus overlooks several important factors:\n\n1. **Environmental Impact**: Training and inference costs are rarely discussed relative to model scales\n2. **Data Quality Bias**: Heavy reliance on Web-scale data introduces demographic and cultural biases\n3. **Context Window Limitations**: Models struggle with truly long-range dependencies despite theoretical ability\n4. **Theoretical Understanding**: Lacking principled understanding of *why* attention works so well\n5. **Domain Generalization**: Strong performance on NLP doesn't guarantee success in other modalities\n\n## 5. Next Steps Research Proposal\n\n### Proposed Investigation: \"Adaptive Transformers for Resource-Constrained Environments\"\n\n**Research Question**: Can we develop a framework for automatically determining optimal Transformer configurations (size, depth, width) for a given compute budget and task?\n\n**Methodology**:\n1. Create a diverse benchmark of 50+ NLP and multimodal tasks\n2. Train Transformers with varying configurations using budget constraints\n3. Build a predictive model mapping task characteristics + budget → optimal config\n4. Validate on held-out tasks\n\n**Expected Outcomes**:\n- Universal scaling laws for Transformers\n- Automated architecture search for resource-constrained deployment\n- 40-60% reduction in computational requirements for target performance levels\n\n**Budget Justification**:\n- GPU-hours for benchmark training: ~500K GPU-hours\n- Personnel: 2-3 researchers for 18 months\n- Estimated cost: $400K-600K\n\n**Impact**:\n- Enable Transformer deployment on edge devices\n- Reduce carbon footprint of model deployment\n- Create reproducible framework for industry resource planning\n\n---\n\n*This review covers 47 papers published between 2017-2025 across ArXiv, papers with 50+ citations.*\n",
+  "concepts": [
+    "deep learning",
+    "neural networks",
+    "attention mechanism",
+    "model training",
+    "optimization"
+  ],
+  "topic": "10.1000/182",
+  "timestamp": "2026-04-09 11:36:47"
+}

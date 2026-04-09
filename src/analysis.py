@@ -183,7 +183,14 @@ def identify_research_gaps(papers: list, report: str) -> list:
     for paper in papers:
         authors = paper.get('authors', [])
         if isinstance(authors, list):
-            author_list = [str(a).strip() for a in authors if a]
+            author_list = []
+            for a in authors:
+                if isinstance(a, dict):
+                    name = a.get('name', '')
+                else:
+                    name = str(a)
+                if name:
+                    author_list.append(name.strip())
         else:
             author_list = [a.strip() for a in str(authors).split(',') if a.strip()]
         all_authors.extend(author_list)
@@ -225,7 +232,14 @@ def extract_author_network(papers: list) -> dict:
     for paper in papers:
         authors_data = paper.get('authors', [])
         if isinstance(authors_data, list):
-            paper_authors = [str(a).strip() for a in authors_data if a]
+            paper_authors = []
+            for a in authors_data:
+                if isinstance(a, dict):
+                    name = a.get('name', '')
+                else:
+                    name = str(a)
+                if name:
+                    paper_authors.append(name.strip())
         else:
             paper_authors = [a.strip() for a in str(authors_data).split(',') if a.strip()]
 

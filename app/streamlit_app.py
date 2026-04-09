@@ -907,11 +907,30 @@ if start_button:
                     break
             if cached_result:
                 try:
+                    # Check cache age
+                    cache_timestamp = datetime.strptime(cached_result['timestamp'], '%Y%m%d_%H%M%S')
+                    cache_age_days = (datetime.now() - cache_timestamp).days
+
                     st.session_state.research_data = storage.load_research(cached_result['file_path'])
                     st.session_state.research_complete = True
                     st.session_state.from_cache = True
                     st.session_state.research_topic_current = research_topic
-                    st.success(f"✅ Loaded from cache! (Searched on {cached_result['timestamp']})")
+
+                    if cache_age_days > 30:
+                        st.warning(f"⚠️ Cache is {cache_age_days} days old. New papers may be available. Consider using 'Force New' for updated results.")
+                    else:
+                        st.success(f"✅ Loaded from cache! (Searched on {cached_result['timestamp']})")
+
+                    # Add option to refresh if cache is old
+                    if cache_age_days > 7:
+                        if st.button("🔄 Refresh with Latest Papers", key="refresh_cache"):
+                            st.session_state.force_new_search = True
+                            st.session_state.research_topic_current = research_topic
+                            st.session_state.research_complete = False
+                            st.session_state.research_data = None
+                            st.session_state.from_cache = False
+                            st.rerun()
+
                     st.rerun()
                 except Exception as e:
                     st.warning(f"Cache load failed: {e}. Starting new search...")
@@ -1454,7 +1473,11 @@ if st.session_state.research_complete and st.session_state.research_data:
             years = [int(p.get('year', 0)) for p in final_data['papers'] if p.get('year')]
             if years:
                 min_year, max_year = min(years), max(years)
-                year_range = st.slider("Year Range", min_year, max_year, (min_year, max_year), key="year_filter")
+                if min_year == max_year:
+                    st.info(f"All papers are from {min_year}.")
+                    year_range = (min_year, max_year)
+                else:
+                    year_range = st.slider("Year Range", min_year, max_year, (min_year, max_year), key="year_filter")
             else:
                 year_range = None
 

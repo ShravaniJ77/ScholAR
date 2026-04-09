@@ -249,7 +249,7 @@ def build_complete_literature_review(data: dict) -> str:
 
         for idx, paper in enumerate(papers, 1):
             title = paper.get('title', 'N/A')
-            authors = paper.get('authors', 'N/A')
+            authors = paper.get('author_str', 'N/A')
             year = paper.get('year', 'N/A')
             abstract = paper.get('abstract', 'N/A')
 

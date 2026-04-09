@@ -1,0 +1,1302 @@
+{
+  "type": "complete",
+  "papers": [
+    {
+      "paperId": "f8bbc18c34e5e0d3c95aaaacfbd930af51d7f0c1",
+      "url": "https://www.semanticscholar.org/paper/f8bbc18c34e5e0d3c95aaaacfbd930af51d7f0c1",
+      "title": "On the unit group of some multiquadratic fields",
+      "year": 2025,
+      "citationCount": 2,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2501.15591, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "1431226573",
+          "name": "M. M. Chems-Eddin"
+        },
+        {
+          "authorId": "2389140285",
+          "name": "Hamza El Mamry"
+        }
+      ],
+      "abstract": "In this paper, we calculate the unit groups and the 2-class numbers of the fields K=Q(2,p1,p2)\\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$$ \\mathbb {K}= \\mathbb {Q}(\\sqrt{2}, \\sqrt{p_1}, \\sqrt{p_2})$$\\end{document} and L=Q(-1,2,p1,p2)\\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$$ \\mathbb {L}= \\mathbb {Q}( \\sqrt{-1},\\sqrt{2}, \\sqrt{p_1}, \\sqrt{p_2})$$\\end{document}, where p1\\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$$p_1$$\\end{document} and p2\\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$$p_2$$\\end{document} are two prime numbers satisfying p1≡p2≡1(mod4)\\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$$p_1\\equiv p_2\\equiv 1 \\pmod {4}$$\\end{document}.",
+      "author_str": "M. M. Chems-Eddin, Hamza El Mamry",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "2d3dd6c4f9d3573260be9683fc70b6ca96e47a8e",
+      "url": "https://www.semanticscholar.org/paper/2d3dd6c4f9d3573260be9683fc70b6ca96e47a8e",
+      "title": "Inverse source problems for a multidimensional time fractional wave equation with integral overdetermination conditions",
+      "year": 2025,
+      "citationCount": 2,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2503.17404, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2351808654",
+          "name": "Durdiev Durdimurod Kalandarovich"
+        }
+      ],
+      "abstract": "In this paper, we consider two linear inverse problems for the time-fractional wave equation, assuming that its right-hand side takes the separable form f(t)h(x)), where \\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$$ t \\ge 0 $$\\end{document} and \\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$$ x \\in \\Omega \\subset R^N $$\\end{document}. The objective is to determine the unknown function f(t) (Inverse Problem 1) and h(x) (Inverse Problem 2), given that the other function is known. For Inverse Problem 1, we impose an overdetermination condition in the form of a spatial integral over the domain \\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$$\\Omega $$\\end{document}, involving the solution of the corresponding direct problem—an initial-boundary value problem with standard Cauchy conditions and homogeneous Dirichlet boundary conditions. The integral is weighted by the known spatial factor h(x) from the right-hand side of the equation. This choice of an additional condition enables the explicit construction of a solution to the inverse problem and allows us to prove its unique solvability within the class of regular solutions. To study the direct problem, the regular solution approach is used. For Inverse Problem 2, we introduce a novel integral-type additional condition, referred to as the time-averaged velocity, incorporating an appropriate weight function. The time-dependent factor of the right-hand side of the equation serves as this weight function. Depending on its choice, the additional condition reduces to specifying either the final-time offset or the time-averaged offset. Under this formulation, we establish a new uniqueness result.",
+      "author_str": "Durdiev Durdimurod Kalandarovich",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "f0b2779c29af8296db21aedc3388b16082988428",
+      "url": "https://www.semanticscholar.org/paper/f0b2779c29af8296db21aedc3388b16082988428",
+      "title": "Linear-time Minimum Bayes Risk Decoding with Reference Aggregation",
+      "year": 2024,
+      "citationCount": 24,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2402.04251, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2269142027",
+          "name": "Jannis Vamvas"
+        },
+        {
+          "authorId": "2066518243",
+          "name": "Rico Sennrich"
+        }
+      ],
+      "abstract": "Minimum Bayes Risk (MBR) decoding is a text generation technique that has been shown to improve the quality of machine translations, but is expensive, even if a sampling-based approximation is used. Besides requiring a large number of sampled sequences, it requires the pairwise calculation of a utility metric, which has quadratic complexity. In this paper, we propose to approximate pairwise metric scores with scores calculated against aggregated reference representations. This changes the complexity of utility estimation from $O(n^2)$ to $O(n)$, while empirically preserving most of the quality gains of MBR decoding. We release our source code at https://github.com/ZurichNLP/mbr",
+      "author_str": "Jannis Vamvas, Rico Sennrich",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "610859aa5a6af16a25ca079bcc0b33b55dd78037",
+      "url": "https://www.semanticscholar.org/paper/610859aa5a6af16a25ca079bcc0b33b55dd78037",
+      "title": "Mesenteric Ischemia",
+      "year": 2021,
+      "citationCount": 394,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1201/9781420094329.ch10?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1201/9781420094329.ch10, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "49380747",
+          "name": "Adam Cloud"
+        },
+        {
+          "authorId": "2241897918",
+          "name": "John N. Dussel"
+        },
+        {
+          "authorId": "1430964252",
+          "name": "Carissa Webster-Lake"
+        },
+        {
+          "authorId": "4442987",
+          "name": "J. Indes"
+        }
+      ],
+      "abstract": ": Audience: This simulation session is appropriate for emergency medicine residents at any level or medical students. Objectives the learner will: 1) recognize signs and symptoms of mesenteric ischemia; 2) order appropriately imaging and labs in the workup of an elderly patient with abdominal pain; 3) manage a patient with mesenteric ischemia, a 4) discuss specifically to to the with an established diagnosis by outside specialists. Methods: This educational session is a high-fidelity simulation.",
+      "author_str": "Adam Cloud, John N. Dussel, Carissa Webster-Lake",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "2fa415bf4f75091a1f493da574e043c6d27c9437",
+      "url": "https://www.semanticscholar.org/paper/2fa415bf4f75091a1f493da574e043c6d27c9437",
+      "title": "A classification of nilpotent compatible Lie algebras",
+      "year": 2024,
+      "citationCount": 9,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2406.04036, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "40078037",
+          "name": "M. Ladra"
+        },
+        {
+          "authorId": "2389151033",
+          "name": "Bernardo Leite da Cunha"
+        },
+        {
+          "authorId": "2304954384",
+          "name": "Samuel A. Lopes"
+        }
+      ],
+      "abstract": "Working over an arbitrary field of characteristic different from 2, we extend the Skjelbred-Sund method to compatible Lie algebras and give a full classification of nilpotent compatible Lie algebras up to dimension 4. In case the base field is cubically closed, we find that there are three isomorphism classes and a one-parameter family in dimension 3, and 12 isomorphism classes, 6 one-parameter families and one 2-parameter family in dimension 4.",
+      "author_str": "M. Ladra, Bernardo Leite da Cunha, Samuel A. Lopes",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "7d5c061a2774baaac0cb1acb767ee581d44df333",
+      "url": "https://www.semanticscholar.org/paper/7d5c061a2774baaac0cb1acb767ee581d44df333",
+      "title": "RETRACTED ARTICLE: On the algebraic transfers of ranks 4 and 6 at generic degrees",
+      "year": 2024,
+      "citationCount": 8,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2501.12729, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2265442642",
+          "name": "Ɖặng Võ Phúc"
+        }
+      ],
+      "abstract": "Let A\\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$${\\mathfrak {A}}$$\\end{document} denote the classical singly-graded Steenrod algebra over the binary field Z/2.\\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$${\\mathbb {Z}}/2.$$\\end{document} We write Pk:=Z/2[t1,t2,…,tk]\\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$$P_k:={\\mathbb {Z}}/2[t_1, t_2, \\ldots , t_k]$$\\end{document} as the polynomial algebra on k generators, each having a degree of one. Let GLk\\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$$GL_k$$\\end{document} be the general linear group of rank k over Z/2.\\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$${\\mathbb {Z}}/2.$$\\end{document} Then, Pk\\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$$P_k$$\\end{document} is an A[GLk]\\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$$ {\\mathfrak {A}}[GL_k]$$\\end{document}-module. The structure of the cohomology groups, ExtAk,k+∙(Z/2,Z/2)\\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$$\\textrm{Ext}_{ {\\mathfrak {A}}}^{k, k+\\bullet }({\\mathbb {Z}}/2, {\\mathbb {Z}}/2)$$\\end{document}, of the Steenrod algebra has, thus far, resisted clear understanding and full description for all homological degrees k. In the study of these groups, the algebraic transfer– constructed by W. Singer in [Math. Z. 202, 493–523 (1989)]– plays an important role. The Singer transfer is represented by the following homomorphism: Trk:Hom([(Z/2⊗APk)∙]GLk,Z/2)⟶ExtAk,k+∙(Z/2,Z/2).\\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$$Tr_k: \\textrm{Hom}([({\\mathbb {Z}}/2\\otimes _{ {\\mathfrak {A}}} P_k)_{\\bullet }]^{GL_k}, {\\mathbb {Z}}/2)\\longrightarrow \\textrm{Ext}_{ {\\mathfrak {A}}}^{k, k+\\bullet }({\\mathbb {Z}}/2, {\\mathbb {Z}}/2).$$\\end{document}Among Singer’s contributions is an interesting open conjecture asserting the monomorphism of Trk\\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$$Tr_k$$\\end{document} for all k. For this reason, our main aim in this article is to ascertain the validity of the Singer conjecture for ranks 4 and 6 in certain families of internal degrees. We place particular emphasis on the rank 4 case. More precisely, we present a detailed proof for certain generic degree cases when verifying the conjecture of rank four, which were succinctly noted in our previous work [Proc. Roy. Soc. Edinburgh Sect. A 153, 1529–1542 (2023)].",
+      "author_str": "Ɖặng Võ Phúc",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "101a84a6d9032f681b69dc38a8ade60e448896f8",
+      "url": "https://www.semanticscholar.org/paper/101a84a6d9032f681b69dc38a8ade60e448896f8",
+      "title": "Investigation of Effective Fracture Height Using Strain Responses in a Vertical Monitoring Well During a Well Interference Test",
+      "year": 2024,
+      "citationCount": 8,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.2118/217776-ms?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.2118/217776-ms, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2238895554",
+          "name": "Wei Ma"
+        },
+        {
+          "authorId": "2326813686",
+          "name": "Kan Wu"
+        },
+        {
+          "authorId": "49595939",
+          "name": "G. Jin"
+        }
+      ],
+      "abstract": "\n Understanding and characterizing the effective hydraulic fracture height is critical for optimizing completion design and well performance in unconventional reservoirs. Rayleigh Frequency Shift Distributed Strain Sensing (RFS-DSS) data provides crucial information about the fracture geometry by measuring the strain change along the fiber. Recently, the strain data from the vertical monitoring well (B5PH) at Hydraulic Fracture Test Site 2 (HFTS-2) was collected during a well interference test conducted on two neighboring horizontal wells (B3H and B4H) in September 2020. However, this dataset was overlooked and not comprehensively analyzed. Consequently, the valuable information that this data may provide remains unexplored. The objective of this study is to determine how to interpret this vertical strain data and assess its potential to provide insights into the effective fracture height generated in the horizontal wells.\n To understand the measured strain data, we have developed a coupled fluid flow and geomechanics model to simulate the vertical strain responses observed during production and the well-interference test. The characteristics of the strain responses are thoroughly analyzed to establish guidelines for identifying the upper and lower tips of the effective fracture in different fracture geometry scenarios. Additionally, field-measured data is examined, and a history-matching process is conducted by comparing the numerical matching results with the observed data to identify the effective fracture height. Furthermore, the pressure gauge data is analyzed and compared with the strain data results to further validate the findings.\n The study has demonstrated that vertical strain measurements obtained from a vertical monitoring well can be used to determine the effective fracture height. Large strain responses, characterized by both negative and positive peaks, are observed near the tips of the effective fractures. The upper and lower tips of the effective fracture can be identified by examining the locations of zero-strain change. The magnitude of strain response is affected by the distance between the fracture and the fiber. It is worth noting that the locations where the absolute value of the derivative of fracture conductivity changes abruptly correspond to the positions of the fracture tips. Furthermore, we study and history-match the field-measured vertical strain change in HFTS-2 datasets. The pressure gauge data is analyzed to further validate our findings. The effective fracture height determined from the strain measurements falls within the range of 11,360 ft to 11,616 ft, which is consistent with the values obtained from pressure gauges (11,360 ft to 11,635 ft). Specifically, for B4H, the effective fracture height was determined to be 256 ft at a distance of 330 ft away at the time of data acquisition. Overall, the strain measurements provide valuable, time-dependent insights into the effective fracture height and the active drainage interval.",
+      "author_str": "Wei Ma, Kan Wu, G. Jin",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "bfba099a4204c783db80c86aeefa7c8eecd5d809",
+      "url": "https://www.semanticscholar.org/paper/bfba099a4204c783db80c86aeefa7c8eecd5d809",
+      "title": "Engineered Low Salinity Waterflood in Carbonate Reservoirs?Boosting Fluid-fluid Interaction and Oil Recovery by Cost Effective Additives",
+      "year": 2024,
+      "citationCount": 6,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.2523/iptc-23696-ms?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.2523/iptc-23696-ms, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2253861591",
+          "name": "H. Yonebayashi"
+        },
+        {
+          "authorId": "2253872429",
+          "name": "T. Hiraiwa"
+        },
+        {
+          "authorId": "2189455258",
+          "name": "M. Tange"
+        },
+        {
+          "authorId": "79642989",
+          "name": "M. Sawata"
+        },
+        {
+          "authorId": "2211039515",
+          "name": "Khuloud Tareq Khlaifi"
+        },
+        {
+          "authorId": "2202851456",
+          "name": "R. Sakurai"
+        },
+        {
+          "authorId": "2248747331",
+          "name": "S. Bahri"
+        },
+        {
+          "authorId": "2289536771",
+          "name": "Abdalla Abdelfattah Abed"
+        },
+        {
+          "authorId": "2202858559",
+          "name": "Y. Inokuma"
+        },
+        {
+          "authorId": "2289536456",
+          "name": "Sultan Hamdan Alkaabi"
+        },
+        {
+          "authorId": "2289536767",
+          "name": "Mohammad Fattahi Mehraban"
+        },
+        {
+          "authorId": "2253869451",
+          "name": "R. Stalker"
+        },
+        {
+          "authorId": "2253736687",
+          "name": "G. Graham"
+        }
+      ],
+      "abstract": "\n Low salinity water (LSW) enhanced oil recovery (EOR) has gained more attention in carbonate reservoirs with variety of mechanism hypothesis. Recent research focused on fluid-fluid interaction, forming micro-dispersion as an interfacial reaction of oil-water mixing, can reflect a main driver of oil improving mechanism. This paper focuses on the mechanism and demonstrates further boosting the fluid-fluid interactions using small amount of additives to improve LSW EOR value in an objective offshore giant carbonate field. Four stock tank oil (STO) samples were collected from multiple sub-layers (L1, L2, L3, and U). Brines were prepared as formation water (FW), sea water (SW), and LSW (diluted to 1-20%SW). The fluid-fluid interaction tests measured micro-dispersion ratios (MDR), which represent water content increment by the oil-water interfacial reactions, to screen the most positive oil for low-salinity effect. To boost the reaction in LSW, three additives: diethyl ketone (DEK), dimethyl ketone (DMK), and copper chloride were independently evaluated using the screened positive oil. The boosting effectiveness was investigated by MDR improvement and core flood tests.\n The larger micro-dispersion phase was formed as switching from FW and SW to more diluted LSW in the fluid-fluid interaction tests. The STO-L2 was screened as the most positive oil because of the highest MDR. The two-staged MDR increase indicated the existence of threshold salinity (i.e., between 4-5%SW and 2-3%SW) for triggering the radical oil-water interfacial reaction. To clearly capture booster's impacts, the subsequent tests used 1%SW as a base LSW. The compatibility analysis determined 2.0 wt% of DEK and DMK as dosing ratio to LSW. The additive boosting impacts on fluid-fluid interaction revealed a noticeable MDR increase compared to that of pure LSW case. The boosting potential of oil recovery was evaluated by three core flood tests using the identical reservoir core (i.e., reused after solvent cleaning and aged again for avoiding a common core-nature uncertainties). Thus, common secondary SW injection achieved similar oil recovery among three tests. The tertiary untreated LSW injection revealed +3%IOIP additional oil recovery after the secondary SW injection. The largest oil recovery boosting occurred by the tertiary LSW+DEK injection as +10.7 %IOIP (three-times higher than that of pure LSW case). Finally, we found a linear correlation between MDR and oil recovery increment.",
+      "author_str": "H. Yonebayashi, T. Hiraiwa, M. Tange",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "a94b89b11fc55762b3e34295900dc4450459115d",
+      "url": "https://www.semanticscholar.org/paper/a94b89b11fc55762b3e34295900dc4450459115d",
+      "title": "Functional Components in Low Salinity Waterflood Forming Micro-Dispersion Phase via Fluid-Fluid Interaction in Carbonate Reservoirs",
+      "year": 2024,
+      "citationCount": 5,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.2118/218172-ms?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.2118/218172-ms, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2253861591",
+          "name": "H. Yonebayashi"
+        },
+        {
+          "authorId": "2253872429",
+          "name": "T. Hiraiwa"
+        },
+        {
+          "authorId": "2189455258",
+          "name": "M. Tange"
+        },
+        {
+          "authorId": "2248490109",
+          "name": "A. A. Abed"
+        },
+        {
+          "authorId": "2297965089",
+          "name": "Hiroshi Yachi"
+        },
+        {
+          "authorId": "46454298",
+          "name": "Keita Katano"
+        },
+        {
+          "authorId": "2297946116",
+          "name": "Teruo Suzuki"
+        }
+      ],
+      "abstract": "\n Low salinity water (LSW) enhanced oil recovery (EOR) has gained more attention in carbonate reservoirs with a variety of mechanism hypotheses. Recent research focused on fluid-fluid interaction (FFI) during LSW injection, especially forming water micro-dispersion (MD) as a potential drivers of oil recovery improving mechanism in LSW EOR. This paper elucidates functional components in positive crude oil which showed high MD ration in FFI test and additional oil recovery in LSW core flood experiments.\n Four stock tank oil (STO) samples were collected from multiple sub-layers (L1, L2, L3, and U). Synthetic brine was prepared as LSW to mimic the sea water (SW) diluted to 1%. The FFI tests measured MD ratios, which represent water content increment caused by the oil-water interfacial chemical reactions, to screen positive oil for low-salinity effect. During the FFI, 3 types of sub-samples were collected as original oil, MD phase, and post-FFI oil. Each sample was fractionated to 7 compositions: Saturates, 1-/2-/3+-ring Aromatics, Polar Resins, Poly Aromatic Resins, and Asphaltenes. Subsequently, all composition were investigated by Fourier-transform ion cyclotron resonance mass spectrometer (FT-ICR MS) to find out functional components.\n Based on MD ratios, three of four STOs were selected as the candidates for FT-ICR MS analysis. STO-L2 and STO-L3 were categorized as positive oil and partially positive oil, respectively. STO-U was picked out as negative oil because of the lowest MD ratio. Functional components, which are generally considered as surface-active components, are assumed to be predominantly contained in positive oil and MD sub-samples compared with negative oil and post-FFI oil, respectively. Therefore, two series of differential analysis were performed for: (a) a group of original oils (STO-L2 vs. STO-U); and (b) a group of positive oils (STO-L2, MD fluid, and post-FFI oil) using the double-bond-equivalent (DBE) vs. carbon number (CN) plot. The differential analysis of positive/negative oils revealed that asphaltenes in positive oil consisted of higher DBE composition. Noticeable differences were observed for asphaltenes and polar resins in a series of positive oil during FFI test. Higher DBE asphaltenes moved from the original oil to MD phase, while majority of polar resins remained in the post-FFI oil. In general, asphaltenes are stabilized with being surrounded by resins. However, analysis result suggests that surrounding polar resins were detached from asphaltene by the interaction between LSW and asphaltenes’ surface-active components. This may result in decreasing polar resins in MD phase.\n The study demonstrates the change in chemical composition of crude oil depending on positive oil characteristic or contact by LSW. These compositional differences provide us with important clues about the FFI mechanism of LSW through which further oil recovery may be achieved. Deployment of FT-ICR MS analysis elucidated functional components such as higher DBE asphaltenes which might promote the spontaneous formation of water-in-oil micro-dispersion at the oil/LSW interface.",
+      "author_str": "H. Yonebayashi, T. Hiraiwa, M. Tange",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "0ad756b7184125b0a8fe26a4f8da63d7eb4de25a",
+      "url": "https://www.semanticscholar.org/paper/0ad756b7184125b0a8fe26a4f8da63d7eb4de25a",
+      "title": "On the Significance of Hydrate Formation/Dissociation during CO2 Injection in Depleted Gas Reservoirs",
+      "year": 2024,
+      "citationCount": 4,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.2118/218550-ms?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.2118/218550-ms, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2297974667",
+          "name": "V. Indina"
+        },
+        {
+          "authorId": "2297976073",
+          "name": "B. R. Fernandes"
+        },
+        {
+          "authorId": "38910655",
+          "name": "M. Delshad"
+        },
+        {
+          "authorId": "2297896298",
+          "name": "R. Farajzadeh"
+        },
+        {
+          "authorId": "2970329",
+          "name": "K. Sepehrnoori"
+        }
+      ],
+      "abstract": "\n The study aims to quantitatively assess the risk of hydrate formation within the porous formation and its consequences to injectivity during storage of CO2 in depleted gas reservoirs considering low temperatures caused by the Joule Thomson (JT) effect and hydrate kinetics. The aim was to understand which mechanisms can mitigate or prevent the formation of hydrates. The key mechanisms we studied included water dry-out, heat exchange with surrounding rock formation, and capillary pressure. A compositional thermal reservoir simulator is used to model the fluid and heat flow of CO2 through a reservoir initially composed of brine and methane. The simulator can model the formation and dissociation of both methane and CO2 hydrates using kinetic reactions. This approach has the advantage of computing the amount of hydrate deposited and estimating its effects on the porosity and permeability alteration. Sensitivity analyses are also carried out to investigate the impact of different parameters and mechanisms on the deposition of hydrates and the injectivity of CO2. Simulation results for a simplified model were verified with results from the literature. The key results of this work are: (1) The Joule-Thomson effect strongly depends on the reservoir permeability and initial pressure and could lead to the formation of hydrates within the porous media even when the injected CO2 temperature was higher than the hydrate equilibrium temperature, (2) The heat gain from underburden and overburden rock formations could prevent hydrates formed at late time, (3) Permeability reduction increased the formation of hydrates due to an increased JT cooling, and (4) Water dry-out near the wellbore did not prevent hydrate formation. Finally, the role of capillary pressure was quite complex, where it reduced the formation of hydrates in certain cases and increased in other cases. Simulating this process with heat flow and hydrate reactions was also shown to present severe numerical issues. It was critical to select convergence criteria and linear system tolerances to avoid large material balance and numerical errors.",
+      "author_str": "V. Indina, B. R. Fernandes, M. Delshad",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "1e0c501303fe1d75a460f207f3a8ffb98422fe82",
+      "url": "https://www.semanticscholar.org/paper/1e0c501303fe1d75a460f207f3a8ffb98422fe82",
+      "title": "Integrated Subsurface and Fracturing Treatment Analysis for Proppant Placement Enhancement in Tight Clastic Horizontal Well Fracturing",
+      "year": 2024,
+      "citationCount": 4,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.2118/219116-ms?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.2118/219116-ms, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2145850917",
+          "name": "A. Asif"
+        },
+        {
+          "authorId": "2289333590",
+          "name": "Abdul Muqtadir Khan"
+        },
+        {
+          "authorId": "2170580103",
+          "name": "M. Asiri"
+        },
+        {
+          "authorId": "2289331281",
+          "name": "El-Saied Hassan"
+        }
+      ],
+      "abstract": "\n Fracturing treatments in horizontal wells is challenging and the challenges are compounded in reservoirs influenced by high tectonic effects. Situations are faced where either rock breakdown or sufficient fracture propagation is not achieved. Near-wellbore complexities also lead to insufficient injection rate, post-breakdown, to place proppant. In this work, an in-depth diagnosis of factors affecting fracturing success enabled proposing potential solutions.\n A total of 106 fracturing stages were analyzed across 14 wells with a structured database created with 52 fracturing-relevant parameters. These included different phases of the well such as drilling and completion, processed openhole logs, perforation details, fracturing treatment parameters, and pressure diagnostics data. A detailed diagnostic study was then conducted to dissect and diagnose the factors that were affecting the successful fracture placement.\n The integrated study investigated 11 areas of diagnosis: (1) geology and reservoir characterization, (2) geomechanical aspects, (3) drilling fluid challenges, (4) completion type, (5) topographical analysis of tectonic stress components, (6) rock breakdown pressure, (7) surface pressure limitation related to fluid friction, (8) induced poroelasticity, (9) viscosity-dominated propagation, (10) formation pressure capacity leading to horizontal or T-shaped fractures, and (11) perforation strategy and placement. Multiple correlations were obtained during the diagnostic phase and revealed significant underlying mechanisms. The next phase was the implementation of the solution spectrum with 14 solutions: (1) image logs to understand impact of natural fractures; (2) lamination quantification; (3) textural analysis based on sand counting; (4) drilling fluid and overbalance optimization; (5) breakdown acid; (6) perforation optimization; (7) abrasive perforating and circular notching; (8) mud damage dissolution system (;9) low rate, low friction, viscous pill; (10) linear gel hybrid treatment; (11) channel/pulsed fracturing; (12) high-density fluid; (13) fiber-laden slurry; and (14) fluid-loss additives. An engineered workflow was proposed to be used at the wellsite. The workflow captures all the solutions in context of injection achieved at each step. The solution spectrum allowed enhancing the placement success by 40 to 50%.\n This work addresses the biggest challenge in eastern hemisphere in their tight gas clastic reservoirs during exploration and development strategy. The comprehensive subsurface integration with advanced image logs, strategic geosteering, drilling fluid optimization, fracturing techniques, technologies, and chemistry is unique in the industry with significant realized value.",
+      "author_str": "A. Asif, Abdul Muqtadir Khan, M. Asiri",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "a7f0318151c5e5a5703d1d22bca81a84e78a710f",
+      "url": "https://www.semanticscholar.org/paper/a7f0318151c5e5a5703d1d22bca81a84e78a710f",
+      "title": "Parametric Taxonomy of Educational Texts",
+      "year": 2024,
+      "citationCount": 3,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.15688/jvolsu2.2023.6.6",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.15688/jvolsu2.2023.6.6?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.15688/jvolsu2.2023.6.6, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "30747985",
+          "name": "R. Kupriyanov"
+        },
+        {
+          "authorId": "2198713344",
+          "name": "Marina I. Solnyshkina"
+        },
+        {
+          "authorId": "2144984323",
+          "name": "Polina A. Lekhnitskaya"
+        }
+      ],
+      "abstract": "The article is aimed at considering the issue of the discursive text typology and developing a parametric model of the elementary school texts for the ontological domain by employing a corpus-based approach and methods of linguistic statistics. The research corpus of over 90,000 tokens comprises texts of 13 textbooks acknowledged in the 2 nd grade of Russian schools. The applied multifactor discriminant analysis enabled identification and validation of typological characteristics of the texts under study, offering the formula for referring educational texts to a subject domain on Philology, Mathematics, and Natural Sciences. The discriminant analysis results confirmed the hypothesis that each type of text corresponds to a parametric model, which includes six constants: the average number of words in a sentence, the average number of nouns, the average number of verbs and the average number of adjectives per sentence, local noun overlap, global argument overlap. The assessment of linguistic parameters was performed by an automatic Russian text analyzer RuLingva. The classification accuracy of the parametric model was identified as 80%, which ensures its high reliability and allows for the data obtained to be employed in linguistic expertise, as well as for in automated linguistic profiling of texts. The prospect of the research implies installation of the model in RuLingva and development of similar models for texts of other subject domains.",
+      "author_str": "R. Kupriyanov, Marina I. Solnyshkina, Polina A. Lekhnitskaya",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "462469212c3cffd4473e924a52196d5bcc8480b0",
+      "url": "https://www.semanticscholar.org/paper/462469212c3cffd4473e924a52196d5bcc8480b0",
+      "title": "Results of the Mini-Adaptive Sampling Test Run (MASTR) Experiment: Autonomous Vehicles, Drifters, Floats, ROCIS, and HF-Radar, to Improve Loop Current System Dynamics and Forecasts in the Deepwater Gulf of México",
+      "year": 2024,
+      "citationCount": 3,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.4043/35072-ms?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.4043/35072-ms, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2272030371",
+          "name": "S. DiMarco"
+        },
+        {
+          "authorId": "2299261634",
+          "name": "S. Glenn"
+        },
+        {
+          "authorId": "2299492713",
+          "name": "M. Smith"
+        },
+        {
+          "authorId": "2126103671",
+          "name": "B. Jaimes de la Cruz"
+        },
+        {
+          "authorId": "2273957743",
+          "name": "R. Ramos"
+        },
+        {
+          "authorId": "2299261749",
+          "name": "E. Pallas-Sanz"
+        },
+        {
+          "authorId": "82962186",
+          "name": "M. Tenreiro"
+        },
+        {
+          "authorId": "2299262109",
+          "name": "S. Mahmud"
+        },
+        {
+          "authorId": "2299257380",
+          "name": "U. Nwankwo"
+        },
+        {
+          "authorId": "2299258737",
+          "name": "T. Miles"
+        },
+        {
+          "authorId": "2173797875",
+          "name": "R. M. Jiménez"
+        },
+        {
+          "authorId": "2299256513",
+          "name": "D. A. Salas de León"
+        },
+        {
+          "authorId": "2265275931",
+          "name": "A. Knap"
+        },
+        {
+          "authorId": "2299257134",
+          "name": "L. K. Shay"
+        },
+        {
+          "authorId": "2299255853",
+          "name": "B. Magnell"
+        },
+        {
+          "authorId": "66002092",
+          "name": "J. Storie"
+        },
+        {
+          "authorId": "2299257341",
+          "name": "G. Stuart"
+        },
+        {
+          "authorId": "2299257509",
+          "name": "J. Marble"
+        },
+        {
+          "authorId": "2299258671",
+          "name": "Víctor Kevin Contreras Tereza"
+        }
+      ],
+      "abstract": "\n We report the preliminary results of the international MASTR (Mini-Adaptive Sampling Test-Run) Experiment of the UGOS (Understanding the Gulf Ocean Systems) Program, which simultaneously deployed multiple autonomous measurement platforms (i.e., ocean buoyancy gliders, subsurface floats, surface drifters) and high-frequency coastal radar in the Deepwater south-eastern Gulf of México. The state-of-the-art ocean observing technologies provide near-real-time surface and subsurface co-located temperature, salinity and velocity observations and were assessed for improvements to the predictive capability of multiple federal and industry operational ocean circulation models. Six ocean buoyancy gliders were deployed in the western Yucatan Strait near Mahahual, México - four of the gliders were deployed in January 2024, two gliders were deployed from July thru November 2023. The summer and fall 2023 glider data was assimilated into the NOAA RTOFS numerical model and significantly improved the model performance to accurately represent the vertical hydrographic structure of the inflowing water from the Caribbean Sea to the Gulf of México via the Yucatan Strait. The high-frequency radar system deployed near Cancun, México was operational throughout the experiment. Radar observations of surface velocity during fall 2023 observed the passage of extreme weather events, including Hurricane Idalia (26 August – 2 September). Additionally, the hi-frequency radar observed the spatial and temporal position of the Yucatan Current speed core as the Loop Current System in the Gulf of México evolved from a retracted state to an extended state, to a detached state, with numerous reattachment sequences. The research underscores the complexity of the four-dimensional structure of the Loop Current system and the spatial and temporal evolution of the circulation in response to topographic, tidal, geostrophic, ageostrophic, and wind forcing. Additional observations from airborne and subsurface observational platforms reveal sub-mesoscale variability and the correlation between surface and subsurface current patterns.",
+      "author_str": "S. DiMarco, S. Glenn, M. Smith",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "c403b280e32228ff58a1d5f02750ace28ef9f143",
+      "url": "https://www.semanticscholar.org/paper/c403b280e32228ff58a1d5f02750ace28ef9f143",
+      "title": "An Analysis of the New ISO 23247 Series of Standards on Digital Twin Framework for Manufacturing",
+      "year": 2023,
+      "citationCount": 24,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1115/msec2023-101127?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1115/msec2023-101127, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2240568256",
+          "name": "Guodong Shao"
+        },
+        {
+          "authorId": "2248916626",
+          "name": "Simon Frechette"
+        },
+        {
+          "authorId": "2240588512",
+          "name": "Vijay Srinivasan"
+        }
+      ],
+      "abstract": "\n ISO has recently issued a series of standards (ISO 23247) that deals with a digital twin framework for manufacturing. It is a generic framework that can be specialized to enterprises engaged in different manufacturing processes, such as discrete, batch, or continuous. This paper presents an analysis of this series of standards with two main objectives: (1) to inform the manufacturing community at large and (2) to examine this series of standards for applications in emerging industry sectors (e.g., biomanufacturing) and with novel manufacturing technologies (e.g., additive manufacturing). It takes a bottom-up approach, dealing with key terms and concepts first and gradually building up the framework. It includes interpretations and analyses to guide an appreciation of what the ISO 23247 series standardizes and the space it opens up for further development and industrial application.",
+      "author_str": "Guodong Shao, Simon Frechette, Vijay Srinivasan",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "a51ef34da0ef4f01c47af0dd9e797d0a1542f556",
+      "url": "https://www.semanticscholar.org/paper/a51ef34da0ef4f01c47af0dd9e797d0a1542f556",
+      "title": "Using High Fidelity OBN Seismic Data to Unlock Conventional Near Field Exploration Prospectivity in Nigeria's Shallow Water Offshore Depobelt",
+      "year": 2023,
+      "citationCount": 24,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.2118/217099-ms?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.2118/217099-ms, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2226351084",
+          "name": "Obobi Onwuka"
+        },
+        {
+          "authorId": "2081244348",
+          "name": "C. Obinna"
+        },
+        {
+          "authorId": "2226392359",
+          "name": "Ifekelunma Umeogu"
+        },
+        {
+          "authorId": "41196213",
+          "name": "O. Balogun"
+        },
+        {
+          "authorId": "2132612160",
+          "name": "Precious Alamina"
+        },
+        {
+          "authorId": "108556021",
+          "name": "A. Adesida"
+        },
+        {
+          "authorId": "2226379522",
+          "name": "Akingbade Kolawale"
+        },
+        {
+          "authorId": "2226373508",
+          "name": "Ibianga Sokubo"
+        },
+        {
+          "authorId": "2226351103",
+          "name": "J. Osimobi"
+        },
+        {
+          "authorId": "2226373485",
+          "name": "J. Uche"
+        },
+        {
+          "authorId": "50011882",
+          "name": "D. McPherson"
+        }
+      ],
+      "abstract": "\n It is well-established that Nigeria's Shallow Water Offshore depobelt has large exploration potential and provides an upside for long term hydrocarbon production security. Long-standing imaging challenges associated with legacy streamer seismic data have led to safe and efficient acquisition of high-fidelity Ocean Bottom Node (OBN) seismic data covering three Oil Mining Leases’ (OML's) in the Depobelt. Multiple processed vintages of the data have resulted in better illumination of the subsurface structural and stratigraphic framework. This paper focuses on how the OBN data has helped improve our evaluation of the SOMA prospect.\n SOMA is an amplitude supported, 2-way fault bounded footwall closure bordered by key analogue wells to the north and south of the opportunity. The objective interval spans Pliocene to Messinian Upper plays with a depth range of 2,000 to 9,000ft (within the hydrostatic and amplitude domain). Compared to the legacy data, the new OBN data highlights a minor late-stage fault that compartmentalizes the prospective block separating it into two compartments – Block A & Block B. Eleven Reservoir Seal Pairs (RSP's) were interpreted and risked as gas. However, only three of the RSP's were considered commercially viable – contributing 56% of the entire prospect's Ultimate Recovery (UR). The reservoirs are expected to be mostly channels (single/multi-storey) and shorefaces deposited in the inner to outer shelf environment.\n Observed Direct Hydrocarbon Indicators (DHI's) show good calibration with offset wells where amplitudes conform to structure, are consistently higher in hydrocarbon filled sands and switches off in the brine leg. This paper aims to share key observations, results & learnings deduced from adopting an integrated subsurface approach, with strong subsurface collaboration geared towards delivering drill ready Near Field Exploration (NFE) volumes to support the business.",
+      "author_str": "Obobi Onwuka, C. Obinna, Ifekelunma Umeogu",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "1b43c784d3854f81823fc84a2f864defcb196762",
+      "url": "https://www.semanticscholar.org/paper/1b43c784d3854f81823fc84a2f864defcb196762",
+      "title": "Linkage and essential p-dimension",
+      "year": 2024,
+      "citationCount": 2,
+      "openAccessPdf": {
+        "url": "https://arxiv.org/pdf/2403.11154",
+        "status": "GREEN",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2403.11154, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2307475088",
+          "name": "Adam Chapman"
+        }
+      ],
+      "abstract": "We prove that two cyclically linked p-algebras of prime degree become inseparably linked under a prime to p extension if and only if the essential p-dimension of the pair is 2. We conclude that the essential p-dimension of pairs of cyclically linked p-algebras is 3 by constructing an example of a pair that does not become inseparably linked under any prime to p extension.",
+      "author_str": "Adam Chapman",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "6787284073ef7ae193346946f5be421f4c28881b",
+      "url": "https://www.semanticscholar.org/paper/6787284073ef7ae193346946f5be421f4c28881b",
+      "title": "A multiphase eigenvalue problem on a stratified Lie group",
+      "year": 2024,
+      "citationCount": 2,
+      "openAccessPdf": {
+        "url": "https://link.springer.com/content/pdf/10.1007/s12215-024-01035-1.pdf",
+        "status": "HYBRID",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2405.14308, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "153017153",
+          "name": "D. Choudhuri"
+        },
+        {
+          "authorId": "2283412834",
+          "name": "Leandro S. Tavares"
+        },
+        {
+          "authorId": "2202788095",
+          "name": "D. D. Repovš"
+        }
+      ],
+      "abstract": "We consider a multiphase spectral problem on a stratified Lie group. We prove the existence of an eigenfunction of (2, q)-eigenvalue problem on a bounded domain. Furthermore, we also establish a Pohozaev-like identity corresponding to the problem on the Heisenberg group.",
+      "author_str": "D. Choudhuri, Leandro S. Tavares, D. D. Repovš",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "215dd596dfceb57e569c59b3c05069d6886982f2",
+      "url": "https://www.semanticscholar.org/paper/215dd596dfceb57e569c59b3c05069d6886982f2",
+      "title": "Complex Reservoir Characterization of Ultra Tight Naturally Fractured Carbonate Over-Pressured Gas Condensate Reservoir Using Dynamic Data Analysis",
+      "year": 2024,
+      "citationCount": 2,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.2523/iptc-24345-ms?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.2523/iptc-24345-ms, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2282429894",
+          "name": "Sadam Hussain"
+        },
+        {
+          "authorId": "2282616384",
+          "name": "Zaheer Ahmed"
+        },
+        {
+          "authorId": "2282181447",
+          "name": "Saad Mehmood"
+        },
+        {
+          "authorId": "2227152262",
+          "name": "Abdul Azeem"
+        },
+        {
+          "authorId": "153927726",
+          "name": "M. Iqbal"
+        },
+        {
+          "authorId": "108349846",
+          "name": "M. Zakir"
+        },
+        {
+          "authorId": "117343473",
+          "name": "M. Ejaz"
+        },
+        {
+          "authorId": "2282586494",
+          "name": "Xingru Wu"
+        }
+      ],
+      "abstract": "\n Ultra-Tight fractured carbonate reservoirs (UTFCR) are the world's most geologically complex and heterogeneous reservoirs. To develop over-pressured UTFCR, reservoir dynamics and boundaries must be characterized using measurements and interpretations on various scales. Pressure/rate transient analysis (PTA & RTA) can be performed to characterize UTFCR on a relatively large scale for field development. The study aims to apply dynamic data interpretation to characterize reservoir and boundaries, estimate gas initial in-place (GIIP), and evaluate well spacing for field development.\n We used three pressure buildup (PBU) tests and two-and-a-half years of production data to characterize the reservoir system and boundaries with varying models. Data quality assurance/quality control (QA/QC) and synchronization were also performed before PBU analysis. For RTA, production rates and flowing wellhead pressure (FWHP) history of two and a half years were used in the analysis. Before quantitative analysis and reservoir characterization, we converted FWHP to bottom-hole flowing pressure (BHFP). Data was also filtered during RTA to select a pseudo-steady state for analysis. Complex boundaries were characterized using PTA and RTA for GIIP and drainage area for field development planning. Also, initial pressure (Pi) was estimated, which was previously unknown. Sensitivity analysis was performed to evaluate uncertain parameters.\n Due to significant uncertainties in the reservoir characterization from geological study, different reservoir and boundary models were matched with PBUs. It was observed that wellbore storage was improved during the second and third PBU, which may be due to a decrease in natural fractures (N.F.s) permeability/aperture. Additionally, fracture and matrix weighted-average permeability decreased from 3.6 md to 2 md. Fracture half-length (Xf) was also reduced from 400ft to 190ft during the second and third PBUs, indicating healing of N.F.s due to reservoir compaction in the reservoir depletion process. Furthermore, the reservoir system changed from a dual-porosity to a single-porosity system. Initially, reservoir boundaries were recognized as a closed system. However, at a very late time, the analysis showed an increase in flow capacity far away from the well, and the multilinear composite model matched with all PBUs, indicating that the reservoir is produced from three composites/compartments having different mobilities, diffusivities, and sizes. Also, the estimated Pi based on PTA and RTA was in close agreement with Pi estimated based on drilling information. Based on PBU analysis, the estimated GIIP was ~30Bscf and a ~2km drainage radius. On the other hand, RTA matched with a dual-porosity close reservoir system having lower weighted-average fracture and matrix permeability (1.1md). Xf of ~2300ft was estimated; the N.F. network seems pervasive. RTA estimated GIIP ranged between 25-45 Bscf and drainage radius between 2 – 2.3km.\n A conventional reservoir engineering approach for field development cannot be used to characterize UTFCR. This study will assist and provide a workflow to characterize UTFCR and estimate GIIP/drainage area for field development using dynamic data information. It can be concluded that UTFCR can vary from Type I to III fractured reservoirs and is produced from multi-composites/compartments. Field appraisal and development should be carefully planned to avoid interference and natural fracture-hit.",
+      "author_str": "Sadam Hussain, Zaheer Ahmed, Saad Mehmood",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "5f19732510e08e2da5037a967d4193d07fb71bad",
+      "url": "https://www.semanticscholar.org/paper/5f19732510e08e2da5037a967d4193d07fb71bad",
+      "title": "Historical Narrative: Constituent Features and Linguistic Properties",
+      "year": 2024,
+      "citationCount": 2,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.15688/jvolsu2.2024.6.12?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.15688/jvolsu2.2024.6.12, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "84021914",
+          "name": "O. Leontovich"
+        },
+        {
+          "authorId": "2342955382",
+          "name": "Anna Khanova"
+        }
+      ],
+      "abstract": "While historians extensively research narrative and use a significant number of concepts that linguists traditionally see as their own, the properties of historical narrative have not received sufficient coverage in linguistics yet. This article analyses the similarities and differences in the approach to narrative by historians and linguists, formulates the linguistic criteria of narrativity and discusses the relationship between factuality and fictionality. The constitutive features of historical narrative identified and described in the present study include temporality, spatiality, eventfulness, informativeness, interpretability, ideologization and semioticity. Language is treated as a tool of verbalising historical narrative, structuring its chronology and logic, shaping the perception of events through a system of presuppositions, connotations, and allusions, creating historical ambiance and constructing mythologised designations. The linguistic means used in the construction of historical narrative comprise: 1) the language of the historical source; 2) the narrator's language; 3) historical terminology; 4) historicisms and archaisms; 5) precedent names; 6) obsolete and modern toponyms. The study emphasises the importance of perceiving history as a hypertext – multiple narratives united by a network of intertextual connections. The study is illustrated by examples from narratives about the Silk Road in Chinese, Russian and English. The Silk Road symbolises the crossroads of civilisations, the interaction between East and West, the economic and cultural exchanges between Asia and Europe, peaceful cooperation, good neighbourliness, and shared cultural experience.",
+      "author_str": "O. Leontovich, Anna Khanova",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "3cf8658b83410c74a784c43da26b2818f5acbe54",
+      "url": "https://www.semanticscholar.org/paper/3cf8658b83410c74a784c43da26b2818f5acbe54",
+      "title": "Pilot Tests of Steam Flooding after Cyclic Steam-N2-CO2 Stimulation in Bohai Offshore with Large Well Spacing",
+      "year": 2024,
+      "citationCount": 2,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.4043/34911-ms?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.4043/34911-ms, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2287662010",
+          "name": "Dong Liu"
+        },
+        {
+          "authorId": "2287257416",
+          "name": "Zongbin Liu"
+        },
+        {
+          "authorId": "2287175554",
+          "name": "Guangming Pan"
+        },
+        {
+          "authorId": "2287800317",
+          "name": "Jianbo Chen"
+        },
+        {
+          "authorId": "2287174514",
+          "name": "Hui Liao"
+        },
+        {
+          "authorId": "2287083588",
+          "name": "Hao Li"
+        }
+      ],
+      "abstract": "\n Two challenges confront the development of Bohai heavy oil resources: first is the high development costs, which requires an economic limit production of 100,000 m3 for a single well; in addition, the unfavorable geological conditions, including thin payzones and deep burial, cause serious heat losses and unsatisfactory oil recovery under large well spacings. Therefore, this study aims to solve such technical issues as \"efficient production with fewer wells\" and \"high recovery with large well spacings\".\n A recovery strategy is developed: improved recovery efficiency during the Cyclic Steam-N2-CO2 Stimulation (CSS) stage, and effective conversion from CSS to steam flooding (SF), and uniform heating the reservoir during the SF stage. This attempts to address the inefficient heating in thin pay zones, lack of experiences on SF-after-CSS with large well spacings, and difficult control of temperature field under irregular well patterns.\n Learnings are summarized as following: (1) A new technique, weak gel-gas-chemical agent assisted CSS, is proposed. The co-injection results in relatively higher cycle oil production and smaller steam-oil ratio after multiple cycles. The oil recovery is improved from 23.0% to 32.8%, and return on investment (ROI) from 1:1 to 9:1. (2) The threshold pressure gradient is dynamically characterized for offshore wells with large-well spacings. Quantitative identification for the timing for CSS-to-SF is established on the basis of reservoir temperatures. The threshold well spacing is increased from 80 m to 200-300 m, and the corresponding oil recovery boosted from 32.8% to 43.5%. (3) On the basis of the three-level architecture characterization of meandering river sand body, a method is proposed to adjust the temperature field in the reservoir during the SF stage. It improves the aerial sweep between large-spaced wells from 72% to 87% and the oil recovery from 43.5% to 47.0%. (4) The aforementioned techniques have been applied in NB35 reservoir and obtained success, which achieved an incremental oil production of 38.5×104 t and a recovery degree of 32% in the pilot test area.\n The study proved SF as a feasible follow-up process of CSS in offshore heavy oil reservoirs with deep burial, thin pay zones, and large well spacings. It provides great support for the efficient development of Bohai offshore oilfield, as well as a new direction for similar reservoirs in the world.",
+      "author_str": "Dong Liu, Zongbin Liu, Guangming Pan",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "134135ded3d644f7802c8795958bb175ce0065af",
+      "url": "https://www.semanticscholar.org/paper/134135ded3d644f7802c8795958bb175ce0065af",
+      "title": "Co-Injection of Surfactant and Gas in Unconventional Reservoirs",
+      "year": 2024,
+      "citationCount": 2,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.2118/218143-ms?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.2118/218143-ms, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2297952618",
+          "name": "D. Schechter"
+        },
+        {
+          "authorId": "2297984632",
+          "name": "B. Moore"
+        },
+        {
+          "authorId": "2297973874",
+          "name": "A. Sarmah"
+        }
+      ],
+      "abstract": "\n Enhanced oil recovery in unconventional reservoirs has established a track record in the past few years. It is an important technology to investigate and implement to pursue longevity in the thousands of horizontal laterals that are reaching their terminal decline towards abandonment. EOR techniques have been proven to be technically feasible and to a certain degree, economically attractive. The techniques described in this paper are 1) gas injection in the huff n' puff mode 2) surfactant injection in the huff n' puff mode and 3) co- injection of both miscible gas and surfactant. The objectives of this paper are to present laboratory evidence and field resu lts for the three techniques described.\n This paper will present laboratory justification behind each of the three methods. Results from core data are presented for each of the three methods that include gas penetration, imbibition, and the use of both mechanisms for co-injection of gas and surfactant. Experiments using time-lapse CT scanning demonstrate the saturation changes as oil is displaced when core samples are exposed to gas, surfactant, or a combination of both.\n Miscible gas experiments conducted using time-lapse CT scanning indicate gas penetration induces saturation changes on reasonable time scales. Wettability alteration by surfactants as determined by contact angle measurements will be presented. Ample contact angle and imbibition data demonstrate that wettability alteration is the key to application of surfactants in unconventional reservoirs. Both techniques have been applied in successful field projects.\n A novel co-injection method with both miscible gas and surfactant is described. Application of co-injection using both gas and surfactant capitalizing on the synergy between the mechanisms is especially intriguing, both from a laboratory and field perspective. The technique utilizes both the diffusion/swelling mechanism of miscible gas along with the ability of surfactant to alter wettability resulting in gas sweeping the larger pore spaces and aqueous phase surfactants to displace oil in smaller pores via capillary pressure. Experiments are presented that show miscible gas displaces oil from larger pores and surfactant imbibition displaces oil from smaller pores during co- injection. Review of a co-injection project demonstrates key advantages over gas injection alone such as 1) prevention of rapid gas migration via fractures away from injection well 2) reduction of the necessity for high pressure compression to attain the Minimum Miscibility Pressure (MMP) by utilizing co-injection of surfactant and gas and 3) a superior gas utilization factor (GUF) as compared to gas-only projects showing the importance of surfactant during co-injection.",
+      "author_str": "D. Schechter, B. Moore, A. Sarmah",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "8efea0ecfeb87de7af30a6876ff35d12920b8fb6",
+      "url": "https://www.semanticscholar.org/paper/8efea0ecfeb87de7af30a6876ff35d12920b8fb6",
+      "title": "Investigating the Extent of the Impact of Acetic Acid as Halite Precipitation Reduction Agent for Enhancing CO2 Injectivity in Deep Saline Aquifers",
+      "year": 2024,
+      "citationCount": 2,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.2118/217884-ms?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.2118/217884-ms, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2219652318",
+          "name": "Victor Darkwah-Owusu"
+        },
+        {
+          "authorId": "51301785",
+          "name": "M. A. Md Yusof"
+        },
+        {
+          "authorId": "1423158409",
+          "name": "Y. A. Sokama‐Neuyam"
+        },
+        {
+          "authorId": "1581362907",
+          "name": "B. N. Tackie-Otoo"
+        },
+        {
+          "authorId": "2219666555",
+          "name": "Joshua Nsiah Turkson"
+        },
+        {
+          "authorId": "2284651149",
+          "name": "Sunil Kwon"
+        },
+        {
+          "authorId": "2284537129",
+          "name": "Lee Jang Hyun"
+        },
+        {
+          "authorId": "3192496",
+          "name": "I. Fjelde"
+        }
+      ],
+      "abstract": "\n CO2 sequestration in deep saline aquifers is vital to reduce the global carbon footprint. However, this effort can be hampered due to salt precipitation during CO2 injection, which clogs flow pathways leading to a significant reduction in CO2 injectivity. While freshwater has traditionally been employed as the primary solution to dissolve the precipitated salt, the salt tends to re-precipitate upon CO2 reinjection post-treatment, exacerbating the injectivity damage. The project was divided into two stages: (1) simulating salt precipitation scenarios with varying brine salinities to mimic formation damage during CO2 injection in saline aquifers, and (2) critically assessing the impact and effectiveness of acetic acid as a mitigation fluid under different injection scenarios through core-flooding experiments. The results were compared with freshwater and low salinity water (LSW). Mineralogical and petrographical assessments were carried out on the core samples to characterize the Berea sandstone cores. The core flooding experiments were conducted at 60 °C and 1600 psi for CO2 injection, freshwater, LSW and acetic acid flooding. The experimental results revealed significant reductions in permeability (37% -75% impairment) and porosity (18% to 33%) due to salt precipitation. Among the treatments, LSW exhibited the lowest efficacy, followed by freshwater, possibly due to clay swelling, fines migration, and capillary trapping effects causing pore throat blockages. In contrast to freshwater and LSW, acetic acid treatment demonstrated improved injectivity, showing a high dissolution potential with up to a 137% increase compared to initial permeability. This study provides a preliminary assessment of the potential of acetic acid for CO2 injectivity enhancement and recommends further investigations on the effects of acetic acid and brine concentrations on the process.",
+      "author_str": "Victor Darkwah-Owusu, M. A. Md Yusof, Y. A. Sokama‐Neuyam",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "1081b25c32517886759462a75cbb6a959612fcce",
+      "url": "https://www.semanticscholar.org/paper/1081b25c32517886759462a75cbb6a959612fcce",
+      "title": "Targeted Acid Stimulation Technique for Production Enhancement – A Montney Case Study",
+      "year": 2024,
+      "citationCount": 2,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.2118/218081-ms?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.2118/218081-ms, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2222944004",
+          "name": "F. T. Smith"
+        },
+        {
+          "authorId": "2291299997",
+          "name": "Z. Ramji"
+        }
+      ],
+      "abstract": "\n A safe and cost-effective method of stimulating a multi-zone hydrocarbon producing well is presented whereby a tool containing dry chemical is deployed downhole via wireline. An extended exothermic reaction is initiated downhole which generates acid vapour at a target depth in front of the perforated interval. This method allows for each interval to be uniquely treated with specific acid blends and order of operations.\n A typical well in the field is characterized as a vertical oil producing well with two existing perforated intervals. The top interval is a 3½ foot perforated interval in the Worsley Dolomite with a permeability of 500 - 1000 mD and 40 - 45% porosity. Approximately 50 feet below is a 3 ½ foot perforated Worsley Siltstone interval with 18-20% porosity and permeability of 5 - 10 mD. The 5 ½\" 14 lbs/ft cemented production casing is set at approximately 3000 ft.\n Prior to acidizing, a workover operation was completed where the 2 7/8\" tubing was pulled. The order of operations was to first perforate a new 20-foot interval in the Montney that was 70 feet below the Worsley Siltstone. Subsequently, the tightest interval – the Worsley Siltstone – was then treated using an HCl tool deployed via wireline which acted as a pre-flush treatment. This removed any existing scale and provided an HCl rich environment to minimize the risk or precipitation of CaF2 when later acidizing with Mud Acid. After the HCl pre-flush, an HCl/HF tool was then deployed. The next interval was the Worsley Dolomite which was treated with HCl followed by the newly perforated 20-foot Montney interval which was also treated with HCl. This entire operation is completed in 8 hours.\n Prior to treatment, the candidate wells were producing on average 6 bbl/day and had shown a declining trend over a period of several years. Prior treatments were to bullhead 15% HCl acid and it was believed that the acid was not all going to the desired zone. Using the new method, a total of 7 wells were treated - one well per day - and the average increase in production increase was 342% approximately 60 days post-treatment. The production increase was sustained with wells maintaining an average increase in production of 183% approximately 9 months post-treatment.\n This method of acidizing has supplanted the previous acidizing method - bullheading of 15% HCl - due to its sustained production enhancement and cost-effectiveness.",
+      "author_str": "F. T. Smith, Z. Ramji",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "a54a986d15b27db354afac218a295657889f1b75",
+      "url": "https://www.semanticscholar.org/paper/a54a986d15b27db354afac218a295657889f1b75",
+      "title": "Evaluation of Production and Injection Profiles by a Combination of Thermal Anemometry Technology, Spectral Noise Logging, and Numerical Temperature Modeling in Horizontal Oil Producers and Water Injectors",
+      "year": 2024,
+      "citationCount": 2,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.2118/218485-ms?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.2118/218485-ms, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2396266798",
+          "name": "A. Dolgikh"
+        },
+        {
+          "authorId": "2297918905",
+          "name": "D. Shubenok"
+        },
+        {
+          "authorId": "2297917907",
+          "name": "G. Chinchayan"
+        },
+        {
+          "authorId": "2297910645",
+          "name": "B. Al Bahri"
+        }
+      ],
+      "abstract": "\n The limitations of conventional spinner-based methods of production logging in horizontal wells, such as low rate, oil viscosity, wellbore trajectory, and debris, have driven the development of non-mechanical technologies over the past two decades. The paper illustrates an innovative combination of several spinnerless methods as a comprehensive approach for reservoir performance evaluation based on recent field cases. The ability of a simultaneous evaluation of the fluid flow rate inside the wellbore as well as through the formation allows a complete assessment of well-reservoir performance.\n For the wellbore fluid flow evaluation, the thermal anemometry method was proposed. The technique allows the detection of the fluid flow zones and the calculation of fluid velocity based on temperature changes of the permanently heated thermal anemometer sensor. The successful field tests and cases of the technique application were published in several technical papers [1, 2], where the consistency of thermal anemometry data with spinner results was proved. The current technical paper provides the fluid flow velocity calculation methodology based on the laboratory and field calibrations of the thermal anemometry tool.\n Spectral noise logging (SNL) and numerical temperature modeling were proposed for the reservoir fluid flow evaluation. The mentioned methods were also successfully implemented over the last decade and confirmed by the number of published technical papers [3, 4]. For the spectral noise logging the new-generation split-channels tool was used. For the numerical temperature modeling the high-resolution temperature data acquisition was used to derive the quantitative production/injection profiles related to reservoir flow.\n The paper demonstrates the results of several case studies where the combination of the spinnerless methods was applied: one oil producer and two water injectors. For oil producers, the cause of the high water cut was determined by the localization of water inflow zones. For water injectors, the evaluation of the water injection conformance across the reservoir section was resolved by calculating the detailed injection profiles.\n The complex results of reviewed case studies emphasizing the wellbore-oriented and reservoir-oriented flow profiles give a broader understanding of the production/injection processes. The paper also discusses the limitations of each technique, as well as the advantages and complementarity of the comprehensive approach in general. One of the advantages discussed in the paper is a lack of mechanical elements in tools, making the combination of spinner-less methods a reliable alternative to conventional spinner-based methods for production logging in horizontal water injectors and oil producers.",
+      "author_str": "A. Dolgikh, D. Shubenok, G. Chinchayan",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "da2f28a4de44b6b24f53b2a024eb8cd865d5959f",
+      "url": "https://www.semanticscholar.org/paper/da2f28a4de44b6b24f53b2a024eb8cd865d5959f",
+      "title": "Impact of Injection Velocity on Wormhole Generation Due to CO2 Sequestration",
+      "year": 2024,
+      "citationCount": 2,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.2118/219304-ms?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.2118/219304-ms, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2258124417",
+          "name": "Elvin Mirzayev"
+        },
+        {
+          "authorId": "2293115949",
+          "name": "Mustafa Al Ramadan"
+        },
+        {
+          "authorId": "2141466419",
+          "name": "M. Aljawad"
+        },
+        {
+          "authorId": "2243714233",
+          "name": "A. F. Ibrahim"
+        },
+        {
+          "authorId": "2194004959",
+          "name": "Zuhair Al-Yousif"
+        },
+        {
+          "authorId": "2275710732",
+          "name": "Muhammad M. Almajid"
+        },
+        {
+          "authorId": "2300407896",
+          "name": "Ahmed Al Yaseri"
+        }
+      ],
+      "abstract": "\n Carbon dioxide (CO2) could be potentially stored in deep saline carbonate aquifers, taking advantage of its solubility in brine. Nevertheless, wormholes will be created due to the reactivity of carbonic acid with limestone. This research targets revealing the impact of live brine (i.e., sc-CO2 soluble in brine) injection velocity on the efficiency and shape of generated wormholes.\n Core samples of limestone, measuring 1.5 × 3 inches and exhibiting permeability values ranging from 2 to 3 mD, along with porosity values ranging from 15 to 17%, were chosen for the study. Following the coreflooding experiments, the samples underwent scanning to observe both the generation of wormholes and alterations in the pore structure. CO2 was mixed with 120,000 ppm salinity brine at 60 °C and 2,000 psi at a 30:70 ratio and injected into the core samples. The effect of injection velocity was analyzed by injecting live brine at 0.25, 1, and 5 cc/min. 700 mL of CO2-saturated brine were injected for all the experiments.\n The analysis showed a porosity increase due to the creation of wormhole from the injection of live brine. A significant increase has been seen in permeability due to created half or continuous wormholes. Furthermore, as the injection increased from 0.25 cc/min to 1 cc/min, less live brine was needed to create the wormhole. On the other hand, the increase in flow rate from 1 to 5 cc/min siginificantly increased the required volume. These results indicated an optimum injection velocity to be at 1 cc/min with the PVBT of 18. In summary, the study revealed that the injection of live brine induces the formation of a wormhole, resulting in changes to the porosity and permeability of the rock.\n The novelty of this study lies in its application to CO2 storage, specifically in exploring the influence of injection rate on the sequestration process. This study marks the pioneering effort to comprehend the impact of CO2 injection velocity on wormhole generation and to identify the optimal conditions for such processes.",
+      "author_str": "Elvin Mirzayev, Mustafa Al Ramadan, M. Aljawad",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "dd1154a3e6aad2eb78ba4c6b61f3a9554ab666cb",
+      "url": "https://www.semanticscholar.org/paper/dd1154a3e6aad2eb78ba4c6b61f3a9554ab666cb",
+      "title": "Data Governance, Privacy, Data Sharing Challenges",
+      "year": 2024,
+      "citationCount": 2,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.2118/219172-ms?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.2118/219172-ms, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2300401288",
+          "name": "Pankaj Purohit"
+        },
+        {
+          "authorId": "2300402051",
+          "name": "Fatema Al Nuaimi"
+        },
+        {
+          "authorId": "2300403872",
+          "name": "Safeer Nakkolakkal"
+        }
+      ],
+      "abstract": "\n Oil and Gas Company spends millions of $ on logging operations activity every year. Managing and tracking of well logs data from field acquisition through processing to interpretation has been a challenge, well log data delivery workflow was manual and not streamlined leading to disruption of the data flow and several data issues such as Timely availability, Quality, Completeness & Loss of data. These issues of Data Governance, Privacy, Data Sharing Challenges cause Geoscientists and Engineers to spend their valuable time on low level tasks such as searching, correcting, re-acquiring the data rather than focusing on their core tasks of analysis and interpretation.\n Data Management initiated an in house developed automated, integrated, and comprehensive workflow in the form of Corporate Well Log Platform See Figure 1 and 2, to overcome these Data Governance challenges, save $ investment on logging operation activities which provided the right data timely to the business needs. Streamline the processes of tracking, quality checking, archiving, publishing, and managing the well logs is vital to any Oil company.\n A controlled environment had provided Oil and Gas Company with the opportunity to enrich the data store & conduct major field reviews, carry out faster appraisal and future field development to meet company production target for economic growth of the country. This in-house developed Corporate Well Log has become an important tool as a source of providing valuable information related to sub-surface geology and hydrocarbon resources. The purpose of this study was to investigate the management and tracking of well logs data from the field acquisition through processing to interpretation along with the business and data sharing challenges, process work-flow standardization.\n The study findings suggest that automated, integrated, and comprehensive web-based workflow solution helps to overcome the challenges, saving approximately $7.5m. by securing $ investment and increasing the data completeness. Moreover, with the timely availability of quality data, completeness & Loss of data over the time cause Geoscientists and Engineers to spend their valuable time on searching, correcting, re-acquiring the data rather than focusing on their core tasks of analysis and interpretation. Data governance through automated processes ensures that important data assets are managed efficiently throughout the enterprise its life cycle while ensuring proper time management for the company.\n The main results of this project are as follows: In-house e-well logs Solution development & IntegrationEstablishing Well Log Data Governanceworkflow mapping along the well log business processautomated Emails, Reminders, Dashboard, ReportsEnrich corporate well log data repository.\n The novelty of current research specifies the significance for the implantation of well-logs data process automation for the first time in history of the Oil and Gas Company Group. By establishing such process of \"Well Log Data Governance\", Oil and Gas companies can enhance core business process of monitoring and preserve E&P data for future generation & field development. However, for achieving such operational excellence, there is a strong need for the automation of business processes and workflows.",
+      "author_str": "Pankaj Purohit, Fatema Al Nuaimi, Safeer Nakkolakkal",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "6d565d2f933e964e90d4fa0654c41a69161b94a0",
+      "url": "https://www.semanticscholar.org/paper/6d565d2f933e964e90d4fa0654c41a69161b94a0",
+      "title": "Zalcman’s renormalization lemma, Pinchuk’s rescaling method, and Catlin’s estimates revisited",
+      "year": 2024,
+      "citationCount": 2,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2410.17633, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2339361944",
+          "name": "François Berteloot"
+        }
+      ],
+      "abstract": "We present a renormalization lemma for certain maps defined on the unit disc of C\\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$${\\mathbb {C}}$$\\end{document} and taking values in some metric space. We show that the classical renormalization lemmas of Zalcman and Miniowitz can be deduced from our lemma. We also use it to establish a general normality statement for the Pinchuk’s scaling method in C2\\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$${\\mathbb {C}}^2$$\\end{document} and, incidentally, reprove the Catlin’s estimates for the Kobayashi metric in finite type domains.",
+      "author_str": "François Berteloot",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "32cadf3b8bb007164cec5639362ad8a33f559c42",
+      "url": "https://www.semanticscholar.org/paper/32cadf3b8bb007164cec5639362ad8a33f559c42",
+      "title": "Cognitive disorders in Parkinson's disease",
+      "year": 2024,
+      "citationCount": 2,
+      "openAccessPdf": {
+        "url": "http://aging-longevity.org.ua/journal-description/article/download/124/107",
+        "status": "HYBRID",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.47855/jal9020-2024-5-6?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.47855/jal9020-2024-5-6, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2297957312",
+          "name": "Victor Kholin"
+        },
+        {
+          "authorId": "2297955130",
+          "name": "Iryna Karaban"
+        },
+        {
+          "authorId": "2297957094",
+          "name": "S. Kryzhanovskiy"
+        },
+        {
+          "authorId": "3918872",
+          "name": "N. Karasevich"
+        },
+        {
+          "authorId": "2330049019",
+          "name": "N. Melnik"
+        },
+        {
+          "authorId": "2297950057",
+          "name": "Maryna Khodakovska"
+        },
+        {
+          "authorId": "2347655078",
+          "name": "Hanna Shershanova"
+        },
+        {
+          "authorId": "2297955154",
+          "name": "Natalia Movchun"
+        }
+      ],
+      "abstract": "Movement disorders undoubtedly form the core of the Parkinson's disease (PD) clinical picture. However, several other clinical manifestations can significantly complicate the course of the disease. These are the so-called non-motor symptoms, which include emotional, cognitive, autonomic, and sensory disorders, as well as psychotic [1, 2, 3]. According to DSM-IV criteria (American Psychiatric Association, 1994), dementia in PD can be presented as a progressive memory impairment syndrome in the absence of aphasia, apraxia, or agnosia.\n\nKeywords: Parkinson's disease; cognitive disorders; dementia; Alzheimer's disease; levodopa; acetylcholinesterase inhibitors",
+      "author_str": "Victor Kholin, Iryna Karaban, S. Kryzhanovskiy",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "080d4f62d6a3044733d7ba4460a20adcb1157896",
+      "url": "https://www.semanticscholar.org/paper/080d4f62d6a3044733d7ba4460a20adcb1157896",
+      "title": "Novel Approach to Stimulation Design Optimization for Ultra-Deep, 200°C Temperature Formations: A Case Study in Kunteyi Block",
+      "year": 2024,
+      "citationCount": 1,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.2118/219135-ms?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.2118/219135-ms, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2253596656",
+          "name": "Tengfei Hou"
+        },
+        {
+          "authorId": "2300471007",
+          "name": "Hai Lin"
+        },
+        {
+          "authorId": "2300427472",
+          "name": "Xi Wu"
+        },
+        {
+          "authorId": "2327209028",
+          "name": "Xiaolu Wang"
+        },
+        {
+          "authorId": "2300500575",
+          "name": "Zhanchun Li"
+        },
+        {
+          "authorId": "2255176598",
+          "name": "Shiling Zhang"
+        },
+        {
+          "authorId": "2113511412",
+          "name": "S. Feng"
+        },
+        {
+          "authorId": "2145955982",
+          "name": "Yang Zhang"
+        },
+        {
+          "authorId": "2300445283",
+          "name": "Yong Liu"
+        },
+        {
+          "authorId": "2238661806",
+          "name": "Litao Shang"
+        },
+        {
+          "authorId": "2253800273",
+          "name": "Haoli Bai"
+        }
+      ],
+      "abstract": "\n The kunteyi Block, a domestic gas field, poses unique challenges with its ultra-deep, 392°F high-temperature conditions. These extreme environments significantly challenge the safety and efficiency of well testing and stimulation. The block faces issues such as:1) Difficulty in reservoir coring and low accuracy in mechanical parameter interpretation from conventional logging data; 2) Challenges in fracture initiation under pressure constraints in ultra-deep (20,964 ft TVD), high-stress, high-angle wells; 3) Lack of experience in fracturing operations for ultra-deep, high-angle wells at 392°F.\n This paper presents a design methodology and process tailored for ultra-deep, high-temperature, high-angle wells. It begins with cutting test technology for in-depth rock mechanics testing, followed by an innovative mechanical specific energy calculation method, factoring in actual drilling bit selection. This approach, combined with rock mechanics parameters, facilitates the identification of optimal cluster locations. Key construction parameters like inter-stage spacing, perforation cluster number and hole count, measure displacement, and fluid volume were further refined through three-dimensional fracture expansion modeling. Moreover, for a suspected aquifer 30 feet below the first section, a targeted low-displacement, small-scale acidification process was implemented.\n The results demonstrate that this method effectively quantifies the rock mechanical parameters of the Kunteyi Block. The optimized perforation locations achieved lower breakdown pressures of 13,778 psi; an 8.5% reduction compared to neighboring wells at 15,055 psi. The high-angle wells, segmented into four stages with differentiated fluid scales ranging from 56,504 to 63,566 cubic feet and a pump rate increase from 18.9 bpm to 62.9 bpm, enabled efficient fracture initiation. The implementation of small-displacement acidification effectively prevented communication with the water layer, thus enhancing the project's feasibility.\n This paper validates the effectiveness of cluster location enhancement using cutting tests and mechanical specific energy methods. These findings offer valuable insights and practical experience for the efficient stimulation of ultra-deep, high-temperature, high-angle wells.",
+      "author_str": "Tengfei Hou, Hai Lin, Xi Wu",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "a855f197e21740cdde877e15f825f4f78cbeefe2",
+      "url": "https://www.semanticscholar.org/paper/a855f197e21740cdde877e15f825f4f78cbeefe2",
+      "title": "Comparison Between the Performance of Threaded Connections Versus Welded Connections in Pipe-Fitting Assemblies",
+      "year": 2024,
+      "citationCount": 1,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1115/pvp2024-123494?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1115/pvp2024-123494, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2330922984",
+          "name": "C. R. Rusnak"
+        },
+        {
+          "authorId": "94711803",
+          "name": "S. Elfass"
+        },
+        {
+          "authorId": "2330837776",
+          "name": "Allen J. Rivas"
+        }
+      ],
+      "abstract": "\n Fire suppression piping systems play a crucial role in minimizing the impact of unwanted fires. These systems primarily consist of welded or threaded connections at the pipe/fittings interface. While design codes, like the American Society of Mechanical Engineering (ASME) B31J, extensively address stress intensity/flexibility factors and rotational flexibility/stiffness in welded connections, threaded connections receive limited attention. Furthermore, ASME codes do not adequately address the failure modes of threaded fittings and their implications for system performance.\n Recent research conducted at the University of Nevada, Reno (UNR) has sought to highlight these differences. The research team at UNR undertook a comprehensive experimental program involving cast iron threaded pipe-fitting assemblies to gain a deeper understanding of their performance. Under this program, 126 full-scale fitting assemblies were tested. The experiments included three fitting types (elbow, tee, and tee reducers), five (5) fitting sizes (1, 1.5, 2, 3, and 4 inches), and three configurations. All assemblies were filled with water and experiments were conducted at an internal operating water pressure of 140 ±5 psi. The experiments revealed three damage states, with leakage at the pipe-fitting interface being the predominant mode for small size fittings. This is typically different from welded connections. This paper discusses the performance of threaded fittings as compared to the published performance of welded fittings. It also discusses the pressing need to generate new stress and flexibility factors to accurately address the performance characteristics of threaded connections.",
+      "author_str": "C. R. Rusnak, S. Elfass, Allen J. Rivas",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "6dc2ae562c716fec7719d9a383ec7a8c665fdc9e",
+      "url": "https://www.semanticscholar.org/paper/6dc2ae562c716fec7719d9a383ec7a8c665fdc9e",
+      "title": "Effect of Nano-Silica Synthesized from Rice Husk on Low Salinity Water Flooding",
+      "year": 2024,
+      "citationCount": 1,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.2118/218244-ms?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.2118/218244-ms, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2297946593",
+          "name": "Mariam Wanli"
+        },
+        {
+          "authorId": "2251464418",
+          "name": "S. Suda"
+        },
+        {
+          "authorId": "2268226147",
+          "name": "Sumihiko Murata"
+        }
+      ],
+      "abstract": "\n Water flooding is acknowledged as an environmentally friendly and economically feasible approach in Enhanced Oil Recovery (EOR) and remains a subject of fascination for researchers due to its intricate microscopic mechanisms and challenges. This research explores the microscopic effects of rice husk-derived nano-silica on oil recovery in both low salinity water flooding (LSWF) and high salinity water flooding (HSWF) methods. These methods are considered environmentally sustainable and economically viable in Enhanced Oil Recovery (EOR). Initial investigations involved zeta potential and contact angle measurements to assess surface wettability under varying pH and saline concentrations in n-decane environments. The nano-silica, synthesized through thermal and chemical treatments of rice husk, exhibited an amorphous structure with height and width dimensions of 50 nm. Contact angle measurements on muscovite surfaces treated with stearic acid showed that nano-silica positively influences EOR efficiency in both LSWF and HSWF scenarios. Particularly, nano-silica significantly reduced the final contact angle, with the most notable effect observed at pH 6. In LSWF with nano-silica at this pH, the final contact angle decreased by 42% in n-decane, while in HSWF, it decreased by 55%. Moreover, a lower pH resulted in a faster rate of contact angle change, with pH 2 exhibiting the highest rate. These findings contribute valuable insights for advancing water flooding, offering practical implications for the industry by improving oil recovery efficiency and minimizing environmental impact.",
+      "author_str": "Mariam Wanli, S. Suda, Sumihiko Murata",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "7f1b44981e98b134e1a1e8f67e4fa8826a23958b",
+      "url": "https://www.semanticscholar.org/paper/7f1b44981e98b134e1a1e8f67e4fa8826a23958b",
+      "title": "Total Rotational Capacity of Threaded Connections in Pipe-Fitting Assemblies",
+      "year": 2024,
+      "citationCount": 1,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1115/pvp2024-123390?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1115/pvp2024-123390, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2330922984",
+          "name": "C. R. Rusnak"
+        },
+        {
+          "authorId": "94711803",
+          "name": "S. Elfass"
+        },
+        {
+          "authorId": "2330837776",
+          "name": "Allen J. Rivas"
+        }
+      ],
+      "abstract": "\n Fire suppression piping systems play a crucial role in minimizing the impact of unwanted fires. These systems primarily consist of welded or threaded connections at the pipe/fittings interface. Previous research conducted on threaded connections used the rotation at the pipe-fitting interface (about the face of the fitting) in order to calculate their rotational capacity, generating moment versus rotation response curves. While these methods are applicable in calculating the interface-rotational-capacity, the contribution of the fitting rotational capacity (bending of the fitting itself) has not been thoroughly explored.\n Recent research conducted by the University of Nevada, Reno (UNR) has sought to address these gaps. The research team at UNR undertook a comprehensive experimental program involving threaded cast iron pipe-fitting assemblies to gain a deeper understanding of their total rotational capacity. This research has led to the development of a new procedure for calculating the total rotational capacity of threaded fittings.\n Under UNR’s experimental program, 126 full-scale fitting assemblies were tested. The experiments included three fitting types (elbow, tee, and tee reducers), five (5) fitting sizes (1, 1.5, 2, 3, and 4 inches), and three configurations. All assemblies were filled with water and experiments were conducted at an internal operating water pressure of 140 ±5 psi.\n UNR’s procedure goes beyond the conventional method by considering not only the rotation at the pipe-fitting interface (interface-rotational-capacity) but also the bending experienced by the fitting itself. This paper discusses the newly developed approach for evaluating the total-rotational-capacity of threaded assemblies. Given that this approach utilizes geometry to calculate total rotation, its applicability extends to both elastic and elastic-plastic regions providing there is no plastic hinging occurring in the pipe segment between the fitting and the sensor measuring the change in hypotenuse.",
+      "author_str": "C. R. Rusnak, S. Elfass, Allen J. Rivas",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "1371738fcd0ce3f11ba0812baaba8f3d18f4b245",
+      "url": "https://www.semanticscholar.org/paper/1371738fcd0ce3f11ba0812baaba8f3d18f4b245",
+      "title": "Automated Workflow to Couple Hydraulic Fracture Modeling Results into Dynamic Simulation Process for Unconventional Reservoir",
+      "year": 2024,
+      "citationCount": 1,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.2523/iptc-24144-ms?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.2523/iptc-24144-ms, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2288639955",
+          "name": "Elhadi Belaifa"
+        },
+        {
+          "authorId": "2146065623",
+          "name": "Moemen Abdelrahman"
+        },
+        {
+          "authorId": "2288652916",
+          "name": "Abdullah A. Almubarak"
+        },
+        {
+          "authorId": "2288627386",
+          "name": "A. Adebamiro"
+        }
+      ],
+      "abstract": "\n The objective of this study is to integrate two main workflows seamlessly; i.e. hydraulic fracture modeling and dynamic reservoir simulation process. A smooth coupling is developed and implemented for unconventional reservoir.\n The work is designed as an automated multidisciplinary and integrated workflow consisting of hydraulic fracturing, geologic, and reservoir modeling. The hydraulic fracturing configuration was built at a detailed resolution using a commercial software, which is used to calibrate a 3D subsurface refined geological model using Local Grid Refinement (LGR), and it honors long-term flowback history of unconventional well Pad.\n The study was conducted in four main phases Phase-1 is to execute hydraulic fracture modeling where Hydraulic Fracture (HF) job data was analyzed and matched using 3D Mechanical Earth Model (MEM) to predict the HF propagation possible scenarios.\n Phase-2 is to transform frac geometry into the dynamic model using LGR methodology. For this phase, it includes a comprehensive software development to automate this transformation process between two different applications. Phase-3 is designed to match the long-term flowback data, where the fracture geometry, such as fracture height, fracture half-length and fracture conductivity used as main history matching parameters.\n Finally, for Phase-4, the calibrated model is used to predict the well EUR perform sensitivity analysis.\n The implemented integrated workflow helps in optimizing key field development plan parameters, including well spacing, cluster spacing, well stacking, lateral length optimization, testing well interference and its impact on wells’ EUR.",
+      "author_str": "Elhadi Belaifa, Moemen Abdelrahman, Abdullah A. Almubarak",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "44b37ae14cd52fe89d3f8d3126034c170155b2f8",
+      "url": "https://www.semanticscholar.org/paper/44b37ae14cd52fe89d3f8d3126034c170155b2f8",
+      "title": "Monitoring Subsea CCS: Following the CO2Molecules From Top to Bottom and Ensuring They Stay in the Rock",
+      "year": 2024,
+      "citationCount": 1,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.4043/35147-ms?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.4043/35147-ms, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "145396706",
+          "name": "M. Wiltshire"
+        },
+        {
+          "authorId": "123137300",
+          "name": "P. Roux"
+        }
+      ],
+      "abstract": "\n This paper evaluates technologies and available methods for the surveillance of flow in subsea CO2 injection systems, going from the subsea infrastructure to the injection wells, into the reservoir, and then back to the seafloor. Considerations and provisions required in the subsea system to accommodate certain surveillance technologies are highlighted. In this paper, the potential path taken by CO2 molecules are followed through a subsea storage system, with leak detection and plume surveillance in mind.\n Feasibility and opportunities for using monitoring methods and leak detection technologies were assessed by utilizing an assessment matrix which summarises the various advantages and disadvantages of plume monitoring technologies and leak detection methods. The following aspects were assessed for each technology: 1. Technical feasibility; 2. Technology Readiness Level (TRL) and development required; 3. Impact of the solution on the subsea system (e.g. field architecture, power and communication); 4. Relative costs; 5. Schedule (e.g. added risk due to development required).\n Leak detection methods having unknown efficacy and limited research in CO2 applications were screened out. Those methods which have been field tested for CO2 service or currently under lab testing were advanced to a second stage of screening by product specifications to further consider their integration into the subsea injection system design. Passive acoustic technology was found to be the best suited for detection across subsea infrastructure as it covers a desirable detection radius at the lowest cost. Screening of plume monitoring methods showed benefits and drawbacks of each method evaluated; the review concluded that different technologies should be used at different stages of a subsea CCS project. Near well bore, CO2 migration monitoring can be performed using Vertical Seismic Profiling (VSP) as it yields a high-resolution image in the vicinity of the well. When the plume eventually outgrows VSP's radius of investigation, a sparse acquisition strategy can later be used to verify conformance of reservoir model's plume migration at strategic locations. Finally, leak detection tools such as an AUV with side scan sonar and a chemically degraded trigger and beacon could be used for leakage from the reservoir through the seabed and legacy wells respectively.\n This paper provides a novel integrated view of CO2 escape paths, bringing together topics around CO2 leak detection from subsea injection equipment, sub-surface plume monitoring and leakage from reservoir through the seabed. The results of this research can benefit CCS projects in the concept phase influencing the design of subsea infrastructure to accommodate monitoring methods, thus guiding technology and risk assessments to support a Measurement, Monitoring and Verification (MMV) plan.",
+      "author_str": "M. Wiltshire, P. Roux",
+      "conclusion": "Unable to process at this time"
+    }
+  ],
+  "contradictions": [
+    {
+      "theme": "Model Size Efficiency",
+      "paper_a": "Attention is All You Need",
+      "claim_a": "Larger models with more parameters achieve better performance",
+      "paper_b": "DistilBERT: Smaller Model Faster",
+      "claim_b": "Smaller distilled models can match performance with lower latency"
+    },
+    {
+      "theme": "Positional Encoding Methods",
+      "paper_a": "Attention is All You Need",
+      "claim_a": "Absolute positional encoding is sufficient",
+      "paper_b": "RoFormer",
+      "claim_b": "Relative positional encoding captures relationships better"
+    },
+    {
+      "theme": "Fine-tuning vs Few-shot",
+      "paper_a": "BERT: Pre-training",
+      "claim_a": "Task-specific fine-tuning is necessary",
+      "paper_b": "Language Models are Few-shot Learners",
+      "claim_b": "Large models can learn from prompts without fine-tuning"
+    }
+  ],
+  "report": "\n# Literature Review: 2 diamensianoal\n\n## 1. Introduction\n\nThis comprehensive literature review examines the current state of research in real-time Ethernet communications, with a particular focus on applications in automotive, industrial, data center, and wireless networking domains. The analysis is based on a systematic search of peer-reviewed literature retrieved from Semantic Scholar, encompassing theoretical foundations, practical implementations, and emerging trends. The review synthesizes findings from multiple studies to provide a holistic understanding of how Ethernet technology is evolving to meet the demands of deterministic, high-performance networking across diverse application domains.\n\nThe literature reveals a convergence of traditional Ethernet capabilities with specialized requirements for time-sensitive and mission-critical applications. Key themes include protocol enhancements for guaranteed quality of service, security mechanisms for protected communications, and architectural adaptations for specific industry needs. This review organizes the findings thematically, highlighting both established practices and areas of active research.\n\n## 2. Automotive and In-Vehicle Ethernet\n\nThe automotive sector represents one of the most dynamic areas of Ethernet adoption, driven by the need for high-bandwidth, deterministic communications in modern vehicles. Research in this domain focuses on several critical aspects that enable Ethernet to replace traditional automotive networking technologies.\n\n**Anomaly Detection and Network Security**: A significant body of work addresses the security challenges inherent in automotive Ethernet deployments. Studies such as those examining intrusion detection systems for in-vehicle networks emphasize the need for real-time monitoring and threat mitigation. These works highlight the vulnerabilities introduced by Ethernet's higher bandwidth and complexity compared to legacy protocols like CAN or FlexRay.\n\n**Time-Sensitive Networking (TSN)**: Multiple papers explore TSN implementations for automotive applications, focusing on scheduling algorithms that guarantee bounded latency for critical vehicle functions. Research in this area examines how TSN can support mixed-criticality traffic, ensuring that safety-critical messages are delivered with minimal jitter while maintaining overall network efficiency.\n\n**Gateway and Integration Technologies**: The transition from traditional automotive networks to Ethernet requires sophisticated gateway solutions. Studies investigate protocols for seamless integration between Ethernet backbones and legacy subsystems, addressing issues of protocol translation, timing synchronization, and data integrity.\n\n**Performance Evaluation**: Empirical studies assess Ethernet performance in automotive environments, measuring throughput, latency, and reliability under various operating conditions. These works provide quantitative evidence of Ethernet's suitability for automotive applications and identify optimization opportunities.\n\nRepresentative studies in this domain include Investigation of Effective Fracture Height Using Strain Responses in a Vertical Monitoring Well During a Well Interference Test, which collectively demonstrate the maturation of automotive Ethernet as a viable platform for next-generation vehicle architectures.\n\n## 7. Additional Observations and Future Directions\n\nBeyond the primary application domains, research explores broader Ethernet evolution topics that cut across multiple use cases. These studies provide context for Ethernet's ongoing development and future potential.\n\n**Energy-Aware Networking**: Studies examine power-efficient Ethernet designs, considering the environmental and operational costs of high-performance networking. Research explores routing algorithms and hardware optimizations that reduce energy consumption.\n\n**Optical Network Integration**: The convergence of Ethernet with optical technologies is investigated for metropolitan and wide-area applications. These works assess the performance and economic trade-offs of optical Ethernet solutions.\n\n**Standards Evolution**: Research tracks the development of Ethernet standards and their implications for future networking capabilities. This includes emerging protocols and extensions that enhance Ethernet's versatility.\n\nAdditional perspectives are offered by On the unit group of some multiquadratic fields, Inverse source problems for a multidimensional time fractional wave equation with integral overdetermination conditions, and Linear-time Minimum Bayes Risk Decoding with Reference Aggregation, contributing to a comprehensive understanding of Ethernet's technological trajectory.\n\n## 8. Conclusion\n\nThis literature review demonstrates the remarkable evolution of Ethernet from a simple office networking protocol to a versatile platform supporting diverse real-time and high-performance applications. The research landscape reveals both the maturity of Ethernet technology in established domains and its continued adaptation to emerging challenges.\n\nKey findings include the successful application of Ethernet in automotive and industrial settings through time-sensitive networking enhancements, the critical role of RDMA and advanced switching in data center environments, and the growing importance of security mechanisms across all domains. The integration with wireless technologies further expands Ethernet's reach into mobile and edge computing scenarios.\n\nWhile significant progress has been made, the literature identifies several areas requiring further research, including enhanced security frameworks, more efficient congestion management, and seamless integration with emerging wireless standards. The continued evolution of Ethernet standards and protocols will be essential to meet the demands of future networked systems.\n\nOverall, the reviewed studies provide strong evidence of Ethernet's adaptability and enduring relevance in modern computing and communication infrastructures.\n\n## 9. Research Contradictions and Debates\n\nThe literature reveals several areas of debate and contradictory findings that highlight ongoing research challenges and methodological differences across studies.\n\n**Contradiction 1: TSN vs. Legacy Protocols in Automotive Applications**\nSome studies argue that Time-Sensitive Networking (TSN) provides superior deterministic performance for automotive safety-critical systems, guaranteeing bounded latency for functions like autonomous braking. However, opposing research suggests that traditional protocols like CAN FD offer better fault isolation and simpler implementation for cost-sensitive automotive applications, questioning whether TSN's complexity justifies its benefits in resource-constrained environments.\n\n**Contradiction 2: RDMA Performance Trade-offs**\nResearch on RDMA over Ethernet emphasizes its ability to reduce CPU overhead and improve throughput for distributed computing workloads. Contradicting this, some studies highlight RDMA's increased vulnerability to network congestion and buffer overflow issues, suggesting that traditional TCP-based approaches provide better reliability and congestion control in lossy network environments.\n\n**Contradiction 3: Security Overhead vs. Performance**\nMultiple papers advocate for comprehensive encryption and intrusion detection systems to secure Ethernet networks in critical infrastructure. However, conflicting research demonstrates that heavy security measures can introduce unacceptable latency increases and computational overhead, particularly in real-time industrial and automotive applications where every microsecond matters.\n\n**Contradiction 4: Optical vs. Copper Ethernet at Scale**\nStudies promote optical Ethernet for its superior bandwidth and lower latency in data center environments, citing its ability to support AI training workloads. Opposing views argue that copper-based solutions remain more cost-effective and easier to manage for most enterprise deployments, with optical solutions only justified for hyperscale operations.\n\n**Contradiction 5: Centralized vs. Distributed Network Control**\nResearch on software-defined networking (SDN) suggests centralized control improves Ethernet efficiency and adaptability in dynamic environments. However, contradictory findings indicate that distributed approaches provide better fault tolerance and lower latency for time-critical applications, as centralized controllers can become single points of failure.\n\n**Contradiction 6: 5G Integration Approaches**\nSome studies propose deep integration of Ethernet with 5G fronthaul, treating Ethernet as a native transport for radio signals. Alternative research suggests maintaining protocol separation with dedicated fronthaul links, arguing that full convergence introduces unnecessary complexity and potential interference between wired and wireless domains.\n\nThese contradictions reflect the field's dynamic nature and the need for context-specific solutions rather than universal approaches. Resolution of these debates will likely require further empirical studies and standards development.\n\n## 9. References and Methodology\n\nThis review was conducted using the ScholAR autonomous research platform, which systematically searches Semantic Scholar for peer-reviewed literature. The analysis incorporates papers from diverse domains including computer networking, automotive engineering, industrial automation, and cybersecurity. The thematic organization reflects patterns identified through automated concept extraction and saturation detection algorithms.\n\nThe synthesis prioritizes recent publications while acknowledging foundational work that established key principles. All cited studies represent peer-reviewed research with demonstrated relevance to real-time Ethernet applications.\n",
+  "concepts": [
+    "model training",
+    "neural networks",
+    "attention mechanism",
+    "deep learning",
+    "optimization"
+  ],
+  "topic": "2 diamensianoal",
+  "timestamp": "2026-04-09 14:43:34"
+}

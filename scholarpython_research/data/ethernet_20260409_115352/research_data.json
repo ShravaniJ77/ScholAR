@@ -1,0 +1,1122 @@
+{
+  "type": "complete",
+  "papers": [
+    {
+      "paperId": "ec1dca2ac16ce685229cb58c90e07d049d6d5e7a",
+      "url": "https://www.semanticscholar.org/paper/ec1dca2ac16ce685229cb58c90e07d049d6d5e7a",
+      "title": "RDMA over Ethernet for Distributed Training at Meta Scale",
+      "year": 2024,
+      "citationCount": 164,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1145/3651890.3672233?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1145/3651890.3672233, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2077604116",
+          "name": "Adi Gangidi"
+        },
+        {
+          "authorId": "2314123845",
+          "name": "Rui Miao"
+        },
+        {
+          "authorId": "2314545859",
+          "name": "Shengbao Zheng"
+        },
+        {
+          "authorId": "2313916859",
+          "name": "Sai Jayesh Bondu"
+        },
+        {
+          "authorId": "2068568600",
+          "name": "Guilherme Goes"
+        },
+        {
+          "authorId": "2297378486",
+          "name": "Hany Morsy"
+        },
+        {
+          "authorId": "2287838014",
+          "name": "R. Puri"
+        },
+        {
+          "authorId": "2314125443",
+          "name": "Mohammad Riftadi"
+        },
+        {
+          "authorId": "2314117876",
+          "name": "Ashmitha Jeevaraj Shetty"
+        },
+        {
+          "authorId": "2314170063",
+          "name": "Jingyi Yang"
+        },
+        {
+          "authorId": "2237076180",
+          "name": "Shuqiang Zhang"
+        },
+        {
+          "authorId": "2237086866",
+          "name": "Mikel Jimenez Fernandez"
+        },
+        {
+          "authorId": "3237384",
+          "name": "S. Gandham"
+        },
+        {
+          "authorId": "2286253023",
+          "name": "Hongyi Zeng"
+        }
+      ],
+      "abstract": "The rapid growth in both computational density and scale in AI models in recent years motivates the construction of an efficient and reliable dedicated network infrastructure. This paper presents the design, implementation, and operation of Meta's Remote Direct Memory Access over Converged Ethernet (RoCE) networks for distributed AI training. Our design principles involve a deep understanding of the workloads, and we translated these insights into the design of various network components: Network Topology - To support the rapid evolution of generations of AI hardware platforms, we separated GPU-based training into its own \"backend\" network. Routing - Training workloads inherently impose load imbalance and burstiness, so we deployed several iterations of routing schemes to achieve near-optimal traffic distribution. Transport - We outline how we initially attempted to use DCQCN for congestion management but then pivoted away from DCQCN to instead leverage the collective library itself to manage congestion. Operations - We share our experience operating large-scale AI networks, including toolings we developed and troubleshooting examples.",
+      "author_str": "Adi Gangidi, Rui Miao, Shengbao Zheng",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "58ccc488b170e621d3f280c8bed3ef6a996b92cd",
+      "url": "https://www.semanticscholar.org/paper/58ccc488b170e621d3f280c8bed3ef6a996b92cd",
+      "title": "AERO: Automotive Ethernet Real-Time Observer for Anomaly Detection in In-Vehicle Networks",
+      "year": 2024,
+      "citationCount": 22,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/TII.2023.3324949?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/TII.2023.3324949, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2109695231",
+          "name": "S. Jeong"
+        },
+        {
+          "authorId": "1802174",
+          "name": "H. Kim"
+        },
+        {
+          "authorId": "2668850",
+          "name": "Mee Lan Han"
+        },
+        {
+          "authorId": "1775714",
+          "name": "Byung Il Kwak"
+        }
+      ],
+      "abstract": "Automotive Ethernet enables high-bandwidth in-vehicle networking, facilitating the transmission of sensor data among electronic control units. However, the increasing connectivity and potential vulnerability inheritance in connected and autonomous vehicles expose them to security risks. To address this challenge, an intrusion detection system (IDS) capable of analyzing automotive Ethernet traffic and detecting anomalies is essential. In thisarticle, we propose automotive Ethernet real-time observer (AERO), an unsupervised network IDS designed to protect in-vehicle networks. AERO consists of three components: a feature extractor that constructs three multimodal features, a neural network for processing the extracted features, and an online anomaly detector that calculates outlier scores in real time. We evaluate the performance of AERO using the TOW-IDS automotive Ethernet intrusion dataset. The experimental results demonstrate that AERO achieves high detection performance across five different attack types and is highly applicable to automotive-grade devices for real-time anomaly detection.",
+      "author_str": "S. Jeong, H. Kim, Mee Lan Han",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "5958f57a4cb1a1898e111ae2351c337abecbe35e",
+      "url": "https://www.semanticscholar.org/paper/5958f57a4cb1a1898e111ae2351c337abecbe35e",
+      "title": "Time-slotted software-defined Industrial Ethernet for real-time Quality of Service in Industry 4.0",
+      "year": 2019,
+      "citationCount": 446,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/J.FUTURE.2019.04.009?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/J.FUTURE.2019.04.009, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2134589324",
+          "name": "Peng Zeng"
+        },
+        {
+          "authorId": "2144715877",
+          "name": "Zhaowei Wang"
+        },
+        {
+          "authorId": "2402023492",
+          "name": "Zhengyi Jia"
+        },
+        {
+          "authorId": "2281409502",
+          "name": "Linghe Kong"
+        },
+        {
+          "authorId": "2108820275",
+          "name": "Dong Li"
+        },
+        {
+          "authorId": "2148656772",
+          "name": "Xi Jin"
+        }
+      ],
+      "abstract": "Abstract Reliable and timely data delivery, namely, real-time communication, is a key aspect for achieving the agile manufacturing goals of Industry 4.0. Moreover, reducing the maintenance, infrastructure and reconfiguration costs, and increasing the flexibility are general goals for communication systems in Industry 4.0. Although some works have extended the Ethernet standard IEEE 802.3 to satisfy the real-time requirements of industrial automation systems, the existing works have one or more of the following drawbacks: poor scalability, insufficient self-configuration capabilities, or increased costs due to their use of proprietary hardware. In this paper, we propose a Time-slotted Software-defined Industrial Ethernet (TS-SDIE) for real-time Quality of Service (QoS) in Industry 4.0. The paper addresses two key technologies of TS-SDIE, time synchronization and time slot-based packet switching. First, we develop a precision time protocol-based link delay compensation mechanism to handle the delay variance in networks. Precise synchronization is achieved at the microsecond level. Second, we design a system architecture for time slot-based industrial switches with four modules responsible for time synchronization, flow classification, time slot assignment, and packet forwarding, respectively. The experimental results show that the switch delay and its jitter can be reduced to 12 . 2 μ s and 0 . 12 μ s , respectively, for packets with a size of 100 B, which satisfies the requirements of time-sensitive networking for industrial automation systems.",
+      "author_str": "Peng Zeng, Zhaowei Wang, Zhengyi Jia",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "a2bb843dbe0b9cfa4b48699fd70e423be9a53ed3",
+      "url": "https://www.semanticscholar.org/paper/a2bb843dbe0b9cfa4b48699fd70e423be9a53ed3",
+      "title": "A Perspective on Ethernet in Automotive Communications—Current Status and Future Trends",
+      "year": 2023,
+      "citationCount": 55,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/2076-3417/13/3/1278/pdf?version=1675068849",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/app13031278?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/app13031278, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "12879583",
+          "name": "L. L. Lo Bello"
+        },
+        {
+          "authorId": "2897841",
+          "name": "Gaetano Patti"
+        },
+        {
+          "authorId": "50113372",
+          "name": "Luca Leonardi"
+        }
+      ],
+      "abstract": "Automated driving requires correct perception of the surrounding environment in any driving condition. To achieve this result, not only are many more sensors than in current Advanced Driver Assistant Systems (ADAS) needed, but such sensors are also of different types, such as radars, ultrasonic sensors, LiDARs, and video cameras. Given the high number of sensors and the bandwidth requirements of some of them, high-bandwidth automotive-grade networks are required. Ethernet technology is a suitable candidate, as it offers a broad selection of automotive-grade Ethernet physical layers, with transmission speeds ranging from 10 Mbps to 10 Gbps. In addition, the Time-Sensitive Networking (TSN) family of standards offers several features for Ethernet-based networks that are suitable for automotive communications, such as high reliability, bounded delays, support for scheduled traffic, etc. In this context, this paper provides an overview of Ethernet-based in-car networking and discusses novel trends and future developments in automotive communications.",
+      "author_str": "L. L. Lo Bello, Gaetano Patti, Luca Leonardi",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "7e6cea8c25e56ff98e25e71cb61ed52eba03d6a4",
+      "url": "https://www.semanticscholar.org/paper/7e6cea8c25e56ff98e25e71cb61ed52eba03d6a4",
+      "title": "A Survey of Real-Time Ethernet Modeling and Design Methodologies: From AVB to TSN",
+      "year": 2022,
+      "citationCount": 113,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1145/3487330?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1145/3487330, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "10185918",
+          "name": "Li-Ming Deng"
+        },
+        {
+          "authorId": "3324180",
+          "name": "Guoqi Xie"
+        },
+        {
+          "authorId": "2118903356",
+          "name": "Hong Liu"
+        },
+        {
+          "authorId": "37874390",
+          "name": "Yunbo Han"
+        },
+        {
+          "authorId": "1700626",
+          "name": "Renfa Li"
+        },
+        {
+          "authorId": "2181606",
+          "name": "Keqin Li"
+        }
+      ],
+      "abstract": "With the development of real-time critical systems, the ever-increasing communication data traffic puts forward high-bandwidth and low-delay requirements for communication networks. Therefore, various real-time Ethernet protocols have been proposed, but these protocols are not compatible with each other. The IEEE 802.1 Working Group developed standardized protocols named Audio Video Bridging (AVB) in 2005, and renamed it Time-Sensitive Networking (TSN) later. TSN not only adds new features but also retains the original functions of AVB. Proposing real-time Ethernet modeling and design methodologies is the key to meeting high-bandwidth and low-delay communication requirements. This article surveys the modeling from AVB to TSN, mainly including: (1) AVB and TSN modeling; (2) end-to-end delay modeling; (3) real-time scheduling modeling; (4) reliability modeling; and (5) security modeling. Based on these models, this article surveys the recent advances in real-time Ethernet design methodologies from AVB to TSN: (1) end-to-end delay analysis from AVB to TSN; (2) real-time scheduling from AVB to TSN; (3) reliability-aware design for TSN; and (4) security-aware design for TSN. Among the above four points, the last two points are only for TSN, because AVB lacks reliability and security mechanisms. This article further takes the automotive use case as an example to discuss the application of TSN in automobiles. Finally, this article discusses the future trends of TSN. By surveying the recent advances and future trends, we hope to provide references for researchers interested in real-time Ethernet modeling and design methodologies for AVB and TSN.",
+      "author_str": "Li-Ming Deng, Guoqi Xie, Hong Liu",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "12ba887aeb9d84b9b9b724024e4cc78cbcaa6a88",
+      "url": "https://www.semanticscholar.org/paper/12ba887aeb9d84b9b9b724024e4cc78cbcaa6a88",
+      "title": "TOW-IDS: Intrusion Detection System Based on Three Overlapped Wavelets for Automotive Ethernet",
+      "year": 2023,
+      "citationCount": 42,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/TIFS.2022.3221893?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/TIFS.2022.3221893, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2668850",
+          "name": "Mee Lan Han"
+        },
+        {
+          "authorId": "1775714",
+          "name": "Byung Il Kwak"
+        },
+        {
+          "authorId": "1802174",
+          "name": "H. Kim"
+        }
+      ],
+      "abstract": "Devices that ensure vehicle and driver safety or provide services to drivers generate a substantial amount of network traffic. The traffic is transmitted to the In-Vehicle Network (IVN) depending on the defined function. Consequently, to quickly process a lot of traffic transmitted to the IVN, an advanced network protocol such as Automotive Ethernet is necessary. However, owing to the connectivity reinforcement between devices inside a vehicle and external networks, attack vectors and vulnerabilities can be easily inherited from an established Ethernet to Automotive Ethernet. The present study proposes a method for detecting and identifying abnormalities in Automotive Ethernet based on wavelet transform and deep convolutional neural network. First, we define attack scenarios and extract normal and abnormal data corresponding to these scenarios. Second, we conduct several preprocesses, such as fixing the packet size and normalizing the network image data. Finally, we conduct extensive evaluations of the proposed method’s performance, considering the size of network image data and multi-resolution levels. The results demonstrate that the proposed method can effectively detect an abnormality. Furthermore, the results suggest that the our method is more effective in terms of time-cost compared to default ResNet and EfficientNet methods.",
+      "author_str": "Mee Lan Han, Byung Il Kwak, H. Kim",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "e1aa5e6311827ecefcb767906394985b90001e13",
+      "url": "https://www.semanticscholar.org/paper/e1aa5e6311827ecefcb767906394985b90001e13",
+      "title": "A Systematic Review on Security Attacks and Countermeasures in Automotive Ethernet",
+      "year": 2023,
+      "citationCount": 34,
+      "openAccessPdf": {
+        "url": "https://dl.acm.org/doi/pdf/10.1145/3637059",
+        "status": "HYBRID",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1145/3637059?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1145/3637059, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2202209263",
+          "name": "Marco De Vincenzi"
+        },
+        {
+          "authorId": "33848323",
+          "name": "Gianpiero Costantino"
+        },
+        {
+          "authorId": "2273687154",
+          "name": "Ilaria Matteucci"
+        },
+        {
+          "authorId": "1396906062",
+          "name": "Florian Fenzl"
+        },
+        {
+          "authorId": "9680635",
+          "name": "Christian Plappert"
+        },
+        {
+          "authorId": "2243470730",
+          "name": "Roland Rieke"
+        },
+        {
+          "authorId": "9662589",
+          "name": "Daniel Zelle"
+        }
+      ],
+      "abstract": "In the past years, the automotive industry has experienced a technological revolution driven by the increasing demand of connectivity and data to develop driver-assistance systems and autonomous vehicles, and improve the mobility experience. To provide higher bandwidth in in-vehicle communication networks, carmakers are choosing Ethernet technology, which becomes Automotive Ethernet (AE) when applied in in-vehicle communication networks. However, with the rise of vehicle connectivity, the cybersecurity of vehicle systems has become a primary concern for the automotive industry. To address this issue, we conducted a systematic review, deeply analyzing the impact of AE on security and safety, and comparing it with the current in-vehicle communication solutions like Controller Area Network protocol. We retrieved the key security attacks and mitigations proposed in the current literature to highlight their significance, including a mapping between the regulation UNECE WP.29 R155 and the retrieved answers. We found that the industry has only implemented some automotive-dedicated Ethernet solutions to date. In the near future, the vehicle and road ecosystems may require more exclusive automotive solutions to meet specific constraints such as low latency. Our results can provide a comprehensive baseline, both for industry and academia, for the current and future development of AE.",
+      "author_str": "Marco De Vincenzi, Gianpiero Costantino, Ilaria Matteucci",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "325ad9b1d9dfb550df5f2d4d708247ccbd1e4397",
+      "url": "https://www.semanticscholar.org/paper/325ad9b1d9dfb550df5f2d4d708247ccbd1e4397",
+      "title": "Data Center Ethernet and Remote Direct Memory Access: Issues at Hyperscale",
+      "year": 2023,
+      "citationCount": 23,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/MC.2023.3261184?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/MC.2023.3261184, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "1713648",
+          "name": "T. Hoefler"
+        },
+        {
+          "authorId": "2316951121",
+          "name": "Duncan Roweth"
+        },
+        {
+          "authorId": "1742910",
+          "name": "K. Underwood"
+        },
+        {
+          "authorId": "1921334",
+          "name": "Robert Alverson"
+        },
+        {
+          "authorId": "2204643668",
+          "name": "Mark Griswold"
+        },
+        {
+          "authorId": "2864600",
+          "name": "V. Tabatabaee"
+        },
+        {
+          "authorId": "2764457",
+          "name": "Mohan Kalkunte"
+        },
+        {
+          "authorId": "69331002",
+          "name": "Surendra Anubolu"
+        },
+        {
+          "authorId": "1712248670",
+          "name": "Siyuan Shen"
+        },
+        {
+          "authorId": "39881387",
+          "name": "M. McLaren"
+        },
+        {
+          "authorId": "2220169738",
+          "name": "Abdul Kabbani"
+        },
+        {
+          "authorId": "40296374",
+          "name": "S. Scott"
+        }
+      ],
+      "abstract": "Remote direct memory access (RDMA) over converged Ethernet (RoCE) was an attempt to adopt modern RDMA features into existing Ethernet installations. We revisit RoCE’s design points and conclude that several of its shortcomings must be addressed to fulfill the demands of hyperscale data centers.",
+      "author_str": "T. Hoefler, Duncan Roweth, K. Underwood",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "e857cb8bc8ff3f25ed6045cc198ab43301febde1",
+      "url": "https://www.semanticscholar.org/paper/e857cb8bc8ff3f25ed6045cc198ab43301febde1",
+      "title": "Datacenter Ethernet and RDMA: Issues at Hyperscale",
+      "year": 2023,
+      "citationCount": 17,
+      "openAccessPdf": {
+        "url": "http://arxiv.org/pdf/2302.03337",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2302.03337, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "1713648",
+          "name": "T. Hoefler"
+        },
+        {
+          "authorId": "2316951121",
+          "name": "Duncan Roweth"
+        },
+        {
+          "authorId": "1742910",
+          "name": "K. Underwood"
+        },
+        {
+          "authorId": "83252420",
+          "name": "Bob Alverson"
+        },
+        {
+          "authorId": "2204643668",
+          "name": "Mark Griswold"
+        },
+        {
+          "authorId": "2864600",
+          "name": "V. Tabatabaee"
+        },
+        {
+          "authorId": "2764457",
+          "name": "Mohan Kalkunte"
+        },
+        {
+          "authorId": "69331002",
+          "name": "Surendra Anubolu"
+        },
+        {
+          "authorId": "2197020730",
+          "name": "Siyan Shen"
+        },
+        {
+          "authorId": "2613432",
+          "name": "A. Kabbani"
+        },
+        {
+          "authorId": "39881387",
+          "name": "M. McLaren"
+        },
+        {
+          "authorId": "40296374",
+          "name": "S. Scott"
+        }
+      ],
+      "abstract": "We observe that emerging artificial intelligence, high-performance computing, and storage workloads pose new challenges for large-scale datacenter networking. RDMA over Converged Ethernet (RoCE) was an attempt to adopt modern Remote Direct Memory Access (RDMA) features into existing Ethernet installations. Now, a decade later, we revisit RoCE's design points and conclude that several of its shortcomings must be addressed to fulfill the demands of hyperscale datacenters. We predict that both the datacenter and high-performance computing markets will converge and adopt modernized Ethernet-based high-performance networking solutions that will replace TCP and RoCE within a decade.",
+      "author_str": "T. Hoefler, Duncan Roweth, K. Underwood",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "9837a358b8978c91642ce46d4d84b35ffbeb00f2",
+      "url": "https://www.semanticscholar.org/paper/9837a358b8978c91642ce46d4d84b35ffbeb00f2",
+      "title": "Industrial Communication Systems and Their Future Challenges: Next-Generation Ethernet, IIoT, and 5G",
+      "year": 2019,
+      "citationCount": 306,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/JPROC.2019.2913443?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/JPROC.2019.2913443, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "1753134",
+          "name": "S. Vitturi"
+        },
+        {
+          "authorId": "1789827",
+          "name": "C. Zunino"
+        },
+        {
+          "authorId": "1711024",
+          "name": "T. Sauter"
+        }
+      ],
+      "abstract": "Industrial communication systems represent one of the most important innovations of the last decades in the context of factory and process automation systems. They are networks specifically designed to cope with the tight requirements of these challenging application fields such as real time, determinism, and reliability. Moreover, industrial networks are often deployed in environments characterized by strong electromagnetic interference, mechanical stress, critical temperature, and humidity. Over the last three decades, different classes of industrial networks have been developed according to changing requirements and available communication and information technologies. In this paper, we first provide an account of the state of the art, reviewing classical fieldbuses, real-time Ethernet networks, and industrial wireless networks, along with their most relevant features, applications, and performance figures. We introduce the complex standardization framework and analyze the market status and assumptions for future development. In the second part, we address the future perspectives focusing on new technologies, standards, and fields of application. In particular, we consider the time-sensitive networking (TSN) family of standards, Industrial Internet-of-Things (IIoT) systems, high-performance wireless LANs, industrial applications of cellular networks, and Ethernet networks for automotive communication.",
+      "author_str": "S. Vitturi, C. Zunino, T. Sauter",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "60bd0b4b44c15f4df20f699335d0096bd98ddbc7",
+      "url": "https://www.semanticscholar.org/paper/60bd0b4b44c15f4df20f699335d0096bd98ddbc7",
+      "title": "Convolutional Neural Network-based Intrusion Detection System for AVTP Streams in Automotive Ethernet-based Networks",
+      "year": 2021,
+      "citationCount": 65,
+      "openAccessPdf": {
+        "url": "https://arxiv.org/pdf/2102.03546",
+        "status": "GREEN",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2102.03546, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2109695231",
+          "name": "S. Jeong"
+        },
+        {
+          "authorId": "3082304",
+          "name": "Boosun Jeon"
+        },
+        {
+          "authorId": "150932849",
+          "name": "Boheung Chung"
+        },
+        {
+          "authorId": "1802174",
+          "name": "H. Kim"
+        }
+      ],
+      "abstract": "Abstract Connected and autonomous vehicles (CAVs) are an innovative form of traditional vehicles. Automotive Ethernet replaces the controller area network and FlexRay to support the large throughput required by high-definition applications. As CAVs have numerous functions, they exhibit a large attack surface and an increased vulnerability to attacks. However, no previous studies have focused on intrusion detection in automotive Ethernet-based networks. In this paper, we present an intrusion detection method for detecting audio-video transport protocol (AVTP) stream injection attacks in automotive Ethernet-based networks. To the best of our knowledge, this is the first such method developed for automotive Ethernet. The proposed intrusion detection model is based on feature generation and a convolutional neural network (CNN). To evaluate our intrusion detection system, we built a physical BroadR-Reach-based testbed and captured real AVTP packets. The experimental results show that the model exhibits outstanding performance: the F1-score and recall are greater than 0.9704 and 0.9949, respectively. In terms of the inference time per input and the generation intervals of AVTP traffic, our CNN model can readily be employed for real-time detection.",
+      "author_str": "S. Jeong, Boosun Jeon, Boheung Chung",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "9a637635dd881042297b14f3a3e6cc90f186ea32",
+      "url": "https://www.semanticscholar.org/paper/9a637635dd881042297b14f3a3e6cc90f186ea32",
+      "title": "Simulating TSN traffic scheduling and shaping for future automotive Ethernet",
+      "year": 2021,
+      "citationCount": 58,
+      "openAccessPdf": {
+        "url": "https://ieeexplore.ieee.org/ielx7/5449605/9377688/09377694.pdf",
+        "status": "GOLD",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.23919/JCN.2021.000001?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.23919/JCN.2021.000001, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2109495240",
+          "name": "Zifan Zhou"
+        },
+        {
+          "authorId": "2108551326",
+          "name": "Juho Lee"
+        },
+        {
+          "authorId": "34544152",
+          "name": "M. Berger"
+        },
+        {
+          "authorId": "144948258",
+          "name": "Sungkwon Park"
+        },
+        {
+          "authorId": "145191813",
+          "name": "Ying Yan"
+        }
+      ],
+      "abstract": "The broadening range of applications for vehicles has motivated the evolution of the automotive communication network. Ethernet has been deployed in production vehicles to build in-vehicle networks (IVN) by main manufacturers. To extent Ethernet with real-time service for future E/E architecture, a time-sensitive networking (TSN) profile for automotive Ethernet has been created. This paper evaluates the implementation of multiple traffic scheduling and shaping mechanisms in the automotive Ethernet, respectively. And we especially focus on two solutions, namely the time-aware shaping (TAS) and asynchronous traffic shaping (ATS). To investigate the performance, we introduce a TSN-based automotive gateway testing model in a simulation environment. Further-more, another two methods, i.e., strict-priority and credit-based shaper (CBS), as well as TAS and ATS are implemented in the model and tested within a domain-based IVN scenario. The results show that TAS guarantees the shortest worst-case latency of high-priority streams, whereas it has a longer transmission latency for low-priority streams. ATS provides less determinism for high-priority streams than TAS, but ensures a better average latency of all streams.",
+      "author_str": "Zifan Zhou, Juho Lee, M. Berger",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "18520c001e0077eedaa9f9382dd91013f2d5e54c",
+      "url": "https://www.semanticscholar.org/paper/18520c001e0077eedaa9f9382dd91013f2d5e54c",
+      "title": "Development of an Ethernet-Based Heuristic Time-Sensitive Networking Scheduling Algorithm for Real-Time In-Vehicle Data Transmission",
+      "year": 2021,
+      "citationCount": 40,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/2079-9292/10/2/157/pdf?version=1610589748",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/ELECTRONICS10020157?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/ELECTRONICS10020157, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2109893605",
+          "name": "Hyeong-Jun Kim"
+        },
+        {
+          "authorId": "2111881618",
+          "name": "Minje Choi"
+        },
+        {
+          "authorId": "2110097210",
+          "name": "Mah-Ho Kim"
+        },
+        {
+          "authorId": "2136190449",
+          "name": "Suk-Han Lee"
+        }
+      ],
+      "abstract": "The rapid development and adaptation of advanced driver assistance systems (ADAS) and autonomous driving increases the burden of in-vehicle networks. In-vehicle networks are now required to provide a fast data rate and bounded delay for real-time operation, while conventional protocols such as controller area networks, local interconnected networks, and FlexRay begin to show limitations. Ethernet-based time-sensitive network (TSN) technology has been proposed as an alternative. TSN is a set of Ethernet standards being developed by the IEEE TSN task group, which aims to satisfy requirements such as real-time operation, stability, and low and bounded latency, and it can be used in automotive, industrial, and aerospace applications. This study introduces several standards for Ethernet traffic scheduling based on TSN technology and proposes a heuristic-based scheduling algorithm for Ethernet scheduling. In addition, three network configurations are simulated using OMNeT++ to show the applicability. The heuristic TSN scheduling algorithm is a straightforward and systematic procedure for practical network designers.",
+      "author_str": "Hyeong-Jun Kim, Minje Choi, Mah-Ho Kim",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "b403c972a0cab254ce5b3432148da1c5928f3701",
+      "url": "https://www.semanticscholar.org/paper/b403c972a0cab254ce5b3432148da1c5928f3701",
+      "title": "Anomaly Detection and Attack Classification for Train Real-Time Ethernet",
+      "year": 2021,
+      "citationCount": 29,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ACCESS.2021.3055209?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ACCESS.2021.3055209, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2049024026",
+          "name": "Ruifeng Duo"
+        },
+        {
+          "authorId": "2061057162",
+          "name": "X. Nie"
+        },
+        {
+          "authorId": "2075332420",
+          "name": "Ning Yang"
+        },
+        {
+          "authorId": "2055372764",
+          "name": "Chuan Yue"
+        },
+        {
+          "authorId": "2352030705",
+          "name": "Yongxiang Wang"
+        }
+      ],
+      "abstract": "Real-time Ethernet has been applied to train control and management system (TCMS) of 250km/h Fuxing Electric Multiple Units (EMUs) and some urban rail vehicles. The openness of the Ethernet communication protocol poses a risk of intrusion attacks on the train communication network. It is, therefore, necessary that a safety protection technology is introduced to the train communication network based on real-time Ethernet. In this paper, a train communication network intrusion detection system based on anomaly detection and attack classification is proposed. Firstly, the paper built an anomaly detection model based on support vector machines (SVM). The particle swarm optimization-support vector machines (PSO-SVM), and genetic algorithm-support vector machines (GA-SVM) optimization algorithms are used to optimize the kernel function parameters of SVM. Secondly, the paper built two attack classification models based on random forest. They are iterative dichotomiser3 (ID3) and classification and regression tree (CART). And then, the built intrusion detection and attack classification model is tested by using the public data set knowledge discovery and data mining-99(KDD-99) and the data set of the simulation train real-time Ethernet test bench. PSO-SVM improves the intrusion detection accuracy from 90.3% to 95.75%, GA-SVM improves the detection accuracy from 90.3% to 95.85%. The training time of the PSO-SVM algorithm was higher than that of the GA-SVM algorithm, and much higher than that of the SVM, without optimization. Both ID3 and CART models are verified valid in the attack classification, while the ID3 algorithm obtained 100% accuracy on the training set, and only 32.89% accuracy on the test set, ID3 has a poor classification accuracy of the data outside of the training set. Also, the classification time is very long for ID3 compared with CART. So the comprehensive experimental results show that the intrusion detection system of train real-time Ethernet can use the GA-SVM model for detection of abnormal data. After passing the normal data, the CART model can be used to distinguish between the types of attacks to better complete subsequent responses and operations. Compared with the anomaly detection model based on SVM, the proposed model improves intrusion detection accuracy. And the proposed attack classification algorithm based on CART can improve the computing speed while ensuring the precision of classification.",
+      "author_str": "Ruifeng Duo, X. Nie, Ning Yang",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "5c65afdf8cb65e45ac3fa0123288c69380a0fbb8",
+      "url": "https://www.semanticscholar.org/paper/5c65afdf8cb65e45ac3fa0123288c69380a0fbb8",
+      "title": "A Migration Strategy for Profinet Toward Ethernet TSN-Based Field-Level Communication: An Approach to Accelerate the Adoption of Converged IT/OT Communication",
+      "year": 2021,
+      "citationCount": 18,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/MIE.2020.3048925?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/MIE.2020.3048925, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "1796010",
+          "name": "S. Schriegel"
+        },
+        {
+          "authorId": "2054462509",
+          "name": "J. Jasperneite"
+        }
+      ],
+      "abstract": "The next era of industrial communication is said to be based on Ethernet time-sensitive networking (TSN). Current migration strategies enable a communication of existing industrial Ethernet (IE) devices over Ethernet TSN networks. Isochronous communication based on scheduled traffic and a free topology choice are mostly not possible for these devices. This work approaches an improved migration strategy that includes a new bridge mode called time-aware forwarding (TAF) that is compatible with Ethernet TSN and that can be implemented with existing Profinet hardware. It enables scheduled traffic and a free topology choice for existing devices at the same time.",
+      "author_str": "S. Schriegel, J. Jasperneite",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "17330c745f2ff71330e7dfba05cedf4d7cded8e2",
+      "url": "https://www.semanticscholar.org/paper/17330c745f2ff71330e7dfba05cedf4d7cded8e2",
+      "title": "Design of a FlexRay/Ethernet Gateway and Security Mechanism for In-Vehicle Networks",
+      "year": 2020,
+      "citationCount": 31,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/1424-8220/20/3/641/pdf?version=1580041734",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC7038325, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "1957784",
+          "name": "Trong-Yen Lee"
+        },
+        {
+          "authorId": "26906057",
+          "name": "I-An Lin"
+        },
+        {
+          "authorId": "1490803324",
+          "name": "Ren-Hong Liao"
+        }
+      ],
+      "abstract": "Due to the development of the Internet of Vehicles (IoV) and advanced driver-assistance systems (ADAS), the Ethernet has become one of the most important communication protocols for the future of automotive networks. This is because the existing communication protocols (such as FlexRay) do not provide sufficiently high bandwidth requirements. The main challenge for the automotive industry will be to transfer and extend standard IP and Ethernet into vehicles and still fulfill the automotive requirements. The automotive gateway not only links two or more protocols and exchanges the data using each, but also monitors and ensures functional safety. This paper proposes a FlexRay/Ethernet gateway by considering the development conditions of embedded systems and the security in the field of vehicle networking. The proposed method is implemented on the Field Programmable Gate Array (FPGA) system to evaluate running time and to analyze the overhead of the security mechanism. For one-to-one mapping logic, the execution times of FlexRay to the Ethernet path and Ethernet to FlexRay path are constant, at 4.67 μs and 6.71 μs, respectively. In particular, cybersecurity can be integrated as an extension of the gateway with low latency and power consumption.",
+      "author_str": "Trong-Yen Lee, I-An Lin, Ren-Hong Liao",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "e07693e2cb01503ded748866fd64a67d3f2da76f",
+      "url": "https://www.semanticscholar.org/paper/e07693e2cb01503ded748866fd64a67d3f2da76f",
+      "title": "5G fronthaul-latency and jitter studies of CPRI over ethernet",
+      "year": 2017,
+      "citationCount": 119,
+      "openAccessPdf": {
+        "url": "https://arxiv.org/pdf/1806.06306",
+        "status": "GREEN",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1806.06306, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2051224",
+          "name": "Divya Chitimalla"
+        },
+        {
+          "authorId": "49677692",
+          "name": "K. Kondepu"
+        },
+        {
+          "authorId": "1790498",
+          "name": "L. Valcarenghi"
+        },
+        {
+          "authorId": "1759410",
+          "name": "M. Tornatore"
+        },
+        {
+          "authorId": "145059625",
+          "name": "B. Mukherjee"
+        }
+      ],
+      "abstract": "Common Public Radio Interface (CPRI) is a successful industry cooperation defining the publicly available specification for the key internal interface of radio base stations between the radio equipment control (REC) and the radio equipment (RE) in the fronthaul of mobile networks. However, CPRI is expensive to deploy, consumes large bandwidth, and currently is statically configured. On the other hand, an Ethernet-based mobile fronthaul will be cost-efficient and more easily reconfigurable. Encapsulating CPRI over Ethernet (CoE) is an attractive solution, but stringent CPRI requirements such as delay and jitter are major challenges that need to be met to make CoE a reality. This study investigates whether CoE can meet delay and jitter requirements by performing FPGA-based Verilog experiments and simulations. Verilog experiments show that CoE encapsulation with fixed Ethernet frame size requires about tens of microseconds. Numerical experiments show that the proposed scheduling policy of CoE flows on Ethernet can reduce jitter when redundant Ethernet capacity is provided. The reduction in jitter can be as large as 1 μs, hence making Ethernet-based mobile fronthaul a credible technology.",
+      "author_str": "Divya Chitimalla, K. Kondepu, L. Valcarenghi",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "b25df0408500b5acce2188009933a9536ee66760",
+      "url": "https://www.semanticscholar.org/paper/b25df0408500b5acce2188009933a9536ee66760",
+      "title": "Performance evaluation of industrial Ethernet protocols for networked control application",
+      "year": 2019,
+      "citationCount": 48,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/J.CONENGPRAC.2018.11.022?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/J.CONENGPRAC.2018.11.022, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2032122",
+          "name": "Xuepei Wu"
+        },
+        {
+          "authorId": "145050702",
+          "name": "Lihua Xie"
+        }
+      ],
+      "abstract": "Abstract Boosted by trends such as Industrial IoT and Industry 4.0, industrial Ethernet networks (EtherNet/IP, EtherCAT and PROFINET IRT as top-3 players) have been commonly deployed in industrial automation. The aim of this paper is to provide a practical guideline for selecting the right protocol in industrial networked control systems (NCSs) by comparing the performance of these protocols. Communication delays are discussed, formulated and evaluated with a study of a typical NCS. Simulation results demonstrate that with different frame packing, media access scheme, etc., EtherNet/IP, EtherCAT and PROFINET IRT offer different levels of real-time capabilities which lead to different control performance.",
+      "author_str": "Xuepei Wu, Lihua Xie",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "c2a91219ffe6c55d3347a54803833a97294ee1b7",
+      "url": "https://www.semanticscholar.org/paper/c2a91219ffe6c55d3347a54803833a97294ee1b7",
+      "title": "Design Optimization of Frame Preemption in Real-Time Switched Ethernet",
+      "year": 2019,
+      "citationCount": 28,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.23919/DATE.2019.8714953?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.23919/DATE.2019.8714953, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2071929339",
+          "name": "Taejun Park"
+        },
+        {
+          "authorId": "1720382",
+          "name": "Soheil Samii"
+        },
+        {
+          "authorId": "144276974",
+          "name": "K. Shin"
+        }
+      ],
+      "abstract": "Switched Ethernet has been, and will also be increasingly common in current and future real-time and embedded systems. The IEEE 802.1 working group has recently developed standards and technologies, commonly referred to as Time-Sensitive Networking (TSN), to enhance switched Ethernet with timeliness and dependability. We address, for the first time, the synthesis problem for the TSN frame preemption standards IEEE 802.3br-2016 and 802.1Qbu-2016 by introducing two new configuration parameters: flow to queue and queue to Express/Preemptable MAC interface assignments. We present an optimization framework to determine these configuration parameters with reliability as the optimization goal. Our proposed framework is shown to outperform commonly used priority-assignment as well as intuitive approaches.",
+      "author_str": "Taejun Park, Soheil Samii, K. Shin",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "c19dc39cace85fb9c72f3a669234e6b751bbc8ae",
+      "url": "https://www.semanticscholar.org/paper/c19dc39cace85fb9c72f3a669234e6b751bbc8ae",
+      "title": "Fault Tolerance in Highly Reliable Ethernet-Based Industrial Systems",
+      "year": 2019,
+      "citationCount": 25,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/JPROC.2019.2914589?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/JPROC.2019.2914589, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "145268869",
+          "name": "I. Álvarez"
+        },
+        {
+          "authorId": "145049849",
+          "name": "Alberto Ballesteros"
+        },
+        {
+          "authorId": "2060811006",
+          "name": "M. Barranco"
+        },
+        {
+          "authorId": "2880522",
+          "name": "David Gessner"
+        },
+        {
+          "authorId": "134709580",
+          "name": "Sinisa Djerasevic"
+        },
+        {
+          "authorId": "3333566",
+          "name": "J. Proenza"
+        }
+      ],
+      "abstract": "Many industrial systems have specific requirements derived from the applications they execute. Specifically, the interaction of a distributed embedded control system (DECS) with the real-world imposes strict real-time (RT) and reliability requirements. For a system to be RT, it has to produce a proper result in a bounded time. On top of that, for a system to be reliable, it has to operate continuously during its mission time, and in cases in which very high reliability is needed, fault tolerance (FT) techniques are used. Moreover, these systems are often deployed in dynamic environments where the operational conditions may change in an unpredictable manner. Therefore, there is an increasing interest in creating DECSs that are capable of modifying their behavior autonomously and dynamically in response to unexpectedly changing requirements or conditions. In recent years, there is a growing trend toward using Ethernet as the network technology for DECSs. Unfortunately, the original specification of this technology lacks appropriate services to fulfill the most demanding requirements of industrial systems. In this regard, many Ethernet-based protocols and standards have been proposed along the past years to deal with these limitations. In this paper, we survey solutions that have been proposed to achieve FT in Ethernet-based DECSs, considering faults both in their nodes and communication subsystem. In addition, we discuss adaptive FT techniques that can be used to increase the flexibility of adaptive DECS. Finally, we identify future trends and open challenges to build highly reliable DECS in the future.",
+      "author_str": "I. Álvarez, Alberto Ballesteros, M. Barranco",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "a3d293d2f20ded932635c36f576686e89b20ac5d",
+      "url": "https://www.semanticscholar.org/paper/a3d293d2f20ded932635c36f576686e89b20ac5d",
+      "title": "Chaotic Encryption Applied to Optical Ethernet in Industrial Control Systems",
+      "year": 2019,
+      "citationCount": 17,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2401.15039, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "1404444811",
+          "name": "A. Pérez-Resa"
+        },
+        {
+          "authorId": "1404444808",
+          "name": "M. Garcia-Bosque"
+        },
+        {
+          "authorId": "1398517915",
+          "name": "C. Sánchez-Azqueta"
+        },
+        {
+          "authorId": "1692613",
+          "name": "S. Celma"
+        }
+      ],
+      "abstract": "In the past decades, Ethernet has become an alternative technology for the field buses traditionally used in industrial control systems and distributed measurement systems. Among different transmission media in Ethernet standards, optical fiber provides the best bandwidth, excellent immunity to electromagnetic interference, and less signal loses than other wired media. Due to the absence of a standard that provides security at the physical layer of optical Ethernet links, the main motivation of this paper is to propose and implement the necessary modifications to introduce encryption in Ethernet 1000Base-X standard. This has consisted of symmetric streaming encryption of the 8b10b symbols flow at physical coding sublayer level, thanks to a keystream generator based on chaotic algorithm. The overall system has been implemented and tested in an field programmable gate array and Ethernet traffic has been encrypted and transmitted over an optical link. The experimental results show that it is possible to cipher traffic at this level and hide the complete Ethernet traffic pattern from passive eavesdroppers. In addition, no space overhead is introduced in data frames during encryption, achieving the maximum throughput.",
+      "author_str": "A. Pérez-Resa, M. Garcia-Bosque, C. Sánchez-Azqueta",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "7ae0cec147bddcdedcc5be3f5011ffb49741183e",
+      "url": "https://www.semanticscholar.org/paper/7ae0cec147bddcdedcc5be3f5011ffb49741183e",
+      "title": "Energy-Aware Routing in Carrier-Grade Ethernet Using SDN Approach",
+      "year": 2018,
+      "citationCount": 48,
+      "openAccessPdf": {
+        "url": "https://hal.archives-ouvertes.fr/hal-01858703/file/TGCN-TPS-17-0120.R2.pdf",
+        "status": "GREEN",
+        "license": "other-oa",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/TGCN.2018.2832658?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/TGCN.2018.2832658, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2109213",
+          "name": "Rihab Maaloul"
+        },
+        {
+          "authorId": "2096397",
+          "name": "Raouia Taktak"
+        },
+        {
+          "authorId": "2330607",
+          "name": "L. Chaari"
+        },
+        {
+          "authorId": "144904018",
+          "name": "Bernard A. Cousin"
+        }
+      ],
+      "abstract": "Soft-defined networking (SDN) is a new approach that enables operators to easily manage all the network elements. In this paper, we address the problem of energy-aware routing in SDN-based carrier-grade Ethernet networks. Our approach is based on turning off network nodes and links to reduce energy consumption, while respecting the rule space capacity for each Openflow switch, and maintaining an allowable maximum link utilization. The problem of identifying the optimal set of network elements to be turned off is NP-hard. We first present an exact model based on an integer linear programming formulation for the problem. Then, we describe a set of first-fit heuristic algorithms suitable for large-sized networks. The exact and heuristic approaches are tested on SNDlib-based instances. Experimentations show the efficiency of both exact and heuristic methods for different network topologies. In particular, our heuristic algorithms are able to achieve a good balance between energy consumption, resource utilization, and network performance.",
+      "author_str": "Rihab Maaloul, Raouia Taktak, L. Chaari",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "520a997fd18314175b979baeaaa19f35d88e775c",
+      "url": "https://www.semanticscholar.org/paper/520a997fd18314175b979baeaaa19f35d88e775c",
+      "title": "Towards integration of Industrial Ethernet with 5G mobile networks",
+      "year": 2018,
+      "citationCount": 39,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/WFCS.2018.8402373?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/WFCS.2018.8402373, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "40229083",
+          "name": "Arne Neumann"
+        },
+        {
+          "authorId": "35134524",
+          "name": "Lukasz Wisniewski"
+        },
+        {
+          "authorId": "9040815",
+          "name": "R. S. Ganesan"
+        },
+        {
+          "authorId": "145566453",
+          "name": "P. Rost"
+        },
+        {
+          "authorId": "9265930",
+          "name": "J. Jasperneite"
+        }
+      ],
+      "abstract": "In contrast to the predecessors, the fifth generation of mobile networks (5G) will particularly address communication in production systems by providing machine-type communication and matching requirements regarding reliability and latency. However, 3GPP 5G will not be the one and only network technology that can be used to fulfill all the requirements raising from industrial applications at reasonable costs. It is more likely, that it complements other wired and wireless technologies, rather than replacing them. This paper presents different scenarios to combine 5G and Industrial Ethernet to a hybrid topology, it explains the characteristics and possible use cases for these scenarios and it sketches approaches to engineer and configure the hybrid network.",
+      "author_str": "Arne Neumann, Lukasz Wisniewski, R. S. Ganesan",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "be49329d90dc976a3be5171cde98f6aa1e19b074",
+      "url": "https://www.semanticscholar.org/paper/be49329d90dc976a3be5171cde98f6aa1e19b074",
+      "title": "Chaotic Encryption for 10-Gb Ethernet Optical Links",
+      "year": 2019,
+      "citationCount": 14,
+      "openAccessPdf": {
+        "url": "https://zaguan.unizar.es/record/84168/files/texto_completo.pdf",
+        "status": "GREEN",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2401.15138, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "1404444811",
+          "name": "A. Pérez-Resa"
+        },
+        {
+          "authorId": "1404444808",
+          "name": "M. Garcia-Bosque"
+        },
+        {
+          "authorId": "1398517915",
+          "name": "C. Sánchez-Azqueta"
+        },
+        {
+          "authorId": "1692613",
+          "name": "S. Celma"
+        }
+      ],
+      "abstract": "In this paper, a new physical layer encryption method for optical 10-Gb Ethernet links is proposed. Necessary modifications to introduce encryption in Ethernet 10GBase-R standard have been considered. This security enhancement has consisted of a symmetric streaming encryption of the 64b/66b data flow at physical coding sublayer level thanks to two keystream generators based on a chaotic algorithm. The overall system has been implemented and tested in a field programmable gate array. Ethernet traffic has been encrypted, transmitted, and decrypted over a multimode optical link. Experimental results are analyzed concluding that it is possible to cipher traffic at this level and hide the complete Ethernet traffic pattern from any passive eavesdropper. In addition, no overhead is introduced during encryption, getting no losses in the total throughput.",
+      "author_str": "A. Pérez-Resa, M. Garcia-Bosque, C. Sánchez-Azqueta",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "067420e38c16b83c3e3374dcb8d3f40dffea55c1",
+      "url": "https://www.semanticscholar.org/paper/067420e38c16b83c3e3374dcb8d3f40dffea55c1",
+      "title": "Impact Analysis of Flow Shaping in Ethernet-AVB/TSN and AFDX from Network Calculus and Simulation Perspective",
+      "year": 2017,
+      "citationCount": 42,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/1424-8220/17/5/1181/pdf?version=1495458833",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC5470926, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "1384652519",
+          "name": "Feng He"
+        },
+        {
+          "authorId": "46586837",
+          "name": "Lin Zhao"
+        },
+        {
+          "authorId": "1940430",
+          "name": "Ershuai Li"
+        }
+      ],
+      "abstract": "Ethernet-AVB/TSN (Audio Video Bridging/Time-Sensitive Networking) and AFDX (Avionics Full DupleX switched Ethernet) are switched Ethernet technologies, which are both candidates for real-time communication in the context of transportation systems. AFDX implements a fixed priority scheduling strategy with two priority levels. Ethernet-AVB/TSN supports a similar fixed priority scheduling with an additional Credit-Based Shaper (CBS) mechanism. Besides, TSN can support time-triggered scheduling strategy. One direct effect of CBS mechanism is to increase the delay of its flows while decreasing the delay of other priority ones. The former effect can be seen as the shaping restriction and the latter effect can be seen as the shaping benefit from CBS. The goal of this paper is to investigate the impact of CBS on different priority flows, especially on the intermediate priority ones, as well as the effect of CBS bandwidth allocation. It is based on a performance comparison of AVB/TSN and AFDX by simulation in an automotive case study. Furthermore, the shaping benefit is modeled based on integral operation from network calculus perspective. Combing with the analysis of shaping restriction and shaping benefit, some configuration suggestions on the setting of CBS bandwidth are given. Results show that the effect of CBS depends on flow loads and CBS configurations. A larger load of high priority flows in AVB tends to a better performance for the intermediate priority flows when compared with AFDX. Shaping benefit can be explained and calculated according to the changing from the permitted maximum burst.",
+      "author_str": "Feng He, Lin Zhao, Ershuai Li",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "40bfae0152daf076211ff8337be6fd227abb57fa",
+      "url": "https://www.semanticscholar.org/paper/40bfae0152daf076211ff8337be6fd227abb57fa",
+      "title": "The evolution of Ethernet Passive Optical Network (EPON) and future trends",
+      "year": 2018,
+      "citationCount": 30,
+      "openAccessPdf": {
+        "url": "http://umpir.ump.edu.my/id/eprint/22694/1/The%20evolution%20of%20Ethernet%20Passive%20Optical%20Network%20%28EPON%29%20and%20future%20trends.pdf",
+        "status": "GREEN",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/J.IJLEO.2018.03.119?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/J.IJLEO.2018.03.119, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "70992464",
+          "name": "Felix Obite"
+        },
+        {
+          "authorId": "6248959",
+          "name": "E. Jaja"
+        },
+        {
+          "authorId": "72006173",
+          "name": "Geoffrey Ijeomah"
+        },
+        {
+          "authorId": "101540076",
+          "name": "K. I. Jahun"
+        }
+      ],
+      "abstract": "Abstract The tremendous Internet traffic growth has confirmed that the telecommunications backbone is moving aggressively from a time division multiplexing (TDM) orientation to a focus on Ethernet solution. Ethernet PON, which presents the convergence of low-cost Ethernet and fiber infrastructures, has taken over the market initially dominated by Digital Subscriber Line (DSL) and cable modems. It is a new technology that is simple, inexpensive, and scalable, having the ability to deliver massive data services to end-users over a single network. This paper reviewed the evolution of Ethernet Passive Optical Network (EPON), with focus on the current development process of the future high-data-rate access networks such as Next-Generation Passive Optical Network Stage 2 (NG-PON2), Wavelength Division Multiplexing (WDM) PON, and Orthogonal Frequency Division Multiplexing (OFDM) PON. In addition, the recently concluded 100 Gb Ethernet Passive Optical Network (100G-EPON) is reviewed with the aim of highlighting the recent developments in the field. With this comprehensive and up-to-date review, we equip network operators and interested practitioners to focus on common priorities and timelines. Another goal of this study is to identify technical remedies for future investigation.",
+      "author_str": "Felix Obite, E. Jaja, Geoffrey Ijeomah",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "6163ab2f44fa25c9695f7454d7f18d8dd877ae53",
+      "url": "https://www.semanticscholar.org/paper/6163ab2f44fa25c9695f7454d7f18d8dd877ae53",
+      "title": "Schedulability analysis of Ethernet Audio Video Bridging networks with scheduled traffic support",
+      "year": 2017,
+      "citationCount": 71,
+      "openAccessPdf": {
+        "url": "https://link.springer.com/content/pdf/10.1007%2Fs11241-017-9268-5.pdf",
+        "status": "HYBRID",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s11241-017-9268-5?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s11241-017-9268-5, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2151932",
+          "name": "M. Ashjaei"
+        },
+        {
+          "authorId": "2897841",
+          "name": "Gaetano Patti"
+        },
+        {
+          "authorId": "46879548",
+          "name": "M. Behnam"
+        },
+        {
+          "authorId": "2191832",
+          "name": "Thomas Nolte"
+        },
+        {
+          "authorId": "2471692",
+          "name": "Giuliana Alderisi"
+        },
+        {
+          "authorId": "9188489",
+          "name": "L. L. Bello"
+        }
+      ],
+      "abstract": "The IEEE Audio Video Bridging (AVB) technology is nowadays under consideration in several automation domains, such as, automotive, avionics, and industrial communications. AVB offers several benefits, such as open specifications, the existence of multiple providers of electronic components, and the real-time support, as AVB provides bounded latency to real-time traffic classes. In addition to the above mentioned properties, in the automotive domain, comparing with the existing in-vehicle networks, AVB offers significant advantages in terms of high bandwidth, significant reduction of cabling costs, thickness and weight, while meeting the challenging EMC/EMI requirements. Recently, an improvement of the AVB protocol, called the AVB ST, was proposed in the literature, which allows for supporting scheduled traffic, i.e., a class of time-sensitive traffic that requires time-driven transmission and low latency. In this paper, we present a schedulability analysis for the real-time traffic crossing through the AVB ST network. In addition, we formally prove that, if the bandwidth in the network is allocated according to the AVB standard, the schedulability test based on response time analysis will fail for most cases even if, in reality, these cases are schedulable. In order to provide guarantees based on analysis test a bandwidth over-reservation is required. In this paper, we propose a solution to obtain a minimized bandwidth over-reservation. To the best of our knowledge, this is the first attempt to formally spot the limitation and to propose a solution for overcoming it. The proposed analysis is applied to both the AVB standard and the AVB ST. The analysis results are compared with the results of several simulative assessments, obtained using OMNeT++, on both automotive and industrial case studies. The comparison between the results of the analysis and the simulation ones shows the effectiveness of the analysis proposed in this work.",
+      "author_str": "M. Ashjaei, Gaetano Patti, M. Behnam",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "d8569096e4f17862e52c5eb6d3cacb4175953b4b",
+      "url": "https://www.semanticscholar.org/paper/d8569096e4f17862e52c5eb6d3cacb4175953b4b",
+      "title": "A Converged Evolved Ethernet Fronthaul for the 5G Era",
+      "year": 2018,
+      "citationCount": 18,
+      "openAccessPdf": {
+        "url": "https://ieeexplore.ieee.org/ielx7/49/8554320/08482245.pdf",
+        "status": "HYBRID",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/JSAC.2018.2874148?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/JSAC.2018.2874148, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2200077",
+          "name": "P. Assimakopoulos"
+        },
+        {
+          "authorId": "50136600",
+          "name": "J. Zou"
+        },
+        {
+          "authorId": "16206035",
+          "name": "K. Habel"
+        },
+        {
+          "authorId": "31369551",
+          "name": "J. Elbers"
+        },
+        {
+          "authorId": "1736752",
+          "name": "V. Jungnickel"
+        },
+        {
+          "authorId": "2499437",
+          "name": "N. Gomes"
+        }
+      ],
+      "abstract": "We assess the performance of two distinct functional splits based on latency/latency variation and mapping efficiency, both individually and in unison. By considering hardware-offloading possibilities for a low-layer split (especially a pre-resource mapper split) using an option-6 software-based local thermal equilibrium split as an example, we show how data rate, Ethernet frame size and, in general, traffic generation characteristics will be very important aspects in the design of the future Ethernet mapping function. Then, an integrated Ethernet fronthaul with legacy and new/evolved split functionality operating at 100 Gb/s link rate is presented with the state-of-the art sub-100-ns latency variation for a timing-protocol flow. This is achieved through the application of a gap-filling aggregator, used for the first time in such a mobile fronthaul application.",
+      "author_str": "P. Assimakopoulos, J. Zou, K. Habel",
+      "conclusion": "Unable to process at this time"
+    }
+  ],
+  "contradictions": [
+    {
+      "theme": "Model Size Efficiency",
+      "paper_a": "Attention is All You Need",
+      "claim_a": "Larger models with more parameters achieve better performance",
+      "paper_b": "DistilBERT: Smaller Model Faster",
+      "claim_b": "Smaller distilled models can match performance with lower latency"
+    },
+    {
+      "theme": "Positional Encoding Methods",
+      "paper_a": "Attention is All You Need",
+      "claim_a": "Absolute positional encoding is sufficient",
+      "paper_b": "RoFormer",
+      "claim_b": "Relative positional encoding captures relationships better"
+    },
+    {
+      "theme": "Fine-tuning vs Few-shot",
+      "paper_a": "BERT: Pre-training",
+      "claim_a": "Task-specific fine-tuning is necessary",
+      "paper_b": "Language Models are Few-shot Learners",
+      "claim_b": "Large models can learn from prompts without fine-tuning"
+    }
+  ],
+  "report": "\n# Literature Review: ethernet\n\n## 1. Topic Overview\nThis report provides a narrative synthesis of the literature found for the topic \"ethernet\". The summary below integrates the main findings from the papers that were retrieved and analyzed during the search process.\n\n## 2. Synthesis of Findings\n[1] RDMA over Ethernet for Distributed Training at Meta Scale: Unable to process at this time [2] AERO: Automotive Ethernet Real-Time Observer for Anomaly Detection in In-Vehicle Networks: Unable to process at this time\n\n[3] Time-slotted software-defined Industrial Ethernet for real-time Quality of Service in Industry 4.0: Unable to process at this time [4] A Perspective on Ethernet in Automotive Communications—Current Status and Future Trends: Unable to process at this time [5] A Survey of Real-Time Ethernet Modeling and Design Methodologies: From AVB to TSN: Unable to process at this time [6] TOW-IDS: Intrusion Detection System Based on Three Overlapped Wavelets for Automotive Ethernet: Unable to process at this time [7] A Systematic Review on Security Attacks and Countermeasures in Automotive Ethernet: Unable to process at this time [8] Data Center Ethernet and Remote Direct Memory Access: Issues at Hyperscale: Unable to process at this time [9] Datacenter Ethernet and RDMA: Issues at Hyperscale: Unable to process at this time [10] Industrial Communication Systems and Their Future Challenges: Next-Generation Ethernet, IIoT, and 5G: Unable to process at this time [11] Convolutional Neural Network-based Intrusion Detection System for AVTP Streams in Automotive Ethernet-based Networks: Unable to process at this time [12] Simulating TSN traffic scheduling and shaping for future automotive Ethernet: Unable to process at this time [13] Development of an Ethernet-Based Heuristic Time-Sensitive Networking Scheduling Algorithm for Real-Time In-Vehicle Data Transmission: Unable to process at this time [14] Anomaly Detection and Attack Classification for Train Real-Time Ethernet: Unable to process at this time [15] A Migration Strategy for Profinet Toward Ethernet TSN-Based Field-Level Communication: An Approach to Accelerate the Adoption of Converged IT/OT Communication: Unable to process at this time [16] Design of a FlexRay/Ethernet Gateway and Security Mechanism for In-Vehicle Networks: Unable to process at this time [17] 5G fronthaul-latency and jitter studies of CPRI over ethernet: Unable to process at this time [18] Performance evaluation of industrial Ethernet protocols for networked control application: Unable to process at this time [19] Design Optimization of Frame Preemption in Real-Time Switched Ethernet: Unable to process at this time [20] Fault Tolerance in Highly Reliable Ethernet-Based Industrial Systems: Unable to process at this time [21] Chaotic Encryption Applied to Optical Ethernet in Industrial Control Systems: Unable to process at this time [22] Energy-Aware Routing in Carrier-Grade Ethernet Using SDN Approach: Unable to process at this time [23] Towards integration of Industrial Ethernet with 5G mobile networks: Unable to process at this time [24] Chaotic Encryption for 10-Gb Ethernet Optical Links: Unable to process at this time [25] Impact Analysis of Flow Shaping in Ethernet-AVB/TSN and AFDX from Network Calculus and Simulation Perspective: Unable to process at this time [26] The evolution of Ethernet Passive Optical Network (EPON) and future trends: Unable to process at this time [27] Schedulability analysis of Ethernet Audio Video Bridging networks with scheduled traffic support: Unable to process at this time [28] A Converged Evolved Ethernet Fronthaul for the 5G Era: Unable to process at this time\n\n## 3. Limitations and Gaps\nThis synthesis is drawn from the conclusions extracted during the search process, but it may not capture every nuance or every relevant publication in the field. Further review is advised to address potential coverage gaps, methodological blind spots, and any emerging work that was not included in the initial analysis.\n\n## 4. Next Steps\nTo strengthen this literature review, validate the findings against the original source papers, extend the search to closely related keywords and newer publications, and refine the analysis with a deeper examination of conflicting claims and unresolved research questions.\n",
+  "concepts": [
+    "neural networks",
+    "optimization",
+    "model training",
+    "attention mechanism",
+    "deep learning"
+  ],
+  "topic": "ethernet",
+  "timestamp": "2026-04-09 11:53:52"
+}

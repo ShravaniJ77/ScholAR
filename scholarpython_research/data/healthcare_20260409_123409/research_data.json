@@ -1,0 +1,1706 @@
+{
+  "type": "complete",
+  "papers": [
+    {
+      "paperId": "d926f7ad7cc14b4ec56b04b27138ffbb7131f10d",
+      "url": "https://www.semanticscholar.org/paper/d926f7ad7cc14b4ec56b04b27138ffbb7131f10d",
+      "title": "AMSTAR 2: a critical appraisal tool for systematic reviews that include randomised or non-randomised studies of healthcare interventions, or both",
+      "year": 2017,
+      "citationCount": 8583,
+      "openAccessPdf": {
+        "url": "https://www.bmj.com/content/bmj/358/bmj.j4008.full.pdf",
+        "status": "HYBRID",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC5833365, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "145265909",
+          "name": "B. Shea"
+        },
+        {
+          "authorId": "2253887380",
+          "name": "Barnaby C. Reeves"
+        },
+        {
+          "authorId": "2243923825",
+          "name": "George Wells"
+        },
+        {
+          "authorId": "25475320",
+          "name": "Micere Thuku"
+        },
+        {
+          "authorId": "2250946864",
+          "name": "Candyce Hamel"
+        },
+        {
+          "authorId": "32742483",
+          "name": "Julian Moran"
+        },
+        {
+          "authorId": "2238470974",
+          "name": "D. Moher"
+        },
+        {
+          "authorId": "2059314682",
+          "name": "P. Tugwell"
+        },
+        {
+          "authorId": "2241047870",
+          "name": "Vivian Welch"
+        },
+        {
+          "authorId": "2245636057",
+          "name": "Elizabeth Kristjansson"
+        },
+        {
+          "authorId": "1953748021",
+          "name": "D. Henry"
+        }
+      ],
+      "abstract": "The number of published systematic reviews of studies of healthcare interventions has increased rapidly and these are used extensively for clinical and policy decisions. Systematic reviews are subject to a range of biases and increasingly include non-randomised studies of interventions. It is important that users can distinguish high quality reviews. Many instruments have been designed to evaluate different aspects of reviews, but there are few comprehensive critical appraisal instruments. AMSTAR was developed to evaluate systematic reviews of randomised trials. In this paper, we report on the updating of AMSTAR and its adaptation to enable more detailed assessment of systematic reviews that include randomised or non-randomised studies of healthcare interventions, or both. With moves to base more decisions on real world observational evidence we believe that AMSTAR 2 will assist decision makers in the identification of high quality systematic reviews, including those based on non-randomised studies of healthcare interventions.",
+      "author_str": "B. Shea, Barnaby C. Reeves, George Wells",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "dfdf7ff01aa6f691831e663fd29bc71890be39e2",
+      "url": "https://www.semanticscholar.org/paper/dfdf7ff01aa6f691831e663fd29bc71890be39e2",
+      "title": "ChatGPT Utility in Healthcare Education, Research, and Practice: Systematic Review on the Promising Perspectives and Valid Concerns",
+      "year": 2023,
+      "citationCount": 2361,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/2227-9032/11/6/887/pdf?version=1679359384",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10048148, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "40360586",
+          "name": "Malik Sallam"
+        }
+      ],
+      "abstract": "ChatGPT is an artificial intelligence (AI)-based conversational large language model (LLM). The potential applications of LLMs in health care education, research, and practice could be promising if the associated valid concerns are proactively examined and addressed. The current systematic review aimed to investigate the utility of ChatGPT in health care education, research, and practice and to highlight its potential limitations. Using the PRIMSA guidelines, a systematic search was conducted to retrieve English records in PubMed/MEDLINE and Google Scholar (published research or preprints) that examined ChatGPT in the context of health care education, research, or practice. A total of 60 records were eligible for inclusion. Benefits of ChatGPT were cited in 51/60 (85.0%) records and included: (1) improved scientific writing and enhancing research equity and versatility; (2) utility in health care research (efficient analysis of datasets, code generation, literature reviews, saving time to focus on experimental design, and drug discovery and development); (3) benefits in health care practice (streamlining the workflow, cost saving, documentation, personalized medicine, and improved health literacy); and (4) benefits in health care education including improved personalized learning and the focus on critical thinking and problem-based learning. Concerns regarding ChatGPT use were stated in 58/60 (96.7%) records including ethical, copyright, transparency, and legal issues, the risk of bias, plagiarism, lack of originality, inaccurate content with risk of hallucination, limited knowledge, incorrect citations, cybersecurity issues, and risk of infodemics. The promising applications of ChatGPT can induce paradigm shifts in health care education, research, and practice. However, the embrace of this AI chatbot should be conducted with extreme caution considering its potential limitations. As it currently stands, ChatGPT does not qualify to be listed as an author in scientific articles unless the ICMJE/COPE guidelines are revised or amended. An initiative involving all stakeholders in health care education, research, and practice is urgently needed. This will help to set a code of ethics to guide the responsible use of ChatGPT among other LLMs in health care and academia.",
+      "author_str": "Malik Sallam",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "d518de9ce068416772d8040b8b43609faf79890d",
+      "url": "https://www.semanticscholar.org/paper/d518de9ce068416772d8040b8b43609faf79890d",
+      "title": "Prevalence of depression, anxiety, and insomnia among healthcare workers during the COVID-19 pandemic: A systematic review and meta-analysis",
+      "year": 2020,
+      "citationCount": 3193,
+      "openAccessPdf": {
+        "url": "https://europepmc.org/articles/pmc7206431?pdf=render",
+        "status": "GREEN",
+        "license": "unspecified-oa",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC7206431, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "119778691",
+          "name": "S. Pappa"
+        },
+        {
+          "authorId": "1396453090",
+          "name": "Vasiliki Ntella"
+        },
+        {
+          "authorId": "1491410231",
+          "name": "Timoleon Giannakas"
+        },
+        {
+          "authorId": "1430690259",
+          "name": "V. Giannakoulis"
+        },
+        {
+          "authorId": "2369602739",
+          "name": "E. Papoutsi"
+        },
+        {
+          "authorId": "6355234",
+          "name": "P. Katsaounou"
+        }
+      ],
+      "abstract": "Highlights • At least one in five healthcare professionals report symptoms of depression and anxiety.• Almost four in ten healthcare workers experience sleeping difficulties and/or insomnia.• Rates of anxiety and depression were higher for female healthcare workers and nursing staff.• Milder mood symptoms are common and screening should aim to identify mild and sub-threshold syndromes.",
+      "author_str": "S. Pappa, Vasiliki Ntella, Timoleon Giannakas",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "5cde474869cb230a29b3ba0f6f685f5162b1a1a1",
+      "url": "https://www.semanticscholar.org/paper/5cde474869cb230a29b3ba0f6f685f5162b1a1a1",
+      "title": "Revolutionizing healthcare: the role of artificial intelligence in clinical practice",
+      "year": 2023,
+      "citationCount": 2056,
+      "openAccessPdf": {
+        "url": "https://bmcmededuc.biomedcentral.com/counter/pdf/10.1186/s12909-023-04698-z",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10517477, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "1716508276",
+          "name": "Shuroug A. Alowais"
+        },
+        {
+          "authorId": "2243408972",
+          "name": "S. Alghamdi"
+        },
+        {
+          "authorId": "2291423525",
+          "name": "N. Alsuhebany"
+        },
+        {
+          "authorId": "2243412243",
+          "name": "Tariq Alqahtani"
+        },
+        {
+          "authorId": "2078203152",
+          "name": "Abdulrahman I. Alshaya"
+        },
+        {
+          "authorId": "2159384173",
+          "name": "Sumaya N Almohareb"
+        },
+        {
+          "authorId": "2003687008",
+          "name": "Atheer O. Aldairem"
+        },
+        {
+          "authorId": "144882464",
+          "name": "Mohammed A. Alrashed"
+        },
+        {
+          "authorId": "5565754",
+          "name": "Khalid Bin saleh"
+        },
+        {
+          "authorId": "11708863",
+          "name": "H. Badreldin"
+        },
+        {
+          "authorId": "12112205",
+          "name": "Majed S. Al Yami"
+        },
+        {
+          "authorId": "4884356",
+          "name": "Shmeylan A. Al Harbi"
+        },
+        {
+          "authorId": "6458651",
+          "name": "Abdulkareem M. Albekairy"
+        }
+      ],
+      "abstract": "Introduction Healthcare systems are complex and challenging for all stakeholders, but artificial intelligence (AI) has transformed various fields, including healthcare, with the potential to improve patient care and quality of life. Rapid AI advancements can revolutionize healthcare by integrating it into clinical practice. Reporting AI’s role in clinical practice is crucial for successful implementation by equipping healthcare providers with essential knowledge and tools. Research Significance This review article provides a comprehensive and up-to-date overview of the current state of AI in clinical practice, including its potential applications in disease diagnosis, treatment recommendations, and patient engagement. It also discusses the associated challenges, covering ethical and legal considerations and the need for human expertise. By doing so, it enhances understanding of AI’s significance in healthcare and supports healthcare organizations in effectively adopting AI technologies. Materials and Methods The current investigation analyzed the use of AI in the healthcare system with a comprehensive review of relevant indexed literature, such as PubMed/Medline, Scopus, and EMBASE, with no time constraints but limited to articles published in English. The focused question explores the impact of applying AI in healthcare settings and the potential outcomes of this application. Results Integrating AI into healthcare holds excellent potential for improving disease diagnosis, treatment selection, and clinical laboratory testing. AI tools can leverage large datasets and identify patterns to surpass human performance in several healthcare aspects. AI offers increased accuracy, reduced costs, and time savings while minimizing human errors. It can revolutionize personalized medicine, optimize medication dosages, enhance population health management, establish guidelines, provide virtual health assistants, support mental health care, improve patient education, and influence patient-physician trust. Conclusion AI can be used to diagnose diseases, develop personalized treatment plans, and assist clinicians with decision-making. Rather than simply automating tasks, AI is about developing technologies that can enhance patient care across healthcare settings. However, challenges related to data privacy, bias, and the need for human expertise must be addressed for the responsible and effective implementation of AI in healthcare.",
+      "author_str": "Shuroug A. Alowais, S. Alghamdi, N. Alsuhebany",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "aeffb4aacb7ecf50212fb4769f2b21df931a4822",
+      "url": "https://www.semanticscholar.org/paper/aeffb4aacb7ecf50212fb4769f2b21df931a4822",
+      "title": "Understanding Psychosocial Barriers to Healthcare Technology Adoption: A Review of TAM Technology Acceptance Model and Unified Theory of Acceptance and Use of Technology and UTAUT Frameworks",
+      "year": 2025,
+      "citationCount": 129,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.3390/healthcare13030250",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11816427, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2342769192",
+          "name": "Ann Thong Lee"
+        },
+        {
+          "authorId": "2342574462",
+          "name": "R. Ramasamy"
+        },
+        {
+          "authorId": "2238140078",
+          "name": "Anusuyah Subbarao"
+        }
+      ],
+      "abstract": "Background: Leveraging healthcare technology improves human development and well-being. However, adoption is frequently delayed by behavioural and psychological barriers, such as perceived usefulness, trust, and organisational readiness. This review examines the suitability of the Unified Theory of Acceptance and Use of Technology (UTAUT) and the Technology Acceptance Model (TAM) frameworks in healthcare settings, focusing on behavioural, educational, and psychological factors that influence technology adoption. Methods: A total of 20 peer-reviewed articles from 2019 to 2024 were examined. Results: The review identified significant organisational and psychological obstacles, including a lack of trust, inadequate training, and organisational support. While the UTAUT provided a more comprehensive viewpoint, it needed to be modified to include context-specific factors, including trust, facilitating circumstances, and educational interventions. Meanwhile, the TAM’s emphasis on perceived usefulness and ease of use was shown to be insufficient for dealing with complex healthcare situations. Conclusions: Interventions targeting stakeholders’ organisational and psychological preparation and educational strategies are essential to overcoming resistance and enhancing trust. Future research should look into integrative frameworks incorporating behavioural, psychological, and instructional tactics to improve the use of technology in healthcare.",
+      "author_str": "Ann Thong Lee, R. Ramasamy, Anusuyah Subbarao",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "0c561f33ae15decbbe699b05e02e1299b8dea58b",
+      "url": "https://www.semanticscholar.org/paper/0c561f33ae15decbbe699b05e02e1299b8dea58b",
+      "title": "A Review of Large Language Models in Medical Education, Clinical Decision Support, and Healthcare Administration",
+      "year": 2025,
+      "citationCount": 103,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.3390/healthcare13060603",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11942098, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "90694748",
+          "name": "J. Vrdoljak"
+        },
+        {
+          "authorId": "1647234934",
+          "name": "Zvonimir Boban"
+        },
+        {
+          "authorId": "41159655",
+          "name": "Marino Vilović"
+        },
+        {
+          "authorId": "2008546205",
+          "name": "M. Kumrić"
+        },
+        {
+          "authorId": "1955397",
+          "name": "J. Božić"
+        }
+      ],
+      "abstract": "Background/Objectives: Large language models (LLMs) have shown significant potential to transform various aspects of healthcare. This review aims to explore the current applications, challenges, and future prospects of LLMs in medical education, clinical decision support, and healthcare administration. Methods: A comprehensive literature review was conducted, examining the applications of LLMs across the three key domains. The analysis included their performance, challenges, and advancements, with a focus on techniques like retrieval-augmented generation (RAG). Results: In medical education, LLMs show promise as virtual patients, personalized tutors, and tools for generating study materials. Some models have outperformed junior trainees in specific medical knowledge assessments. Concerning clinical decision support, LLMs exhibit potential in diagnostic assistance, treatment recommendations, and medical knowledge retrieval, though performance varies across specialties and tasks. In healthcare administration, LLMs effectively automate tasks like clinical note summarization, data extraction, and report generation, potentially reducing administrative burdens on healthcare professionals. Despite their promise, challenges persist, including hallucination mitigation, addressing biases, and ensuring patient privacy and data security. Conclusions: LLMs have transformative potential in medicine but require careful integration into healthcare settings. Ethical considerations, regulatory challenges, and interdisciplinary collaboration between AI developers and healthcare professionals are essential. Future advancements in LLM performance and reliability through techniques such as RAG, fine-tuning, and reinforcement learning will be critical to ensuring patient safety and improving healthcare delivery.",
+      "author_str": "J. Vrdoljak, Zvonimir Boban, Marino Vilović",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "10f919b1a5161b560504c225cfb2d1b3a4768f80",
+      "url": "https://www.semanticscholar.org/paper/10f919b1a5161b560504c225cfb2d1b3a4768f80",
+      "title": "Artificial intelligence in healthcare: past, present and future",
+      "year": 2017,
+      "citationCount": 3488,
+      "openAccessPdf": {
+        "url": "https://svn.bmj.com/content/svnbmj/2/4/230.full.pdf",
+        "status": "GOLD",
+        "license": "CCBYNC",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC5829945, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "67092021",
+          "name": "F. Jiang"
+        },
+        {
+          "authorId": "2117937034",
+          "name": "Yong Jiang"
+        },
+        {
+          "authorId": "1976425918",
+          "name": "Hui Zhi"
+        },
+        {
+          "authorId": "1974599",
+          "name": "Yi Dong"
+        },
+        {
+          "authorId": null,
+          "name": "Hao Li"
+        },
+        {
+          "authorId": "36156845",
+          "name": "Sufeng Ma"
+        },
+        {
+          "authorId": "119918227",
+          "name": "Yilong Wang"
+        },
+        {
+          "authorId": "47454309",
+          "name": "Q. Dong"
+        },
+        {
+          "authorId": "46829048",
+          "name": "Haipeng Shen"
+        },
+        {
+          "authorId": "2108094216",
+          "name": "Yongjun Wang"
+        }
+      ],
+      "abstract": "Artificial intelligence (AI) aims to mimic human cognitive functions. It is bringing a paradigm shift to healthcare, powered by increasing availability of healthcare data and rapid progress of analytics techniques. We survey the current status of AI applications in healthcare and discuss its future. AI can be applied to various types of healthcare data (structured and unstructured). Popular AI techniques include machine learning methods for structured data, such as the classical support vector machine and neural network, and the modern deep learning, as well as natural language processing for unstructured data. Major disease areas that use AI tools include cancer, neurology and cardiology. We then review in more details the AI applications in stroke, in the three major areas of early detection and diagnosis, treatment, as well as outcome prediction and prognosis evaluation. We conclude with discussion about pioneer AI systems, such as IBM Watson, and hurdles for real-life deployment of AI.",
+      "author_str": "F. Jiang, Yong Jiang, Hui Zhi",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "ddf4172cad889f178c2db9b1b6302b3c7d5c0147",
+      "url": "https://www.semanticscholar.org/paper/ddf4172cad889f178c2db9b1b6302b3c7d5c0147",
+      "title": "The potential for artificial intelligence in healthcare",
+      "year": 2019,
+      "citationCount": 2690,
+      "openAccessPdf": {
+        "url": "https://www.rcpjournals.org/content/futurehosp/6/2/94.full.pdf",
+        "status": "GOLD",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.7861/futurehosp.6-2-94?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.7861/futurehosp.6-2-94, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "145207212",
+          "name": "T. Davenport"
+        },
+        {
+          "authorId": "2235117",
+          "name": "R. Kalakota"
+        }
+      ],
+      "abstract": "ABSTRACT The complexity and rise of data in healthcare means that artificial intelligence (AI) will increasingly be applied within the field. Several types of AI are already being employed by payers and providers of care, and life sciences companies. The key categories of applications involve diagnosis and treatment recommendations, patient engagement and adherence, and administrative activities. Although there are many instances in which AI can perform healthcare tasks as well or better than humans, implementation factors will prevent large-scale automation of healthcare professional jobs for a considerable period. Ethical issues in the application of AI to healthcare are also discussed.",
+      "author_str": "T. Davenport, R. Kalakota",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "f75ddad2e8aacf728c62bc750ceb8bc085f6094d",
+      "url": "https://www.semanticscholar.org/paper/f75ddad2e8aacf728c62bc750ceb8bc085f6094d",
+      "title": "Acceptability of healthcare interventions: an overview of reviews and development of a theoretical framework",
+      "year": 2017,
+      "citationCount": 2900,
+      "openAccessPdf": {
+        "url": "https://bmchealthservres.biomedcentral.com/track/pdf/10.1186/s12913-017-2031-8",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC5267473, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "145657040",
+          "name": "M. Sekhon"
+        },
+        {
+          "authorId": "143783560",
+          "name": "M. Cartwright"
+        },
+        {
+          "authorId": "51959679",
+          "name": "J. Francis"
+        }
+      ],
+      "abstract": "BackgroundIt is increasingly acknowledged that ‘acceptability’ should be considered when designing, evaluating and implementing healthcare interventions. However, the published literature offers little guidance on how to define or assess acceptability. The purpose of this study was to develop a multi-construct theoretical framework of acceptability of healthcare interventions that can be applied to assess prospective (i.e. anticipated) and retrospective (i.e. experienced) acceptability from the perspective of intervention delivers and recipients.MethodsTwo methods were used to select the component constructs of acceptability. 1) An overview of reviews was conducted to identify systematic reviews that claim to define, theorise or measure acceptability of healthcare interventions. 2) Principles of inductive and deductive reasoning were applied to theorise the concept of acceptability and develop a theoretical framework. Steps included (1) defining acceptability; (2) describing its properties and scope and (3) identifying component constructs and empirical indicators.ResultsFrom the 43 reviews included in the overview, none explicitly theorised or defined acceptability. Measures used to assess acceptability focused on behaviour (e.g. dropout rates) (23 reviews), affect (i.e. feelings) (5 reviews), cognition (i.e. perceptions) (7 reviews) or a combination of these (8 reviews).From the methods described above we propose a definition: Acceptability is a multi-faceted construct that reflects the extent to which people delivering or receiving a healthcare intervention consider it to be appropriate, based on anticipated or experienced cognitive and emotional responses to the intervention. The theoretical framework of acceptability (TFA) consists of seven component constructs: affective attitude, burden, perceived effectiveness, ethicality, intervention coherence, opportunity costs, and self-efficacy.ConclusionDespite frequent claims that healthcare interventions have assessed acceptability, it is evident that acceptability research could be more robust. The proposed definition of acceptability and the TFA can inform assessment tools and evaluations of the acceptability of new or existing interventions.",
+      "author_str": "M. Sekhon, M. Cartwright, J. Francis",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "467411fde97d4bc25b8f2238cf36324367a3d6d5",
+      "url": "https://www.semanticscholar.org/paper/467411fde97d4bc25b8f2238cf36324367a3d6d5",
+      "title": "Transformative Potential of AI in Healthcare: Definitions, Applications, and Navigating the Ethical Landscape and Public Perspectives",
+      "year": 2024,
+      "citationCount": 275,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/2227-9032/12/2/125/pdf?version=1704440667",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10815906, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2278117131",
+          "name": "Molly Bekbolatova"
+        },
+        {
+          "authorId": "2266956658",
+          "name": "Jonathan Mayer"
+        },
+        {
+          "authorId": "2209001232",
+          "name": "Chiwei Ong"
+        },
+        {
+          "authorId": "2214705405",
+          "name": "Milan Toma"
+        }
+      ],
+      "abstract": "Artificial intelligence (AI) has emerged as a crucial tool in healthcare with the primary aim of improving patient outcomes and optimizing healthcare delivery. By harnessing machine learning algorithms, natural language processing, and computer vision, AI enables the analysis of complex medical data. The integration of AI into healthcare systems aims to support clinicians, personalize patient care, and enhance population health, all while addressing the challenges posed by rising costs and limited resources. As a subdivision of computer science, AI focuses on the development of advanced algorithms capable of performing complex tasks that were once reliant on human intelligence. The ultimate goal is to achieve human-level performance with improved efficiency and accuracy in problem-solving and task execution, thereby reducing the need for human intervention. Various industries, including engineering, media/entertainment, finance, and education, have already reaped significant benefits by incorporating AI systems into their operations. Notably, the healthcare sector has witnessed rapid growth in the utilization of AI technology. Nevertheless, there remains untapped potential for AI to truly revolutionize the industry. It is important to note that despite concerns about job displacement, AI in healthcare should not be viewed as a threat to human workers. Instead, AI systems are designed to augment and support healthcare professionals, freeing up their time to focus on more complex and critical tasks. By automating routine and repetitive tasks, AI can alleviate the burden on healthcare professionals, allowing them to dedicate more attention to patient care and meaningful interactions. However, legal and ethical challenges must be addressed when embracing AI technology in medicine, alongside comprehensive public education to ensure widespread acceptance.",
+      "author_str": "Molly Bekbolatova, Jonathan Mayer, Chiwei Ong",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "2fba87886961b502416dace3cdaf44387629c134",
+      "url": "https://www.semanticscholar.org/paper/2fba87886961b502416dace3cdaf44387629c134",
+      "title": "Global Regulatory Frameworks for the Use of Artificial Intelligence (AI) in the Healthcare Services Sector",
+      "year": 2024,
+      "citationCount": 184,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/2227-9032/12/5/562/pdf?version=1709256793",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10930608, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2028847",
+          "name": "K. Palaniappan"
+        },
+        {
+          "authorId": "2289652984",
+          "name": "Elaine Yan Ting Lin"
+        },
+        {
+          "authorId": "2289652431",
+          "name": "Silke Vogel"
+        }
+      ],
+      "abstract": "The healthcare sector is faced with challenges due to a shrinking healthcare workforce and a rise in chronic diseases that are worsening with demographic and epidemiological shifts. Digital health interventions that include artificial intelligence (AI) are being identified as some of the potential solutions to these challenges. The ultimate aim of these AI systems is to improve the patient’s health outcomes and satisfaction, the overall population’s health, and the well-being of healthcare professionals. The applications of AI in healthcare services are vast and are expected to assist, automate, and augment several healthcare services. Like any other emerging innovation, AI in healthcare also comes with its own risks and requires regulatory controls. A review of the literature was undertaken to study the existing regulatory landscape for AI in the healthcare services sector in developed nations. In the global regulatory landscape, most of the regulations for AI revolve around Software as a Medical Device (SaMD) and are regulated under digital health products. However, it is necessary to note that the current regulations may not suffice as AI-based technologies are capable of working autonomously, adapting their algorithms, and improving their performance over time based on the new real-world data that they have encountered. Hence, a global regulatory convergence for AI in healthcare, similar to the voluntary AI code of conduct that is being developed by the US-EU Trade and Technology Council, would be beneficial to all nations, be it developing or developed.",
+      "author_str": "K. Palaniappan, Elaine Yan Ting Lin, Silke Vogel",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "a779f5dd28c8aaab0e1bdceeb6700f17d655c0a4",
+      "url": "https://www.semanticscholar.org/paper/a779f5dd28c8aaab0e1bdceeb6700f17d655c0a4",
+      "title": "The Role of AI in Hospitals and Clinics: Transforming Healthcare in the 21st Century",
+      "year": 2024,
+      "citationCount": 591,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/2306-5354/11/4/337/pdf?version=1711712822",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11047988, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2294428530",
+          "name": "Shiva Maleki Varnosfaderani"
+        },
+        {
+          "authorId": "2275917530",
+          "name": "Mohamad Forouzanfar"
+        }
+      ],
+      "abstract": "As healthcare systems around the world face challenges such as escalating costs, limited access, and growing demand for personalized care, artificial intelligence (AI) is emerging as a key force for transformation. This review is motivated by the urgent need to harness AI’s potential to mitigate these issues and aims to critically assess AI’s integration in different healthcare domains. We explore how AI empowers clinical decision-making, optimizes hospital operation and management, refines medical image analysis, and revolutionizes patient care and monitoring through AI-powered wearables. Through several case studies, we review how AI has transformed specific healthcare domains and discuss the remaining challenges and possible solutions. Additionally, we will discuss methodologies for assessing AI healthcare solutions, ethical challenges of AI deployment, and the importance of data privacy and bias mitigation for responsible technology use. By presenting a critical assessment of AI’s transformative potential, this review equips researchers with a deeper understanding of AI’s current and future impact on healthcare. It encourages an interdisciplinary dialogue between researchers, clinicians, and technologists to navigate the complexities of AI implementation, fostering the development of AI-driven solutions that prioritize ethical standards, equity, and a patient-centered approach.",
+      "author_str": "Shiva Maleki Varnosfaderani, Mohamad Forouzanfar",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "b0818b97d52553348444d462a261bfe9d953b4d2",
+      "url": "https://www.semanticscholar.org/paper/b0818b97d52553348444d462a261bfe9d953b4d2",
+      "title": "Healthcare on the brink: navigating the challenges of an aging society in the United States",
+      "year": 2024,
+      "citationCount": 224,
+      "openAccessPdf": {
+        "url": "https://www.nature.com/articles/s41514-024-00148-2.pdf",
+        "status": "HYBRID",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10998868, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2267426080",
+          "name": "Charles H. Jones"
+        },
+        {
+          "authorId": "2278443108",
+          "name": "Mikael Dolsten"
+        }
+      ],
+      "abstract": "The US healthcare system is at a crossroads. With an aging population requiring more care and a strained system facing workforce shortages, capacity issues, and fragmentation, innovative solutions and policy reforms are needed. This paper aims to spark dialogue and collaboration among healthcare stakeholders and inspire action to meet the needs of the aging population. Through a comprehensive analysis of the impact of an aging society, this work highlights the urgency of addressing this issue and the importance of restructuring the healthcare system to be more efficient, equitable, and responsive.",
+      "author_str": "Charles H. Jones, Mikael Dolsten",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "12be685687426658e9021f7068a12859c2751bb7",
+      "url": "https://www.semanticscholar.org/paper/12be685687426658e9021f7068a12859c2751bb7",
+      "title": "Challenges and strategies for wide-scale artificial intelligence (AI) deployment in healthcare practices: A perspective for healthcare organizations",
+      "year": 2024,
+      "citationCount": 240,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.artmed.2024.102861?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.artmed.2024.102861, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2574575",
+          "name": "Pouyan Esmaeilzadeh"
+        }
+      ],
+      "abstract": "Healthcare organizations have realized that Artificial intelligence (AI) can provide a competitive edge through personalized patient experiences, improved patient outcomes, early diagnosis, augmented clinician capabilities, enhanced operational efficiencies, or improved medical service accessibility. However, deploying AI-driven tools in the healthcare ecosystem could be challenging. This paper categorizes AI applications in healthcare and comprehensively examines the challenges associated with deploying AI in medical practices at scale. As AI continues to make strides in healthcare, its integration presents various challenges, including production timelines, trust generation, privacy concerns, algorithmic biases, and data scarcity. The paper highlights that flawed business models and wrong workflows in healthcare practices cannot be rectified merely by deploying AI-driven tools. Healthcare organizations should re-evaluate root problems such as misaligned financial incentives (e.g., fee-for-service models), dysfunctional medical workflows (e.g., high rates of patient readmissions), poor care coordination between different providers, fragmented electronic health records systems, and inadequate patient education and engagement models in tandem with AI adoption. This study also explores the need for a cultural shift in viewing AI not as a threat but as an enabler that can enhance healthcare delivery and create new employment opportunities while emphasizing the importance of addressing underlying operational issues. The necessity of investments beyond finance is discussed, emphasizing the importance of human capital, continuous learning, and a supportive environment for AI integration. The paper also highlights the crucial role of clear regulations in building trust, ensuring safety, and guiding the ethical use of AI, calling for coherent frameworks addressing transparency, model accuracy, data quality control, liability, and ethics. Furthermore, this paper underscores the importance of advancing AI literacy within academia to prepare future healthcare professionals for an AI-driven landscape. Through careful navigation and proactive measures addressing these challenges, the healthcare community can harness AI's transformative power responsibly and effectively, revolutionizing healthcare delivery and patient care. The paper concludes with a vision and strategic suggestions for the future of healthcare with AI, emphasizing thoughtful, responsible, and innovative engagement as the pathway to realizing its full potential to unlock immense benefits for healthcare organizations, physicians, nurses, and patients while proactively mitigating risks.",
+      "author_str": "Pouyan Esmaeilzadeh",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "e98c743fe71aa8480bd71ac472fb95264c40496a",
+      "url": "https://www.semanticscholar.org/paper/e98c743fe71aa8480bd71ac472fb95264c40496a",
+      "title": "Balancing Privacy and Progress: A Review of Privacy Challenges, Systemic Oversight, and Patient Perceptions in AI-Driven Healthcare",
+      "year": 2024,
+      "citationCount": 330,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/2076-3417/14/2/675/pdf?version=1705396255",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/app14020675?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/app14020675, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2280625815",
+          "name": "Steven M. Williamson"
+        },
+        {
+          "authorId": "2197133833",
+          "name": "Victor R. Prybutok"
+        }
+      ],
+      "abstract": "Integrating Artificial Intelligence (AI) in healthcare represents a transformative shift with substantial potential for enhancing patient care. This paper critically examines this integration, confronting significant ethical, legal, and technological challenges, particularly in patient privacy, decision-making autonomy, and data integrity. A structured exploration of these issues focuses on Differential Privacy as a critical method for preserving patient confidentiality in AI-driven healthcare systems. We analyze the balance between privacy preservation and the practical utility of healthcare data, emphasizing the effectiveness of encryption, Differential Privacy, and mixed-model approaches. The paper navigates the complex ethical and legal frameworks essential for AI integration in healthcare. We comprehensively examine patient rights and the nuances of informed consent, along with the challenges of harmonizing advanced technologies like blockchain with the General Data Protection Regulation (GDPR). The issue of algorithmic bias in healthcare is also explored, underscoring the urgent need for effective bias detection and mitigation strategies to build patient trust. The evolving roles of decentralized data sharing, regulatory frameworks, and patient agency are discussed in depth. Advocating for an interdisciplinary, multi-stakeholder approach and responsive governance, the paper aims to align healthcare AI with ethical principles, prioritize patient-centered outcomes, and steer AI towards responsible and equitable enhancements in patient care.",
+      "author_str": "Steven M. Williamson, Victor R. Prybutok",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "25361e9582996220625a1823d931b4ed5f5558d3",
+      "url": "https://www.semanticscholar.org/paper/25361e9582996220625a1823d931b4ed5f5558d3",
+      "title": "Generative AI in healthcare: an implementation science informed translational path on application, integration and governance",
+      "year": 2024,
+      "citationCount": 337,
+      "openAccessPdf": {
+        "url": "https://implementationscience.biomedcentral.com/counter/pdf/10.1186/s13012-024-01357-9",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10941464, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2077496497",
+          "name": "S. Reddy"
+        }
+      ],
+      "abstract": "Artificial intelligence (AI), particularly generative AI, has emerged as a transformative tool in healthcare, with the potential to revolutionize clinical decision-making and improve health outcomes. Generative AI, capable of generating new data such as text and images, holds promise in enhancing patient care, revolutionizing disease diagnosis and expanding treatment options. However, the utility and impact of generative AI in healthcare remain poorly understood, with concerns around ethical and medico-legal implications, integration into healthcare service delivery and workforce utilisation. Also, there is not a clear pathway to implement and integrate generative AI in healthcare delivery. This article aims to provide a comprehensive overview of the use of generative AI in healthcare, focusing on the utility of the technology in healthcare and its translational application highlighting the need for careful planning, execution and management of expectations in adopting generative AI in clinical medicine. Key considerations include factors such as data privacy, security and the irreplaceable role of clinicians’ expertise. Frameworks like the technology acceptance model (TAM) and the Non-Adoption, Abandonment, Scale-up, Spread and Sustainability (NASSS) model are considered to promote responsible integration. These frameworks allow anticipating and proactively addressing barriers to adoption, facilitating stakeholder participation and responsibly transitioning care systems to harness generative AI’s potential. Generative AI has the potential to transform healthcare through automated systems, enhanced clinical decision-making and democratization of expertise with diagnostic support tools providing timely, personalized suggestions. Generative AI applications across billing, diagnosis, treatment and research can also make healthcare delivery more efficient, equitable and effective. However, integration of generative AI necessitates meticulous change management and risk mitigation strategies. Technological capabilities alone cannot shift complex care ecosystems overnight; rather, structured adoption programs grounded in implementation science are imperative. It is strongly argued in this article that generative AI can usher in tremendous healthcare progress, if introduced responsibly. Strategic adoption based on implementation science, incremental deployment and balanced messaging around opportunities versus limitations helps promote safe, ethical generative AI integration. Extensive real-world piloting and iteration aligned to clinical priorities should drive development. With conscientious governance centred on human wellbeing over technological novelty, generative AI can enhance accessibility, affordability and quality of care. As these models continue advancing rapidly, ongoing reassessment and transparent communication around their strengths and weaknesses remain vital to restoring trust, realizing positive potential and, most importantly, improving patient outcomes.",
+      "author_str": "S. Reddy",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "5f11cbbd323eb0bf6378521448d71baecedc0852",
+      "url": "https://www.semanticscholar.org/paper/5f11cbbd323eb0bf6378521448d71baecedc0852",
+      "title": "A Comprehensive Review on Exploring the Impact of Telemedicine on Healthcare Accessibility",
+      "year": 2024,
+      "citationCount": 187,
+      "openAccessPdf": {
+        "url": "https://assets.cureus.com/uploads/review_article/pdf/232773/20240312-996-1iwzlx7.pdf",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11009553, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2289671044",
+          "name": "P. Anawade"
+        },
+        {
+          "authorId": "2290068258",
+          "name": "Deepak Sharma"
+        },
+        {
+          "authorId": "2281979582",
+          "name": "Shailesh Gahane"
+        }
+      ],
+      "abstract": "Telemedicine has emerged as a transformative force in healthcare delivery, particularly in improving healthcare accessibility. This comprehensive review examines the impact of telemedicine on healthcare accessibility, exploring its ability to overcome geographical, financial, sociocultural, and infrastructural barriers to healthcare access. Through remote consultations, monitoring, and diagnosis facilitated by technology, telemedicine extends healthcare reach to remote and underserved areas while enhancing temporal accessibility with round-the-clock availability. By streamlining healthcare delivery systems, telemedicine reduces costs and promotes efficiency, ultimately fostering health equity and improving health outcomes. However, technological barriers, regulatory hurdles, and patient acceptance remain. To realize telemedicine's full potential, collaboration among stakeholders in the healthcare and technology sectors is imperative. Policymakers must enact supportive regulations, healthcare providers must integrate telemedicine into their practices, and technology companies must innovate to develop user-friendly platforms. Through concerted efforts, telemedicine can catalyze advancing healthcare accessibility and enhance the health and well-being of individuals worldwide.",
+      "author_str": "P. Anawade, Deepak Sharma, Shailesh Gahane",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "6c7ba2af4b3e472bd8a5717367b88dcdd4abbd31",
+      "url": "https://www.semanticscholar.org/paper/6c7ba2af4b3e472bd8a5717367b88dcdd4abbd31",
+      "title": "Evaluating the Feasibility of ChatGPT in Healthcare: An Analysis of Multiple Clinical and Research Scenarios",
+      "year": 2023,
+      "citationCount": 1000,
+      "openAccessPdf": {
+        "url": "https://link.springer.com/content/pdf/10.1007/s10916-023-01925-4.pdf",
+        "status": "HYBRID",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC9985086, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "7547313",
+          "name": "M. Cascella"
+        },
+        {
+          "authorId": "4239573",
+          "name": "J. Montomoli"
+        },
+        {
+          "authorId": "8663537",
+          "name": "Valentina Bellini"
+        },
+        {
+          "authorId": "4155267",
+          "name": "E. Bignami"
+        }
+      ],
+      "abstract": "This paper aims to highlight the potential applications and limits of a large language model (LLM) in healthcare. ChatGPT is a recently developed LLM that was trained on a massive dataset of text for dialogue with users. Although AI-based language models like ChatGPT have demonstrated impressive capabilities, it is uncertain how well they will perform in real-world scenarios, particularly in fields such as medicine where high-level and complex thinking is necessary. Furthermore, while the use of ChatGPT in writing scientific articles and other scientific outputs may have potential benefits, important ethical concerns must also be addressed. Consequently, we investigated the feasibility of ChatGPT in clinical and research scenarios: (1) support of the clinical practice, (2) scientific production, (3) misuse in medicine and research, and (4) reasoning about public health topics. Results indicated that it is important to recognize and promote education on the appropriate use and potential pitfalls of AI-based LLMs in medicine.",
+      "author_str": "M. Cascella, J. Montomoli, Valentina Bellini",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "9b90291103892b9f9665c11461d7bc9ea40ea9ec",
+      "url": "https://www.semanticscholar.org/paper/9b90291103892b9f9665c11461d7bc9ea40ea9ec",
+      "title": "MONAI: An open-source framework for deep learning in healthcare",
+      "year": 2022,
+      "citationCount": 856,
+      "openAccessPdf": {
+        "url": "https://arxiv.org/pdf/2211.02701",
+        "status": "GREEN",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2211.02701, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "145244249",
+          "name": "M. Cardoso"
+        },
+        {
+          "authorId": "2108730532",
+          "name": "Wenqi Li"
+        },
+        {
+          "authorId": "2157457895",
+          "name": "Richard Brown"
+        },
+        {
+          "authorId": "2188736387",
+          "name": "Nic Ma"
+        },
+        {
+          "authorId": "2866070",
+          "name": "E. Kerfoot"
+        },
+        {
+          "authorId": "2108927035",
+          "name": "Yiheng Wang"
+        },
+        {
+          "authorId": "2190105135",
+          "name": "Benjamin Murrey"
+        },
+        {
+          "authorId": "2611242",
+          "name": "Andriy Myronenko"
+        },
+        {
+          "authorId": "150068346",
+          "name": "Can Zhao"
+        },
+        {
+          "authorId": "144041873",
+          "name": "Dong Yang"
+        },
+        {
+          "authorId": "10751841",
+          "name": "V. Nath"
+        },
+        {
+          "authorId": "2255499417",
+          "name": "Yufan He"
+        },
+        {
+          "authorId": "1742135",
+          "name": "Ziyue Xu"
+        },
+        {
+          "authorId": "31374559",
+          "name": "Ali Hatamizadeh"
+        },
+        {
+          "authorId": "1471429910",
+          "name": "Wenjie Zhu"
+        },
+        {
+          "authorId": "2118113191",
+          "name": "Yun Liu"
+        },
+        {
+          "authorId": "15386481",
+          "name": "Mingxin Zheng"
+        },
+        {
+          "authorId": "46556781",
+          "name": "Yucheng Tang"
+        },
+        {
+          "authorId": "2064803047",
+          "name": "Isaac Yang"
+        },
+        {
+          "authorId": "2190105114",
+          "name": "Michael Zephyr"
+        },
+        {
+          "authorId": "10721060",
+          "name": "Behrooz Hashemian"
+        },
+        {
+          "authorId": "22653569",
+          "name": "Sachidanand Alle"
+        },
+        {
+          "authorId": "1796253611",
+          "name": "Mohammad Zalbagi Darestani"
+        },
+        {
+          "authorId": "144963627",
+          "name": "C. Budd"
+        },
+        {
+          "authorId": "1711439",
+          "name": "M. Modat"
+        },
+        {
+          "authorId": "2014232",
+          "name": "Tom Kamiel Magda Vercauteren"
+        },
+        {
+          "authorId": "2351978134",
+          "name": "Guotai Wang"
+        },
+        {
+          "authorId": "2111161526",
+          "name": "Yiwen Li"
+        },
+        {
+          "authorId": "2955312",
+          "name": "Yipeng Hu"
+        },
+        {
+          "authorId": "51123416",
+          "name": "Yunguan Fu"
+        },
+        {
+          "authorId": "2122839480",
+          "name": "Benjamin L. Gorman"
+        },
+        {
+          "authorId": "2065543896",
+          "name": "Hans J. Johnson"
+        },
+        {
+          "authorId": "1812154",
+          "name": "Brad W. Genereaux"
+        },
+        {
+          "authorId": "14813718",
+          "name": "B. Erdal"
+        },
+        {
+          "authorId": "1716221469",
+          "name": "Vikash Gupta"
+        },
+        {
+          "authorId": "1413966277",
+          "name": "A. Diaz-Pinto"
+        },
+        {
+          "authorId": "2140579405",
+          "name": "Andre Dourson"
+        },
+        {
+          "authorId": "1397958668",
+          "name": "L. Maier-Hein"
+        },
+        {
+          "authorId": "51433108",
+          "name": "P. Jaeger"
+        },
+        {
+          "authorId": "2065793436",
+          "name": "M. Baumgartner"
+        },
+        {
+          "authorId": "1401724111",
+          "name": "Jayashree Kalpathy-Cramer"
+        },
+        {
+          "authorId": "1879244510",
+          "name": "Mona G. Flores"
+        },
+        {
+          "authorId": "40078837",
+          "name": "J. Kirby"
+        },
+        {
+          "authorId": "2027068520",
+          "name": "L. Cooper"
+        },
+        {
+          "authorId": "144531567",
+          "name": "H. Roth"
+        },
+        {
+          "authorId": "3262394",
+          "name": "Daguang Xu"
+        },
+        {
+          "authorId": "2190105810",
+          "name": "David Bericat"
+        },
+        {
+          "authorId": "3229600",
+          "name": "R. Floca"
+        },
+        {
+          "authorId": "2107323185",
+          "name": "S. K. Zhou"
+        },
+        {
+          "authorId": "82991867",
+          "name": "Haris Shuaib"
+        },
+        {
+          "authorId": "1781663",
+          "name": "K. Farahani"
+        },
+        {
+          "authorId": "2139962185",
+          "name": "Klaus H. Maier-Hein"
+        },
+        {
+          "authorId": "47152898",
+          "name": "S. Aylward"
+        },
+        {
+          "authorId": "2067332805",
+          "name": "Prerna Dogra"
+        },
+        {
+          "authorId": "143951081",
+          "name": "S. Ourselin"
+        },
+        {
+          "authorId": "2063968590",
+          "name": "Andrew Feng"
+        }
+      ],
+      "abstract": "Artificial Intelligence (AI) is having a tremendous impact across most areas of science. Applications of AI in healthcare have the potential to improve our ability to detect, diagnose, prognose, and intervene on human disease. For AI models to be used clinically, they need to be made safe, reproducible and robust, and the underlying software framework must be aware of the particularities (e.g. geometry, physiology, physics) of medical data being processed. This work introduces MONAI, a freely available, community-supported, and consortium-led PyTorch-based framework for deep learning in healthcare. MONAI extends PyTorch to support medical data, with a particular focus on imaging, and provide purpose-specific AI model architectures, transformations and utilities that streamline the development and deployment of medical AI models. MONAI follows best practices for software-development, providing an easy-to-use, robust, well-documented, and well-tested software framework. MONAI preserves the simple, additive, and compositional approach of its underlying PyTorch libraries. MONAI is being used by and receiving contributions from research, clinical and industrial teams from around the world, who are pursuing applications spanning nearly every aspect of healthcare.",
+      "author_str": "M. Cardoso, Wenqi Li, Richard Brown",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "c2089ef4d1c9e7ed15013d7ef67b30b66b75580d",
+      "url": "https://www.semanticscholar.org/paper/c2089ef4d1c9e7ed15013d7ef67b30b66b75580d",
+      "title": "Federated Learning in Smart Healthcare: A Comprehensive Review on Privacy, Security, and Predictive Analytics with IoT Integration",
+      "year": 2024,
+      "citationCount": 130,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11728217, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2337047103",
+          "name": "Syed Raza Abbas"
+        },
+        {
+          "authorId": "26635236",
+          "name": "Zeeshan Abbas"
+        },
+        {
+          "authorId": "2326660485",
+          "name": "Arifa Zahir"
+        },
+        {
+          "authorId": "2108211250",
+          "name": "S. Lee"
+        }
+      ],
+      "abstract": "Federated learning (FL) is revolutionizing healthcare by enabling collaborative machine learning across institutions while preserving patient privacy and meeting regulatory standards. This review delves into FL’s applications within smart health systems, particularly its integration with IoT devices, wearables, and remote monitoring, which empower real-time, decentralized data processing for predictive analytics and personalized care. It addresses key challenges, including security risks like adversarial attacks, data poisoning, and model inversion. Additionally, it covers issues related to data heterogeneity, scalability, and system interoperability. Alongside these, the review highlights emerging privacy-preserving solutions, such as differential privacy and secure multiparty computation, as critical to overcoming FL’s limitations. Successfully addressing these hurdles is essential for enhancing FL’s efficiency, accuracy, and broader adoption in healthcare. Ultimately, FL offers transformative potential for secure, data-driven healthcare systems, promising improved patient outcomes, operational efficiency, and data sovereignty across the healthcare ecosystem.",
+      "author_str": "Syed Raza Abbas, Zeeshan Abbas, Arifa Zahir",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "a7ba9a396288675fd3931d7730f2aa52de340350",
+      "url": "https://www.semanticscholar.org/paper/a7ba9a396288675fd3931d7730f2aa52de340350",
+      "title": "Managing mental health challenges faced by healthcare workers during covid-19 pandemic",
+      "year": 2020,
+      "citationCount": 1757,
+      "openAccessPdf": {
+        "url": "https://www.bmj.com/content/bmj/368/bmj.m1211.full.pdf",
+        "status": "BRONZE",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1136/bmj.m1211?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1136/bmj.m1211, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "144940356",
+          "name": "N. Greenberg"
+        },
+        {
+          "authorId": "144496313",
+          "name": "M. Docherty"
+        },
+        {
+          "authorId": "2404181201",
+          "name": "S. Gnanapragasam"
+        },
+        {
+          "authorId": "6891628",
+          "name": "S. Wessely"
+        }
+      ],
+      "abstract": "Neil Greenberg and colleagues set out measures that healthcare managers need to put in place to protect the mental health of healthcare staff having to make morally challenging decisions",
+      "author_str": "N. Greenberg, M. Docherty, S. Gnanapragasam",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "d7f1a885e32faa2194ccd5f85da4c4fb5d788392",
+      "url": "https://www.semanticscholar.org/paper/d7f1a885e32faa2194ccd5f85da4c4fb5d788392",
+      "title": "Explainability for artificial intelligence in healthcare: a multidisciplinary perspective",
+      "year": 2020,
+      "citationCount": 1436,
+      "openAccessPdf": {
+        "url": "https://bmcmedinformdecismak.biomedcentral.com/track/pdf/10.1186/s12911-020-01332-6",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC7706019, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "33462456",
+          "name": "J. Amann"
+        },
+        {
+          "authorId": "6475221",
+          "name": "A. Blasimme"
+        },
+        {
+          "authorId": "145104974",
+          "name": "E. Vayena"
+        },
+        {
+          "authorId": "32410009",
+          "name": "D. Frey"
+        },
+        {
+          "authorId": "5556806",
+          "name": "V. Madai"
+        }
+      ],
+      "abstract": "Background Explainability is one of the most heavily debated topics when it comes to the application of artificial intelligence (AI) in healthcare. Even though AI-driven systems have been shown to outperform humans in certain analytical tasks, the lack of explainability continues to spark criticism. Yet, explainability is not a purely technological issue, instead it invokes a host of medical, legal, ethical, and societal questions that require thorough exploration. This paper provides a comprehensive assessment of the role of explainability in medical AI and makes an ethical evaluation of what explainability means for the adoption of AI-driven tools into clinical practice. Methods Taking AI-based clinical decision support systems as a case in point, we adopted a multidisciplinary approach to analyze the relevance of explainability for medical AI from the technological, legal, medical, and patient perspectives. Drawing on the findings of this conceptual analysis, we then conducted an ethical assessment using the “Principles of Biomedical Ethics” by Beauchamp and Childress (autonomy, beneficence, nonmaleficence, and justice) as an analytical framework to determine the need for explainability in medical AI. Results Each of the domains highlights a different set of core considerations and values that are relevant for understanding the role of explainability in clinical practice. From the technological point of view, explainability has to be considered both in terms how it can be achieved and what is beneficial from a development perspective. When looking at the legal perspective we identified informed consent, certification and approval as medical devices, and liability as core touchpoints for explainability. Both the medical and patient perspectives emphasize the importance of considering the interplay between human actors and medical AI. We conclude that omitting explainability in clinical decision support systems poses a threat to core ethical values in medicine and may have detrimental consequences for individual and public health. Conclusions To ensure that medical AI lives up to its promises, there is a need to sensitize developers, healthcare professionals, and legislators to the challenges and limitations of opaque algorithms in medical AI and to foster multidisciplinary collaboration moving forward.",
+      "author_str": "J. Amann, A. Blasimme, E. Vayena",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "410a5d37f101dc2d842a0240513b43c9b6253723",
+      "url": "https://www.semanticscholar.org/paper/410a5d37f101dc2d842a0240513b43c9b6253723",
+      "title": "The Role of Artificial Intelligence in Improving Patient Outcomes and Future of Healthcare Delivery in Cardiology: A Narrative Review of the Literature",
+      "year": 2024,
+      "citationCount": 124,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/2227-9032/12/4/481/pdf?version=1708077317",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10887513, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2047411817",
+          "name": "Dhir Gala"
+        },
+        {
+          "authorId": "2284515064",
+          "name": "Haditya Behl"
+        },
+        {
+          "authorId": "2269430995",
+          "name": "Mili Shah"
+        },
+        {
+          "authorId": "3428822",
+          "name": "A. Makaryus"
+        }
+      ],
+      "abstract": "Cardiovascular diseases exert a significant burden on the healthcare system worldwide. This narrative literature review discusses the role of artificial intelligence (AI) in the field of cardiology. AI has the potential to assist healthcare professionals in several ways, such as diagnosing pathologies, guiding treatments, and monitoring patients, which can lead to improved patient outcomes and a more efficient healthcare system. Moreover, clinical decision support systems in cardiology have improved significantly over the past decade. The addition of AI to these clinical decision support systems can improve patient outcomes by processing large amounts of data, identifying subtle associations, and providing a timely, evidence-based recommendation to healthcare professionals. Lastly, the application of AI allows for personalized care by utilizing predictive models and generating patient-specific treatment plans. However, there are several challenges associated with the use of AI in healthcare. The application of AI in healthcare comes with significant cost and ethical considerations. Despite these challenges, AI will be an integral part of healthcare delivery in the near future, leading to personalized patient care, improved physician efficiency, and anticipated better outcomes.",
+      "author_str": "Dhir Gala, Haditya Behl, Mili Shah",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "d040539321f9abd6110328eb5688227705ef1db7",
+      "url": "https://www.semanticscholar.org/paper/d040539321f9abd6110328eb5688227705ef1db7",
+      "title": "Telemedicine for healthcare: Capabilities, features, barriers, and applications",
+      "year": 2021,
+      "citationCount": 1168,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.1016/j.sintl.2021.100117",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC8590973, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2138402474",
+          "name": "A. Haleem"
+        },
+        {
+          "authorId": "49884103",
+          "name": "M. Javaid"
+        },
+        {
+          "authorId": "2115329576",
+          "name": "R. Singh"
+        },
+        {
+          "authorId": "3065703",
+          "name": "R. Suman"
+        }
+      ],
+      "abstract": "Regular hospital visits can be expensive, particularly in rural areas, due to travel costs. In the era of the Covid-19 Pandemic, where physical interaction becomes risky, people prefer telemedicine. Fortunately, medical visits can be reduced when telemedicine services are used through video conferencing or other virtual technologies. Thus, telemedicine saves both the patient's and the health care provider time and the cost of the treatment. Furthermore, due to its fast and advantageous characteristics, it can streamline the workflow of hospitals and clinics. This disruptive technology would make it easier to monitor discharged patients and manage their recovery. As a result, it is sufficient to state that telemedicine can create a win-win situation. This paper aims to explore the significant capabilities, features with treatment workflow, and barriers to the adoption of telemedicine in Healthcare. The paper identifies seventeen significant applications of telemedicine in Healthcare. Telemedicine is described as a medical practitioner to diagnose and treat patients in a remote area. Using health apps for scheduled follow-up visits makes doctors and patients more effective and improves the probability of follow-up, reducing missing appointments and optimising patient outcomes. Patients should have an accurate medical history and show the doctor any prominent rashes, bruises, or other signs that need attention through the excellent quality audio-video system. Further, practitioners need file management and a payment gateway system. Telemedicine technologies allow patients and doctors both to review the treatment process. However, this technology supplements physical consultation and is in no way a substitute for a physical consultation. Today this technology is a safe choice for patients who cannot go to the doctor or sit at home, especially during a pandemic.",
+      "author_str": "A. Haleem, M. Javaid, R. Singh",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "2b6d375d8abea91d46894ebfa7051077253834d5",
+      "url": "https://www.semanticscholar.org/paper/2b6d375d8abea91d46894ebfa7051077253834d5",
+      "title": "Artificial intelligence in healthcare: transforming the practice of medicine",
+      "year": 2021,
+      "citationCount": 1172,
+      "openAccessPdf": {
+        "url": "https://www.rcpjournals.org/content/futurehosp/8/2/e188.full.pdf",
+        "status": "GOLD",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.7861/fhj.2021-0095?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.7861/fhj.2021-0095, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2119588844",
+          "name": "Junaid Bajwa"
+        },
+        {
+          "authorId": "2268457013",
+          "name": "Usman Munir"
+        },
+        {
+          "authorId": "2064953709",
+          "name": "A. Nori"
+        },
+        {
+          "authorId": "2116406786",
+          "name": "Bryan Williams"
+        }
+      ],
+      "abstract": "ABSTRACT Artificial intelligence (AI) is a powerful and disruptive area of computer science, with the potential to fundamentally transform the practice of medicine and the delivery of healthcare. In this review article, we outline recent breakthroughs in the application of AI in healthcare, describe a roadmap to building effective, reliable and safe AI systems, and discuss the possible future direction of AI augmented healthcare systems.",
+      "author_str": "Junaid Bajwa, Usman Munir, A. Nori",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "883d727caba39d85162f5c682587abd0e49f3555",
+      "url": "https://www.semanticscholar.org/paper/883d727caba39d85162f5c682587abd0e49f3555",
+      "title": "Patient Satisfaction with Healthcare Services and the Techniques Used for its Assessment: A Systematic Literature Review and a Bibliometric Analysis",
+      "year": 2023,
+      "citationCount": 363,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/2227-9032/11/5/639/pdf?version=1676979114",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10001171, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "40085079",
+          "name": "D. Ferreira"
+        },
+        {
+          "authorId": "113898515",
+          "name": "Inês Vieira"
+        },
+        {
+          "authorId": "3139940",
+          "name": "M. I. Pedro"
+        },
+        {
+          "authorId": "123047251",
+          "name": "Paulo Caldas"
+        },
+        {
+          "authorId": "2191346178",
+          "name": "Miguel Varela"
+        }
+      ],
+      "abstract": "Patient satisfaction with healthcare provision services and the factors influencing it are be-coming the main focus of many scientific studies. Assuring the quality of the provided services is essential for the fulfillment of patients’ expectations and needs. Thus, this systematic review seeks to find the determinants of patient satisfaction in a global setting. We perform an analysis to evaluate the collected literature and to fulfill the literature gap of bibliometric analysis within this theme. This review follows the Preferred Reporting Items for Systematic Reviews and Meta-Analysis (PRISMA) approach. We conducted our database search in Scopus, Web of Science, and PubMed in June 2022. Studies from 2000–2021 that followed the inclusion and exclusion criteria and that were written in English were included in the sample. We ended up with 157 articles to review. A co-citation and bibliographic coupling analysis were employed to find the most relevant sources, authors, and documents. We divided the factors influencing patient satisfaction into criteria and explanatory variables. Medical care, communication with the patient, and patient’s age are among the most critical factors for researchers. The bibliometric analysis revealed the countries, institutions, documents, authors, and sources most productive and significant in patient satisfaction.",
+      "author_str": "D. Ferreira, Inês Vieira, M. I. Pedro",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "0e5713d09a51ccb3795f4cd25493c15d76d4b19b",
+      "url": "https://www.semanticscholar.org/paper/0e5713d09a51ccb3795f4cd25493c15d76d4b19b",
+      "title": "Delphi methodology in healthcare research: How to decide its appropriateness",
+      "year": 2021,
+      "citationCount": 1265,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.5662/wjm.v11.i4.116",
+        "status": "GOLD",
+        "license": "CCBYNC",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC8299905, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "5656096",
+          "name": "P. Nasa"
+        },
+        {
+          "authorId": "46175467",
+          "name": "Ravi Jain"
+        },
+        {
+          "authorId": "4894750",
+          "name": "D. Juneja"
+        }
+      ],
+      "abstract": "The Delphi technique is a systematic process of forecasting using the collective opinion of panel members. The structured method of developing consensus among panel members using Delphi methodology has gained acceptance in diverse fields of medicine. The Delphi methods assumed a pivotal role in the last few decades to develop best practice guidance using collective intelligence where research is limited, ethically/logistically difficult or evidence is conflicting. However, the attempts to assess the quality standard of Delphi studies have reported significant variance, and details of the process followed are usually unclear. We recommend systematic quality tools for evaluation of Delphi methodology; identification of problem area of research, selection of panel, anonymity of panelists, controlled feedback, iterative Delphi rounds, consensus criteria, analysis of consensus, closing criteria, and stability of the results. Based on these nine qualitative evaluation points, we assessed the quality of Delphi studies in the medical field related to coronavirus disease 2019. There was inconsistency in reporting vital elements of Delphi methods such as identification of panel members, defining consensus, closing criteria for rounds, and presenting the results. We propose our evaluation points for researchers, medical journal editorial boards, and reviewers to evaluate the quality of the Delphi methods in healthcare research.",
+      "author_str": "P. Nasa, Ravi Jain, D. Juneja",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "54aa52ab5fe6ce939f10831fa0933d4989fb1edd",
+      "url": "https://www.semanticscholar.org/paper/54aa52ab5fe6ce939f10831fa0933d4989fb1edd",
+      "title": "The Impact of Limited English Proficiency on Healthcare Access and Outcomes in the U.S.: A Scoping Review",
+      "year": 2024,
+      "citationCount": 95,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/2227-9032/12/3/364/pdf?version=1706694003",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10855368, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "118039677",
+          "name": "S. Twersky"
+        },
+        {
+          "authorId": "2338234306",
+          "name": "Rebeca Jefferson"
+        },
+        {
+          "authorId": "2282728456",
+          "name": "Lisbet Garcia-Ortiz"
+        },
+        {
+          "authorId": "2248244090",
+          "name": "Erin Williams"
+        },
+        {
+          "authorId": "2282723320",
+          "name": "Carol Pina"
+        }
+      ],
+      "abstract": "A majority of individuals with limited English proficiency (LEP) in the U.S. are foreign-born, creating a complex intersection of language, socio-economic, and policy barriers to healthcare access and achieving good outcomes. Mapping the research literature is key to addressing how LEP intersects with healthcare. This scoping review followed PRISMA-ScR guidelines and included PubMed/MEDLINE, CINAHL, Sociological Abstracts, EconLit, and Academic Search Premier. Study selection included quantitative studies since 2000 with outcomes specified for adults with LEP residing in the U.S. related to healthcare service access or defined health outcomes, including healthcare costs. A total of 137 articles met the inclusion criteria. Major outcomes included ambulatory care, hospitalization, screening, specific conditions, and general health. Overall, the literature identified differential access to and utilization of healthcare across multiple modalities with poorer outcomes among LEP populations compared with English-proficient populations. Current research includes inconsistent definitions for LEP populations, primarily cross-sectional studies, small sample sizes, and homogeneous language and regional samples. Current regulations and practices are insufficient to address the barriers that LEP individuals face to healthcare access and outcomes. Changes to EMRs and other data collection to consistently include LEP status and more methodologically rigorous studies are needed to address healthcare disparities for LEP individuals.",
+      "author_str": "S. Twersky, Rebeca Jefferson, Lisbet Garcia-Ortiz",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "d0c48d3b80efb9c170e7100cb9d78d1e7f7710bf",
+      "url": "https://www.semanticscholar.org/paper/d0c48d3b80efb9c170e7100cb9d78d1e7f7710bf",
+      "title": "Leveraging Generative AI and Large Language Models: A Comprehensive Roadmap for Healthcare Integration",
+      "year": 2023,
+      "citationCount": 218,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/2227-9032/11/20/2776/pdf?version=1697783532",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10606429, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "16119240",
+          "name": "Ping Yu"
+        },
+        {
+          "authorId": "2311530391",
+          "name": "Hua Xu"
+        },
+        {
+          "authorId": "2375858624",
+          "name": "Xia Hu"
+        },
+        {
+          "authorId": "144551284",
+          "name": "C. Deng"
+        }
+      ],
+      "abstract": "Generative artificial intelligence (AI) and large language models (LLMs), exemplified by ChatGPT, are promising for revolutionizing data and information management in healthcare and medicine. However, there is scant literature guiding their integration for non-AI professionals. This study conducts a scoping literature review to address the critical need for guidance on integrating generative AI and LLMs into healthcare and medical practices. It elucidates the distinct mechanisms underpinning these technologies, such as Reinforcement Learning from Human Feedback (RLFH), including few-shot learning and chain-of-thought reasoning, which differentiates them from traditional, rule-based AI systems. It requires an inclusive, collaborative co-design process that engages all pertinent stakeholders, including clinicians and consumers, to achieve these benefits. Although global research is examining both opportunities and challenges, including ethical and legal dimensions, LLMs offer promising advancements in healthcare by enhancing data management, information retrieval, and decision-making processes. Continued innovation in data acquisition, model fine-tuning, prompt strategy development, evaluation, and system implementation is imperative for realizing the full potential of these technologies. Organizations should proactively engage with these technologies to improve healthcare quality, safety, and efficiency, adhering to ethical and legal guidelines for responsible application.",
+      "author_str": "Ping Yu, Hua Xu, Xia Hu",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "0893549771094fac547432cb4f84e9605c911a86",
+      "url": "https://www.semanticscholar.org/paper/0893549771094fac547432cb4f84e9605c911a86",
+      "title": "The imperative for regulatory oversight of large language models (or generative AI) in healthcare",
+      "year": 2023,
+      "citationCount": 769,
+      "openAccessPdf": {
+        "url": "https://www.nature.com/articles/s41746-023-00873-0.pdf",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10326069, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "6843793",
+          "name": "B. Meskó"
+        },
+        {
+          "authorId": "144758045",
+          "name": "E. Topol"
+        }
+      ],
+      "abstract": "The rapid advancements in artificial intelligence (AI) have led to the development of sophisticated large language models (LLMs) such as GPT-4 and Bard. The potential implementation of LLMs in healthcare settings has already garnered considerable attention because of their diverse applications that include facilitating clinical documentation, obtaining insurance pre-authorization, summarizing research papers, or working as a chatbot to answer questions for patients about their specific data and concerns. While offering transformative potential, LLMs warrant a very cautious approach since these models are trained differently from AI-based medical technologies that are regulated already, especially within the critical context of caring for patients. The newest version, GPT-4, that was released in March, 2023, brings the potentials of this technology to support multiple medical tasks; and risks from mishandling results it provides to varying reliability to a new level. Besides being an advanced LLM, it will be able to read texts on images and analyze the context of those images. The regulation of GPT-4 and generative AI in medicine and healthcare without damaging their exciting and transformative potential is a timely and critical challenge to ensure safety, maintain ethical standards, and protect patient privacy. We argue that regulatory oversight should assure medical professionals and patients can use LLMs without causing harm or compromising their data or privacy. This paper summarizes our practical recommendations for what we can expect from regulators to bring this vision to reality.",
+      "author_str": "B. Meskó, E. Topol",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "4bf266fe2809db66cfb896bdb060302346d214be",
+      "url": "https://www.semanticscholar.org/paper/4bf266fe2809db66cfb896bdb060302346d214be",
+      "title": "Digital Transformation in Healthcare: Technology Acceptance and Its Applications",
+      "year": 2023,
+      "citationCount": 624,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/1660-4601/20/4/3407/pdf?version=1676607401",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC9963556, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2003252686",
+          "name": "Angelos I. Stoumpos"
+        },
+        {
+          "authorId": "2626369",
+          "name": "F. Kitsios"
+        },
+        {
+          "authorId": "2969505",
+          "name": "M. Talias"
+        }
+      ],
+      "abstract": "Technological innovation has become an integral aspect of our daily life, such as wearable and information technology, virtual reality and the Internet of Things which have contributed to transforming healthcare business and operations. Patients will now have a broader range and more mindful healthcare choices and experience a new era of healthcare with a patient-centric culture. Digital transformation determines personal and institutional health care. This paper aims to analyse the changes taking place in the field of healthcare due to digital transformation. For this purpose, a systematic bibliographic review is performed, utilising Scopus, Science Direct and PubMed databases from 2008 to 2021. Our methodology is based on the approach by Wester and Watson, which classify the related articles based on a concept-centric method and an ad hoc classification system which identify the categories used to describe areas of literature. The search was made during August 2022 and identified 5847 papers, of which 321 fulfilled the inclusion criteria for further process. Finally, by removing and adding additional studies, we ended with 287 articles grouped into five themes: information technology in health, the educational impact of e-health, the acceptance of e-health, telemedicine and security issues.",
+      "author_str": "Angelos I. Stoumpos, F. Kitsios, M. Talias",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "10c64e5aaff9f70dffc8c29a577376d085e9340b",
+      "url": "https://www.semanticscholar.org/paper/10c64e5aaff9f70dffc8c29a577376d085e9340b",
+      "title": "A Review of the Role of Artificial Intelligence in Healthcare",
+      "year": 2023,
+      "citationCount": 567,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/2075-4426/13/6/951/pdf?version=1685933257",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10301994, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "51273488",
+          "name": "Ahmed Al Kuwaiti"
+        },
+        {
+          "authorId": "2274559129",
+          "name": "Khalid Nazer"
+        },
+        {
+          "authorId": "2219616129",
+          "name": "Abdullah Al-Reedy"
+        },
+        {
+          "authorId": "2067184257",
+          "name": "Shaher Z. Al-Shehri"
+        },
+        {
+          "authorId": "2373351123",
+          "name": "Afnan Almuhanna"
+        },
+        {
+          "authorId": "3528287",
+          "name": "A. Subbarayalu"
+        },
+        {
+          "authorId": "2220804070",
+          "name": "Dhoha Al Muhanna"
+        },
+        {
+          "authorId": "2083368779",
+          "name": "Fahad A Al-Muhanna"
+        }
+      ],
+      "abstract": "Artificial intelligence (AI) applications have transformed healthcare. This study is based on a general literature review uncovering the role of AI in healthcare and focuses on the following key aspects: (i) medical imaging and diagnostics, (ii) virtual patient care, (iii) medical research and drug discovery, (iv) patient engagement and compliance, (v) rehabilitation, and (vi) other administrative applications. The impact of AI is observed in detecting clinical conditions in medical imaging and diagnostic services, controlling the outbreak of coronavirus disease 2019 (COVID-19) with early diagnosis, providing virtual patient care using AI-powered tools, managing electronic health records, augmenting patient engagement and compliance with the treatment plan, reducing the administrative workload of healthcare professionals (HCPs), discovering new drugs and vaccines, spotting medical prescription errors, extensive data storage and analysis, and technology-assisted rehabilitation. Nevertheless, this science pitch meets several technical, ethical, and social challenges, including privacy, safety, the right to decide and try, costs, information and consent, access, and efficacy, while integrating AI into healthcare. The governance of AI applications is crucial for patient safety and accountability and for raising HCPs’ belief in enhancing acceptance and boosting significant health consequences. Effective governance is a prerequisite to precisely address regulatory, ethical, and trust issues while advancing the acceptance and implementation of AI. Since COVID-19 hit the global health system, the concept of AI has created a revolution in healthcare, and such an uprising could be another step forward to meet future healthcare needs.",
+      "author_str": "Ahmed Al Kuwaiti, Khalid Nazer, Abdullah Al-Reedy",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "d9403061e3a3392652d037138532fab111c845c1",
+      "url": "https://www.semanticscholar.org/paper/d9403061e3a3392652d037138532fab111c845c1",
+      "title": "Large language models in healthcare and medical domain: A review",
+      "year": 2023,
+      "citationCount": 398,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2401.06775, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "32840139",
+          "name": "Zabir Al Nazi"
+        },
+        {
+          "authorId": "2280043876",
+          "name": "Wei Peng"
+        }
+      ],
+      "abstract": "The deployment of large language models (LLMs) within the healthcare sector has sparked both enthusiasm and apprehension. These models exhibit the remarkable ability to provide proficient responses to free-text queries, demonstrating a nuanced understanding of professional medical knowledge. This comprehensive survey delves into the functionalities of existing LLMs designed for healthcare applications and elucidates the trajectory of their development, starting with traditional Pretrained Language Models (PLMs) and then moving to the present state of LLMs in the healthcare sector. First, we explore the potential of LLMs to amplify the efficiency and effectiveness of diverse healthcare applications, particularly focusing on clinical language understanding tasks. These tasks encompass a wide spectrum, ranging from named entity recognition and relation extraction to natural language inference, multimodal medical applications, document classification, and question-answering. Additionally, we conduct an extensive comparison of the most recent state-of-the-art LLMs in the healthcare domain, while also assessing the utilization of various open-source LLMs and highlighting their significance in healthcare applications. Furthermore, we present the essential performance metrics employed to evaluate LLMs in the biomedical domain, shedding light on their effectiveness and limitations. Finally, we summarize the prominent challenges and constraints faced by large language models in the healthcare sector by offering a holistic perspective on their potential benefits and shortcomings. This review provides a comprehensive exploration of the current landscape of LLMs in healthcare, addressing their role in transforming medical applications and the areas that warrant further research and development.",
+      "author_str": "Zabir Al Nazi, Wei Peng",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "a8c6a60f0b44ec06344d6b7a9570369dc3484465",
+      "url": "https://www.semanticscholar.org/paper/a8c6a60f0b44ec06344d6b7a9570369dc3484465",
+      "title": "Fairness of artificial intelligence in healthcare: review and recommendations",
+      "year": 2023,
+      "citationCount": 394,
+      "openAccessPdf": {
+        "url": "https://link.springer.com/content/pdf/10.1007/s11604-023-01474-3.pdf",
+        "status": "HYBRID",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10764412, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "51502377",
+          "name": "D. Ueda"
+        },
+        {
+          "authorId": "2227482320",
+          "name": "Taichi Kakinuma"
+        },
+        {
+          "authorId": "2221127929",
+          "name": "S. Fujita"
+        },
+        {
+          "authorId": "2221207775",
+          "name": "K. Kamagata"
+        },
+        {
+          "authorId": "2150400",
+          "name": "Y. Fushimi"
+        },
+        {
+          "authorId": "8853026",
+          "name": "Rintaro Ito"
+        },
+        {
+          "authorId": "13116580",
+          "name": "Y. Matsui"
+        },
+        {
+          "authorId": "3012818",
+          "name": "T. Nozaki"
+        },
+        {
+          "authorId": "3817378",
+          "name": "T. Nakaura"
+        },
+        {
+          "authorId": "2029317",
+          "name": "N. Fujima"
+        },
+        {
+          "authorId": "6054641",
+          "name": "F. Tatsugami"
+        },
+        {
+          "authorId": "39073663",
+          "name": "M. Yanagawa"
+        },
+        {
+          "authorId": "2016969",
+          "name": "K. Hirata"
+        },
+        {
+          "authorId": "145477449",
+          "name": "A. Yamada"
+        },
+        {
+          "authorId": "47209651",
+          "name": "T. Tsuboyama"
+        },
+        {
+          "authorId": "33977375",
+          "name": "M. Kawamura"
+        },
+        {
+          "authorId": "4403860",
+          "name": "Tomoyuki Fujioka"
+        },
+        {
+          "authorId": "2216728",
+          "name": "S. Naganawa"
+        }
+      ],
+      "abstract": "In this review, we address the issue of fairness in the clinical integration of artificial intelligence (AI) in the medical field. As the clinical adoption of deep learning algorithms, a subfield of AI, progresses, concerns have arisen regarding the impact of AI biases and discrimination on patient health. This review aims to provide a comprehensive overview of concerns associated with AI fairness; discuss strategies to mitigate AI biases; and emphasize the need for cooperation among physicians, AI researchers, AI developers, policymakers, and patients to ensure equitable AI integration. First, we define and introduce the concept of fairness in AI applications in healthcare and radiology, emphasizing the benefits and challenges of incorporating AI into clinical practice. Next, we delve into concerns regarding fairness in healthcare, addressing the various causes of biases in AI and potential concerns such as misdiagnosis, unequal access to treatment, and ethical considerations. We then outline strategies for addressing fairness, such as the importance of diverse and representative data and algorithm audits. Additionally, we discuss ethical and legal considerations such as data privacy, responsibility, accountability, transparency, and explainability in AI. Finally, we present the Fairness of Artificial Intelligence Recommendations in healthcare (FAIR) statement to offer best practices. Through these efforts, we aim to provide a foundation for discussing the responsible and equitable implementation and deployment of AI in healthcare.",
+      "author_str": "D. Ueda, Taichi Kakinuma, S. Fujita",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "13ccfa3d0a7abcc5a29392713f969b82ca3f06d6",
+      "url": "https://www.semanticscholar.org/paper/13ccfa3d0a7abcc5a29392713f969b82ca3f06d6",
+      "title": "Privacy-preserving artificial intelligence in healthcare: Techniques and applications",
+      "year": 2023,
+      "citationCount": 361,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.1016/j.compbiomed.2023.106848",
+        "status": "HYBRID",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.compbiomed.2023.106848?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.compbiomed.2023.106848, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "1557646902",
+          "name": "N. Khalid"
+        },
+        {
+          "authorId": "2146174432",
+          "name": "Adnan Qayyum"
+        },
+        {
+          "authorId": "144769156",
+          "name": "M. Bilal"
+        },
+        {
+          "authorId": "1404786833",
+          "name": "Ala I. Al-Fuqaha"
+        },
+        {
+          "authorId": "2139199675",
+          "name": "Junaid Qadir"
+        }
+      ],
+      "abstract": "There has been an increasing interest in translating artificial intelligence (AI) research into clinically-validated applications to improve the performance, capacity, and efficacy of healthcare services. Despite substantial research worldwide, very few AI-based applications have successfully made it to clinics. Key barriers to the widespread adoption of clinically validated AI applications include non-standardized medical records, limited availability of curated datasets, and stringent legal/ethical requirements to preserve patients' privacy. Therefore, there is a pressing need to improvise new data-sharing methods in the age of AI that preserve patient privacy while developing AI-based healthcare applications. In the literature, significant attention has been devoted to developing privacy-preserving techniques and overcoming the issues hampering AI adoption in an actual clinical environment. To this end, this study summarizes the state-of-the-art approaches for preserving privacy in AI-based healthcare applications. Prominent privacy-preserving techniques such as Federated Learning and Hybrid Techniques are elaborated along with potential privacy attacks, security challenges, and future directions.",
+      "author_str": "N. Khalid, Adnan Qayyum, M. Bilal",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "47966b673a145dfba9880c207ab4e21d692ab563",
+      "url": "https://www.semanticscholar.org/paper/47966b673a145dfba9880c207ab4e21d692ab563",
+      "title": "Survey of Explainable AI Techniques in Healthcare",
+      "year": 2023,
+      "citationCount": 449,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/1424-8220/23/2/634/pdf?version=1672988781",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC9862413, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2075078",
+          "name": "A. Chaddad"
+        },
+        {
+          "authorId": "2200178055",
+          "name": "Jihao Peng"
+        },
+        {
+          "authorId": "2205994371",
+          "name": "Jian Xu"
+        },
+        {
+          "authorId": "1690116",
+          "name": "A. Bouridane"
+        }
+      ],
+      "abstract": "Artificial intelligence (AI) with deep learning models has been widely applied in numerous domains, including medical imaging and healthcare tasks. In the medical field, any judgment or decision is fraught with risk. A doctor will carefully judge whether a patient is sick before forming a reasonable explanation based on the patient’s symptoms and/or an examination. Therefore, to be a viable and accepted tool, AI needs to mimic human judgment and interpretation skills. Specifically, explainable AI (XAI) aims to explain the information behind the black-box model of deep learning that reveals how the decisions are made. This paper provides a survey of the most recent XAI techniques used in healthcare and related medical imaging applications. We summarize and categorize the XAI types, and highlight the algorithms used to increase interpretability in medical imaging topics. In addition, we focus on the challenging XAI problems in medical applications and provide guidelines to develop better interpretations of deep learning models using XAI concepts in medical image and text analysis. Furthermore, this survey provides future directions to guide developers and researchers for future prospective investigations on clinical topics, particularly on applications with medical imaging.",
+      "author_str": "A. Chaddad, Jihao Peng, Jian Xu",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "19cd2250f419666d4df441bae7ade1dd9a2f6bf9",
+      "url": "https://www.semanticscholar.org/paper/19cd2250f419666d4df441bae7ade1dd9a2f6bf9",
+      "title": "ChatGPT in Healthcare: A Taxonomy and Systematic Review",
+      "year": 2023,
+      "citationCount": 351,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.1016/j.cmpb.2024.108013",
+        "status": "GREEN",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1101/2023.03.30.23287899?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1101/2023.03.30.23287899, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "1854292398",
+          "name": "Jianning Li"
+        },
+        {
+          "authorId": "2221125283",
+          "name": "Amin Dada"
+        },
+        {
+          "authorId": "2266233467",
+          "name": "B. Puladi"
+        },
+        {
+          "authorId": "2239665",
+          "name": "J. Kleesiek"
+        },
+        {
+          "authorId": "2238949889",
+          "name": "Jan Egger"
+        }
+      ],
+      "abstract": "The recent release of ChatGPT, a chat bot research project/product of natural language processing (NLP) by OpenAI, stirs up a sensation among both the general public and medical professionals, amassing a phenomenally large user base in a short time. This is a typical example of the 'productization' of cutting-edge technologies, which allows the general public without a technical background to gain firsthand experience in artificial intelligence (AI), similar to the AI hype created by AlphaGo (DeepMind Technologies, UK) and self-driving cars (Google, Tesla, etc.). However, it is crucial, especially for healthcare researchers, to remain prudent amidst the hype. This work provides a systematic review of existing publications on the use of ChatGPT in healthcare, elucidating the 'status quo' of ChatGPT in medical applications, for general readers, healthcare professionals as well as NLP scientists. The large biomedical literature database PubMed is used to retrieve published works on this topic using the keyword 'ChatGPT'. An inclusion criterion and a taxonomy are further proposed to filter the search results and categorize the selected publications, respectively. It is found through the review that the current release of ChatGPT has achieved only moderate or 'passing' performance in a variety of tests, and is unreliable for actual clinical deployment, since it is not intended for clinical applications by design. We conclude that specialized NLP models trained on (bio)medical datasets still represent the right direction to pursue for critical clinical applications.",
+      "author_str": "Jianning Li, Amin Dada, B. Puladi",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "5c128102d50d7ed96784ece1eb25533bb4ff3078",
+      "url": "https://www.semanticscholar.org/paper/5c128102d50d7ed96784ece1eb25533bb4ff3078",
+      "title": "Drawbacks of Artificial Intelligence and Their Potential Solutions in the Healthcare Sector",
+      "year": 2023,
+      "citationCount": 345,
+      "openAccessPdf": {
+        "url": "https://link.springer.com/content/pdf/10.1007/s44174-023-00063-2.pdf",
+        "status": "BRONZE",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC9908503, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2182079774",
+          "name": "Bangul Khan"
+        },
+        {
+          "authorId": "2036663643",
+          "name": "Hajira Fatima"
+        },
+        {
+          "authorId": "2143613791",
+          "name": "A. Qureshi"
+        },
+        {
+          "authorId": "49596260",
+          "name": "Surinder Kumar"
+        },
+        {
+          "authorId": "2407073825",
+          "name": "A. Hanan"
+        },
+        {
+          "authorId": "50877934",
+          "name": "J. Hussain"
+        },
+        {
+          "authorId": "2205182276",
+          "name": "Saad Abdullah"
+        }
+      ],
+      "abstract": "Artificial intelligence (AI) has the potential to make substantial progress toward the goal of making healthcare more personalized, predictive, preventative, and interactive. We believe AI will continue its present path and ultimately become a mature and effective tool for the healthcare sector. Besides this AI-based systems raise concerns regarding data security and privacy. Because health records are important and vulnerable, hackers often target them during data breaches. The absence of standard guidelines for the moral use of AI and ML in healthcare has only served to worsen the situation. There is debate about how far artificial intelligence (AI) may be utilized ethically in healthcare settings since there are no universal guidelines for its use. Therefore, maintaining the confidentiality of medical records is crucial. This study enlightens the possible drawbacks of AI in the implementation of healthcare sector and their solutions to overcome these situations. Graphical Abstract",
+      "author_str": "Bangul Khan, Hajira Fatima, A. Qureshi",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "92169af3a7c89e27bc0f9bd58d05af2b2bf752b7",
+      "url": "https://www.semanticscholar.org/paper/92169af3a7c89e27bc0f9bd58d05af2b2bf752b7",
+      "title": "Digital twin in healthcare: Recent updates and challenges",
+      "year": 2023,
+      "citationCount": 311,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.1177/20552076221149651",
+        "status": "GOLD",
+        "license": "CCBYNCND",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC9830576, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2152305669",
+          "name": "Tianze Sun"
+        },
+        {
+          "authorId": "2111100296",
+          "name": "Xiwang He"
+        },
+        {
+          "authorId": "2145406652",
+          "name": "Zhonghai Li"
+        }
+      ],
+      "abstract": "As simulation is playing an increasingly important role in medicine, providing the individual patient with a customised diagnosis and treatment is envisaged as part of future precision medicine. Such customisation will become possible through the emergence of digital twin (DT) technology. The objective of this article is to review the progress of prominent research on DT technology in medicine and discuss the potential applications and future opportunities as well as several challenges remaining in digital healthcare. A review of the literature was conducted using PubMed, Web of Science, Google Scholar, Scopus and related bibliographic resources, in which the following terms and their derivatives were considered during the search: DT, medicine and digital health virtual healthcare. Finally, analyses of the literature yielded 465 pertinent articles, of which we selected 22 for detailed review. We summarised the application examples of DT in medicine and analysed the applications in many fields of medicine. It revealed encouraging results that DT is being increasing applied in medicine. Results from this literature review indicated that DT healthcare, as a key fusion approach of future medicine, will bring the advantages of precision diagnose and personalised treatment into reality.",
+      "author_str": "Tianze Sun, Xiwang He, Zhonghai Li",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "8eb6eeb221410897d8cae0a005dbcdaf329a81b6",
+      "url": "https://www.semanticscholar.org/paper/8eb6eeb221410897d8cae0a005dbcdaf329a81b6",
+      "title": "A Systematic Review of the Barriers to the Implementation of Artificial Intelligence in Healthcare",
+      "year": 2023,
+      "citationCount": 294,
+      "openAccessPdf": {
+        "url": "https://assets.cureus.com/uploads/review_article/pdf/170025/20231004-24282-g79tke.pdf",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10623210, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2299938559",
+          "name": "Molla Imaduddin Ahmed"
+        },
+        {
+          "authorId": "13285473",
+          "name": "B. Spooner"
+        },
+        {
+          "authorId": "48965472",
+          "name": "J. Isherwood"
+        },
+        {
+          "authorId": "2317971805",
+          "name": "Mark Lane"
+        },
+        {
+          "authorId": "1473519846",
+          "name": "E. Orrock"
+        },
+        {
+          "authorId": "2254499550",
+          "name": "Ashley Dennison"
+        }
+      ],
+      "abstract": "Artificial intelligence (AI) is expected to improve healthcare outcomes by facilitating early diagnosis, reducing the medical administrative burden, aiding drug development, personalising medical and oncological management, monitoring healthcare parameters on an individual basis, and allowing clinicians to spend more time with their patients. In the post-pandemic world where there is a drive for efficient delivery of healthcare and manage long waiting times for patients to access care, AI has an important role in supporting clinicians and healthcare systems to streamline the care pathways and provide timely and high-quality care for the patients. Despite AI technologies being used in healthcare for some decades, and all the theoretical potential of AI, the uptake in healthcare has been uneven and slower than anticipated and there remain a number of barriers, both overt and covert, which have limited its incorporation. This literature review highlighted barriers in six key areas: ethical, technological, liability and regulatory, workforce, social, and patient safety barriers. Defining and understanding the barriers preventing the acceptance and implementation of AI in the setting of healthcare will enable clinical staff and healthcare leaders to overcome the identified hurdles and incorporate AI technologies for the benefit of patients and clinical staff.",
+      "author_str": "Molla Imaduddin Ahmed, B. Spooner, J. Isherwood",
+      "conclusion": "Unable to process at this time"
+    }
+  ],
+  "contradictions": [
+    {
+      "theme": "Model Size Efficiency",
+      "paper_a": "Attention is All You Need",
+      "claim_a": "Larger models with more parameters achieve better performance",
+      "paper_b": "DistilBERT: Smaller Model Faster",
+      "claim_b": "Smaller distilled models can match performance with lower latency"
+    },
+    {
+      "theme": "Positional Encoding Methods",
+      "paper_a": "Attention is All You Need",
+      "claim_a": "Absolute positional encoding is sufficient",
+      "paper_b": "RoFormer",
+      "claim_b": "Relative positional encoding captures relationships better"
+    },
+    {
+      "theme": "Fine-tuning vs Few-shot",
+      "paper_a": "BERT: Pre-training",
+      "claim_a": "Task-specific fine-tuning is necessary",
+      "paper_b": "Language Models are Few-shot Learners",
+      "claim_b": "Large models can learn from prompts without fine-tuning"
+    }
+  ],
+  "report": "\n# Literature Review: healthcare\n\n## 1. Topic Overview\nThis report provides a narrative synthesis of the literature found for the topic \"healthcare.\" The summary below integrates the available findings suggested by the paper titles and any conclusion fragments that were produced during the search.\n\n## 2. Synthesis of Findings\nThe literature search retrieved a diverse set of works centered on Ethernet-based real-time communications. Based on the paper titles, the field spans automotive networking, industrial time-sensitive communication, hyperscale Ethernet and RDMA, security and intrusion detection, and future wireless convergence. This synthesis is assembled from the available title-level evidence and the limited conclusion fragments that were generated.\n\n### Additional Observations\nA smaller set of papers extends the discussion to broader Ethernet evolution topics, including optical networking, energy-aware routing, and converged network design. Representative titles include AMSTAR 2, ChatGPT Utility in Healthcare Education, Research, and Practice, and Prevalence of depression, anxiety, and insomnia among healthcare workers during the COVID-19 pandemic. These items add contextual breadth to the main themes identified in the search. Optical Ethernet research explores passive optical networks and high-speed fiber links for metropolitan and wide-area connectivity. Energy-aware routing optimizes power consumption in network switches and links, addressing sustainability concerns in large-scale deployments. Converged network design integrates multiple transport technologies, such as combining Ethernet with wireless or satellite links for hybrid networks. These contributions provide a holistic view of Ethernet's role in future communication ecosystems.\n\nThe overview above is provisional because many of the individual paper conclusions were not fully generated. It should therefore be interpreted as a thematic summary that highlights the dominant research directions implied by the paper titles.\n\n## 3. Limitations and Gaps\nThe synthesis is based on title-level evidence and partial conclusion fragments, so it may not reflect every nuance or finding from the original papers. Further review is required to validate the thematic impressions and fill any coverage gaps.\n\n## 4. Next Steps\nTo improve the literature review, verify the summary against the source papers, broaden the search with related keywords and newer publications, and revisit unresolved technical challenges with deeper domain analysis.\n",
+  "concepts": [
+    "attention mechanism",
+    "neural networks",
+    "deep learning",
+    "model training",
+    "optimization"
+  ],
+  "topic": "healthcare",
+  "timestamp": "2026-04-09 12:34:09"
+}
