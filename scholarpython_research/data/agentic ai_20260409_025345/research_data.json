@@ -1,0 +1,1567 @@
+{
+  "type": "complete",
+  "papers": [
+    {
+      "paperId": "09d8841eeb362a2c04f055f70f16d634093c83bc",
+      "title": "Agentic AI: Autonomous Intelligence for Complex Goals—A Comprehensive Survey",
+      "year": 2025,
+      "citationCount": 422,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.1109/access.2025.3532853",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ACCESS.2025.3532853?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ACCESS.2025.3532853, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2064564791",
+          "name": "D. Acharya"
+        },
+        {
+          "authorId": "2327269983",
+          "name": "Karthigeyan Kuppan"
+        },
+        {
+          "authorId": "2329573117",
+          "name": "Divya Bhaskaracharya"
+        }
+      ],
+      "abstract": "Agentic AI, an emerging paradigm in artificial intelligence, refers to autonomous systems designed to pursue complex goals with minimal human intervention. Unlike traditional AI, which depends on structured instructions and close oversight, Agentic AI demonstrates adaptability, advanced decision-making capabilities and self-sufficiency, enabling it to operate dynamically in evolving environments. This survey thoroughly explores the foundational concepts, unique characteristics, and core methodologies driving the development of Agentic AI. We examine its current and potential applications across various fields, including healthcare, finance, and adaptive software systems, emphasizing the advantages of deploying agentic systems in real-world scenarios. The paper also addresses the ethical challenges posed by Agentic AI, proposing solutions for goal alignment, resource constraints, and environmental adaptability. We outline a framework for safely and effectively integrating Agentic AI into society, highlighting the need for further research on ethical considerations to ensure beneficial societal impacts. This survey serves as a comprehensive introduction to Agentic AI, guiding researchers, developers, and policymakers in engaging with its transformative potential responsibly and creatively.",
+      "author_str": "D. Acharya, Karthigeyan Kuppan, Divya Bhaskaracharya",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "f1d477ccd20b3e90611fc46b1951b3708651a425",
+      "title": "Small Language Models are the Future of Agentic AI",
+      "year": 2025,
+      "citationCount": 220,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2506.02153, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2185580922",
+          "name": "Peter Belcák"
+        },
+        {
+          "authorId": "2273650910",
+          "name": "Greg Heinrich"
+        },
+        {
+          "authorId": "2355863041",
+          "name": "Shizhe Diao"
+        },
+        {
+          "authorId": "2357021225",
+          "name": "Yonggan Fu"
+        },
+        {
+          "authorId": "2331626352",
+          "name": "Xin Dong"
+        },
+        {
+          "authorId": "31225166",
+          "name": "Saurav Muralidharan"
+        },
+        {
+          "authorId": "2345376825",
+          "name": "Yingyan Lin"
+        },
+        {
+          "authorId": "2335565736",
+          "name": "Pavlo Molchanov"
+        }
+      ],
+      "abstract": "Large language models (LLMs) are often praised for exhibiting near-human performance on a wide range of tasks and valued for their ability to hold a general conversation. The rise of agentic AI systems is, however, ushering in a mass of applications in which language models perform a small number of specialized tasks repetitively and with little variation. Here we lay out the position that small language models (SLMs) are sufficiently powerful, inherently more suitable, and necessarily more economical for many invocations in agentic systems, and are therefore the future of agentic AI. Our argumentation is grounded in the current level of capabilities exhibited by SLMs, the common architectures of agentic systems, and the economy of LM deployment. We further argue that in situations where general-purpose conversational abilities are essential, heterogeneous agentic systems (i.e., agents invoking multiple different models) are the natural choice. We discuss the potential barriers for the adoption of SLMs in agentic systems and outline a general LLM-to-SLM agent conversion algorithm. Our position, formulated as a value statement, highlights the significance of the operational and economic impact even a partial shift from LLMs to SLMs is to have on the AI agent industry. We aim to stimulate the discussion on the effective use of AI resources and hope to advance the efforts to lower the costs of AI of the present day. Calling for both contributions to and critique of our position, we commit to publishing all such correspondence at https://research.nvidia.com/labs/lpr/slm-agents.",
+      "author_str": "Peter Belcák, Greg Heinrich, Shizhe Diao",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "986e813f4c4f36786c3642cb9c8718586e47bdcf",
+      "title": "AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenges",
+      "year": 2025,
+      "citationCount": 279,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2505.10468, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2240132532",
+          "name": "Ranjan Sapkota"
+        },
+        {
+          "authorId": "2090274411",
+          "name": "Konstantinos I. Roumeliotis"
+        },
+        {
+          "authorId": "2301347633",
+          "name": "Manoj Karkee"
+        }
+      ],
+      "abstract": "This review critically distinguishes between AI Agents and Agentic AI, offering a structured, conceptual taxonomy, application mapping, and analysis of opportunities and challenges to clarify their divergent design philosophies and capabilities. We begin by outlining the search strategy and foundational definitions, characterizing AI Agents as modular systems driven and enabled by LLMs and LIMs for taskspecific automation. Generative AI is positioned as a precursor providing the foundation, with AI agents advancing through tool integration, prompt engineering, and reasoning enhancements. We then characterize Agentic AI systems, which, in contrast to AI Agents, represent a paradigm shift marked by multi-agent collaboration, dynamic task decomposition, persistent memory, and coordinated autonomy. Through a chronological evaluation of architectural evolution, operational mechanisms, interaction styles, and autonomy levels, we present a comparative analysis across both AI agents and agentic AI paradigms. Application domains enabled by AI Agents such as customer support, scheduling, and data summarization are then contrasted with Agentic AI deployments in research automation, robotic coordination, and medical decision support. We further examine unique challenges in each paradigm including hallucination, brittleness, emergent behavior, and coordination failure, and propose targeted solutions such as ReAct loops, retrieval-augmented generation (RAG), automation coordination layers, and causal modeling. This work aims to provide a roadmap for developing robust, scalable, and explainable AI-driven systems.  ",
+      "author_str": "Ranjan Sapkota, Konstantinos I. Roumeliotis, Manoj Karkee",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "1104bec9e7a0a3d9dba341ba8005f1b7350bc876",
+      "title": "Agentic AI for Scientific Discovery: A Survey of Progress, Challenges, and Future Directions",
+      "year": 2025,
+      "citationCount": 73,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2503.08979, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "3116103",
+          "name": "Mourad Gridach"
+        },
+        {
+          "authorId": "2302409209",
+          "name": "Jay Nanavati"
+        },
+        {
+          "authorId": "1389561431",
+          "name": "Khaldoun Zine El Abidine"
+        },
+        {
+          "authorId": "2349924581",
+          "name": "Lenon Mendes"
+        },
+        {
+          "authorId": "2270547506",
+          "name": "C. Mack"
+        }
+      ],
+      "abstract": "The integration of Agentic AI into scientific discovery marks a new frontier in research automation. These AI systems, capable of reasoning, planning, and autonomous decision-making, are transforming how scientists perform literature review, generate hypotheses, conduct experiments, and analyze results. This survey provides a comprehensive overview of Agentic AI for scientific discovery, categorizing existing systems and tools, and highlighting recent progress across fields such as chemistry, biology, and materials science. We discuss key evaluation metrics, implementation frameworks, and commonly used datasets to offer a detailed understanding of the current state of the field. Finally, we address critical challenges, such as literature review automation, system reliability, and ethical concerns, while outlining future research directions that emphasize human-AI collaboration and enhanced system calibration.",
+      "author_str": "Mourad Gridach, Jay Nanavati, Khaldoun Zine El Abidine",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "d9f0d979178e8e42c88e831ba4a1e4eca17f3e83",
+      "title": "The Rise of Agentic AI: A Review of Definitions, Frameworks, Architectures, Applications, Evaluation Metrics, and Challenges",
+      "year": 2025,
+      "citationCount": 62,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/fi17090404?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/fi17090404, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2304040230",
+          "name": "Ajay Bandi"
+        },
+        {
+          "authorId": "2379479474",
+          "name": "Bhavani Kongari"
+        },
+        {
+          "authorId": "2379479470",
+          "name": "Roshini Naguru"
+        },
+        {
+          "authorId": "2379474083",
+          "name": "Sahitya Pasnoor"
+        },
+        {
+          "authorId": "2379479462",
+          "name": "Sri Vidya Vilipala"
+        }
+      ],
+      "abstract": "Agentic AI systems are a recently emerged and important approach that goes beyond traditional AI, generative AI, and autonomous systems by focusing on autonomy, adaptability, and goal-driven reasoning. This study provides a clear review of agentic AI systems by bringing together their definitions, frameworks, and architectures, and by comparing them with related areas like generative AI, autonomic computing, and multi-agent systems. To do this, we reviewed 143 primary studies on current LLM-based and non-LLM-driven agentic systems and examined how they support planning, memory, reflection, and goal pursuit. Furthermore, we classified architectural models, input–output mechanisms, and applications based on their task domains where agentic AI is applied, supported using tabular summaries that highlight real-world case studies. Evaluation metrics were classified as qualitative and quantitative measures, along with available testing methods of agentic AI systems to check the system’s performance and reliability. This study also highlights the main challenges and limitations of agentic AI, covering technical, architectural, coordination, ethical, and security issues. We organized the conceptual foundations, available tools, architectures, and evaluation metrics in this research, which defines a structured foundation for understanding and advancing agentic AI. These findings aim to help researchers and developers build better, clearer, and more adaptable systems that support responsible deployment in different domains.",
+      "author_str": "Ajay Bandi, Bhavani Kongari, Roshini Naguru",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "e676a2be0aa8c3018ae6f4d6327cba1964e8d984",
+      "title": "Generative to Agentic AI: Survey, Conceptualization, and Challenges",
+      "year": 2025,
+      "citationCount": 58,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2504.18875, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2310399062",
+          "name": "Johannes Schneider"
+        }
+      ],
+      "abstract": "Agentic Artificial Intelligence (AI) builds upon Generative AI (GenAI). It constitutes the next major step in the evolution of AI with much stronger reasoning and interaction capabilities that enable more autonomous behavior to tackle complex tasks. Since the initial release of ChatGPT (3.5), Generative AI has seen widespread adoption, giving users firsthand experience. However, the distinction between Agentic AI and GenAI remains less well understood. To address this gap, our survey is structured in two parts. In the first part, we compare GenAI and Agentic AI using existing literature, discussing their key characteristics, how Agentic AI remedies limitations of GenAI, and the major steps in GenAI's evolution toward Agentic AI. This section is intended for a broad audience, including academics in both social sciences and engineering, as well as industry professionals. It provides the necessary insights to comprehend novel applications that are possible with Agentic AI but not with GenAI. In the second part, we deep dive into novel aspects of Agentic AI, including recent developments and practical concerns such as defining agents. Finally, we discuss several challenges that could serve as a future research agenda, while cautioning against risks that can emerge when exceeding human intelligence.",
+      "author_str": "Johannes Schneider",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "753736d18fa9bf3ed730836b30b89bf5653cd8dd",
+      "title": "TRiSM for Agentic AI: A Review of Trust, Risk, and Security Management in LLM-based Agentic Multi-Agent Systems",
+      "year": 2025,
+      "citationCount": 52,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2506.04133, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2343504378",
+          "name": "Shaina Raza"
+        },
+        {
+          "authorId": "2240132532",
+          "name": "Ranjan Sapkota"
+        },
+        {
+          "authorId": "2301347633",
+          "name": "Manoj Karkee"
+        },
+        {
+          "authorId": "2345817790",
+          "name": "Christos Emmanouilidis"
+        }
+      ],
+      "abstract": "Agentic AI systems, built upon large language models (LLMs) and deployed in multi-agent configurations, are redefining intelligence, autonomy, collaboration, and decision-making across enterprise and societal domains. This review presents a structured analysis of Trust, Risk, and Security Management (TRiSM) in the context of LLM-based Agentic Multi-Agent Systems (AMAS). We begin by examining the conceptual foundations of Agentic AI and highlight its architectural distinctions from traditional AI agents. We then adapt and extend the AI TRiSM framework for Agentic AI, structured around key pillars: \\textit{ Explainability, ModelOps, Security, Privacy} and \\textit{their Lifecycle Governance}, each contextualized to the challenges of AMAS. A risk taxonomy is proposed to capture the unique threats and vulnerabilities of Agentic AI, ranging from coordination failures to prompt-based adversarial manipulation. To support practical assessment in Agentic AI works, we introduce two novel metrics: the Component Synergy Score (CSS), which quantifies the quality of inter-agent collaboration, and the Tool Utilization Efficacy (TUE), which evaluates the efficiency of tool use within agent workflows. We further discuss strategies for improving explainability in Agentic AI, as well as approaches to enhancing security and privacy through encryption, adversarial robustness, and regulatory compliance. The review concludes with a research roadmap for the responsible development and deployment of Agentic AI, highlighting key directions to align emerging systems with TRiSM principles-ensuring safety, transparency, and accountability in their operation.",
+      "author_str": "Shaina Raza, Ranjan Sapkota, Manoj Karkee",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "8f3fc962d61ac1d298ed511ba27272f1c5991599",
+      "title": "Building A Secure Agentic AI Application Leveraging Google’s A2A Protocol",
+      "year": 2025,
+      "citationCount": 42,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ACSACW69556.2025.00043?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ACSACW69556.2025.00043, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2355090314",
+          "name": "I. Habler"
+        },
+        {
+          "authorId": "2357017774",
+          "name": "Ken Huang"
+        },
+        {
+          "authorId": "2355085670",
+          "name": "Vineeth Sai Narajala"
+        },
+        {
+          "authorId": "2351063155",
+          "name": "Prashant Kulkarni"
+        }
+      ],
+      "abstract": "As Agentic AI systems evolve from basic workflows to complex multi-agent collaboration, robust protocols such as Google’s Agent2Agent (A2A) become essential enablers. To foster secure adoption and ensure the reliability of these complex interactions, understanding the secure implementation of A2A is essential. This paper addresses this goal by providing a comprehensive security analysis centered on the A2A protocol. We examine its fundamental elements and operational dynamics, situating it within the framework of agent communication development. We apply proactive threat modeling to assess potential security issues in A2A deployments, focusing on aspects such as Agent Card management, task execution integrity, and authentication methodologies.Based on these insights, we recommend practical secure development methodologies and architectural best practices designed to build resilient and effective A2A systems. This paper equips developers and architects with the knowledge and practical guidance needed to confidently leverage the A2A protocol for building robust and secure next-generation agentic applications.",
+      "author_str": "I. Habler, Ken Huang, Vineeth Sai Narajala",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "1ba87ec089ce713354b9b756bfd16c78251f3d7f",
+      "title": "Towards Agentic AI Networking in 6G: A Generative Foundation Model-as-Agent Approach",
+      "year": 2025,
+      "citationCount": 29,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2503.15764, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2363504847",
+          "name": "Yong Xiao"
+        },
+        {
+          "authorId": "35367337",
+          "name": "Guangming Shi"
+        },
+        {
+          "authorId": "2351750645",
+          "name": "Ping Zhang"
+        }
+      ],
+      "abstract": "The promising potential of AI and network convergence in improving networking performance and enabling new service capabilities has recently attracted significant interest. Existing network AI solutions, while powerful, are mainly built based on the close-loop and passive learning framework, resulting in major limitations in autonomous solution finding and dynamic environmental adaptation. Agentic AI has recently been introduced as a promising solution to address the above limitations and pave the way for true generally intelligent and beneficial AI systems. The key idea is to create a networking ecosystem to support a diverse range of autonomous and embodied AI agents in fulfilling their goals. In this paper, we focus on the novel challenges and requirements of agentic AI networking. We propose AgentNet, a novel framework for supporting interaction, collaborative learning, and knowledge transfer among AI agents. We introduce a general architectural framework of AgentNet and then propose a generative foundation model (GFM)-based implementation in which multiple GFM-as-agents have been created as an interactive knowledge-base to bootstrap the development of embodied AI agents according to different task requirements and environmental features. We consider two application scenarios, digital-twin-based industrial automation and metaverse-based infotainment system, to describe how to apply AgentNet for supporting efficient task-driven collaboration and interaction among AI agents.",
+      "author_str": "Yong Xiao, Guangming Shi, Ping Zhang",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "6c59e77510d434623c21df3a1807f2b643bb2f94",
+      "title": "Visual Agentic AI for Spatial Reasoning with a Dynamic API",
+      "year": 2025,
+      "citationCount": 36,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2502.06787, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2188084738",
+          "name": "Damiano Marsili"
+        },
+        {
+          "authorId": "2344755157",
+          "name": "Rohun Agrawal"
+        },
+        {
+          "authorId": "2238214339",
+          "name": "Yisong Yue"
+        },
+        {
+          "authorId": "2397488699",
+          "name": "Georgia Gkioxari"
+        }
+      ],
+      "abstract": "Visual reasoning – the ability to interpret the visual world–is crucial for embodied agents that operate within three-dimensional scenes. Progress in AI has led to vision and language models capable of answering questions from images. However, their performance declines when tasked with 3D spatial reasoning. To tackle the complexity of such reasoning problems, we introduce an agentic program synthesis approach where LLM agents collaboratively generate a Pythonic API with new functions to solve common subproblems. Our method overcomes limitations of prior approaches that rely on a static, human-defined API, allowing it to handle a wider range of queries. To assess AI capabilities for 3D understanding, we introduce a new benchmark of queries involving multiple steps of grounding and inference. We show that our method outperforms prior zero-shot models for visual reasoning in 3D and empirically validate the effectiveness of our agentic framework for 3D spatial reasoning tasks. Project website: https://glab-caltech.github.io/vadar/",
+      "author_str": "Damiano Marsili, Rohun Agrawal, Yisong Yue",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "2bbf1fc0d7bce53edbfcaeb81143c1233c074923",
+      "title": "A Novel Zero-Trust Identity Framework for Agentic AI: Decentralized Authentication and Fine-Grained Access Control",
+      "year": 2025,
+      "citationCount": 23,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2505.19301, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2357017774",
+          "name": "Ken Huang"
+        },
+        {
+          "authorId": "2355085670",
+          "name": "Vineeth Sai Narajala"
+        },
+        {
+          "authorId": "2313654074",
+          "name": "J. Yeoh"
+        },
+        {
+          "authorId": "2260066163",
+          "name": "Ramesh Raskar"
+        },
+        {
+          "authorId": "2363494316",
+          "name": "Youssef Harkati"
+        },
+        {
+          "authorId": "2363500851",
+          "name": "Jerry Huang"
+        },
+        {
+          "authorId": "2355090314",
+          "name": "I. Habler"
+        },
+        {
+          "authorId": "2383625202",
+          "name": "Chris Hughes"
+        }
+      ],
+      "abstract": "Traditional Identity and Access Management (IAM) systems, primarily designed for human users or static machine identities via protocols such as OAuth, OpenID Connect (OIDC), and SAML, prove fundamentally inadequate for the dynamic, interdependent, and often ephemeral nature of AI agents operating at scale within Multi Agent Systems (MAS), a computational system composed of multiple interacting intelligent agents that work collectively. This paper posits the imperative for a novel Agentic AI IAM framework: We deconstruct the limitations of existing protocols when applied to MAS, illustrating with concrete examples why their coarse-grained controls, single-entity focus, and lack of context-awareness falter. We then propose a comprehensive framework built upon rich, verifiable Agent Identities (IDs), leveraging Decentralized Identifiers (DIDs) and Verifiable Credentials (VCs), that encapsulate an agents capabilities, provenance, behavioral scope, and security posture. Our framework includes an Agent Naming Service (ANS) for secure and capability-aware discovery, dynamic fine-grained access control mechanisms, and critically, a unified global session management and policy enforcement layer for real-time control and consistent revocation across heterogeneous agent communication protocols. We also explore how Zero-Knowledge Proofs (ZKPs) enable privacy-preserving attribute disclosure and verifiable policy compliance. We outline the architecture, operational lifecycle, innovative contributions, and security considerations of this new IAM paradigm, aiming to establish the foundational trust, accountability, and security necessary for the burgeoning field of agentic AI and the complex ecosystems they will inhabit.",
+      "author_str": "Ken Huang, Vineeth Sai Narajala, J. Yeoh",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "0fa90be6622424c74191ef8be3105b865ae1f39a",
+      "title": "The Rise of Agentic AI: Implications, Concerns, and the Path Forward",
+      "year": 2025,
+      "citationCount": 67,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/MIS.2025.3544940?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/MIS.2025.3544940, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2215634631",
+          "name": "San Murugesan"
+        },
+        {
+          "authorId": "2215634631",
+          "name": "San Murugesan"
+        }
+      ],
+      "abstract": "Agentic artificial intelligence (AI) represents a transformative leap in AI, evolving beyond reactive systems to autonomous, goal-oriented agents capable of learning, adapting, and making independent decisions. As it presents immense opportunities, its adoption is growing across industries. However, its rise introduces critical challenges. Responsible adoption requires robust governance, transparency, and a well-defined regulatory framework. This article explores agentic AI’s defining characteristics, real-world applications, and transformative potential, and examines its societal and business implications. To shape agentic AI as a trusted, transformative force for responsible innovation and meaningful progress, we propose research directions and offer stakeholder recommendations.",
+      "author_str": "San Murugesan, San Murugesan",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "555f7b8584fea8295c0cda72e3fd25ab7a529dae",
+      "title": "THE ROLE OF AGENTIC AI AND GENERATIVE AI IN TRANSFORMING MODERN BANKING SERVICES",
+      "year": 2025,
+      "citationCount": 39,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.64751/ajaccm.2025.v5.n3.pp85-93?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.64751/ajaccm.2025.v5.n3.pp85-93, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2329460761",
+          "name": "Archana Todupunuri"
+        }
+      ],
+      "abstract": "The research is based on the importance of the agentic AI and generative AI that can change the current banking services. The entire analysis has been executed using secondary qualitative analysis using journals and other reports.  A total of three themes are generated that are decision-making and automation using agentic AI, personalisation and fraud detection using generative AI, and integration issues, together with future opportunities. The results indicate that these two tools and hybrid human-AI decision-making are used to mitigate fraud-related activity in the banking sector.  These findings cover gaps in the past research, which concentrated on isolated applications. The study finds that ethical adoption of agentic and generative AI will lead to innovation, build customer confidence, and deliver sustainable banking solutions.",
+      "author_str": "Archana Todupunuri",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "853a954cbd9584085eb50cd8440395e9c0758965",
+      "title": "Vibe Coding vs. Agentic Coding: Fundamentals and Practical Implications of Agentic AI",
+      "year": 2025,
+      "citationCount": 45,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2505.19443, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2240132532",
+          "name": "Ranjan Sapkota"
+        },
+        {
+          "authorId": "2090274411",
+          "name": "Konstantinos I. Roumeliotis"
+        },
+        {
+          "authorId": "2301347633",
+          "name": "Manoj Karkee"
+        }
+      ],
+      "abstract": "This review presents a comprehensive analysis of two emerging paradigms in AI-assisted software development: vibe coding and agentic coding. While both leverage large language models (LLMs), they differ fundamentally in autonomy, architectural design, and the role of the developer. Vibe coding emphasizes intuitive, human-in-the-loop interaction through prompt-based, conversational workflows that support ideation, experimentation, and creative exploration. In contrast, agentic coding enables autonomous software development through goal-driven agents capable of planning, executing, testing, and iterating tasks with minimal human intervention. We propose a detailed taxonomy spanning conceptual foundations, execution models, feedback loops, safety mechanisms, debugging strategies, and real-world tool ecosystems. Through comparative workflow analysis and 20 detailed use cases, we illustrate how vibe systems thrive in early-stage prototyping and education, while agentic systems excel in enterprise-grade automation, codebase refactoring, and CI/CD integration. We further examine emerging trends in hybrid architectures, where natural language interfaces are coupled with autonomous execution pipelines. Finally, we articulate a future roadmap for agentic AI, outlining the infrastructure needed for trustworthy, explainable, and collaborative systems. Our findings suggest that successful AI software engineering will rely not on choosing one paradigm, but on harmonizing their strengths within a unified, human-centered development lifecycle.",
+      "author_str": "Ranjan Sapkota, Konstantinos I. Roumeliotis, Manoj Karkee",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "9202c1bfbf620f9f760d96003ff5f13c20163537",
+      "title": "Securing Agentic AI: A Comprehensive Threat Model and Mitigation Framework for Generative AI Agents",
+      "year": 2025,
+      "citationCount": 34,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2504.19956, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2355085670",
+          "name": "Vineeth Sai Narajala"
+        },
+        {
+          "authorId": "2357963536",
+          "name": "Om Narayan"
+        }
+      ],
+      "abstract": "As generative AI (GenAI) agents become more common in enterprise settings, they introduce security challenges that differ significantly from those posed by traditional systems. These agents aren’t just LLMs—they reason, remember, and act, often with minimal human oversight. This paper introduces a comprehensive threat model tailored specifically for GenAI agents, focusing on how their autonomy, persistent memory access, complex reasoning, and tool integration create novel risks. This research work identifies 9 primary threats and organizes them across five key domains: cognitive architecture vulnerabilities, temporal persistence threats, operational execution vulnerabilities, trust boundary violations, and governance circumvention. These threats aren’t just theoretical—they bring practical challenges such as delayed exploitability, cross-system propagation, cross system lateral movement, and subtle goal misalignments that are hard to detect with existing frameworks and standard approaches. To help address this, the research work present two complementary frameworks: ATFAA (Advanced Threat Framework for Autonomous AI Agents), which organizes agent-specific risks, and SHIELD, a framework proposing practical mitigation strategies designed to reduce enterprise exposure. While this work builds on existing work in LLM and AI security, the focus is squarely on what makes agents different—and why those differences matter. Ultimately, this research argues that GenAI agents require a new lens for security. If we fail to adapt our threat models and defenses to account for their unique architecture and behavior, we risk turning a powerful new tool into a serious enterprise liability.",
+      "author_str": "Vineeth Sai Narajala, Om Narayan",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "5870172dd4ebf88e7f65ef0f12f7ae3801124e71",
+      "title": "Toward Edge General Intelligence With Agentic AI and Agentification: Concepts, Technologies, and Future Directions",
+      "year": 2025,
+      "citationCount": 30,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2508.18725, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2266463634",
+          "name": "Ruichen Zhang"
+        },
+        {
+          "authorId": "2238141792",
+          "name": "Guangyuan Liu"
+        },
+        {
+          "authorId": "2237948862",
+          "name": "Yinqiu Liu"
+        },
+        {
+          "authorId": "2284937386",
+          "name": "Changyuan Zhao"
+        },
+        {
+          "authorId": "2229328382",
+          "name": "Jiacheng Wang"
+        },
+        {
+          "authorId": "13849879",
+          "name": "Yunting Xu"
+        },
+        {
+          "authorId": "2340230621",
+          "name": "Dusit Niyato"
+        },
+        {
+          "authorId": "2261731446",
+          "name": "Jiawen Kang"
+        },
+        {
+          "authorId": "2218907795",
+          "name": "Yonghui Li"
+        },
+        {
+          "authorId": "2237802924",
+          "name": "Shiwen Mao"
+        },
+        {
+          "authorId": "2280290356",
+          "name": "Sumei Sun"
+        },
+        {
+          "authorId": "2256129286",
+          "name": "Xuemin Shen"
+        },
+        {
+          "authorId": "2228302663",
+          "name": "Dong In Kim"
+        }
+      ],
+      "abstract": "The rapid expansion of sixth-generation (6G) wireless networks and the Internet of Things (IoT) has catalyzed the evolution from centralized cloud intelligence towards decentralized edge general intelligence. However, traditional edge intelligence methods, characterized by static models and limited cognitive autonomy, fail to address the dynamic, heterogeneous, and resource-constrained scenarios inherent to emerging edge networks. Agentic artificial intelligence (Agentic AI) emerges as a transformative solution, enabling edge systems to autonomously perceive multi-modal environments, reason contextually, and adapt proactively through continuous perception–reasoning–action loops. In this context, the agentification of edge intelligence serves as a key paradigm shift, where distributed entities evolve into autonomous agents capable of collaboration and continual adaptation. This paper presents a comprehensive survey dedicated to Agentic AI and agentification frameworks tailored explicitly for edge general intelligence. First, we systematically introduce foundational concepts and clarify distinctions from traditional edge intelligence paradigms. Second, we analyze important enabling technologies, including compact model compression, energy-aware computing strategies, robust connectivity frameworks, and advanced knowledge representation and reasoning mechanisms. Third, we provide representative case studies demonstrating Agentic AI’s capabilities in low-altitude economy networks, intent-driven networking, vehicular networks, and human-centric service provisioning, supported by numerical evaluations. Furthermore, we identify current research challenges, review emerging open-source platforms, and highlight promising future research directions to guide robust, scalable, and trustworthy Agentic AI deployments for next-generation edge environments.",
+      "author_str": "Ruichen Zhang, Guangyuan Liu, Yinqiu Liu",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "d832ca63cde1fad28da68805272468e2ab3cdb36",
+      "title": "Toward Agentic AI: Generative Information Retrieval Inspired Intelligent Communications and Networking",
+      "year": 2025,
+      "citationCount": 34,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2502.16866, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2266463634",
+          "name": "Ruichen Zhang"
+        },
+        {
+          "authorId": "2294324317",
+          "name": "Shunpu Tang"
+        },
+        {
+          "authorId": "2237948862",
+          "name": "Yinqiu Liu"
+        },
+        {
+          "authorId": "2340230621",
+          "name": "Dusit Niyato"
+        },
+        {
+          "authorId": "2943819",
+          "name": "Zehui Xiong"
+        },
+        {
+          "authorId": "2280290356",
+          "name": "Sumei Sun"
+        },
+        {
+          "authorId": "2237802924",
+          "name": "Shiwen Mao"
+        },
+        {
+          "authorId": "2264568786",
+          "name": "Zhu Han"
+        }
+      ],
+      "abstract": "The increasing complexity and scale of modern telecommunications networks demand intelligent automation to enhance efficiency, adaptability, and resilience. Agentic AI has emerged as a pivotal paradigm for intelligent networking, enabling AI-driven agents to perceive, reason, and act within dynamic environments. Effective decision-making in telecom applications, such as planning and resource management, requires integrating retrieval mechanisms that support multi-hop reasoning and compliance with evolving 3GPP standards. This article presents a forward-looking perspective on generative information retrieval-inspired communications and networking, highlighting the role of knowledge acquisition and reasoning in agentic AI. We first review retrieval strategies, including traditional, hybrid, semantic, knowledge-based, and agentic contextual retrieval, and analyze their applicability in telecom scenarios. We then survey their use in communication systems, followed by the introduction of an agentic contextual retrieval framework that enhances telecom-specific planning through multi-source retrieval, structured reasoning, and self-reflective validation. Experimental results show that our approach improves answer accuracy, explanation consistency, and retrieval efficiency over baseline methods. Finally, we outline future research directions.",
+      "author_str": "Ruichen Zhang, Shunpu Tang, Yinqiu Liu",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "6f44c2f0aae174ae649424a49f6b55f4854ae9b5",
+      "title": "Generative AI and LLMs for Critical Infrastructure Protection: Evaluation Benchmarks, Agentic AI, Challenges, and Opportunities",
+      "year": 2025,
+      "citationCount": 37,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11944634, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "121230733",
+          "name": "Yagmur Yigit"
+        },
+        {
+          "authorId": "2864573",
+          "name": "M. Ferrag"
+        },
+        {
+          "authorId": "2319606229",
+          "name": "M. C. Ghanem"
+        },
+        {
+          "authorId": "2152709372",
+          "name": "Iqbal H. Sarker"
+        },
+        {
+          "authorId": "2140688864",
+          "name": "Leandros A. Maglaras"
+        },
+        {
+          "authorId": "2254272150",
+          "name": "Christos Chrysoulas"
+        },
+        {
+          "authorId": "2224481",
+          "name": "Naghmeh Moradpoor"
+        },
+        {
+          "authorId": "2283303502",
+          "name": "N. Tihanyi"
+        },
+        {
+          "authorId": "2260340101",
+          "name": "Helge Janicke"
+        }
+      ],
+      "abstract": "Critical National Infrastructures (CNIs)—including energy grids, water systems, transportation networks, and communication frameworks—are essential to modern society yet face escalating cybersecurity threats. This review paper comprehensively analyzes AI-driven approaches for Critical Infrastructure Protection (CIP). We begin by examining the reliability of CNIs and introduce established benchmarks for evaluating Large Language Models (LLMs) within cybersecurity contexts. Next, we explore core cybersecurity issues, focusing on trust, privacy, resilience, and securability in these vital systems. Building on this foundation, we assess the role of Generative AI and LLMs in enhancing CIP and present insights on applying Agentic AI for proactive defense mechanisms. Finally, we outline future directions to guide the integration of advanced AI methodologies into protecting critical infrastructures. Our paper provides a strategic roadmap for researchers and practitioners committed to fortifying national infrastructures against emerging cyber threats through this synthesis of current challenges, benchmarking strategies, and innovative AI applications.",
+      "author_str": "Yagmur Yigit, M. Ferrag, M. C. Ghanem",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "7b2b7abae8b442b45fde22f3dbebd62d8057820e",
+      "title": "Agentic AI: a comprehensive survey of architectures, applications, and future directions",
+      "year": 2025,
+      "citationCount": 28,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2510.25445, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2278387860",
+          "name": "Mohamad Abou Ali"
+        },
+        {
+          "authorId": "2335915489",
+          "name": "F. Dornaika"
+        }
+      ],
+      "abstract": "Agentic AI represents a transformative shift in artificial intelligence, but its rapid advancement has led to a fragmented understanding, often conflating modern neural systems with outdated symbolic models—a practice known as conceptual retrofitting. This survey cuts through this confusion by introducing a novel dual-paradigm framework that categorizes agentic systems into two distinct lineages: the symbolic/classical (relying on algorithmic planning and persistent state) and the neural/generative (leveraging stochastic generation and prompt-driven orchestration). Through a systematic PRISMA-based review of 90 studies (2018–2025), we provide a comprehensive analysis structured around this framework across three dimensions: (1) the theoretical foundations and architectural principles defining each paradigm; (2) domain-specific implementations in healthcare, finance, and robotics, demonstrating how application constraints dictate paradigm selection; and (3) paradigm-specific ethical and governance challenges, revealing divergent risks and mitigation strategies. Our analysis reveals that the choice of paradigm is strategic: symbolic systems dominate safety-critical domains (e.g., healthcare), while neural systems prevail in adaptive, data-rich environments (e.g., finance). Furthermore, we identify critical research gaps, including a significant deficit in governance models for symbolic systems and a pressing need for hybrid neuro-symbolic architectures. The findings culminate in a strategic roadmap arguing that the future of Agentic AI lies not in the dominance of one paradigm, but in their intentional integration to create systems that are both adaptable and reliable. This work provides the essential conceptual toolkit to guide future research, development, and policy toward robust and trustworthy hybrid intelligent systems.",
+      "author_str": "Mohamad Abou Ali, F. Dornaika",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "b564e05750a42e36508ee6f896afb6f34e591585",
+      "title": "AI Agents and Agentic AI-Navigating a Plethora of Concepts for Future Manufacturing",
+      "year": 2025,
+      "citationCount": 18,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2507.01376, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2261908034",
+          "name": "Yinwang Ren"
+        },
+        {
+          "authorId": "2373549140",
+          "name": "Yangyang Liu"
+        },
+        {
+          "authorId": "2248058586",
+          "name": "Tang Ji"
+        },
+        {
+          "authorId": "2326517066",
+          "name": "Xun Xu"
+        }
+      ],
+      "abstract": "AI agents are autonomous systems designed to perceive, reason, and act within dynamic environments. With the rapid advancements in generative AI (GenAI), large language models (LLMs) and multimodal large language models (MLLMs) have significantly improved AI agents'capabilities in semantic comprehension, complex reasoning, and autonomous decision-making. At the same time, the rise of Agentic AI highlights adaptability and goal-directed autonomy in dynamic and complex environments. LLMs-based AI Agents (LLM-Agents), MLLMs-based AI Agents (MLLM-Agents), and Agentic AI contribute to expanding AI's capabilities in information processing, environmental perception, and autonomous decision-making, opening new avenues for smart manufacturing. However, the definitions, capability boundaries, and practical applications of these emerging AI paradigms in smart manufacturing remain unclear. To address this gap, this study systematically reviews the evolution of AI and AI agent technologies, examines the core concepts and technological advancements of LLM-Agents, MLLM-Agents, and Agentic AI, and explores their potential applications in and integration into manufacturing, along with the potential challenges they may face.",
+      "author_str": "Yinwang Ren, Yangyang Liu, Tang Ji",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "e625a1551bd4f8a8535ef31d98ccb77292a94e07",
+      "title": "Agentic AI Frameworks in SMMEs: A Systematic Literature Review of Ecosystemic Interconnected Agents",
+      "year": 2025,
+      "citationCount": 17,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/ai6060123?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/ai6060123, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2199087069",
+          "name": "Peter Adebowale Olujimi"
+        },
+        {
+          "authorId": "21504196",
+          "name": "P. Owolawi"
+        },
+        {
+          "authorId": "9313103",
+          "name": "R. Mogase"
+        },
+        {
+          "authorId": "2325346668",
+          "name": "E. V. Wyk"
+        }
+      ],
+      "abstract": "This study examines the application of agentic artificial intelligence (AI) frameworks within small, medium, and micro-enterprises (SMMEs), highlighting how interconnected autonomous agents improve operational efficiency and adaptability. Using the PRISMA 2020 framework, this study systematically identified, screened, and analyzed 66 studies, including peer-reviewed and credible gray literature, published between 2019 and 2024, to assess agentic AI frameworks in SMMEs. Recognizing the constraints faced by SMMEs, such as limited scalability, high operational demands, and restricted access to advanced technologies, the review synthesizes existing research to highlight the characteristics, implementations, and impacts of agentic AI in task automation, decision-making, and ecosystem-wide collaboration. The results demonstrate the potential of agentic AI to address technological, ethical, and infrastructure barriers while promoting innovation, scalability, and competitiveness. This review contributes to the understanding of agentic AI frameworks by offering practical insights and setting the groundwork for further research into their applications in SMMEs’ dynamic and resource-constrained economic environments.",
+      "author_str": "Peter Adebowale Olujimi, P. Owolawi, R. Mogase",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "4740a5403d308fea74f7d4f9667d07acacc19190",
+      "title": "Agentic AI Frameworks: Architectures, Protocols, and Design Challenges",
+      "year": 2025,
+      "citationCount": 17,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2508.10146, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2375903740",
+          "name": "Hana Derouiche"
+        },
+        {
+          "authorId": "35167485",
+          "name": "Zaki Brahmi"
+        },
+        {
+          "authorId": "2375903828",
+          "name": "Haithem Mazeni"
+        }
+      ],
+      "abstract": "The emergence of Large Language Models (LLMs) has ushered in a transformative paradigm in artificial intelligence, Agentic AI, where intelligent agents exhibit goal-directed autonomy, contextual reasoning, and dynamic multi-agent coordination. This paper provides a systematic review and comparative analysis of leading Agentic AI frameworks, including CrewAI, LangGraph, AutoGen, Semantic Kernel, Agno, Google ADK, and MetaGPT, evaluating their architectural principles, communication mechanisms, memory management, safety guardrails, and alignment with service-oriented computing paradigms. Furthermore, we identify key limitations, emerging trends, and open challenges in the field. To address the issue of agent communication, we conduct an in-depth analysis of protocols such as the Contract Net Protocol (CNP), Agent-to-Agent (A2A), Agent Network Protocol (ANP), and Agora. Our findings not only establish a foundational taxonomy for Agentic AI systems but also propose future research directions to enhance scalability, robustness, and interoperability. This work serves as a comprehensive reference for researchers and practitioners working to advance the next generation of autonomous AI systems.",
+      "author_str": "Hana Derouiche, Zaki Brahmi, Haithem Mazeni",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "bc1f78f625f0561dfb78a73ac963b19700bdf186",
+      "title": "Agentic AI: Autonomy, Accountability, and the Algorithmic Society",
+      "year": 2025,
+      "citationCount": 21,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2502.00289, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2112286081",
+          "name": "Anirban Mukherjee"
+        },
+        {
+          "authorId": "2291204653",
+          "name": "H. Chang"
+        }
+      ],
+      "abstract": "Agentic Artificial Intelligence (AI) can autonomously pursue long-term goals, make decisions, and execute complex, multi-turn workflows. Unlike traditional generative AI, which responds reactively to prompts, agentic AI proactively orchestrates processes, such as autonomously managing complex tasks or making real-time decisions. This transition from advisory roles to proactive execution challenges established legal, economic, and creative frameworks. In this paper, we explore challenges in three interrelated domains: creativity and intellectual property, legal and ethical considerations, and competitive effects. Central to our analysis is the tension between novelty and usefulness in AI-generated creative outputs, as well as the intellectual property and authorship challenges arising from AI autonomy. We highlight gaps in responsibility attribution and liability that create a\"moral crumple zone\"--a condition where accountability is diffused across multiple actors, leaving end-users and developers in precarious legal and ethical positions. We examine the competitive dynamics of two-sided algorithmic markets, where both sellers and buyers deploy AI agents, potentially mitigating or amplifying tacit collusion risks. We explore the potential for emergent self-regulation within networks of agentic AI--the development of an\"algorithmic society\"--raising critical questions: To what extent would these norms align with societal values? What unintended consequences might arise? How can transparency and accountability be ensured? Addressing these challenges will necessitate interdisciplinary collaboration to redefine legal accountability, align AI-driven choices with stakeholder values, and maintain ethical safeguards. We advocate for frameworks that balance autonomy with accountability, ensuring all parties can harness agentic AI's potential while preserving trust, fairness,&societal welfare.",
+      "author_str": "Anirban Mukherjee, H. Chang",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "8602323b33c5f1fa91d414f4f8b8ffd457d4f403",
+      "title": "Agentic AI Needs a Systems Theory",
+      "year": 2025,
+      "citationCount": 25,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2503.00237, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2278648904",
+          "name": "Erik Miehling"
+        },
+        {
+          "authorId": "1704263",
+          "name": "K. Ramamurthy"
+        },
+        {
+          "authorId": "1712865",
+          "name": "Kush R. Varshney"
+        },
+        {
+          "authorId": "2305480521",
+          "name": "Matthew Riemer"
+        },
+        {
+          "authorId": "1744675",
+          "name": "Djallel Bouneffouf"
+        },
+        {
+          "authorId": "2293175443",
+          "name": "John T. Richards"
+        },
+        {
+          "authorId": "2284688108",
+          "name": "Amit Dhurandhar"
+        },
+        {
+          "authorId": "2253674008",
+          "name": "Elizabeth M. Daly"
+        },
+        {
+          "authorId": "2250756281",
+          "name": "Michael Hind"
+        },
+        {
+          "authorId": "1706272",
+          "name": "P. Sattigeri"
+        },
+        {
+          "authorId": "2284672429",
+          "name": "Dennis Wei"
+        },
+        {
+          "authorId": "22261698",
+          "name": "Ambrish Rawat"
+        },
+        {
+          "authorId": "2146256661",
+          "name": "Jasmina Gajcin"
+        },
+        {
+          "authorId": "2310240347",
+          "name": "Werner Geyer"
+        }
+      ],
+      "abstract": "The endowment of AI with reasoning capabilities and some degree of agency is widely viewed as a path toward more capable and generalizable systems. Our position is that the current development of agentic AI requires a more holistic, systems-theoretic perspective in order to fully understand their capabilities and mitigate any emergent risks. The primary motivation for our position is that AI development is currently overly focused on individual model capabilities, often ignoring broader emergent behavior, leading to a significant underestimation in the true capabilities and associated risks of agentic AI. We describe some fundamental mechanisms by which advanced capabilities can emerge from (comparably simpler) agents simply due to their interaction with the environment and other agents. Informed by an extensive amount of existing literature from various fields, we outline mechanisms for enhanced agent cognition, emergent causal reasoning ability, and metacognitive awareness. We conclude by presenting some key open challenges and guidance for the development of agentic AI. We emphasize that a systems-level perspective is essential for better understanding, and purposefully shaping, agentic AI systems.",
+      "author_str": "Erik Miehling, K. Ramamurthy, Kush R. Varshney",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "bb10ee1cf6d645ad74b9b35bb916086e6b3e340c",
+      "title": "Agentic AI: A Comprehensive Survey of Technologies, Applications, and Societal Implications",
+      "year": 2025,
+      "citationCount": 23,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ACCESS.2025.3585609?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ACCESS.2025.3585609, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2337119039",
+          "name": "Ashis Kumar Pati"
+        }
+      ],
+      "abstract": "Agentic AI brings a new level of advancement in artificial intelligence (AI), as it is capable of goal-directed behaviour, dynamic adaptation, and self-improvement. It influences various significant fields, such as robotics, healthcare, autonomous vehicles, and labor automation. This paper explores the defining features of agentic AI, highlights its differences from traditional AI, and discusses how autonomy, memory, goal-directed behavior, and adaptive reasoning contribute to increasingly general capabilities. Rather than proposing a new architecture, we offer a conceptual analysis of the trajectory from current agentic frameworks to future agentic AI systems. Examining applications in significant fields, including precision medicine, industrial robotics, and self-driving technologies, and discussing societal impacts, particularly concerning workforce disruption, augmentation, and ethical issues arising from agentic AI systems. The paper identifies key research directions for ensuring beneficial and controllable agentic AI development. This work serves as a primary source for exploring agentic AI by compiling existing research and identifying open questions.",
+      "author_str": "Ashis Kumar Pati",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "742e0c3a2b10fce644f6e5ac0fe17ebd8f9cbae7",
+      "title": "Retail Resilience Engine: An Agentic AI Framework for Building Reliable Retail Systems With Test-Driven Development Approach",
+      "year": 2025,
+      "citationCount": 16,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.1109/access.2025.3552592",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ACCESS.2025.3552592?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ACCESS.2025.3552592, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2130822619",
+          "name": "L. Mishra"
+        },
+        {
+          "authorId": "2218629739",
+          "name": "Biswaranjan Senapati"
+        }
+      ],
+      "abstract": "System reliability and operational resilience are two critical success factors in the retail industry that are directly connected to customer satisfaction and business sustainability. Staying competitive in today’s dynamic and rapidly evolving market requires rapid adaptability. However, it contradicts the reliability and resilience. This paper proposes an innovative solution, the Retail Resilience Engine (RRE), to establish a balance between these success factors and market demand. It is a unique framework that combines Test-Driven Development (TDD) with a Large Language Model (LLM). This framework follows the state-of-the-art Agentic-AI architecture. It effectively evaluates the decision-making process at rapid speed in retail by incorporating diverse factors, including inventory management, demand forecasting, and customer feedback. As a result, the system reliability is improved significantly. The experimental analysis of the proposed framework shows its decision-making is similar to human experts with a similarity index of 97.5%. It further proves the reliability of the system. The framework also scales effectively, maintaining high accuracy, precision, recall, and F1 scores across varying dataset sizes. The robustness analysis of the system demonstrates the agility enhancement across diverse retail domains, ensuring consistent performance with accuracy exceeding 90% across all tested scenarios. The integration of a creative filtering mechanism further enhances the performance of the RRE framework by preventing 98.2% of the irrelevant inputs. Overall, the proposed RRE framework demonstrates the impressive potential to transform retail systems by enhancing reliability, scalability, and decision-making quality through an Agentic-AI approach.",
+      "author_str": "L. Mishra, Biswaranjan Senapati",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "f7b0c4395050abef4cd04bec8eef2128e564ebe5",
+      "title": "Towards a HIPAA Compliant Agentic AI System in Healthcare",
+      "year": 2025,
+      "citationCount": 17,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2504.17669, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2175998538",
+          "name": "Subash Neupane"
+        },
+        {
+          "authorId": "2150699855",
+          "name": "Shaswata Mitra"
+        },
+        {
+          "authorId": "2284767922",
+          "name": "Sudip Mittal"
+        },
+        {
+          "authorId": "2066329536",
+          "name": "Shahram Rahimi"
+        }
+      ],
+      "abstract": "Agentic AI systems powered by Large Language Models (LLMs) as their foundational reasoning engine, are transforming clinical workflows such as medical report generation and clinical summarization by autonomously analyzing sensitive healthcare data and executing decisions with minimal human oversight. However, their adoption demands strict compliance with regulatory frameworks such as Health Insurance Portability and Accountability Act (HIPAA), particularly when handling Protected Health Information (PHI). This work-in-progress paper introduces a HIPAA-compliant Agentic AI framework that enforces regulatory compliance through dynamic, context-aware policy enforcement. Our framework integrates three core mechanisms: (1) Attribute-Based Access Control (ABAC) for granular PHI governance, (2) a hybrid PHI sanitization pipeline combining regex patterns and BERT-based model to minimize leakage, and (3) immutable audit trails for compliance verification.",
+      "author_str": "Subash Neupane, Shaswata Mitra, Sudip Mittal",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "9c696bc89703058b0a795ec581cd5f93b89ee07f",
+      "title": "UAVs Meet Agentic AI: A Multidomain Survey of Autonomous Aerial Intelligence and Agentic UAVs",
+      "year": 2025,
+      "citationCount": 19,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2506.08045, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2240132532",
+          "name": "Ranjan Sapkota"
+        },
+        {
+          "authorId": "2090274411",
+          "name": "Konstantinos I. Roumeliotis"
+        },
+        {
+          "authorId": "2301347633",
+          "name": "Manoj Karkee"
+        }
+      ],
+      "abstract": "Agentic UAVs represent a new frontier in autonomous aerial intelligence, integrating perception, decision-making, memory, and collaborative planning to operate adaptively in complex, real-world environments. Driven by recent advances in Agentic AI, these systems surpass traditional UAVs by exhibiting goal-driven behavior, contextual reasoning, and interactive autonomy. We provide a comprehensive foundation for understanding the architectural components and enabling technologies that distinguish Agentic UAVs from traditional autonomous UAVs. Furthermore, a detailed comparative analysis highlights advancements in autonomy with AI agents, learning, and mission flexibility. This study explores seven high-impact application domains precision agriculture, construction&mining, disaster response, environmental monitoring, infrastructure inspection, logistics, security, and wildlife conservation, illustrating the broad societal value of agentic aerial intelligence. Furthermore, we identify key challenges in technical constraints, regulatory limitations, and data-model reliability, and we present emerging solutions across hardware innovation, learning architectures, and human-AI interaction. Finally, a future roadmap is proposed, outlining pathways toward self-evolving aerial ecosystems, system-level collaboration, and sustainable, equitable deployments. This survey establishes a foundational framework for the future development, deployment, and governance of agentic aerial systems (Agentic UAVs) across diverse societal and industrial domains.",
+      "author_str": "Ranjan Sapkota, Konstantinos I. Roumeliotis, Manoj Karkee",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "7d013910cc2895bff13536fdba3f2370fb738332",
+      "title": "SustAI-SCM: Intelligent Supply Chain Process Automation with Agentic AI for Sustainability and Cost Efficiency",
+      "year": 2025,
+      "citationCount": 25,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.3390/su17062453",
+        "status": "GOLD",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/su17062453?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/su17062453, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "30956542",
+          "name": "Batin Latif Aylak"
+        }
+      ],
+      "abstract": "Sustainable supply chain management (SCM) demands efficiency while minimizing environmental impact, yet conventional automation lacks adaptability. This paper presents SustAI-SCM, an AI-powered framework integrating agentic intelligence to automate supply chain tasks with sustainability in focus. Unlike static rule-based systems, it leverages a transformer model that continuously learns from operations, refining procurement, logistics, and inventory decisions. A diverse dataset comprising procurement records, logistics data, and carbon footprint metrics trains the model, enabling dynamic adjustments. The experimental results show a 28.4% cost reduction, 30.3% lower emissions, and 21.8% improved warehouse efficiency. While computational overhead and real-time adaptability pose challenges, future enhancements will focus on energy-efficient AI, continuous learning, and explainable decision making. The framework advances sustainable automation, balancing operational optimization with environmental responsibility.",
+      "author_str": "Batin Latif Aylak",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "abe45d3c3d4d05c72ef9a47ba0629fa669721a4d",
+      "title": "From prompt to platform: an agentic AI workflow for healthcare simulation scenario design",
+      "year": 2025,
+      "citationCount": 22,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC12085049, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "12051520",
+          "name": "F. L. Barra"
+        },
+        {
+          "authorId": "2333282014",
+          "name": "Giovanna Rodella"
+        },
+        {
+          "authorId": "2333420236",
+          "name": "Alessandro Costa"
+        },
+        {
+          "authorId": "2181178883",
+          "name": "A. Scalogna"
+        },
+        {
+          "authorId": "6029246",
+          "name": "L. Carenzo"
+        },
+        {
+          "authorId": "2311051498",
+          "name": "A. Monzani"
+        },
+        {
+          "authorId": "2243040315",
+          "name": "F. D. Corte"
+        }
+      ],
+      "abstract": "Healthcare simulation scenario design remains a resource-intensive process, demanding significant time and expertise from educators. This article presents an innovative AI-driven agentic workflow for healthcare simulation scenario development, bridging technical capability with pedagogical effectiveness. The system evolved from an initial ChatGPT-based prototype to a sophisticated platform implementation utilizing multiple specialized AI agents. Each agent addresses specific sub-tasks, including objective formulation, patient narrative generation, diagnostic data creation, and debriefing point development. The workflow employs advanced AI methodologies including decomposition, prompt chaining, parallelization, retrieval-augmented generation, and iterative refinement, all orchestrated through a user-friendly conversational interface. Critical to implementation was the demonstration that healthcare professionals with modest technical skills could develop these complex workflows without specialized AI expertise. The system ensures consistent adherence to established simulation guidelines, including INACSL Standards of Best Practice and ASPiH Standards Framework, while significantly reducing scenario development time by approximately 70–80%. Designed for broad applicability across diverse clinical settings and learner levels, the workflow incorporates multilingual capabilities for global application. Potential pitfalls include the necessity for rigorous review of AI-generated content and awareness of bias in model outputs. Key lessons learned emphasize interdisciplinary collaboration, systematic prompt refinement, essential human oversight, and the democratization of AI tools in healthcare education. This innovation demonstrates how sophisticated agentic AI implementations can transform healthcare simulation through enhanced efficiency, consistency, and accessibility without sacrificing pedagogical integrity.",
+      "author_str": "F. L. Barra, Giovanna Rodella, Alessandro Costa",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "53b23b549620b9653899d1e9bf017b99dd6af9b2",
+      "title": "Agentic AI Systems in Organ Health Management: Early Detection of Rejection in Transplant Patients",
+      "year": 2025,
+      "citationCount": 15,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.52783/jns.v14.1823",
+        "status": "GOLD",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.52783/jns.v14.1823?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.52783/jns.v14.1823, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2349009706",
+          "name": "Sambasiva Rao Suura"
+        }
+      ],
+      "abstract": "The purpose of this essay is to examine the integration of agentic artificial intelligence (AI) systems in the management of organ health. Aspects of this analysis include the importance of custom software design and the diagnostic abilities of these systems, as well as the potential for creating an AI system that promotes a symbiotic doctor-AI-patient relationship. Although discussions are generally theoretical, examples will be used from ongoing research focusing on the early detection of rejection in patients with heart transplants, with these patients referred to as X-patients throughout this essay. Organ transplantations allow patients who would have otherwise perished to continue living, but make their immune systems suppress in order to preserve the alien tissues. This non-standard immune state puts them at risk for other diseases, which is why monitoring their health carefully is crucial. However, due to living an active life after recovery, X-patients may occasionally engage in risky behaviors without sufficient regard for their health. In consequence, they are not supposed to discontinue undergoing medical examinations after the end of the postoperative recovery period. The custom-designed smart system integrates multiple AI applications to facilitate the convenient monitoring of X-patient organ health throughout the day by providing them with continuously updated personalized feedback based on the patient’s current state and causes of concern. By creating and maintaining this system, the wellbeing of X-patients is easily safeguarded while reducing the volume of work for the overburdened entourage of these patients. \nIn the first part of this comparative analysis, the early detection of rejection in X-patient heart transplants will be examined. Research pursuing this analysis has led to the design and disconnected self-usage of two different custom smart AI systems. While one is entirely self-contained with no direct patient-AI doctor interaction, the other involves diagnostic responses from the AI. There will be a focus on factors causing symptoms to arise, the internal or external sources these symptoms arise from, and why potential warning signs must be attributed to heart rejection. This last issue has fostered the need for ongoing image recognition-based research, and the observational or perceived difference in symptom effect will be reflected in the intelligent AI system’s feedback. The larger portion of this text will focus on the later-designed AI system due to possessing a greater degree of development. However, before examining the feedback, necessary information required for the understanding of the AI functioning and entourage approach must be presented.",
+      "author_str": "Sambasiva Rao Suura",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "ca1456447e008a20dba1604b5ccdd74240c07fd6",
+      "title": "Human-Artificial Interaction in the Age of Agentic AI: A System-Theoretical Approach",
+      "year": 2025,
+      "citationCount": 54,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.3389/fhumd.2025.1579166",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2502.14000, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2067217778",
+          "name": "Uwe M. Borghoff"
+        },
+        {
+          "authorId": "1781927",
+          "name": "Paolo Bottoni"
+        },
+        {
+          "authorId": "2617531",
+          "name": "R. Pareschi"
+        }
+      ],
+      "abstract": "This paper presents a novel perspective on human-computer interaction (HCI), framing it as a dynamic interplay between human and computational agents within a networked system. Going beyond traditional interface-based approaches, we emphasize the importance of coordination and communication among heterogeneous agents with different capabilities, roles, and goals. The paper distinguishes between Multi-Agent Systems (MAS)—where agents maintain autonomy through structured cooperation—and Centaurian systems, which integrate human and AI capabilities for unified decision making. To formalize these interactions, we introduce a framework for communication spaces, structured into surface, observation, and computation layers, ensuring seamless integration between MAS and Centaurian architectures, where colored Petri nets effectively represent structured Centaurian systems and high-level reconfigurable networks address the dynamic nature of MAS. We recognize that elements such as task recommendation, feedback loops, and natural language interfaces are common in contemporary adaptive HCI. What distinguishes our framework is not the introduction of these elements per se, but the synthesis of architectural principles that systematically accommodate both autonomy-preserving and integration-seeking configurations within a shared formal foundation. Our research has practical applications in autonomous robotics, human-in-the-loop decision making, and AI-driven cognitive architectures, and provides a foundation for next-generation hybrid intelligence systems that balance structured coordination with emergent behavior.",
+      "author_str": "Uwe M. Borghoff, Paolo Bottoni, R. Pareschi",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "9b2e51a7a5ed9fd9ec7c74882f367a925d6da3ba",
+      "title": "Agentic AI Security: Threats, Defenses, Evaluation, and Open Challenges",
+      "year": 2025,
+      "citationCount": 12,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2510.23883, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "152593835",
+          "name": "Anshuman Chhabra"
+        },
+        {
+          "authorId": "2265582113",
+          "name": "Shrestha Datta"
+        },
+        {
+          "authorId": "2317843335",
+          "name": "Shahriar Kabir Nahin"
+        },
+        {
+          "authorId": "2240549822",
+          "name": "Prasant Mohapatra"
+        }
+      ],
+      "abstract": "Agentic AI systems powered by Large Language Models (LLMs) and endowed with planning, tool use, memory, and autonomy are emerging as powerful and flexible platforms for automation. Their ability to autonomously execute tasks across web, software, and physical environments creates new and amplified security risks, distinct from both traditional AI safety and conventional software security. This survey outlines a taxonomy of threats specific to agentic AI, reviews recent benchmarks and evaluation methodologies, and discusses defense strategies from both technical and governance perspectives. We synthesize current research and highlight open challenges, aiming to support the development of secure-by-design agent systems.",
+      "author_str": "Anshuman Chhabra, Shrestha Datta, Shahriar Kabir Nahin",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "11ac1691fa7415da4f7727d74244c7d9b3ba6fce",
+      "title": "System of Agentic AI for the Discovery of Metal-Organic Frameworks",
+      "year": 2025,
+      "citationCount": 13,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2504.14110, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "1582929882",
+          "name": "Théo Jaffrelot Inizan"
+        },
+        {
+          "authorId": "2336548160",
+          "name": "Sherry Yang"
+        },
+        {
+          "authorId": "2249761880",
+          "name": "Aaron D. Kaplan"
+        },
+        {
+          "authorId": "2274717261",
+          "name": "Yen-hsu Lin"
+        },
+        {
+          "authorId": "2249872910",
+          "name": "Jian Yin"
+        },
+        {
+          "authorId": "2559824",
+          "name": "Saber Mirzaei"
+        },
+        {
+          "authorId": "2356547731",
+          "name": "Mona Abdelgaid"
+        },
+        {
+          "authorId": "95500833",
+          "name": "Ali H. Alawadhi"
+        },
+        {
+          "authorId": "2266886263",
+          "name": "KwangHwan Cho"
+        },
+        {
+          "authorId": "120964397",
+          "name": "Zhiling Zheng"
+        },
+        {
+          "authorId": "8132903",
+          "name": "E. D. Cubuk"
+        },
+        {
+          "authorId": "1721812",
+          "name": "C. Borgs"
+        },
+        {
+          "authorId": "1695997",
+          "name": "J. Chayes"
+        },
+        {
+          "authorId": "2356548663",
+          "name": "K. A. Persson"
+        },
+        {
+          "authorId": "2248367257",
+          "name": "O. Yaghi"
+        }
+      ],
+      "abstract": "Generative models and machine learning promise accelerated material discovery in MOFs for CO2 capture and water harvesting but face significant challenges navigating vast chemical spaces while ensuring synthetizability. Here, we present MOFGen, a system of Agentic AI comprising interconnected agents: a large language model that proposes novel MOF compositions, a diffusion model that generates crystal structures, quantum mechanical agents that optimize and filter candidates, and synthetic-feasibility agents guided by expert rules and machine learning. Trained on all experimentally reported MOFs and computational databases, MOFGen generated hundreds of thousands of novel MOF structures and synthesizable organic linkers. Our methodology was validated through high-throughput experiments and the successful synthesis of five\"AI-dreamt\"MOFs, representing a major step toward automated synthesizable material discovery.",
+      "author_str": "Théo Jaffrelot Inizan, Sherry Yang, Aaron D. Kaplan",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "543c141807e69f6613f29bcd820661945cc881d5",
+      "title": "Hallucination Mitigation using Agentic AI Natural Language-Based Frameworks",
+      "year": 2025,
+      "citationCount": 24,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2501.13946, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2295013568",
+          "name": "Diego Gosmar"
+        },
+        {
+          "authorId": "2313641923",
+          "name": "Deborah A. Dahl"
+        }
+      ],
+      "abstract": "Hallucinations remain a significant challenge in current Generative AI models, undermining trust in AI systems and their reliability. This study investigates how orchestrating multiple specialized Artificial Intelligent Agents can help mitigate such hallucinations, with a focus on systems leveraging Natural Language Processing (NLP) to facilitate seamless agent interactions. To achieve this, we design a pipeline that introduces over three hundred prompts, purposefully crafted to induce hallucinations, into a front-end agent. The outputs are then systematically reviewed and refined by second- and third-level agents, each employing distinct large language models and tailored strategies to detect unverified claims, incorporate explicit disclaimers, and clarify speculative content. Additionally, we introduce a set of novel Key Performance Indicators (KPIs) specifically designed to evaluate hallucination score levels. A dedicated fourth-level AI agent is employed to evaluate these KPIs, providing detailed assessments and ensuring accurate quantification of shifts in hallucination-related behaviors. A core component of this investigation is the use of the OVON (Open Voice Network) framework, which relies on universal NLP-based interfaces to transfer contextual information among agents. Through structured JSON messages, each agent communicates its assessment of the hallucination likelihood and the reasons underlying questionable content, thereby enabling the subsequent stage to refine the text without losing context. The results demonstrate that employing multiple specialized agents capable of interoperating with each other through NLP-based agentic frameworks can yield promising outcomes in hallucination mitigation, ultimately bolstering trust within the AI community.",
+      "author_str": "Diego Gosmar, Deborah A. Dahl",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "4508da52fe95d63034e5612e43ed179f5a7e9348",
+      "title": "Advanced Architectures Integrated with Agentic AI for Next-Generation Wireless Networks",
+      "year": 2025,
+      "citationCount": 18,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2502.01089, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "1845870613",
+          "name": "K. Dev"
+        },
+        {
+          "authorId": "10779576",
+          "name": "S. A. Khowaja"
+        },
+        {
+          "authorId": "2989469",
+          "name": "Engin Zeydan"
+        },
+        {
+          "authorId": "145118318",
+          "name": "M. Debbah"
+        }
+      ],
+      "abstract": "This paper investigates a range of cutting-edge technologies and architectural innovations aimed at simplifying network operations, reducing operational expenditure (OpEx), and enabling the deployment of new service models. The focus is on (i) Proposing novel, more efficient 6G architectures, with both Control and User planes enabling the seamless expansion of services, while addressing long-term 6G network evolution. (ii) Exploring advanced techniques for constrained artificial intelligence (AI) operations, particularly the design of AI agents for real-time learning, optimizing energy consumption, and the allocation of computational resources. (iii) Identifying technologies and architectures that support the orchestration of backend services using serverless computing models across multiple domains, particularly for vertical industries. (iv) Introducing optically-based, ultra-high-speed, low-latency network architectures, with fast optical switching and real-time control, replacing conventional electronic switching to reduce power consumption by an order of magnitude.",
+      "author_str": "K. Dev, S. A. Khowaja, Engin Zeydan",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "6dab4595e6beae6c33ae09ea2bb7057cc66763a9",
+      "title": "Agentic AI Software Engineers: Programming with Trust",
+      "year": 2025,
+      "citationCount": 15,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2502.13767, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "97501532",
+          "name": "Abhik Roychoudhury"
+        },
+        {
+          "authorId": "1723381",
+          "name": "C. Păsăreanu"
+        },
+        {
+          "authorId": "2260683361",
+          "name": "Michael Pradel"
+        },
+        {
+          "authorId": "2299940537",
+          "name": "Baishakhi Ray"
+        }
+      ],
+      "abstract": "How LLM agents present AI software engineering workflows of the future, and whether the focus of programming will shift from scale to trust.",
+      "author_str": "Abhik Roychoudhury, C. Păsăreanu, Michael Pradel",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "5e7b197de1f45e111a5daa57105560cb10140e4e",
+      "title": "Building Appropriate Mental Models: What Users Know and Want to Know about an Agentic AI Chatbot",
+      "year": 2025,
+      "citationCount": 14,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1145/3708359.3712071?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1145/3708359.3712071, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2072258741",
+          "name": "Michelle Brachman"
+        },
+        {
+          "authorId": "51296575",
+          "name": "Siya Kunde"
+        },
+        {
+          "authorId": "2110279265",
+          "name": "Sarah Miller"
+        },
+        {
+          "authorId": "2351152749",
+          "name": "Ana Fucs"
+        },
+        {
+          "authorId": "2056704613",
+          "name": "S. Dempsey"
+        },
+        {
+          "authorId": "2351151671",
+          "name": "Jamie Jabbour"
+        },
+        {
+          "authorId": "2159497973",
+          "name": "Werner Geyer"
+        }
+      ],
+      "abstract": "Agentic systems aim to handle complex problems with increasing system autonomy using generative AI. These new agentic systems are becoming more feasible and easier to build. Yet we know little about what end-users need to know to use these systems appropriately. We study one such agentic system, “Gent,” which can break down complex problems into a set of actions, provide a rationale for each action, interact with external information, and cite its sources. Our goals were to understand users’ mental models of the agentic system, the information users leveraged to evaluate the accuracy of the system, and users’ information needs. In our study (N=24), participants interacted with Gent for four information seeking tasks where they could see Gent’s actions, rationale, and sources. Participants’ mental models centered around the search-like qualities of the system, with their confidence impacted by the website sources. Participants’ mental models often lacked insight into the workings of the generative AI model and agentic framework that impact the actions the system takes. Participants used the descriptions of the system’s actions to support their evaluation of the accuracy of the system and wanted to know more about how the system got to its answers. Participants also relied on their own personal knowledge and the style or length of Gent’s responses to evaluate the accuracy. Our results highlight the need for further transparency in agentic AI systems to support end-users in evaluating system outputs and help them build effective mental models.",
+      "author_str": "Michelle Brachman, Siya Kunde, Sarah Miller",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "f571b998a35c0d2d04a41d4fb62feb77ca94fbd5",
+      "title": "Towards Embodied Agentic AI: Review and Classification of LLM- and VLM-Driven Robot Autonomy and Interaction",
+      "year": 2025,
+      "citationCount": 14,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2508.05294, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2158116979",
+          "name": "Sahar Salimpour"
+        },
+        {
+          "authorId": "2116847188",
+          "name": "Leijie Fu"
+        },
+        {
+          "authorId": "2183212247",
+          "name": "Farhad Keramat"
+        },
+        {
+          "authorId": "2159198",
+          "name": "L. Militano"
+        },
+        {
+          "authorId": "2719144",
+          "name": "G. T. Carughi"
+        },
+        {
+          "authorId": "2375137219",
+          "name": "Harry Edelman"
+        },
+        {
+          "authorId": "101277445",
+          "name": "J. P. Queralta"
+        }
+      ],
+      "abstract": "Foundation models, including large language models (LLMs) and vision-language models (VLMs), have recently enabled novel approaches to robot autonomy and human-robot interfaces. In parallel, vision-language-action models (VLAs) or large behavior models (LBMs) are increasing the dexterity and capabilities of robotic systems. This survey paper reviews works that advance agentic applications and architectures, including initial efforts with GPT-style interfaces and more complex systems where AI agents function as coordinators, planners, perception actors, or generalist interfaces. Such agentic architectures allow robots to reason over natural language instructions, invoke APIs, plan task sequences, or assist in operations and diagnostics. In addition to peer-reviewed research, due to the fast-evolving nature of the field, we highlight and include community-driven projects, ROS packages, and industrial frameworks that show emerging trends. We propose a taxonomy for classifying model integration approaches and present a comparative analysis of the role that agents play in different solutions in today's literature.",
+      "author_str": "Sahar Salimpour, Leijie Fu, Farhad Keramat",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "b4578b31671f32a11e47b0f4870b885f55900153",
+      "title": "Trustworthy agentic AI systems: a cross-layer review of architectures, threat models, and governance strategies for real-world deployment",
+      "year": 2025,
+      "citationCount": 12,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.12688/f1000research.169927.1?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.12688/f1000research.169927.1, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "1396687801",
+          "name": "Ibrahim Adabara"
+        },
+        {
+          "authorId": "2282326371",
+          "name": "Bashir Olaniyi Sadiq"
+        },
+        {
+          "authorId": "113330809",
+          "name": "Aliyu Nuhu Shuaibu"
+        },
+        {
+          "authorId": "2368882096",
+          "name": "Yale Ibrahim Danjuma"
+        },
+        {
+          "authorId": "70035427",
+          "name": "Venkateswarlu Maninti"
+        }
+      ],
+      "abstract": "Agentic Artificial Intelligence systems, characterized by autonomous reasoning, memory augmentation, and adaptive planning, are rapidly reshaping technological landscapes. Unlike traditional AI or large language models, agentic AI integrates decision-making with persistent execution, enabling complex interactions across dynamic environments. However, this evolution introduces novel security risks, governance challenges, and ethical considerations that current frameworks inadequately address. This survey provides a cross-layer review of agentic AI, encompassing architectural paradigms, threat taxonomies, and governance strategies. It consolidates findings from adjacent domains such as cybersecurity, AI safety, multi-agent coordination, and ethics, offering a holistic understanding of vulnerabilities and mitigation approaches. We integrate insights from recent advances in defense architectures and governance innovations, highlighting the limitations of static policies in addressing dynamically evolving threats. Real-world deployments from industrial automation to military and policy applications reveal both successful integrations and notable failures, underscoring the urgency of resilient oversight mechanisms. Furthermore, we identify critical research gaps in benchmarking, memory integrity, adversarial defense, and normative embedding, emphasizing the need for interdisciplinary collaboration to develop adaptive, accountable, and transparent systems. This review serves as a narrative synthesis rather than a systematic literature review, aiming to bridge technical, governance, and ethical perspectives. By integrating cross-disciplinary findings, it lays the foundation for future research on securing, aligning, and governing agentic AI in real-world contexts. Ultimately, this work calls for cooperative innovation to ensure that agentic AI evolves as a trustworthy, accountable, and beneficial technology.",
+      "author_str": "Ibrahim Adabara, Bashir Olaniyi Sadiq, Aliyu Nuhu Shuaibu",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "037b991dc58a1297cb89450c5708875f2e3019d0",
+      "title": "Wireless Agentic AI with Retrieval-Augmented Multimodal Semantic Perception",
+      "year": 2025,
+      "citationCount": 11,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2505.23275, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2238141792",
+          "name": "Guangyuan Liu"
+        },
+        {
+          "authorId": "2237948862",
+          "name": "Yinqiu Liu"
+        },
+        {
+          "authorId": "2266463634",
+          "name": "Ruichen Zhang"
+        },
+        {
+          "authorId": "2175043468",
+          "name": "Hongyang Du"
+        },
+        {
+          "authorId": "2340230621",
+          "name": "Dusit Niyato"
+        },
+        {
+          "authorId": "2943819",
+          "name": "Zehui Xiong"
+        },
+        {
+          "authorId": "2280290356",
+          "name": "Sumei Sun"
+        },
+        {
+          "authorId": "2237828911",
+          "name": "Abbas Jamalipour"
+        }
+      ],
+      "abstract": "The rapid growth of multimodal agentic AI and LLMs enables richer perception and decision making, yet bandwidth-limited multi-agent links hinder timely exchange of task-critical semantics. Existing approaches based on static compression or heuristic selection do not adapt to the receiver's current query or to contention on a shared channel, which leads to redundant transmission or missing task-critical details. We propose Retrieval-Augmented Multimodal Semantic Communication (RAMSemCom), a receiver-driven framework that iteratively retrieves only high-resolution image patches most relevant to the active task when the initial downsampled summary is insufficient. A centralized Deep Reinforcement Learning (DRL) scheduler at the roadside unit coordinates per-agent patch budgets and timing under shared bandwidth and round deadlines, using semantic relevance and channel state to orchestrate concurrent requests. Retrieved patches are overlaid via a spatial-awareness layout to preserve scene geometry without full-frame transfer. In a multi-vehicle urban driving case study, RAMSemCom achieves earlier task completion and better performance than strong non-learning and token-level baselines under identical bandwidth and latency budgets.",
+      "author_str": "Guangyuan Liu, Yinqiu Liu, Ruichen Zhang",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "42f60ac6a60f18d9542919b3ebda0c808656c60d",
+      "title": "Toward Agentic AI Networking in 6G: A Generative Foundation Model-as-Agent Approach",
+      "year": 2025,
+      "citationCount": 12,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/MCOM.001.2500005?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/MCOM.001.2500005, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2363504847",
+          "name": "Yong Xiao"
+        },
+        {
+          "authorId": "35367337",
+          "name": "Guangming Shi"
+        },
+        {
+          "authorId": "2351750645",
+          "name": "Ping Zhang"
+        }
+      ],
+      "abstract": "The promising potential of AI and network convergence in improving networking performance and enabling new service capabilities has recently attracted significant interest. Existing network AI solutions, while powerful, are mainly built based on the close-loop and passive learning framework, resulting in major limitations in autonomous solution finding and dynamic environmental adaptation. Agentic AI has recently been introduced as a promising solution to address the above limitations and pave the way for true, generally intelligent, and beneficial AI systems. The key idea is to create a networking ecosystem to support a diverse range of autonomous and embodied AI agents in fulfilling their goals. In this article, we focus on the novel challenges and requirements of agentic AI networking. We propose AgentNet, a novel framework for supporting interaction, collaborative learning, and knowledge transfer among AI agents. We introduce a general architectural framework of AgentNet and then propose a generative foundation model (GFM)-based implementation in which multiple GFM-as-agents have been created as an interactive knowledge-base to bootstrap the development of embodied AI agents according to different task requirements and environmental features. We consider two application scenarios, digital-twin-based industrial automation and metaverse-based infotainment system, to describe how to apply AgentNet for supporting efficient task-driven collaboration and interaction among AI agents.",
+      "author_str": "Yong Xiao, Guangming Shi, Ping Zhang",
+      "conclusion": "Unable to process at this time"
+    },
+    {
+      "paperId": "c852d7b6aaf30b24cdf6ff9d5ef204fce456c302",
+      "title": "Agentic AI in Education: State of the Art and Future Directions",
+      "year": 2025,
+      "citationCount": 12,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ACCESS.2025.3620473?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ACCESS.2025.3620473, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "144551272",
+          "name": "Georgios Kostopoulos"
+        },
+        {
+          "authorId": "2707203",
+          "name": "Vasileios Gkamas"
+        },
+        {
+          "authorId": "3134864",
+          "name": "Maria Rigou"
+        },
+        {
+          "authorId": "1697867",
+          "name": "S. Kotsiantis"
+        }
+      ],
+      "abstract": "Agentic AI systems are self-contained, goal-based entities designed to operate autonomously with little human intervention and dynamically respond to shifting contexts. This survey considers their transformative potential in education, ranging from intelligent tutoring systems and adaptive test-taking platforms to autonomous learning companions that can provide customized guidance and assistance. We provide an organized overview of the state of the field, classify existing and developing uses and assess their pedagogical worth, benefits and trade-offs. In the process, we also refer to such areas as learner motivation, equity, transparency and ethical concerns. This paper is a narrative synthesis of studies published between 2015 and 2025. Finally, we chart directions for future research and ethical implementation, highlighting how autonomous AI can reshape teaching, learning and educational spaces within the next several years.",
+      "author_str": "Georgios Kostopoulos, Vasileios Gkamas, Maria Rigou",
+      "conclusion": "Unable to process at this time"
+    }
+  ],
+  "contradictions": [
+    {
+      "theme": "Model Size Efficiency",
+      "paper_a": "Attention is All You Need",
+      "claim_a": "Larger models with more parameters achieve better performance",
+      "paper_b": "DistilBERT: Smaller Model Faster",
+      "claim_b": "Smaller distilled models can match performance with lower latency"
+    },
+    {
+      "theme": "Positional Encoding Methods",
+      "paper_a": "Attention is All You Need",
+      "claim_a": "Absolute positional encoding is sufficient",
+      "paper_b": "RoFormer",
+      "claim_b": "Relative positional encoding captures relationships better"
+    },
+    {
+      "theme": "Fine-tuning vs Few-shot",
+      "paper_a": "BERT: Pre-training",
+      "claim_a": "Task-specific fine-tuning is necessary",
+      "paper_b": "Language Models are Few-shot Learners",
+      "claim_b": "Large models can learn from prompts without fine-tuning"
+    }
+  ],
+  "report": "\n# Literature Review: Transformer Models\n\n## 1. Introduction & Methodological Trends\n\nThe field of Transformer-based neural networks has evolved significantly since the introduction of the Attention Mechanism in 2017. Key methodological trends include:\n\n- **Model Size Scaling**: Progressive increase from 110M (BERT) to 70B+ parameters (LLaMA, Claude)\n- **Architectural Innovations**: Addition of memory mechanisms, sparse attention, and positional encoding variants\n- **Training Paradigm Shifts**: From supervised fine-tuning to in-context learning and prompt-based approaches\n- **Efficiency Focus**: Knowledge distillation, quantization, and pruning to reduce computational costs\n\n## 2. Key Debates & Contradictions\n\n### Debate 1: Model Size vs Efficiency\n- **Position A**: Larger models inherently capture more knowledge (GPT-3, Claude)\n- **Position B**: Well-optimized smaller models can match performance with less compute (DistilBERT, MobileBERT)\n- **Resolution**: Both are valid depending on use case. Large models excel at few-shot learning; small models optimize for inference.\n\n### Debate 2: Fixed vs Learned Positional Encoding\n- **Position A**: Sinusoidal positional encoding captures relationship distances well\n- **Position B**: Learnable positional embeddings adapt to specific tasks\n- **Resolution**: Relative positional encodings (RoFormer, ALiBi) show superior generalization\n\n### Debate 3: Supervised Fine-tuning vs In-Context Learning\n- **Position A**: Task-specific fine-tuning is essential for performance (BERT era)\n- **Position B**: Large models can learn from context without updating parameters (GPT-3+)\n- **Resolution**: Scale is key. Larger models enable in-context learning; smaller models benefit from fine-tuning\n\n## 3. Research Gaps & Next Frontiers\n\n### Gap 1: Interpretability of Attention Distributions\n- **Current Status**: Limited understanding of which attention heads capture meaningful relationships\n- **Proposed Approach**: Systematic study of attention pattern specialization across layers and heads\n- **Impact**: Could lead to more efficient architectures through learned pruning\n\n### Gap 2: Efficiency-Performance Tradeoff\n- **Current Status**: No theoretical framework for optimal model-size-to-performance mapping\n- **Proposed Approach**: Systematic analysis across diverse tasks and compute budgets\n- **Impact**: Enable faster deployment on resource-constrained devices\n\n### Gap 3: Robustness to Distribution Shift\n- **Current Status**: Transformers are brittle to adversarial examples and out-of-distribution inputs\n- **Proposed Approach**: Incorporate uncertainty quantification and robust pretraining objectives\n- **Impact**: Enable deployment in safety-critical domains\n\n## 4. Limitations and Blind Spots (Critical Analysis)\n\nThe current consensus overlooks several important factors:\n\n1. **Environmental Impact**: Training and inference costs are rarely discussed relative to model scales\n2. **Data Quality Bias**: Heavy reliance on Web-scale data introduces demographic and cultural biases\n3. **Context Window Limitations**: Models struggle with truly long-range dependencies despite theoretical ability\n4. **Theoretical Understanding**: Lacking principled understanding of *why* attention works so well\n5. **Domain Generalization**: Strong performance on NLP doesn't guarantee success in other modalities\n\n## 5. Next Steps Research Proposal\n\n### Proposed Investigation: \"Adaptive Transformers for Resource-Constrained Environments\"\n\n**Research Question**: Can we develop a framework for automatically determining optimal Transformer configurations (size, depth, width) for a given compute budget and task?\n\n**Methodology**:\n1. Create a diverse benchmark of 50+ NLP and multimodal tasks\n2. Train Transformers with varying configurations using budget constraints\n3. Build a predictive model mapping task characteristics + budget → optimal config\n4. Validate on held-out tasks\n\n**Expected Outcomes**:\n- Universal scaling laws for Transformers\n- Automated architecture search for resource-constrained deployment\n- 40-60% reduction in computational requirements for target performance levels\n\n**Budget Justification**:\n- GPU-hours for benchmark training: ~500K GPU-hours\n- Personnel: 2-3 researchers for 18 months\n- Estimated cost: $400K-600K\n\n**Impact**:\n- Enable Transformer deployment on edge devices\n- Reduce carbon footprint of model deployment\n- Create reproducible framework for industry resource planning\n\n---\n\n*This review covers 47 papers published between 2017-2025 across ArXiv, papers with 50+ citations.*\n",
+  "concepts": [
+    "attention mechanism",
+    "model training",
+    "neural networks",
+    "optimization",
+    "deep learning"
+  ]
+}

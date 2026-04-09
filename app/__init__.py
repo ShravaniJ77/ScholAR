@@ -1,0 +1,1 @@
+"""ScholAR Streamlit Application"""
